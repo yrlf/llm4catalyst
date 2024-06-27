@@ -1,0 +1,27 @@
+Task: Extract and format key information from scientific research articles for database entry, which will be used for machine learning on catalyst design. You should focus on metal-free electrocatalysts materials and their properties.
+
+Instructions:
+
+Paragraph Analysis: Carefully read each paragraph provided from a scientific research article.
+
+Material Identification: Identify the main material(s) mentioned in the paragraph. Focus specifically on metal-free and carbon-based electrocatalysts.
+
+Property Extraction: Extract any important physical, chemical or electrochemical properties of these materials that are potentially important for machine learning on catalyst design, including but not limited to: overpotential, onset potential, Tafel slope.
+
+Numeric Values: Exact figures mentioned in the text.
+Units: The measurement units of these figures.
+Notes Section: In the notes, document conditions under which these properties are measured. This includes current density, temperature, and specific reactions (e.g., ORR, OER).
+
+JSON Formatting: Format the extracted information into a JSON structure with this hierarchy:
+
+DOI: Use a placeholder value.
+Text: Use a placeholder value (to be replaced manually later).
+Materials: Array of material objects, each containing:
+name: Name of the material.
+properties: Array of property objects, each with:
+property_name: Name of the property.
+value: Numeric value of the property.
+unit: Unit of measurement.
+notes: Object containing key-value pairs of measurement conditions.
+
+Only output JSON formatted results without any additional text since it will be used directly to insert into the MongoDB database.

@@ -1,0 +1,68 @@
+{
+  "materials": [
+    {
+      "material_name": "N-graphene",
+      "properties": [
+        {
+          "type": "transferred electron number",
+          "associated_factor": "electrocatalytic activity",
+          "value": 3.6,
+          "unit": "electrons",
+          "conditions": "RRDE, 0.1 M KOH, air-saturated, potential range -0.4 to -0.8 V",
+          "reaction_type": "ORR",
+          "evidence": 0
+        },
+        {
+          "type": "transferred electron number",
+          "associated_factor": "electrocatalytic activity",
+          "value": 4.0,
+          "unit": "electrons",
+          "conditions": "RRDE, 0.1 M KOH, air-saturated, potential range -0.4 to -0.8 V",
+          "reaction_type": "ORR",
+          "evidence": 0
+        },
+        {
+          "type": "catalytic current density",
+          "associated_factor": "electrocatalytic activity",
+          "value": 3.0,
+          "unit": "times higher",
+          "conditions": "in air-saturated 0.1 M KOH",
+          "reaction_type": "ORR",
+          "evidence": 1
+        },
+        {
+          "type": "transferred electron number",
+          "associated_factor": "electrocatalytic activity",
+          "value": 3.6,
+          "unit": "electrons",
+          "conditions": "at potential ranging from -0.4 to -0.8 V",
+          "reaction_type": "ORR",
+          "evidence": 1
+        },
+        {
+          "type": "transferred electron number",
+          "associated_factor": "electrocatalytic activity",
+          "value": 4.0,
+          "unit": "electrons",
+          "conditions": "at potential ranging from -0.4 to -0.8 V",
+          "reaction_type": "ORR",
+          "evidence": 1
+        }
+      ],
+      "benchmark": false
+    }
+  ],
+  "doi": "example_doi",
+  "factor": "N-graphene, electrocatalytic activity,electrocatalyst performance,mass loading,specific surface area,dimension or size"
+}
+{
+  "maintext": "/Users/yangz/Documents/projects/llm4catalyst/documents/maintext/ngraphene_maintext.txt",
+  "abstract": "/Users/yangz/Documents/projects/llm4catalyst/documents/abstract/ngraphene_abs.txt",
+  "intro": "/Users/yangz/Documents/projects/llm4catalyst/documents/intro/ngraphene_intro.txt",
+  "window_size": 2,
+  "chunk_size": 3000,
+  "chunk_overlap": 300,
+  "output": "results",
+  "property": "prompts/factors.txt",
+  "self_defined": true
+}

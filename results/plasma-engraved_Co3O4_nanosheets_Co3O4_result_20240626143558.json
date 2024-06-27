@@ -1,0 +1,119 @@
+{
+  "materials": [
+    {
+      "material_name": "plasma-engraved Co3O4 nanosheets",
+      "properties": [
+        {
+          "type": "current density",
+          "associated_factor": "improved electrocatalytic performance",
+          "value": 44.44,
+          "unit": "mA/cm\u00b2",
+          "conditions": "at 1.6 V vs. RHE",
+          "reaction_type": "OER",
+          "evidence": 0
+        },
+        {
+          "type": "onset potential",
+          "associated_factor": "improved electrocatalytic performance",
+          "value": 1.45,
+          "unit": "V",
+          "conditions": "vs. RHE",
+          "reaction_type": "OER",
+          "evidence": 0
+        },
+        {
+          "type": "specific activity",
+          "associated_factor": "improved electrocatalytic performance",
+          "value": 0.055,
+          "unit": "mA/cm\u00b2BET",
+          "conditions": "at 1.6 V",
+          "reaction_type": "OER",
+          "evidence": 0
+        },
+        {
+          "type": "BET surface area",
+          "associated_factor": "specific surface area",
+          "value": 160.26,
+          "unit": "m2/g",
+          "conditions": "N2 sorption isotherms",
+          "reaction_type": "NA",
+          "evidence": 3
+        },
+        {
+          "type": "onset potential",
+          "associated_factor": "electrocatalyst performance",
+          "value": 1.45,
+          "unit": "V",
+          "conditions": "in 0.1 m KOH",
+          "reaction_type": "OER",
+          "evidence": 4
+        },
+        {
+          "type": "overpotential",
+          "associated_factor": "electrocatalyst performance",
+          "value": 1.53,
+          "unit": "V",
+          "conditions": "to reach 10 mA/cm\u00b2",
+          "reaction_type": "OER",
+          "evidence": 4
+        },
+        {
+          "type": "current density",
+          "associated_factor": "electrocatalyst performance",
+          "value": 44.44,
+          "unit": "mA/cm\u00b2",
+          "conditions": "at 1.6 V",
+          "reaction_type": "OER",
+          "evidence": 4
+        },
+        {
+          "type": "overpotential",
+          "associated_factor": "electrocatalyst performance",
+          "value": 1.53,
+          "unit": "V",
+          "conditions": "to reach 10 mA cm\u22122",
+          "reaction_type": "OER",
+          "evidence": 5
+        },
+        {
+          "type": "specific activity",
+          "associated_factor": "specific surface area",
+          "value": 0.055,
+          "unit": "mA cm\u22122BET",
+          "conditions": "at 1.6 V",
+          "reaction_type": "OER",
+          "evidence": 5
+        }
+      ],
+      "benchmark": false
+    },
+    {
+      "material_name": "pristine Co3O4",
+      "properties": [
+        {
+          "type": "BET surface area",
+          "associated_factor": "specific surface area",
+          "value": 95.27,
+          "unit": "m2/g",
+          "conditions": "N2 sorption isotherms",
+          "reaction_type": "NA",
+          "evidence": 3
+        }
+      ],
+      "benchmark": false
+    }
+  ],
+  "doi": "example_doi",
+  "factor": " improved electrocatalytic performance,Ar plasma treatment,electrocatalyst performance,mass loading,specific surface area,dimension or size"
+}
+{
+  "maintext": "/Users/yangz/Documents/projects/llm4catalyst/documents/maintext/co3o4_maintext.txt",
+  "abstract": "/Users/yangz/Documents/projects/llm4catalyst/documents/abstract/co3o4_abs.txt",
+  "intro": "/Users/yangz/Documents/projects/llm4catalyst/documents/intro/co3o4_intro.txt",
+  "window_size": 2,
+  "chunk_size": 1000,
+  "chunk_overlap": 100,
+  "output": "results",
+  "property": "prompts/factors.txt",
+  "self_defined": true
+}

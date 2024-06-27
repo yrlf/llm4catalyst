@@ -1,0 +1,72 @@
+{
+  "materials": [
+    {
+      "material_name": "VA-NCNTs",
+      "properties": [
+        {
+          "type": "overpotential",
+          "associated_factor": "electrocatalyst performance",
+          "value": "lower",
+          "conditions": "in alkaline electrolytes",
+          "reaction_type": "ORR",
+          "evidence": 0
+        },
+        {
+          "type": "long-term operation stability",
+          "associated_factor": "electrocatalyst performance",
+          "value": "better",
+          "conditions": "in alkaline electrolytes",
+          "reaction_type": "ORR",
+          "evidence": 0
+        }
+      ],
+      "benchmark": false
+    },
+    {
+      "material_name": "VA-NCNT/GC",
+      "properties": [
+        {
+          "type": "overpotential",
+          "associated_factor": "electrocatalyst performance",
+          "value": "-0.15 V",
+          "conditions": "in 0.1 M KOH under argon protection",
+          "reaction_type": "ORR",
+          "evidence": 1
+        },
+        {
+          "type": "overpotential",
+          "associated_factor": "electrocatalyst performance",
+          "value": "-0.15 V",
+          "conditions": "in 0.1 M KOH solution, ORR, before and after electrochemical purification",
+          "reaction_type": "ORR",
+          "evidence": 3
+        }
+      ],
+      "benchmark": false
+    },
+    {
+      "material_name": "Pt-C/GC",
+      "properties": [
+        {
+          "type": "overpotential",
+          "associated_factor": "electrocatalyst performance",
+          "value": "-0.1 V",
+          "conditions": "in 0.1 M KOH",
+          "reaction_type": "ORR",
+          "evidence": 2
+        },
+        {
+          "type": "overpotential",
+          "associated_factor": "electrocatalyst performance",
+          "value": "-0.1 V",
+          "conditions": "in 0.1 M KOH solution, ORR",
+          "reaction_type": "ORR",
+          "evidence": 3
+        }
+      ],
+      "benchmark": true
+    }
+  ],
+  "doi": "example_doi",
+  "factor": "electrocatalyst performance,mass loading,specific surface area,dimension or size"
+}

@@ -1,0 +1,98 @@
+{
+  "materials": [
+    {
+      "material_name": "VA-NCNTs",
+      "properties": [
+        {
+          "type": "ORR activity",
+          "associated_factor": "electrocatalyst performance",
+          "value": "NA",
+          "conditions": "produced by pyrolysis of iron(II) phthalocyanine, in presence or absence of NH3 vapor",
+          "reaction_type": "ORR",
+          "evidence": 0
+        },
+        {
+          "type": "length",
+          "associated_factor": "dimension or size",
+          "value": "8 mm",
+          "conditions": "after electrochemical purification",
+          "reaction_type": "NA",
+          "evidence": 1
+        },
+        {
+          "type": "outer diameter",
+          "associated_factor": "dimension or size",
+          "value": "25 nm",
+          "conditions": "after electrochemical purification",
+          "reaction_type": "NA",
+          "evidence": 1
+        }
+      ],
+      "benchmark": false
+    },
+    {
+      "material_name": "VA-NCNT/GC",
+      "properties": [
+        {
+          "type": "overpotential",
+          "associated_factor": "electrocatalyst performance",
+          "value": "-0.15 V",
+          "conditions": "in 0.1 M KOH solution",
+          "reaction_type": "ORR",
+          "evidence": 2
+        },
+        {
+          "type": "half-wave potential",
+          "associated_factor": "electrocatalyst performance",
+          "value": "-0.1 V",
+          "conditions": "in air-saturated 0.1 M KOH electrolyte",
+          "reaction_type": "ORR",
+          "evidence": 4
+        },
+        {
+          "type": "steady-state diffusion current",
+          "associated_factor": "electrocatalyst performance",
+          "value": "~0.8 mA",
+          "conditions": "over a large potential range in air-saturated 0.1 M KOH electrolyte",
+          "reaction_type": "ORR",
+          "evidence": 4
+        },
+        {
+          "type": "half-wave potential",
+          "associated_factor": "electrocatalyst performance",
+          "value": "-0.1 V",
+          "conditions": "in air-saturated 0.1 M KOH",
+          "reaction_type": "ORR",
+          "evidence": 6
+        },
+        {
+          "type": "steady-state diffusion current",
+          "associated_factor": "electrocatalyst performance",
+          "value": "~0.8 mA",
+          "conditions": "over a large potential range",
+          "reaction_type": "ORR",
+          "evidence": 6
+        },
+        {
+          "type": "ORR potential",
+          "associated_factor": "electrocatalyst performance",
+          "value": "much lower than required for oxidation of fuel molecules",
+          "conditions": "in the presence and absence of 3.0 M methanol",
+          "reaction_type": "ORR",
+          "evidence": 7
+        },
+        {
+          "type": "onset potential",
+          "associated_factor": "electrocatalyst performance",
+          "value": "-0.22 V",
+          "conditions": "in air-saturated 0.1 M KOH electrolyte",
+          "reaction_type": "ORR",
+          "evidence": 3
+        }
+      ],
+      "benchmark": false
+    }
+  ],
+  "doi": "example_doi",
+  "factor": " altered nanotube surface geometry,integration of nitrogen into the graphitic structure,electrocatalyst performance,mass loading,specific surface area,dimension or size"
+}

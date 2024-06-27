@@ -1,0 +1,15 @@
+Hydrogen coverage
+Energy barrier
+Conductivity
+Surface area
+Size
+Defect 
+Dopant
+Active sites
+Stability 
+Electrode potential
+Overpotential 
+Tafel slope
+onsite potential
+Current density
+Mass loading

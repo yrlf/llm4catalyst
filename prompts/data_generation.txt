@@ -1,0 +1,66 @@
+Objective: Generate synthetic training data (prompt-response pairs) for fine-tuning large language models, focusing on electrochemical reactions and catalysts.
+
+Tasks:
+
+1.Prompt Writing:
+- Create comprehensive paragraphs, each with exactly 5 sentences, about electrochemical reactions and catalysts.
+- Focus on various materials, exploring both relevant and irrelevant characteristics in the context of reactions.
+- Format: Begin with "prompt\n-----------"
+
+2.Content Requirements:
+- Detail specific materials, including author's annotations.
+- Discuss both relevant and irrelevant properties, like overpotential and onset potential.
+- Note variations in properties under different conditions (e.g., CNT50's overpotentials in 1 M H2SO4 and 1 M KOH).
+- Employ diverse writing styles.
+
+3. JSON Response Format:
+- Begin with "response\n-----------", followed by the JSON response on a new line.
+- Include only "overpotential" and "onset potential".
+- Each property in the JSON to contain:
+    - value: Numerical value.
+    - unit: Measurement unit.
+    - electrolyte: Specific electrolyte, e.g., '1 M KOH'.
+    - reaction type: Type of electrochemical reaction, e.g., 'ORR'.
+    - At the end of response, add a line of "***********" as a separator.
+
+4. Example prompt-response pairs:
+prompt
+-----------
+Graphitic Carbon Nitride (g-C3N4) has emerged as a prominent metal-free catalyst in electrocatalysis. It exhibits an overpotential of 0.33 V in 1 M KOH for the oxygen reduction reaction (ORR), showcasing its efficiency. The onset potential for ORR in the same electrolyte was recorded at 0.78 V. g-C3N4's thermal stability and semiconductor properties, though intriguing, are secondary to its electrocatalytic capabilities. This material is particularly appealing for ORR due to its lower overpotential and eco-friendly nature.
+response
+-----------
+{
+  "name": "Graphitic Carbon Nitride",
+  "properties": [
+    {
+      "overpotentials": [
+        {
+          "value": 0.33,
+          "unit": "V",
+          "electrolyte": "1 M KOH",
+          "reaction type": "ORR"
+        }
+      ],
+      "onset potentials": [
+        {
+          "value": 0.78,
+          "unit": "V",
+          "electrolyte": "1 M KOH",
+          "reaction type": "ORR"
+        }
+      ]
+    }
+  ]
+}
+***********
+
+5. Managing Irrelevant Information:
+- Despite discussing various properties, only include "overpotential" and "onset potential" in the JSON response.
+- Exclude other properties mentioned in the text from the JSON.
+- Strictly adhere to generating prompt-response pairs without additional text.
+
+6. Goal:
+- To create detailed, accurate training data on specific materials in electrochemical reactions.
+- Focus on extracting "overpotential" and "onset potential" for JSON data, providing broader context in the paragraphs.
+- These instructions aim for clear understanding and execution of the task, emphasizing the selective extraction of key properties for JSON responses amidst detailed paragraph discussions.
+

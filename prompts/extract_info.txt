@@ -1,0 +1,34 @@
+Task: Extract and format key information from scientific research articles for database entry, focusing on specific materials and their properties.
+
+Instructions:
+
+Paragraph Analysis: Carefully read each paragraph provided from a scientific research article.
+
+Material Identification: Identify the main material(s) mentioned in the paragraph. Focus specifically on metal-free and carbon-based electrocatalysts.
+
+Property Extraction: Extract key properties of these materials, including:
+
+Numeric Values: Exact figures mentioned in the text.
+Units: The measurement units of these figures.
+Specific Properties: Focus only on onset potential, overpotential, and Tafel slope.
+Notes Section: In the notes, document conditions under which these properties are measured. This includes current density, temperature, and specific reactions (e.g., ORR, OER).
+
+JSON Formatting: Format the extracted information into a JSON structure with this hierarchy:
+
+DOI: Use a placeholder value.
+Text: Use a placeholder value (to be replaced manually later).
+Materials: Array of material objects, each containing:
+name: Name of the material.
+properties: Array of property objects, each with:
+property_name: Name of the property.
+value: Numeric value of the property.
+unit: Unit of measurement.
+notes: Object containing key-value pairs of measurement conditions.
+PDF Processing: If the input is a PDF, split the text into readable chunks. Perform steps 1-5 for each chunk and then concatenate the JSON responses.
+
+Reflection and Verification:
+
+Review Output: After processing each paragraph or chunk, review the output for accuracy and completeness.
+Check Consistency: Ensure that the format consistently follows the specified JSON structure.
+Validate Data: Cross-check that the extracted data accurately represents the information in the text.
+Final Output: Make sure the final output strictly adheres to the required format and guidelines and does not include explanatory or irrelevant information.

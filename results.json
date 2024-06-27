@@ -1,0 +1,179 @@
+{
+  "doi": "example_doi",
+  "materials": [
+    {
+      "material_name": "C60-SWCNT 15",
+      "properties": [
+        {
+          "type": "onset potential",
+          "associated_factor": "electrocatalytic performance",
+          "value": "0.91 V",
+          "conditions": "in 0.1 M KOH",
+          "reaction_type": "ORR",
+          "evidence": -1
+        },
+        {
+          "type": "half-wave potential",
+          "associated_factor": "electrocatalytic performance",
+          "value": "0.84 V",
+          "conditions": "in 0.1 M KOH",
+          "reaction_type": "ORR",
+          "evidence": -1
+        },
+        {
+          "type": "diffusion-limiting current",
+          "associated_factor": "electrocatalytic performance",
+          "value": "1.73 mA/cm2",
+          "conditions": "in 0.1 M KOH",
+          "reaction_type": "ORR",
+          "evidence": -1
+        },
+        {
+          "type": "current density",
+          "associated_factor": "electrocatalytic performance",
+          "value": "10 mA/cm2",
+          "conditions": "at 1.69 V potential in 0.1 M KOH",
+          "reaction_type": "OER",
+          "evidence": -1
+        },
+        {
+          "type": "Tafel slope",
+          "associated_factor": "electrocatalytic performance",
+          "value": "46.7 mV dec-1",
+          "conditions": "in 0.1 M KOH",
+          "reaction_type": "OER",
+          "evidence": -1
+        },
+        {
+          "type": "onset potential",
+          "associated_factor": "enhanced electrocatalytic activities",
+          "value": "0.91 V",
+          "conditions": "in 0.1 M KOH",
+          "reaction_type": "ORR",
+          "evidence": 1
+        },
+        {
+          "type": "half-wave potential",
+          "associated_factor": "enhanced electrocatalytic activities",
+          "value": "0.84 V",
+          "conditions": "in 0.1 M KOH",
+          "reaction_type": "ORR",
+          "evidence": 1
+        },
+        {
+          "type": "diffusion-limiting current",
+          "associated_factor": "enhanced electrocatalytic activities",
+          "value": "1.73 mA/cm2",
+          "conditions": "in 0.1 M KOH",
+          "reaction_type": "ORR",
+          "evidence": 1
+        },
+        {
+          "type": "onset overpotential",
+          "associated_factor": "enhanced electrocatalytic activities",
+          "value": "114 mV",
+          "conditions": "in 0.1 M KOH",
+          "reaction_type": "HER",
+          "evidence": 1
+        },
+        {
+          "type": "Tafel slope",
+          "associated_factor": "enhanced electrocatalytic activities",
+          "value": "120.8 mV dec\u22121",
+          "conditions": "in 0.1 M KOH",
+          "reaction_type": "HER",
+          "evidence": 1
+        },
+        {
+          "type": "overpotential",
+          "associated_factor": "enhanced electrocatalytic activities",
+          "value": "-0.38 V",
+          "conditions": "in 0.1 M KOH",
+          "reaction_type": "HER",
+          "evidence": 1
+        },
+        {
+          "type": "onset potential",
+          "associated_factor": "enhanced electrocatalytic activities",
+          "value": "0.81 V",
+          "conditions": "in 0.1 M phosphate buffer solution, LSV",
+          "reaction_type": "ORR",
+          "evidence": 2
+        },
+        {
+          "type": "half-wave potential",
+          "associated_factor": "enhanced electrocatalytic activities",
+          "value": "0.77 V",
+          "conditions": "in 0.1 M phosphate buffer solution, LSV",
+          "reaction_type": "ORR",
+          "evidence": 2
+        },
+        {
+          "type": "diffusion-limiting current",
+          "associated_factor": "enhanced electrocatalytic activities",
+          "value": "1.31 mA/cm2",
+          "conditions": "in 0.1 M phosphate buffer solution, LSV",
+          "reaction_type": "ORR",
+          "evidence": 2
+        },
+        {
+          "type": "overpotential",
+          "associated_factor": "enhanced electrocatalytic activities",
+          "value": "520 mV",
+          "conditions": "at 10 mA cm\u22122",
+          "reaction_type": "OER",
+          "evidence": -1
+        },
+        {
+          "type": "onset overpotential",
+          "associated_factor": "enhanced electrocatalytic activities",
+          "value": "230 mV",
+          "conditions": "at 10 mA cm\u22122",
+          "reaction_type": "OER",
+          "evidence": -1
+        },
+        {
+          "type": "current density",
+          "associated_factor": "enhanced electrocatalytic activities",
+          "value": "20.0 mA cm\u22122",
+          "conditions": "at an overpotential of 600 mV",
+          "reaction_type": "OER",
+          "evidence": -1
+        },
+        {
+          "type": "Tafel slope",
+          "associated_factor": "enhanced electrocatalytic activities",
+          "value": "129 mV dec\u22121",
+          "conditions": "OER",
+          "reaction_type": "OER",
+          "evidence": -1
+        },
+        {
+          "type": "onset potential",
+          "associated_factor": "enhanced electrocatalytic activities",
+          "value": "0.81 V",
+          "conditions": "in phosphate buffer solution (pH = 7)",
+          "reaction_type": "ORR",
+          "evidence": 4
+        },
+        {
+          "type": "half-wave potential",
+          "associated_factor": "enhanced electrocatalytic activities",
+          "value": "0.77 V",
+          "conditions": "in phosphate buffer solution (pH = 7)",
+          "reaction_type": "ORR",
+          "evidence": 4
+        },
+        {
+          "type": "diffusion-limited current density",
+          "associated_factor": "enhanced electrocatalytic activities",
+          "value": "1.31 mA/cm2",
+          "conditions": "in phosphate buffer solution (pH = 7)",
+          "reaction_type": "ORR",
+          "evidence": 4
+        }
+      ],
+      "benchmark": false
+    }
+  ]
+}
