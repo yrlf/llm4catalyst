@@ -25,5 +25,25 @@ if [[ ! -f "$maintext" ]]; then
   exit 1
 fi
 
+<<<<<<< Updated upstream
 # 运行 python3 main.py 并传递参数
 python3 main.py --chunk_size="$chunk_size" --chunk_overlap="$chunk_overlap" --abstract="$abstract" --intro="$intro" --maintext="$maintext"
+=======
+  if [[ ! -f "$maintext" ]]; then
+    echo "Error: Main text file $maintext not found!"
+    continue
+  fi
+
+  # 运行 python3 main.py 并传递参数
+  python3 main.py --chunk_size="$chunk_size" --chunk_overlap="$chunk_overlap" --abstract="$abstract"  --maintext="$maintext" --property="$properties" --title="$paper"
+
+  # 计数
+  count=$((count + 1))
+  
+  # 如果 count > 10 则中断循环
+  if [[ "$count" -gt 0 ]]; then
+    echo "Processed to limits, stopping the loop."
+    break
+  fi
+done
+>>>>>>> Stashed changes

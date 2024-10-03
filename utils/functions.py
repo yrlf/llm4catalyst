@@ -4,6 +4,10 @@ from typing import List, Tuple, Dict, Set
 from langchain_core.prompts import ChatPromptTemplate
 from typing import Optional
 from langchain_openai import ChatOpenAI
+<<<<<<< Updated upstream
+=======
+#from langchain.llms import OpenAI
+>>>>>>> Stashed changes
 import networkx as nx
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from langchain_core.pydantic_v1 import BaseModel, Field
@@ -15,7 +19,6 @@ from nltk.tokenize import word_tokenize
 from nltk.stem import WordNetLemmatizer
 from langchain_openai import OpenAI
 import nltk
-
 import os
 from dotenv import load_dotenv
 from typing import Optional
@@ -131,7 +134,6 @@ def read_file(file_path):
         print("Error loading file: ", file_path)
     
     return text
-
 
 
 
@@ -260,6 +262,7 @@ def extract_factors(abstract, introduction, factor_prompt=factor_prompt, chunk_s
 
 
 class Measurement(BaseModel):
+<<<<<<< Updated upstream
     type: Optional[str] = Field(default=None, description="Type or name of the property measured, such as onset potential, diameter, particle size, conductivity, mass loading, etc.")
     associated_factor: Optional[str] = Field(default=None, description="Associated factor with the measurement, confined to a predefined factor set. For example, ORR activity for electrocatalyst performance.")
     value: float = Field(default=None, description="Property value with units, such as 100 or 0.1, do not include unit here")
@@ -267,15 +270,130 @@ class Measurement(BaseModel):
     conditions: Optional[str] = Field(default=None, description="Measurement conditions and techniques/methods, such as in 0.1 M KOH, cyclic voltammetry, galvanostatic charge/discharge, LSV, etc.")
     reaction_type: Optional[str] = Field(default=None, description="Type of reaction, if related to catalyst performance. Choose from ORR, OER, HER. Otherwise, keep it as NA.")
     evidence: int = Field(default=-1, description="The index of the sentence in the text providing evidence for the measurement.")
+=======
+    value: Optional[str] = Field(default=None, description="The value of the property.")
+    unit: Optional[str] = Field(default="NA", description="The unit for the property value.")
+    conditions: Optional[str] = Field(default="NA", description="Measurement conditions.")
+    reaction_type: Optional[str] = Field(default="NA", description="Type of reaction.")
+    evidence: Optional[int] = Field(default=None, exclude=True)
 
-    
+
+class MaterialProperties(BaseModel):
+    chemical_composition: Measurement = Field(default_factory=Measurement, description="Chemical composition as a string.")
+    doping: Measurement = Field(default_factory=Measurement, description="Doping element and concentration as a string.")
+    electronegativity: Measurement = Field(default_factory=Measurement, description="Electronegativity of the elements.")
+    xps: Measurement = Field(default_factory=Measurement, description="XPS peak positions in eV.")
+    raman: Measurement = Field(default_factory=Measurement, description="Raman shift in cm⁻¹.")
+    ftir: Measurement = Field(default_factory=Measurement, description="FTIR absorption peaks in cm⁻¹.")
+    xrd: Measurement = Field(default_factory=Measurement, description="XRD peak positions in degrees.")
+>>>>>>> Stashed changes
+
 class Material(BaseModel):
-    material_name: Optional[str] = Field(default=None, description="Name of the material, this could be specific to the paper or a general name for the material. For example, C60-SWCNTs, CNT@60, etc.")
-    properties: Optional[List[Measurement]] = Field(default=None, description="List of properties of the material. For example, overpotential, onset potential, OER activity, onset potential, etc.")
-    benchmark: bool = Field(default=False, description="Whether the material is a benchmark material for performance comparison. For example, Pt is a common benchmark for catalyst activity comparison.")
+    material_name: Optional[str] = Field(default=None, description="Name of the material.")
+    properties: MaterialProperties = Field(default_factory=MaterialProperties, description="Properties of the material.")
+    benchmark: bool = Field(default=False, description="")
 
 class Data(BaseModel):
-    materials: List[Material]
+    materials: list[Material] = Field(default_factory=list, description="")
+    #results: Optional[str] = Field(default=None, description="")
+
+
+    # 定义 isRelevantText 的 schema
+class isRelevantText(BaseModel):
+    is_relevant: bool = Field(False, description="Whether the text is relevant to the main materials or common benchmark catalysts.")
+
+
+class Paper(Data):
+    doi: Optional[str] = Field(default=None, description="")
+    factor: Optional[str] = Field(default=None, description="")
+    meta: Optional[dict] = Field(default=None, description="")
+def extract_properties(main_text, factors, main_topic, window_size, chunk_size, chunk_overlap):
+    # 初始化 OpenAI 模型
+    llm = ChatOpenAI(temperature=0, model="gpt-4-turbo")
+    
+    # 文本切割器
+    text_splitter = TokenTextSplitter(chunk_size=chunk_size, chunk_overlap=chunk_overlap)
+    splitted_content = text_splitter.split_text(main_text)
+    
+    # 用于存储索引和文本
+    indexed_content = {i: content for i, content in enumerate(splitted_content) if content.strip()}
+    print(f"Length of indexed content: {len(indexed_content)}")
+
+    # 读取 JSON 中的提取示例
+    with open('prompts/extraction_example.json', 'r') as file:
+        example_text = file.read()
+
+    # LLM 提取的提示
+    extract_prompt = ChatPromptTemplate.from_messages([
+        ("system", "You are a helpful AI assistant for a material scientist specialized in electrocatalysts. Carefully read each sentence provided from the experimental section. Your task is to extract properties in the specified format. Only extract numeric values and their units; do not extract descriptive texts."),
+        ("system", "1. Identify if the sentence describes a property of either the main topic {main_topic} or common benchmark catalysts such as Pt, RuO2, Pt/C."),
+        ("system", "2. Extract the material name and the property with numeric values and their units, including the specified conditions, following the example format provided: {example_text}."),
+        ("system", "3. Do not include an 'evidence' field in your output."),
+        ("human", "The paper is as follows: {text}. Please extract the material name and its properties.")
+    ])
+
+    # LLM 相关性判断的提示
+    relevant_prompt = ChatPromptTemplate.from_messages([
+        ("system", "You are a helpful assistant to an electrocatalyst material scientist. Your task is to evaluate whether the text is describing properties of materials that are relevant to either the main material ({main_topic}) or common benchmark catalysts such as Pt, RuO2, Pt/C."),
+        ("human", "Is the following text relevant to the main material {main_topic} or common benchmark catalysts such as Pt, or materials associated with Pt?\n\nText: {text}")
+    ])
+
+    # 创建 runnables
+    relevant_runnable = relevant_prompt | llm.with_structured_output(schema=isRelevantText)
+    extract_runnable = extract_prompt | llm.with_structured_output(schema=Data)
+
+    # 初始化最终数据
+    final_data = Data(materials=[])
+
+    # 遍历切割后的文本块并进行提取
+    for i, text in indexed_content.items():
+        # 检查文本是否相关
+        is_relevant_response = relevant_runnable.invoke({
+            "main_topic": main_topic,
+            "text": text
+        })
+
+        if not is_relevant_response.is_relevant:
+            print(f"Skipping irrelevant text at index {i}: {text[:30]}...")
+            continue
+
+        # 准备用于提取的文本（考虑窗口大小）
+        window = window_size
+        text_for_extraction = ""
+        start_index = max(0, i - window)
+        for j in range(start_index, i + 1):
+            text_for_extraction += indexed_content[j] + " "
+        if text_for_extraction:
+            print(f"Extracting from text at index {i}: {text_for_extraction[:50]}...")
+
+        # 执行提取
+        extract_response = extract_runnable.invoke({
+            "text": text_for_extraction,
+            "main_topic": main_topic,
+            "example_text": example_text
+        })
+
+        # 收集提取的材料信息
+        if extract_response.materials:
+            for material in extract_response.materials:
+                # 手动设置每个属性的 evidence 索引
+                # material.properties 是 MaterialProperties 的实例
+                properties = material.properties
+                for prop_name, measurement in properties.__dict__.items():
+                    if measurement and isinstance(measurement, Measurement):
+                        measurement.evidence = i  # 设置 evidence 索引
+                final_data.materials.append(material)
+
+    # 准备最终提取结果
+    extracted_results = Paper(
+        factor=",".join(factors),
+        materials=final_data.materials,
+        doi="example_doi"
+    )
+
+    return extracted_results, indexed_content
+
+
 
 class Paper(Data):
     doi: Optional[str] = Field(default=None, description="Digital Object Identifier (DOI) of the paper.")
@@ -284,6 +402,7 @@ class Paper(Data):
 
     meta: Optional[Dict[str, str]] = Field(default=None, description="Additional metadata about the paper, such as authors, journal, publication date, etc.")
     
+<<<<<<< Updated upstream
 
 
 class ToBeRemoved(BaseModel):
@@ -478,3 +597,5 @@ def extract_properties(main_text, factors, main_topic, window_size, chunk_size, 
     extracted_results = Paper(factor=",".join(factors), materials=updated_data.materials, doi="example_doi")
 
     return extracted_results, indexed_content
+=======
+>>>>>>> Stashed changes

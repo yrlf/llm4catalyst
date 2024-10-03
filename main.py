@@ -14,6 +14,30 @@ parser.add_argument('--self_defined', type=bool, help='Whether to use self defin
 
 def main():
     args = parser.parse_args()
+<<<<<<< Updated upstream
+=======
+    print(args)
+
+    # firstly check if this has been parsed before
+ 
+    # Define the path to your CSV file
+    csv_path = "documents/parsed.csv"
+
+    # Check if the file exists
+    if not os.path.exists(csv_path):
+        # If the file doesn't exist, create it with the specified headers
+        df = pd.DataFrame(columns=['title'])
+        df.to_csv(csv_path, index=False)
+    else:
+        # If the file exists, read it
+        df = pd.read_csv(csv_path)
+    visited = set(df['title'].tolist())
+    if args.title in visited:
+        print("This paper has been parsed before")
+        #return
+
+
+>>>>>>> Stashed changes
 
     # Load the main text
     self_defined_properties = read_properties(args.property)
@@ -23,6 +47,7 @@ def main():
 
     main_material = ""
     factors = []
+    
 
     # extract main material name and chemical symbol
     main_topic_response = extract_main_topic(abstract)
