@@ -1,0 +1,18 @@
+Abstract
+The design and synthesis of high-performance electrocatalysts for the oxygen evolution reaction (OER) are critical factors for the development of electrochemical energy storage and conversion systems. Here, a remarkable enhancement in OER activity is reported by introducing cerium into Co3O4. An electrode made of Co3–xCexO4 requires a much lower overpotential than that of Co3O4 nanosheets to reach a current density of 100 mA cm–2, and it is stable for at least 100 h with high intrinsic activity. The structure becomes partially disordered after Ce doping, thus exposing more active sites. In situ Raman spectra reveals a polyhedral distortion of Co3O4 accompanying the oxygen evolution process. Moreover, the active cobalt (oxy)hydroxide phase in Co3–xCexO4 appears at lower bias as compared with Co3O4. It is proposed that the enhanced activity is ascribed to the structural disorder and electronic transport after the introduction of cerium.
+This publication is licensed under the terms of your institutional subscription. Request reuse permissions.
+Copyright © 2020 American Chemical Society
+Subjects
+what are subjects
+Catalysts
+Electrodes
+Oxides
+Radiology
+Two Dimensional Materials
+Keywords
+what are keywords
+Oxygen Evolution
+Cobalt Oxide
+Structural Disorder
+Electronic Transport
+In Situ Raman

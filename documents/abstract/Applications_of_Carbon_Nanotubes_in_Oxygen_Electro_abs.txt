@@ -1,0 +1,18 @@
+Abstract
+Oxygen electrocatalytic reactions are essential for fuel cells and metal–air batteries. With their unique structure and properties, carbon nanotubes (CNTs) have found important applications in both oxygen reduction and evolution reactions. Herein, this perspective discusses the advantages and the recent progress of using CNTs as metal-free catalysts, catalyst supports, and free-standing electrodes in electrocatalysts. The future research directions and challenges toward the practical applications of CNT-based catalysts are highlighted.
+This publication is licensed under the terms of your institutional subscription. Request reuse permissions.
+Copyright © 2021 American Chemical Society
+Subjects
+what are subjects
+Carbon Nanotubes
+Catalysts
+Electrodes
+Oxygen
+Redox Reactions
+Keywords
+what are keywords
+Carbon Nanotubes
+Oxygen Electrocatalysts
+Fuel Cells
+Metal−air Batteries
+Free-Standing Electrode

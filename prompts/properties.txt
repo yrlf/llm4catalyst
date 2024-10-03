@@ -12,4 +12,7 @@ Overpotential
 Tafel slope
 onsite potential
 Current density
-Mass loading
+XPS
+FTIR
+Raman
+XRD

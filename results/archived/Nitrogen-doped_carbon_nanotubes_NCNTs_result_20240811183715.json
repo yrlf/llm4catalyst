@@ -1,0 +1,869 @@
+{
+    "materials": [
+        {
+            "material_name": "as-received CNTs",
+            "properties": [
+                {
+                    "type": "Conductivity",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 0
+                },
+                {
+                    "type": "Chemical resistance",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 0
+                },
+                {
+                    "type": "ORR activity",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "NA",
+                    "reaction_type": "ORR",
+                    "evidence": 0
+                },
+                {
+                    "type": "Hydrophobicity",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 0
+                },
+                {
+                    "type": "Electrochemical stability",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 0
+                },
+                {
+                    "type": "Surface wettability",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 0
+                },
+                {
+                    "type": "Outer diameter",
+                    "value": 13.0,
+                    "unit": "nm",
+                    "conditions": "Catalytically grown, purified by washing in 1.5 M HNO3 under stirring for 72 h at room temperature",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "Outer diameter",
+                    "value": 16.0,
+                    "unit": "nm",
+                    "conditions": "Catalytically grown, purified by washing in 1.5 M HNO3 under stirring for 72 h at room temperature",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "Onset potential",
+                    "value": 0.903,
+                    "unit": "V",
+                    "conditions": "in 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 2
+                },
+                {
+                    "type": "Electron transfer number",
+                    "value": 2.9,
+                    "unit": "n",
+                    "conditions": "in 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 2
+                },
+                {
+                    "type": "Onset potential",
+                    "value": 0.883,
+                    "unit": "V",
+                    "conditions": "in 1.0 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 2
+                },
+                {
+                    "type": "Electron transfer number",
+                    "value": 3.2,
+                    "unit": "n",
+                    "conditions": "in 1.0 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 2
+                },
+                {
+                    "type": "Onset potential",
+                    "value": 0.913,
+                    "unit": "V",
+                    "conditions": "in 0.1 M KOH after alkaline treatment",
+                    "reaction_type": "ORR",
+                    "evidence": 2
+                },
+                {
+                    "type": "Electron transfer number",
+                    "value": 4.0,
+                    "unit": "n",
+                    "conditions": "in 0.1 M KOH after alkaline treatment",
+                    "reaction_type": "ORR",
+                    "evidence": 2
+                },
+                {
+                    "type": "onset potential",
+                    "value": 0.903,
+                    "unit": "V",
+                    "conditions": "in 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 3
+                },
+                {
+                    "type": "onset potential",
+                    "value": 0.883,
+                    "unit": "V",
+                    "conditions": "in 1.0 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 3
+                },
+                {
+                    "type": "onset potential",
+                    "value": 0.913,
+                    "unit": "V",
+                    "conditions": "in 0.1 M KOH after alkaline treatment",
+                    "reaction_type": "ORR",
+                    "evidence": 3
+                },
+                {
+                    "type": "Onset potential",
+                    "value": 0.923,
+                    "unit": "V",
+                    "conditions": "in 0.1 M KOH after alkaline treatment",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "Current density",
+                    "value": 0.29,
+                    "unit": "mA/cm\u00b2",
+                    "conditions": "at 0.2 V in 0.1 M KOH after alkaline treatment",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "Electron transfer number",
+                    "value": 4.0,
+                    "unit": "dimensionless",
+                    "conditions": "in 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 6
+                },
+                {
+                    "type": "N/C ratio",
+                    "value": 4.8,
+                    "unit": "10\u20132",
+                    "conditions": "before alkaline treatment",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "N/C ratio",
+                    "value": 4.8,
+                    "unit": "10\u20132",
+                    "conditions": "after alkaline treatment",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "N1 concentration",
+                    "value": 55.0,
+                    "unit": "%",
+                    "conditions": "before alkaline treatment",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "N1 concentration",
+                    "value": 60.0,
+                    "unit": "%",
+                    "conditions": "after alkaline treatment",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "N2 concentration",
+                    "value": 37.0,
+                    "unit": "%",
+                    "conditions": "before alkaline treatment",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "N2 concentration",
+                    "value": 27.0,
+                    "unit": "%",
+                    "conditions": "after alkaline treatment",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "N3 concentration",
+                    "value": 8.0,
+                    "unit": "%",
+                    "conditions": "before alkaline treatment",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "N3 concentration",
+                    "value": 13.0,
+                    "unit": "%",
+                    "conditions": "after alkaline treatment",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "N/C ratio",
+                    "value": 4.8,
+                    "unit": "10\u20132",
+                    "conditions": "after alkaline treatment in 10 M KOH at 80 \u00b0C for 5 h",
+                    "reaction_type": "NA",
+                    "evidence": 8
+                },
+                {
+                    "type": "O/C ratio",
+                    "value": 4.0,
+                    "unit": "10\u20132",
+                    "conditions": "before alkaline treatment",
+                    "reaction_type": "NA",
+                    "evidence": 9
+                },
+                {
+                    "type": "C=O concentration",
+                    "value": 26.0,
+                    "unit": "%",
+                    "conditions": "before alkaline treatment",
+                    "reaction_type": "NA",
+                    "evidence": 9
+                },
+                {
+                    "type": "C-O concentration",
+                    "value": 74.0,
+                    "unit": "%",
+                    "conditions": "before alkaline treatment",
+                    "reaction_type": "NA",
+                    "evidence": 9
+                },
+                {
+                    "type": "O/C ratio",
+                    "value": 4.6,
+                    "unit": "10\u20132",
+                    "conditions": "after alkaline treatment",
+                    "reaction_type": "NA",
+                    "evidence": 9
+                },
+                {
+                    "type": "C=O concentration",
+                    "value": 58.0,
+                    "unit": "%",
+                    "conditions": "after alkaline treatment",
+                    "reaction_type": "NA",
+                    "evidence": 9
+                },
+                {
+                    "type": "C-O concentration",
+                    "value": 42.0,
+                    "unit": "%",
+                    "conditions": "after alkaline treatment",
+                    "reaction_type": "NA",
+                    "evidence": 9
+                },
+                {
+                    "type": "ORR activity",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "after treatment in 10 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 10
+                },
+                {
+                    "type": "thermal stability",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "against oxidation in the gas phase",
+                    "reaction_type": "NA",
+                    "evidence": 10
+                },
+                {
+                    "type": "Inner diameter",
+                    "value": 2.0,
+                    "unit": "nm",
+                    "conditions": "Posttreatment with NH3, washed in 1.5 M HNO3 under stirring for 72 h at room temperature, functionalized via HNO3 vapor treatment at 200 \u00b0C for 72 h, treated at 600 \u00b0C for 6 h under flowing ammonia",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "Outer diameter",
+                    "value": 13.0,
+                    "unit": "nm",
+                    "conditions": "Posttreatment with NH3, washed in 1.5 M HNO3 under stirring for 72 h at room temperature, functionalized via HNO3 vapor treatment at 200 \u00b0C for 72 h, treated at 600 \u00b0C for 6 h under flowing ammonia",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "Outer diameter",
+                    "value": 16.0,
+                    "unit": "nm",
+                    "conditions": "Posttreatment with NH3, washed in 1.5 M HNO3 under stirring for 72 h at room temperature, functionalized via HNO3 vapor treatment at 200 \u00b0C for 72 h, treated at 600 \u00b0C for 6 h under flowing ammonia",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "BET surface area",
+                    "value": 280.0,
+                    "unit": "m2/g",
+                    "conditions": "Posttreatment with NH3, washed in 1.5 M HNO3 under stirring for 72 h at room temperature, functionalized via HNO3 vapor treatment at 200 \u00b0C for 72 h, treated at 600 \u00b0C for 6 h under flowing ammonia",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "Onset potential",
+                    "value": 0.962,
+                    "unit": "V",
+                    "conditions": "in 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 2
+                },
+                {
+                    "type": "onset potential",
+                    "value": 0.962,
+                    "unit": "V",
+                    "conditions": "in 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 3
+                },
+                {
+                    "type": "onset potential",
+                    "value": 0.892,
+                    "unit": "V",
+                    "conditions": "in 1.0 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 3
+                },
+                {
+                    "type": "onset potential",
+                    "value": 0.889,
+                    "unit": "V",
+                    "conditions": "in 0.1 M KOH after alkaline treatment",
+                    "reaction_type": "ORR",
+                    "evidence": 3
+                },
+                {
+                    "type": "Onset potential",
+                    "value": 0.892,
+                    "unit": "V",
+                    "conditions": "in 1.0 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 4
+                },
+                {
+                    "type": "Onset potential",
+                    "value": 0.889,
+                    "unit": "V",
+                    "conditions": "in 0.1 M KOH after alkaline treatment",
+                    "reaction_type": "ORR",
+                    "evidence": 4
+                },
+                {
+                    "type": "Onset potential",
+                    "value": 0.822,
+                    "unit": "V",
+                    "conditions": "in 1.0 M KOH after alkaline treatment",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "Current density",
+                    "value": 0.16,
+                    "unit": "mA/cm\u00b2",
+                    "conditions": "at 0.2 V in 0.1 M KOH after alkaline treatment",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "Electron transfer number",
+                    "value": 3.3,
+                    "unit": "dimensionless",
+                    "conditions": "in 1.0 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 6
+                },
+                {
+                    "type": "N/C ratio",
+                    "value": 1.6,
+                    "unit": "10\u20132",
+                    "conditions": "before alkaline treatment",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "N/C ratio",
+                    "value": 1.3,
+                    "unit": "10\u20132",
+                    "conditions": "after alkaline treatment",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "N1 concentration",
+                    "value": 49.0,
+                    "unit": "%",
+                    "conditions": "before alkaline treatment",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "N1 concentration",
+                    "value": 44.0,
+                    "unit": "%",
+                    "conditions": "after alkaline treatment",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "N2 concentration",
+                    "value": 34.0,
+                    "unit": "%",
+                    "conditions": "before alkaline treatment",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "N2 concentration",
+                    "value": 56.0,
+                    "unit": "%",
+                    "conditions": "after alkaline treatment",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "N/C ratio",
+                    "value": 1.3,
+                    "unit": "10\u20132",
+                    "conditions": "after alkaline treatment in 10 M KOH at 80 \u00b0C for 5 h",
+                    "reaction_type": "NA",
+                    "evidence": 8
+                },
+                {
+                    "type": "O/C ratio",
+                    "value": 2.7,
+                    "unit": "10\u20132",
+                    "conditions": "before alkaline treatment",
+                    "reaction_type": "NA",
+                    "evidence": 9
+                },
+                {
+                    "type": "C=O concentration",
+                    "value": 46.0,
+                    "unit": "%",
+                    "conditions": "before alkaline treatment",
+                    "reaction_type": "NA",
+                    "evidence": 9
+                },
+                {
+                    "type": "C-O concentration",
+                    "value": 54.0,
+                    "unit": "%",
+                    "conditions": "before alkaline treatment",
+                    "reaction_type": "NA",
+                    "evidence": 9
+                },
+                {
+                    "type": "O/C ratio",
+                    "value": 4.1,
+                    "unit": "10\u20132",
+                    "conditions": "after alkaline treatment",
+                    "reaction_type": "NA",
+                    "evidence": 9
+                },
+                {
+                    "type": "C=O concentration",
+                    "value": 44.0,
+                    "unit": "%",
+                    "conditions": "after alkaline treatment",
+                    "reaction_type": "NA",
+                    "evidence": 9
+                },
+                {
+                    "type": "C-O concentration",
+                    "value": 56.0,
+                    "unit": "%",
+                    "conditions": "after alkaline treatment",
+                    "reaction_type": "NA",
+                    "evidence": 9
+                },
+                {
+                    "type": "ORR activity",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "before treatment",
+                    "reaction_type": "ORR",
+                    "evidence": 10
+                },
+                {
+                    "type": "Inner diameter",
+                    "value": 2.0,
+                    "unit": "nm",
+                    "conditions": "Posttreatment with aniline, washed in 1.5 M HNO3 under stirring for 72 h at room temperature, functionalized via HNO3 vapor treatment at 200 \u00b0C for 72 h, treated at 800 \u00b0C for 2 h under flowing aniline",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "Outer diameter",
+                    "value": 13.0,
+                    "unit": "nm",
+                    "conditions": "Posttreatment with aniline, washed in 1.5 M HNO3 under stirring for 72 h at room temperature, functionalized via HNO3 vapor treatment at 200 \u00b0C for 72 h, treated at 800 \u00b0C for 2 h under flowing aniline",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "Outer diameter",
+                    "value": 16.0,
+                    "unit": "nm",
+                    "conditions": "Posttreatment with aniline, washed in 1.5 M HNO3 under stirring for 72 h at room temperature, functionalized via HNO3 vapor treatment at 200 \u00b0C for 72 h, treated at 800 \u00b0C for 2 h under flowing aniline",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "onset potential",
+                    "value": 0.914,
+                    "unit": "V",
+                    "conditions": "in 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 3
+                },
+                {
+                    "type": "onset potential",
+                    "value": 0.879,
+                    "unit": "V",
+                    "conditions": "in 1.0 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 3
+                },
+                {
+                    "type": "Onset potential",
+                    "value": 0.914,
+                    "unit": "V",
+                    "conditions": "in 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 4
+                },
+                {
+                    "type": "Onset potential",
+                    "value": 0.879,
+                    "unit": "V",
+                    "conditions": "in 1.0 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 4
+                },
+                {
+                    "type": "Onset potential",
+                    "value": 0.854,
+                    "unit": "V",
+                    "conditions": "in 1.0 M KOH after alkaline treatment",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "Current density",
+                    "value": 0.32,
+                    "unit": "mA/cm\u00b2",
+                    "conditions": "at 0.2 V in 0.1 M KOH after alkaline treatment",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "Electron transfer number",
+                    "value": 3.4,
+                    "unit": "dimensionless",
+                    "conditions": "in 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 6
+                },
+                {
+                    "type": "Electron transfer number",
+                    "value": 3.8,
+                    "unit": "dimensionless",
+                    "conditions": "in 1.0 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 6
+                },
+                {
+                    "type": "N/C ratio",
+                    "value": 1.2,
+                    "unit": "10\u20132",
+                    "conditions": "before alkaline treatment",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "N/C ratio",
+                    "value": 1.1,
+                    "unit": "10\u20132",
+                    "conditions": "after alkaline treatment",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "N1 concentration",
+                    "value": 43.0,
+                    "unit": "%",
+                    "conditions": "before alkaline treatment",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "N1 concentration",
+                    "value": 35.0,
+                    "unit": "%",
+                    "conditions": "after alkaline treatment",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "N2 concentration",
+                    "value": 41.0,
+                    "unit": "%",
+                    "conditions": "before alkaline treatment",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "N2 concentration",
+                    "value": 53.0,
+                    "unit": "%",
+                    "conditions": "after alkaline treatment",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "N3 concentration",
+                    "value": 16.0,
+                    "unit": "%",
+                    "conditions": "before alkaline treatment",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "N3 concentration",
+                    "value": 12.0,
+                    "unit": "%",
+                    "conditions": "after alkaline treatment",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "N/C ratio",
+                    "value": 1.1,
+                    "unit": "10\u20132",
+                    "conditions": "after alkaline treatment in 10 M KOH at 80 \u00b0C for 5 h",
+                    "reaction_type": "NA",
+                    "evidence": 8
+                },
+                {
+                    "type": "O/C ratio",
+                    "value": 2.8,
+                    "unit": "10\u20132",
+                    "conditions": "before alkaline treatment",
+                    "reaction_type": "NA",
+                    "evidence": 9
+                },
+                {
+                    "type": "C=O concentration",
+                    "value": 33.0,
+                    "unit": "%",
+                    "conditions": "before alkaline treatment",
+                    "reaction_type": "NA",
+                    "evidence": 9
+                },
+                {
+                    "type": "C-O concentration",
+                    "value": 67.0,
+                    "unit": "%",
+                    "conditions": "before alkaline treatment",
+                    "reaction_type": "NA",
+                    "evidence": 9
+                },
+                {
+                    "type": "O/C ratio",
+                    "value": 5.3,
+                    "unit": "10\u20132",
+                    "conditions": "after alkaline treatment",
+                    "reaction_type": "NA",
+                    "evidence": 9
+                },
+                {
+                    "type": "C=O concentration",
+                    "value": 33.0,
+                    "unit": "%",
+                    "conditions": "after alkaline treatment",
+                    "reaction_type": "NA",
+                    "evidence": 9
+                },
+                {
+                    "type": "C-O concentration",
+                    "value": 67.0,
+                    "unit": "%",
+                    "conditions": "after alkaline treatment",
+                    "reaction_type": "NA",
+                    "evidence": 9
+                },
+                {
+                    "type": "O/C ratio",
+                    "value": 1.4,
+                    "unit": "10\u20132",
+                    "conditions": "before alkaline treatment",
+                    "reaction_type": "NA",
+                    "evidence": 8
+                },
+                {
+                    "type": "O/C ratio",
+                    "value": 2.8,
+                    "unit": "10\u20132",
+                    "conditions": "after alkaline treatment in 10 M KOH at 80 \u00b0C for 5 h",
+                    "reaction_type": "NA",
+                    "evidence": 8
+                },
+                {
+                    "type": "Electrocatalytic activity",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "for oxygen reduction",
+                    "reaction_type": "ORR",
+                    "evidence": 11
+                },
+                {
+                    "type": "Electrocatalytic activity",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "in the Oxygen Reduction Reaction",
+                    "reaction_type": "ORR",
+                    "evidence": 12
+                },
+                {
+                    "type": "Electroactivity",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "for the oxygen reduction reaction",
+                    "reaction_type": "ORR",
+                    "evidence": 17
+                },
+                {
+                    "type": "Growth method",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "chemical vapor deposition",
+                    "reaction_type": "NA",
+                    "evidence": 19
+                },
+                {
+                    "type": "ORR activity",
+                    "value": 0.0,
+                    "unit": "NA",
+                    "conditions": "NA",
+                    "reaction_type": "ORR",
+                    "evidence": 14
+                },
+                {
+                    "type": "Kinetic",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "Removal of mercaptan from natural gas condensate",
+                    "reaction_type": "NA",
+                    "evidence": 15
+                },
+                {
+                    "type": "Electrocatalytic activity",
+                    "value": 0.0,
+                    "unit": "NA",
+                    "conditions": "towards the oxygen reduction reaction in alkaline media",
+                    "reaction_type": "ORR",
+                    "evidence": 18
+                },
+                {
+                    "type": "XPS",
+                    "values": [
+                        531.2,
+                        533.1,
+                        530.3
+                    ],
+                    "units": [
+                        "eV"
+                    ],
+                    "conditions": [
+                        "peak position for C\u2550O bond", 
+                        "peak position for C\u2013O bond", 
+                        "peak position for metal oxides"
+                    ],
+                    "evidence": 8.0
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "acid-washed CNTs",
+            "properties": [
+                {
+                    "type": "O/C ratio",
+                    "value": 1.5,
+                    "unit": "10\u20132",
+                    "conditions": "before alkaline treatment",
+                    "reaction_type": "NA",
+                    "evidence": 8
+                },
+                {
+                    "type": "O/C ratio",
+                    "value": 5.3,
+                    "unit": "10\u20132",
+                    "conditions": "after alkaline treatment in 10 M KOH at 80 \u00b0C for 5 h",
+                    "reaction_type": "NA",
+                    "evidence": 8
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Nitrogen-doped activated graphene/SWCNT hybrid",
+            "properties": [
+                {
+                    "type": "Current density",
+                    "value": 1242.0,
+                    "unit": "mA/cm\u00b2",
+                    "conditions": "for oxygen reduction reaction",
+                    "reaction_type": "ORR",
+                    "evidence": 16
+                }
+            ],
+            "benchmark": false
+        }
+    ],
+    "doi": "example_doi",
+    "factor": "Hydrogen coverage,Energy barrier,Conductivity,Surface area,Size,Defect,Dopant,Active sites,Stability,Electrode potential,Overpotential,Tafel slope,onsite potential,Current density,Mass loading,XPS,FTIR,Raman,XRD",
+    "meta": {
+        "maintext": "/Users/yangz/Documents/projects/llm4catalyst/documents/maintext/Activation_and_Stabilization_of_NitrogenDoped_Carb_maintext.txt",
+        "abstract": "/Users/yangz/Documents/projects/llm4catalyst/documents/abstract/Activation_and_Stabilization_of_NitrogenDoped_Carb_abs.txt",
+        "intro": "documents/intro/c60_intro.txt",
+        "window_size": 2,
+        "chunk_size": 1000,
+        "chunk_overlap": 100,
+        "output": "results",
+        "property": "/Users/yangz/Documents/projects/llm4catalyst/prompts/properties.txt",
+        "self_defined": true,
+        "title": "Activation_and_Stabilization_of_NitrogenDoped_Carb"
+    }
+}

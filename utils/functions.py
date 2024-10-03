@@ -4,6 +4,8 @@ from typing import List, Tuple, Dict, Set
 from langchain_core.prompts import ChatPromptTemplate
 from typing import Optional
 from langchain_openai import ChatOpenAI
+#from langchain.llms import OpenAI
+
 import networkx as nx
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from langchain_core.pydantic_v1 import BaseModel, Field
@@ -33,6 +35,7 @@ def read_properties(filePath):
         properties = f.readlines()
 
     properties = [x.strip() for x in properties]
+    print(f"Read Properties: {properties}")
     return properties
 
 def generate_prompts(propertyFilePath, promptFilePath):
@@ -103,9 +106,6 @@ def huggingface_api_query(prompt, params):
     pass
 
 
-
-
-
 class UnionFind:
     def __init__(self):
         self.parent = {}
@@ -149,7 +149,6 @@ def extract_main_topic(abstract, main_topic_prompt=main_topic_prompt,):
     main_topic_response = main_topic_runnable.invoke({"abstract":{abstract}})
     print(f"main topic response: {main_topic_response}")
     return main_topic_response
-
 
 
 
@@ -261,7 +260,7 @@ def extract_factors(abstract, introduction, factor_prompt=factor_prompt, chunk_s
 
 class Measurement(BaseModel):
     type: Optional[str] = Field(default=None, description="Type or name of the property measured, such as onset potential, diameter, particle size, conductivity, mass loading, etc.")
-    associated_factor: Optional[str] = Field(default=None, description="Associated factor with the measurement, confined to a predefined factor set. For example, ORR activity for electrocatalyst performance.")
+    #associated_factor: Optional[str] = Field(default=None, description="Associated factor with the measurement, confined to a predefined factor set. For example, ORR activity for electrocatalyst performance.")
     value: float = Field(default=None, description="Property value with units, such as 100 or 0.1, do not include unit here")
     unit: Optional[str] = Field(default=None, description="Unit of the property value, such as V, mA/cm², etc.")
     conditions: Optional[str] = Field(default=None, description="Measurement conditions and techniques/methods, such as in 0.1 M KOH, cyclic voltammetry, galvanostatic charge/discharge, LSV, etc.")
@@ -341,7 +340,8 @@ def merge_properties(properties1: List[Measurement], properties2: List[Measureme
 def deduplicate_properties(properties: List[Measurement]) -> List[Measurement]:
     unique_properties = {}
     for prop in properties:
-        prop_key = (prop.type, prop.associated_factor, prop.value, prop.conditions)
+        #prop_key = (prop.type, prop.associated_factor, prop.value, prop.conditions)
+        prop_key = (prop.type, prop.value, prop.conditions)
         if prop_key not in unique_properties:
             unique_properties[prop_key] = prop
     return list(unique_properties.values())
@@ -401,12 +401,18 @@ def extract_properties(main_text, factors, main_topic, window_size, chunk_size, 
     
     print(f"length of indexed content: {len(indexed_content)}")
 
+
+    with open('prompts/extraction_example.json', 'r') as file:
+        example_text = file.read()
+
     extract_prompt = ChatPromptTemplate.from_messages([
     ("system", "You are a helpful AI bot for a material scientist specialized in electrocatalyst. Carefully read each sentence provided from the experimental section. Your task is to extract information in the specified format. Only extract numeric values and their units; do not extract descriptive texts. If a property does not have a numeric value, skip it. If there are multiple materials related to the main topic, extract all of them. Follow these steps:"),
     ("system", "1. Identify if the sentence describes a property of either the main topic {main_topic} or common benchmark catalyst such as Pt, RuO2, Pt/C, anything that is associated with Pt, etc. <IMPORTANT!> Do not forget to include benchmark catalyst in your extraction"),
     ("system", "2. Check if the property can be associated with one or more factors in {factors}."),
     ("system", "3. Extract the material name and the property with numeric values and their units, including the specified conditions and evidence. Do not extract any descriptive text."),
-    ("system", "4. Skip the sentence if it does not contain numeric values or if it is not relevant."),
+    ("system", "4. If the property is related to spectrum-related characterization such as XPS, Raman, FTIR, XRD, etc., record the peak value or the peak position. Example for extraction output: {example_text}"),
+    ("system", "5. Skip the sentence if it does not contain numeric values or if it is not relevant."),
+    ("system", "6. Avoid extracting data from reference section."),
     ("human", "The paper is as follows: {text} and note the text index is {index} (index will be used to trace the original sentence). Please extract the material name and its properties."),
 ])
 
@@ -415,7 +421,7 @@ def extract_properties(main_text, factors, main_topic, window_size, chunk_size, 
         ("system", "1. Scrutinize the original text to understand the context and details."),
         ("system", "2. Ensure the extracted information is concise and relevant to the main topic {main_topic} or benchmark materials (e.g., Pt as a common benchmark for catalyst activity comparison)."),
         ("system", "3. Set the 'benchmark' attribute of the Material object correctly if the material is a benchmark."),
-        ("system", "4. <IMPORTANT!> Exclude any properties related to materials characterization techniques such as FTIR, Raman, UV-vis, XPS, XRD spectrums, or measurements containing non-numeric values. These should not be included in the revised response."),
+        ("system", "4. <IMPORTANT!> For properties related to materials characterization techniques such as FTIR, Raman, UV-vis, XPS, XRD spectrums, the property name is the technique name and the value is the peak position or peak value. For example, 'XRD: [26°]' or 'FTIR: [1000 cm-1]'."),
         ("system", "5. Ensure the revised properties are accurate and formatted correctly."),
         ("human", "The original text is as follows: {original_text}. The extracted properties are as follows: {extracted_properties}. Please revise the properties accordingly.")
     ])
@@ -450,19 +456,29 @@ def extract_properties(main_text, factors, main_topic, window_size, chunk_size, 
             "text": text_for_extraction,
             "factors": list(factors),
             "main_topic": main_topic,
-            "index": i
+            "index": i,
+            "example_text": example_text
         })
         
         # 将提取的结果进行精简
-        refine_response = refine_runnable.invoke({
-            "original_text": text_for_extraction,
-            "extracted_properties": json.dumps([material.dict() for material in extract_response.materials]),
-            "main_topic": main_topic,
-        })
+        # refine_response = refine_runnable.invoke({
+        #     "original_text": text_for_extraction,
+        #     "extracted_properties": json.dumps([material.dict() for material in extract_response.materials]),
+        #     "main_topic": main_topic,
+        # })
         
         
-        #print(f"refined\n{refine_response}")
-        for material in refine_response.materials:
+        # #print(f"refined\n{refine_response}")
+        # for material in refine_response.materials:
+        #     for property in material.properties:
+        #         property.evidence = i
+        #     existing_material = next((m for m in final_data.materials if m.material_name == material.material_name), None)
+        #     if existing_material:
+        #         existing_material.properties.extend(material.properties)
+        #     else:
+        #         final_data.materials.append(material)
+        
+        for material in extract_response.materials:
             for property in material.properties:
                 property.evidence = i
             existing_material = next((m for m in final_data.materials if m.material_name == material.material_name), None)
@@ -470,7 +486,7 @@ def extract_properties(main_text, factors, main_topic, window_size, chunk_size, 
                 existing_material.properties.extend(material.properties)
             else:
                 final_data.materials.append(material)
-   
+                
     extracted_data = Data(**json.loads(final_data.json()))
     merged_material_names = merge_material_names(extracted_data.materials, llm1)
     updated_data = update_material_names(extracted_data, merged_material_names, factors)

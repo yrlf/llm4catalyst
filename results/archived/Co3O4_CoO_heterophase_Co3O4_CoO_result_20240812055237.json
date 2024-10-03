@@ -1,0 +1,139 @@
+{
+    "materials": [
+        {
+            "material_name": "Co3O4/CoO",
+            "properties": [
+                {
+                    "type": "Overpotential",
+                    "value": 302.0,
+                    "unit": "mV",
+                    "conditions": "to reach 10 mA cm\u22122",
+                    "reaction_type": "OER",
+                    "evidence": 0
+                },
+                {
+                    "type": "Lattice fringes",
+                    "value": 0.29,
+                    "unit": "nm",
+                    "conditions": "(022) plane of Co3O4",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "Lattice fringes",
+                    "value": 0.15,
+                    "unit": "nm",
+                    "conditions": "CoO",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "Overpotential",
+                    "value": 302.0,
+                    "unit": "mV",
+                    "conditions": "in 1.0 m KOH, LSV",
+                    "reaction_type": "OER",
+                    "evidence": 4
+                },
+                {
+                    "type": "Current density",
+                    "value": 42.16,
+                    "unit": "mA cm\u22122",
+                    "conditions": "at overpotential of 350 mV, in 1.0 m KOH",
+                    "reaction_type": "OER",
+                    "evidence": 4
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 68.6,
+                    "unit": "mV dec\u22121",
+                    "conditions": "in 1.0 m KOH",
+                    "reaction_type": "OER",
+                    "evidence": 4
+                },
+                {
+                    "type": "Overpotential",
+                    "value": 302.0,
+                    "unit": "mV",
+                    "conditions": "OER, 1.0 M KOH, LSV",
+                    "reaction_type": "OER",
+                    "evidence": 5
+                },
+                {
+                    "type": "Current density",
+                    "value": 42.16,
+                    "unit": "mA/cm\u00b2",
+                    "conditions": "OER, 1.0 M KOH, overpotential of 350 mV",
+                    "reaction_type": "OER",
+                    "evidence": 5
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 68.6,
+                    "unit": "mV dec\u207b\u00b9",
+                    "conditions": "OER, 1.0 M KOH",
+                    "reaction_type": "OER",
+                    "evidence": 5
+                },
+                {
+                    "type": "Current density",
+                    "value": 10.0,
+                    "unit": "mA cm\u22122",
+                    "conditions": "durability test for 40000 s",
+                    "reaction_type": "OER",
+                    "evidence": 7
+                },
+                {
+                    "type": "Overpotential",
+                    "value": 0.092,
+                    "unit": "V",
+                    "conditions": "to reach 10 mA cm\u22122",
+                    "reaction_type": "OER",
+                    "evidence": 7
+                },
+                {
+                    "type": "XRD",
+                    "values": [
+                        18.9,
+                        31.5,
+                        36.9,
+                        44.8,
+                        65.5,
+                        18.9,
+                        31.5,
+                        36.9,
+                        44.8,
+                        65.5
+                    ],
+                    "units": [
+                        "\u00b0"
+                    ],
+                    "conditions": [
+                        "(111) plane of spinel Co3O4",
+                        "(311) plane of spinel Co3O4",
+                        "(440) plane of spinel Co3O4",
+                        "NA",
+                        "(220) plane of spinel Co3O4",
+                        "(400) plane of spinel Co3O4"
+                    ],
+                    "evidence": 2.0
+                }
+            ],
+            "benchmark": false
+        }
+    ],
+    "doi": "example_doi",
+    "factor": "Hydrogen coverage,Energy barrier,Conductivity,Surface area,Size,Defect,Dopant,Active sites,Stability,Electrode potential,Overpotential,Tafel slope,onsite potential,Current density,Mass loading,XPS,FTIR,Raman,XRD",
+    "meta": {
+        "maintext": "/Users/yangz/Documents/projects/llm4catalyst/documents/maintext/DefectsInduced_InPlane_Heterophase_in_Cobalt_Oxide_maintext.txt",
+        "abstract": "/Users/yangz/Documents/projects/llm4catalyst/documents/abstract/DefectsInduced_InPlane_Heterophase_in_Cobalt_Oxide_abs.txt",
+        "intro": "documents/intro/c60_intro.txt",
+        "window_size": 2,
+        "chunk_size": 1000,
+        "chunk_overlap": 100,
+        "output": "results",
+        "property": "/Users/yangz/Documents/projects/llm4catalyst/prompts/properties.txt",
+        "self_defined": true,
+        "title": "DefectsInduced_InPlane_Heterophase_in_Cobalt_Oxide"
+    }
+}

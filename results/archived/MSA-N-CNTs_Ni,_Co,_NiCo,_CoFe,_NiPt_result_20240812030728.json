@@ -1,0 +1,281 @@
+{
+    "materials": [
+        {
+            "material_name": "NiSA-N-CNTs",
+            "properties": [
+                {
+                    "type": "Diameter",
+                    "value": 31.0,
+                    "unit": "nm",
+                    "conditions": "SEM image",
+                    "reaction_type": "NA",
+                    "evidence": 0
+                },
+                {
+                    "type": "Size",
+                    "value": 31.0,
+                    "unit": "nm",
+                    "conditions": "SEM image",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "Interlayer spacing",
+                    "value": 0.33,
+                    "unit": "nm",
+                    "conditions": "AC-STEM",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "Interlayer spacing",
+                    "value": 0.34,
+                    "unit": "nm",
+                    "conditions": "XRD",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "Average CNT diameter",
+                    "value": 31.0,
+                    "unit": "nm",
+                    "conditions": "SEM imaging",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "Interlayer spacing",
+                    "value": 0.33,
+                    "unit": "nm",
+                    "conditions": "AC-STEM imaging",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "Raman D band",
+                    "value": 1300.0,
+                    "unit": "cm^-1",
+                    "conditions": "Raman spectroscopy",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "Raman G band",
+                    "value": 1600.0,
+                    "unit": "cm^-1",
+                    "conditions": "Raman spectroscopy",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "XRD peak",
+                    "value": 26.15,
+                    "unit": "\u00b0",
+                    "conditions": "XRD analysis",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "Interlayer spacing",
+                    "value": 0.34,
+                    "unit": "nm",
+                    "conditions": "XRD analysis",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "onset potential",
+                    "value": -0.31,
+                    "unit": "V",
+                    "conditions": "in CO2-saturated KHCO3 solution",
+                    "reaction_type": "CO2RR",
+                    "evidence": 3
+                },
+                {
+                    "type": "CO yield",
+                    "value": 0.004,
+                    "unit": "mmol cm-2 min-1",
+                    "conditions": "at -0.55 V",
+                    "reaction_type": "CO2RR",
+                    "evidence": 3
+                },
+                {
+                    "type": "current density",
+                    "value": 23.5,
+                    "unit": "mA cm-2",
+                    "conditions": "at -0.7 V",
+                    "reaction_type": "CO2RR",
+                    "evidence": 3
+                },
+                {
+                    "type": "Faraday efficiency",
+                    "value": 89.0,
+                    "unit": "%",
+                    "conditions": "at -0.55 V",
+                    "reaction_type": "CO2RR",
+                    "evidence": 3
+                },
+                {
+                    "type": "Faraday efficiency",
+                    "value": 91.3,
+                    "unit": "%",
+                    "conditions": "at -0.7 V",
+                    "reaction_type": "CO2RR",
+                    "evidence": 3
+                },
+                {
+                    "type": "Coordination number",
+                    "value": 3.8,
+                    "unit": "",
+                    "conditions": "EXAFS fitting",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Bond length",
+                    "value": 0.186,
+                    "unit": "nm",
+                    "conditions": "EXAFS fitting",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Content",
+                    "value": 58.0,
+                    "unit": "wt%",
+                    "conditions": "X-ray energy-dispersive spectroscopy",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Content",
+                    "value": 23.0,
+                    "unit": "wt%",
+                    "conditions": "X-ray energy-dispersive spectroscopy",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Content",
+                    "value": 2.2,
+                    "unit": "wt%",
+                    "conditions": "X-ray energy-dispersive spectroscopy",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Content",
+                    "value": 19.0,
+                    "unit": "wt%",
+                    "conditions": "X-ray energy-dispersive spectroscopy",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Content",
+                    "value": 56.0,
+                    "unit": "wt%",
+                    "conditions": "thermogravimetric analysis",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Content",
+                    "value": 19.0,
+                    "unit": "wt%",
+                    "conditions": "thermogravimetric analysis",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Content",
+                    "value": 1.6,
+                    "unit": "wt%",
+                    "conditions": "thermogravimetric analysis",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Content",
+                    "value": 0.5,
+                    "unit": "wt%",
+                    "conditions": "thermogravimetric analysis",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Content",
+                    "value": 23.0,
+                    "unit": "wt%",
+                    "conditions": "thermogravimetric analysis",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Content",
+                    "value": 20.0,
+                    "unit": "wt%",
+                    "conditions": "linear combination analysis of the Ni L-edge XANES spectra",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Onset potential",
+                    "value": -0.31,
+                    "unit": "V vs RHE",
+                    "conditions": "CO2-saturated KHCO3 solution",
+                    "reaction_type": "CO2RR",
+                    "evidence": 4
+                },
+                {
+                    "type": "Current density",
+                    "value": 23.5,
+                    "unit": "mA cm-2",
+                    "conditions": "at -0.7 V",
+                    "reaction_type": "CO2RR",
+                    "evidence": 4
+                },
+                {
+                    "type": "TOF",
+                    "value": 11.7,
+                    "unit": "s-1",
+                    "conditions": "at -0.55 V",
+                    "reaction_type": "CO2RR",
+                    "evidence": 4
+                },
+                {
+                    "type": "XRD",
+                    "values": [
+                        26.15,
+                        44.5,
+                        51.8,
+                        76.5
+                    ],
+                    "units": [
+                        "\u00b0"
+                    ],
+                    "conditions": [
+                        "Ni (PDF 87\u20130712)",
+                        "(002) plane"
+                    ],
+                    "evidence": 1.0
+                }
+            ],
+            "benchmark": false
+        }
+    ],
+    "doi": "example_doi",
+    "factor": "Hydrogen coverage,Energy barrier,Conductivity,Surface area,Size,Defect,Dopant,Active sites,Stability,Electrode potential,Overpotential,Tafel slope,onsite potential,Current density,Mass loading,XPS,FTIR,Raman,XRD",
+    "meta": {
+        "maintext": "/Users/yangz/Documents/projects/llm4catalyst/documents/maintext/Atomically_Dispersed_Transition_Metals_on_Carbon_N_maintext.txt",
+        "abstract": "/Users/yangz/Documents/projects/llm4catalyst/documents/abstract/Atomically_Dispersed_Transition_Metals_on_Carbon_N_abs.txt",
+        "intro": "documents/intro/c60_intro.txt",
+        "window_size": 2,
+        "chunk_size": 1000,
+        "chunk_overlap": 100,
+        "output": "results",
+        "property": "/Users/yangz/Documents/projects/llm4catalyst/prompts/properties.txt",
+        "self_defined": true,
+        "title": "Atomically_Dispersed_Transition_Metals_on_Carbon_N"
+    }
+}

@@ -1,0 +1,221 @@
+As the most commonly used anode material, graphite is crucial to the battery industry and other energy storage applications. Natural graphite is classified as a supply risk material, and the artificial graphitization process is extremely inefficient, so an alternative method of making graphite for use as an anode material is highly desired. In this work, activated carbon powder is graphitized by microwave irradiation with catalyst precursor impregnation. Further, the characteristics of microwave-graphitized activated carbon powder as an anode material in lithium ion batteries are investigated. After 5 min of microwave irradiation, a graphite (002) peak develops at 26.46° in the X-ray diffraction pattern (the corresponding d002 was 3.3664 Å), and the IG/ID ratio in Raman spectra increases from 1.07 to 1.89. As an anode material, graphitized active carbon exhibits stable charge–discharge processes typical of graphite (plateau around 0.2 V). These results indicate that microwave irradiation is an effective way to produce graphitic carbon from low-crystalline activated carbon for use as an anode material. We believe they pave the way to research toward a stable supply of anode material.
+Lithium ion batteries (LIBs) enable us to enjoy the convenience of portable electronic devices in everyday life because of their merits of lightness, high energy density, and rechargeability
+[1]
+,
+[2]
+,
+[3]
+. Carbonaceous materials have long been used commercially as negative electrodes since the first commercialization of LIBs by Sony Corporation in 1991. Among them, graphite is the most common active material because of its structural stability, reversibility, and low Li+ intercalation potential (∼0.2 V vs. Li/Li+)
+[4]
+,
+[5]
+. To achieve high capacity and fast rate capability, many researchers have investigated various types of graphite by controlling factors including the crystallinity, particle size, morphology, purity of precursors, and surface modification
+[6]
+. Because of these efforts, graphite-based anodes are still used today despite extensive studies of Li+ storage in metal, metal oxides, and organic materials
+[7]
+,
+[8]
+.
+With increasing demand for graphite in new energy applications, including use as an anode material for LIBs, the security of the graphite supply has become uncertain. Despite its abundant reserves, graphite has been ranked as ninth from the top in supply risk materials
+[9]
+for the following reasons: i) The reserves of natural graphite are extremely concentrated in a few countries. Over 95% of the total world reserve is in just three countries
+[10]
+. ii) Most natural graphite is in the form of amorphous graphite
+[11]
+,
+[12]
+. Amorphous graphite has the lowest quality among various types of natural graphite; it has very small crystals, so it is not suitable for energy applications, including use as a battery material
+[11]
+. iii) Alternative methods of making graphite have clear limitations. For example, the most commonly used thermal graphitization furnace, the Acheson furnace, has to remain at 3000 °C for about 2 weeks for a cycle
+[13]
+. Therefore, to satisfy the increasing demand for graphite in new energy applications, a novel method of making graphite is required.
+Microwave heating is a strong candidate for a new graphitization method. Microwaves, a type of electromagnetic radiation, can deliver their energy at the speed of light without dissipation by the medium around the target material
+[14]
+,
+[15]
+. Microwaves can heat various solid carbons effectively
+[16]
+,
+[17]
+, so they are used for diverse applications with carbon nanotubes
+[18]
+,
+[19]
+,
+[20]
+,
+[21]
+, graphite
+[22]
+,
+[23]
+,
+[24]
+,
+[25]
+, and other solid carbons
+[26]
+,
+[27]
+,
+[28]
+,
+[29]
+. Despite several efforts to improve the crystallinity of amorphous carbons by microwave heating
+[30]
+, graphitization of bulk-scale carbon by microwave heating has not been reported yet. The scientific and commercial impact would be enormous if graphitization of low-quality carbon by microwave heating is found to be possible and if the material transformed by microwave heating has suitable properties for use as a battery material.
+In this work, activated carbon powder was graphitized by microwave heating. When a catalyst precursor is added to activated carbon powder, microwaves graphitize the activated carbon powder effectively within a very short time. As an anode in LIBs, the graphitized activated carbon powder exhibits a low Li+ intercalation potential typical of graphite and unlike that of a normal activated carbon electrode. In addition, the graphitic carbon anode provides fast rate performance and highly reversible charge–discharge capacities with a stable cycle life.
+Activated carbon powder (MSP20, Kansai Coke and Chemicals, Japan) and nickel (II) acetate tetrahydrate (98%, Sigma–Aldrich, USA) were used. Graphite powder (600 mesh, Samchun Chemical, South Korea) was also used for crystalline structure comparison. Nickel acetate was impregnated into MSP20 in ethanol. During the impregnation step, 6 mmol nickel acetate (per gram of carbon powder) was stirred with the carbon powder at room temperature until all the solvents were totally evaporated. The sample was subsequently dried at 75 °C for 24 h.
+Microwave graphitization was achieved using the experimental system described in our previous work
+[31]
+. The system consisted of a magnetron, an isolator, a directional coupler, an auto tuner, a quartz reactor, and gas feeders. Impregnated carbon powders were loaded onto a quartz boat and then placed in the quartz reactor.
+Next, 1500 W microwave radiation was directed onto the sample. The reactor was filled with argon gas under normal pressure before the microwave generator was turned on. The flow rate of argon gas during microwave irradiation was 100 sccm.
+The carbon powder underwent structural changes before and after microwave irradiation, as observed using X-ray diffraction (XRD) methods with a
+radiation source, Raman spectroscopy (Horiba Jobin Yvon, LabRam HR) using the 514.5 nm line of an argon ion laser, and high-resolution transmission electron microscopy (TEM, JEOL JEM-2200FS, with an image Cs corrector). Nitrogen physisorption experiments were performed at 77 K using a Mirae SI nanoPorosity-XG analyzer, and the pore size was estimated by the Barrett–Joyner–Halenda (BJH) method.
+To fabricate working electrodes, a slurry was prepared by mixing active materials (MSP20 or MSP20-Reduc) with a carbon additive (Super P) and a polymeric binder (polyvinylidene difluoride) in an 8:1:1 weight ratio using N-methyl-2-pyrrolidone. The slurry was then coated on a Cu foil and dried at 60 °C for 12 h and 110 °C for 12 h in a vacuum oven. The electrodes were pressed and cut into round shapes. The mass loading of active materials was controlled in the range of 1.0–1.5 mg cm−2.
+The electrochemical performance of carbon materials was investigated by galvanostatic charge–discharge analyses within a two-electrode system (coin-type cell; CR2032). Here, lithium metal was used as reference and counter-electrodes. A solution containing 1.0 M lithium hexafluorophosphate (LiPF6) in ethylene carbonate/dimethyl carbonate (EC/DMC, 1:1 volume ratio, Panaxetec, Korea) was used as an electrolyte. All cells were fabricated inside a glove box.
+Galvanostatic charge–discharge analyses were conducted in the potential range between 2.5 and 0.002 V (vs. Li/Li+) at current densities ranging from 0.1 to 10 C rates (1 C corresponds to the theoretical capacity of graphite, 372 mA g−1). The capacity values were calculated on the basis of the weight of carbons in the active materials.
+The most distinctive feature of microwave graphitization is the simplicity of the experiment. After preparing catalyst-precursor-impregnated carbon powder, microwave was irradiated just for 5 min. The process is visualized in
+Fig. 1
+. The catalyst formation and catalytic graphitization take place in a single microwave irradiation step as follows. Nickel acetate decomposed, making nickel particles
+[32]
+,
+[33]
+, at the high temperature induced by microwave absorption of MSP20. At high temperatures, the soluble part of carbon is dissolved into nickel. According to the phase diagram of Ni and C (
+Fig. S5
+)
+[34]
+, the maximum solubility of carbon in Ni at 1326.5 °C is about 2.7 at.%. When the carbon is supersaturated in the nickel, the dissolved carbon can diffuse out from the nickel into graphitic structures
+[35]
+,
+[36]
+.
+Fig. 1. Illustration of experimental process. Nickel-acetate-impregnated MSP20 underwent microwave irradiation under argon atmosphere. (A colour version of this figure can be viewed online.)
+Changes in the crystalline structure were confirmed by measuring the XRD patterns (
+Fig. 2
+a). The position of the (002) peak in the XRD pattern was directly related to the d-spacing (d002) of the carbon sample
+[37]
+,
+[38]
+. As shown in
+Fig. 2
+a, the graphite (002) peak developed after microwave graphitization (MSP20-Reduc). The position and shape of the peak were almost identical to those of the graphite powder peak. The graphite (002) peak position of MSP20-Reduc was 26.46°, and the corresponding d002 calculated by Bragg's law was 3.3664 Å. The peak position for graphite powder was 26.50°, and the corresponding d002 was 3.3612 Å.
+Fig. 2. Structural change of MSP20 after microwave graphitization. (a) XRD patterns of MSP20, MSP20-Reduc, and graphite. (b) Raman spectra of MSP20, MSP20-Reduc, and graphite. (c) and (d) TEM image and FFT image (inset) of (c) MSP20 and (d) MSP20-Reduc. (A colour version of this figure can be viewed online.)
+The Raman spectra in
+Fig. 2
+b further support the results of the XRD study. The spectrum of MSP20-Reduc is similar in shape to that of graphite powder. The 2D band (∼2700 cm−1) and 2D′ band (∼3250 cm−1), which were not observed in the spectrum of MSP20
+[39]
+, appeared. In addition, the intensity ratio between the G band
+[40]
+(1582 cm−1) and the D band (1350 cm−1) was larger after microwave graphitization. The ratio of the integrated or maximum intensity of the G band to that of the D band (the IG/ID ratio) is commonly used to characterize the different types of carbon-based materials
+[41]
+,
+[42]
+. Higher fractions of the graphitic region produce larger IG/ID ratios. The IG/ID ratio of MSP20 was 1.07, and this value increased to 1.89 for MSP20-Reduc.
+TEM images are consistent with the spectroscopy results. Before microwave heating, MSP20 exhibited disordered microstructures typical of amorphous carbon (
+Fig. 2
+c). The fast Fourier transform (FFT) images show hollow circles. In contrast, TEM and FFT images obtained from MSP20-Reduc were completely different (
+Fig. 2
+d). Hexagonal patterns indicating crystalline ordering appeared, and multiple sets of dots with six-fold symmetry were observed in the FFT images. The result confirms that multilayer graphene sheets developed during microwave graphitization.
+MSP20-Reduc may have some inhomogeneity both in micro and macro scale. The degree of inhomogeneity seems slightly higher than that of graphite powder. It is observed by 002 diffraction profile (
+Figs. S1 and S2
+) and random point Raman spectra comparison (
+Fig. S3
+).
+Most of the remaining nickel was removed by acid washing without notable destruction of the graphite (002) peak (
+Fig. S4
+). The peak position varied in a very narrow range (26.42–26.46°,
+Table S1
+), and the weight percentage of the remaining nickel changed from 35% just after microwave graphitization to 12% after acid washing (
+Fig. S5
+). According to the thermogravimetric and differential thermogravimetric curves, MSP20-Reduc contains about 3% carbonaceous impurities and about 14% remaining catalyst (
+Fig. S6
+).
+During the catalytic graphitization process, the surface area and pore structure of MSP20 changed. As shown in
+Table 1
+, the Brunauer–Emmett–Teller (BET) surface area changed from 2250 m2 g−1 (MSP20) to 600 m2 g−1 (MSP20-Reduc). In addition, the micropore volume decreased from 0.79 to 0.12 cm3 g−1, and the mesopore volume increased from 0.22 to 0.64 cm3 g−1. Nitrogen physisorption isotherms of the samples show the different pore structure of MSP20 and MSP20-Reduc (
+Fig. S7
+). MSP20 shows a sharp capillary condensation at <0.1 P/P0, while MSP20-Reduc sample has a hysteresis above 0.5 P/P0 with small condensation in microporous region. The data indicate that the microporous structure of MSP20 was modified and mesopores, centered at 2–3 nm or tens of nanometer calculated by BJH pore size distribution (
+Fig. S8
+), were generated during microwave reduction process. TEM images (
+Fig. S9
+) also support the transformation of typical randomly oriented pores of amorphous activated carbon to crystalline carbon with nanoscale pores. The development of mesopore volume may related with the atomic rearrangement during catalytic graphitization or the nickel removal by acid washing after microwave graphitization (in other words, nickel-occupied site turns into mesopore), but further studies are required for clarifying the phenomenon. In LIB systems, the mesopores could enhance the rate capability of rechargeable batteries by accelerating electrolyte transport inside the materials
+[43]
+.
+Table 1. Specific surface areas and pore volumes of MSP20 and MSP20-Reduc samples.
+Measured at P/P0 = 0.99.
+Calculated by t-plot method.
+Mesopore volume = total pore volume − micropore volume.
+MSP20-Reduc was applied as the anode material in LIBs
+[44]
+. Galvanostatic charge–discharge profiles of MSP20 and MSP20-Reduc electrodes obtained at 0.1 C rate are shown in
+Fig. 3
+a and
+S10
+. In the first cycle, both electrodes exhibited a large capacity contribution of around 1.0 V (vs. Li/Li+) because of electrolyte reduction and formation of a solid-electrolyte interphase layer on the carbon surfaces
+[45]
+,
+[46]
+. The initial discharge (lithiation) and charge (delithiation) capacities of the MSP20 electrode are 1770 and 628 mA h g−1, respectively, which correspond to an initial coulombic efficiency (ICE) of 35.5%. On the other hand, the MSP20-Reduc electrode delivered capacities of 1012 and 414 mA h g−1 (ICE: 40.9%), indicating better reversibility after graphitization. The charge capacity of the MSP20-Reduc electrode is higher than the theoretical capacity of graphite (372 mA h g−1). This reversible capacity after graphitization may originate in the capacity contribution from the graphite layers and additional reaction sites, such as the high surface area (∼650 m2 g−1) of the micro- and mesopores and residual disordered carbon space. The MSP20-Reduc electrode also showed better stability than the MSP20 electrode. The charge capacity of the MSP20 electrode decreased considerably during three cycles (from 628 to 478 mA h g−1). However, the reversible capacity of the MSP20-Reduc electrode was stabilized in the second cycle (
+Fig. 3
+a).
+Fig. 3. (a) First three charge–discharge profiles of MSP20 and MSP20-Reduc electrodes obtained under 0.1 C rate (37.2 mA g−1), (b) differential capacity (dQ/dV) plots calculated from second charge–discharge curves, and (c) discharge profiles of MSP20 and MSP20-Reduc electrode under 0.05 C rate. (A colour version of this figure can be viewed online.)
+The charge–discharge profiles of the MSP20-Reduc electrode were quite different from those of the MSP20 electrode
+[47]
+,
+[48]
+. In the first charge process, the MSP20-Reduc electrode showed two distinct regions: (i) a plateau below 0.2 V and (ii) a voltage slope above 0.2 V. However, the MSP20 electrode showed only sloping charge–discharge profiles in the first charge process. Region (i) in the MSP20-Reduc electrode is a well-known Li+ intercalation/deintercalation process inside/from the graphite layers
+[49]
+(charge–discharge profile of graphite powder in
+Fig. S11
+). The capacity contribution from region (i) is 214 mA h g−1. The capacity above 0.2 V is 200 mA h g−1, which is probably due to reversible Li+ insertion/extraction from the residual amorphous phase of the carbon, the high surface area of defects/mesopores, or surface functional groups formed during Ni etching.
+Differential capacity plots provide further details on the charge–discharge processes (second cycle,
+Fig. 3
+b). The Li+ intercalation reaction, region (i), is confirmed again by the clear redox pair centered at 0.21 V. The MSP20 electrode, however, has broad redox peaks over a wide range of potentials. A high energy density could be realized if the MSP20-Reduc electrode is applied in real LIB full cells because of its low charge–discharge reaction potential; this anode forms a higher cell potential difference with the cathode part than an MSP20-based full cell. Therefore, the different charge–discharge profiles of the MSP20-Reduc electrode indicate that (i) graphitization by the microwave method worked effectively within a short time (5 min) and (ii) the microwave-assisted graphitization process improved the reversibility and stability of amorphous carbon electrodes.
+The charge–discharge profiles of the electrodes, obtained under 1 M LiClO4 in propylene carbonate (PC) electrolyte, support full graphitization of the MSP20 sample (
+Fig. 3
+c). The MSP20-Reduc electrode exhibited a long plateau at ∼1 V (vs. Li/Li+), which is similar to the results in other graphite studies using PC-based electrolytes
+[50]
+,
+[51]
+,
+[52]
+,
+[53]
+. The authors of these studies found that decomposition of PC on the edge sites of graphite, rather than the Li+ intercalation reaction, occurs when current is applied to the graphite electrode, and the plateau was minimized by addition of an additive or amorphous carbon coating. Therefore, the plateau in the MSP20-Reduc electrode indicates that graphite exists over the sample with a sparse amount of the amorphous phase. On the other hand, the MSP20 electrode has a sloping curve with a higher discharge capacity (1917 mA h g−1), like the profile in an EC/DMC-based electrolyte (
+Fig. 3
+c).
+The cycle performance of both electrodes is shown in
+Fig. 4
+a. Two cells were activated at 0.2 C rate for four cycles, and a different current density was applied (1 C rate). In the initial cycle, the MSP20-Reduc electrode showed a steep decrease in capacity, but the cell gradually stabilized. In previous studies, graphitic carbon anodes exhibited the capacity increase in the early cycles because of the slow kinetics of Li+-intercalation reaction into the graphite layers
+[54]
+,
+[55]
+. After a full activation of active material, the anodes reached the stable cycle-life. In addition, the capacity fluctuation also appears in the case of sudden increase in applied current densities
+[56]
+. At 1 C rate, the MSP20-Reduc/Li cell achieved 321 mA h g−1 and retained high capacity during 300 cycles (317 mA h g−1 at the 300th cycle). However, the charge capacity of the MSP20 electrode continued to decline (52.2% retention during 300 cycles). In addition, the CE of the MSP20-Reduc electrode increased more rapidly during cycling than that of the MSP20 electrode (
+Fig. S12
+). The charge–discharge profiles in
+Fig. 4
+b demonstrate that the capacity above ∼1.1 V fell continuously in the MSP20 electrode. The capacity fade in this potential range can be explained by the constant trapping of Li+ inside the amorphous phase in activated carbon. In contrast, the graphitized carbon electrode exhibited stable charge–discharge curves, indicating excellent reversibility of the intercalation reaction inside the graphite layers and easily accessible surfaces. In addition, graphitization also improved the electrical conductivity of the electrode
+[57]
+,
+[58]
+, resulting in a higher rate capability in the MSP20-Reduc electrode than in the MSP20 electrode (
+Fig. 4
+c). Furthermore, mesopores, formed after graphitization, have a beneficial effect on electrolyte penetration into the carbon structure, resulting in better response at high current densities. The charge–discharge profiles of the MSP20-Reduc electrode were maintained well at high current density (
+Fig. S13
+). Above 1 C rate, they exhibited low polarization and distinct Li+ insertion/extraction processes. However, the MSP20 electrode showed high polarization and a steep decrease in capacity.
+Fig. 4. (a) Cycle performance (4 cycles at 0.2 C rate and 300 cycles at 1 C rate), (b) corresponding charge–discharge profiles, and (c) rate performance of MSP20 and MSP20-Reduc electrodes. (A colour version of this figure can be viewed online.)
+In conclusion, activated carbon powder with low crystallinity was transformed to highly graphitic carbon within a very short time by microwave heating. The results of crystalline structure analysis and Li+ intercalation potential observations (∼0.2 V vs. Li/Li+) confirmed that the properties of the microwave-graphitized activated carbon powder were nearly identical to those of graphite. The battery performance of the synthesized powder was also examined, and it showed faster rate performance and highly reversible charge–discharge capacities with a stable cycle life. This technique is expected to provide a promising alternative method of producing anode material for LIBs from low-quality carbons.
+The present work was supported by Korea Science and Engineering Foundation (KOSEF) grant funded by the Korean Government (MEST) (Grant No.
+NRF-2014R1A2A1A01003266
+,
+NRF-2015M1A2A2056557
+). This work was also supported by NRF (National Research Foundation of Korea) Grant funded by the Korean Government (NRF-2011-Global Ph.D. Fellowship Program).
+The following is the supplementary data related to this article:
+Download: Download Word document (3MB)
+These authors contributed equally to this work.
+Cookies are used by this site.
+Cookie Settings
+All content on this site: Copyright © 2024 Elsevier B.V., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the Creative Commons licensing terms apply.

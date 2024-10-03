@@ -1,0 +1,10 @@
+•
+Edge-sited Fe-N4 atomic species are formed by pyrolysis of abundant Fe-containing biomass.
+•
+The microstructures of Fe-N4 species are revealed by advanced HAADF-STEM, XANES, and Mössbauer techniques.
+•
+The ORR activity of edge-sited Fe-N4 species is promoted by elongating OO bond.
+•
+The Zn-air battery using edge-sited Fe-N4 species shows a high specific capacity and power density as well as long-life over 200 h.
+•
+The density functional calculations are employed to explain the origin of improved activity from the electronic structure.

@@ -1,0 +1,213 @@
+{
+    "materials": [
+        {
+            "material_name": "MnO2-decorated VACNTs",
+            "properties": [
+                {
+                    "type": "Temperature",
+                    "value": 75.0,
+                    "unit": "\u00b0C",
+                    "conditions": "infiltration of MO precursors into VACNTs",
+                    "reaction_type": "NA",
+                    "evidence": 0
+                },
+                {
+                    "type": "Thickness",
+                    "value": 200.0,
+                    "unit": "\u03bcm",
+                    "conditions": "SEM imaging",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "Average outer diameter",
+                    "value": 50.0,
+                    "unit": "nm",
+                    "conditions": "SEM imaging",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "Inter-tube distance",
+                    "value": 200.0,
+                    "unit": "nm",
+                    "conditions": "SEM imaging",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "Outer diameter",
+                    "value": 50.0,
+                    "unit": "nm",
+                    "conditions": "SEM imaging",
+                    "reaction_type": null,
+                    "evidence": 3
+                },
+                {
+                    "type": "Average outer diameter",
+                    "value": 80.0,
+                    "unit": "nm",
+                    "conditions": "TEM imaging",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "Mass loading",
+                    "value": 10.3,
+                    "unit": "wt%",
+                    "conditions": "Inductively coupled plasma-atom emission spectroscopy, nebulization time: 5 min",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "Mass loading",
+                    "value": 19.6,
+                    "unit": "wt%",
+                    "conditions": "Inductively coupled plasma-atom emission spectroscopy, nebulization time: 10 min",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "Mass loading",
+                    "value": 27.8,
+                    "unit": "wt%",
+                    "conditions": "Inductively coupled plasma-atom emission spectroscopy, nebulization time: 20 min",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "Mass loading",
+                    "value": 10.3,
+                    "unit": "wt%",
+                    "conditions": "nebulization time of 5 min",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "Mass loading",
+                    "value": 19.6,
+                    "unit": "wt%",
+                    "conditions": "nebulization time of 10 min",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "Mass loading",
+                    "value": 27.8,
+                    "unit": "wt%",
+                    "conditions": "nebulization time of 20 min",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "Diameter",
+                    "value": 80.0,
+                    "unit": "nm",
+                    "conditions": "decorated with MnO2",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "Inter-planar distance",
+                    "value": 0.241,
+                    "unit": "nm",
+                    "conditions": "between two (101) planes of MnO2",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "MnO2 loading",
+                    "value": 10.3,
+                    "unit": "wt%",
+                    "conditions": "nebulization time: 5 min",
+                    "reaction_type": null,
+                    "evidence": 3
+                },
+                {
+                    "type": "MnO2 loading",
+                    "value": 19.6,
+                    "unit": "wt%",
+                    "conditions": "nebulization time: 10 min",
+                    "reaction_type": null,
+                    "evidence": 3
+                },
+                {
+                    "type": "MnO2 loading",
+                    "value": 27.8,
+                    "unit": "wt%",
+                    "conditions": "nebulization time: 20 min",
+                    "reaction_type": null,
+                    "evidence": 3
+                },
+                {
+                    "type": "Diameter",
+                    "value": 80.0,
+                    "unit": "nm",
+                    "conditions": "TEM imaging",
+                    "reaction_type": null,
+                    "evidence": 3
+                },
+                {
+                    "type": "Inter-planar distance",
+                    "value": 0.241,
+                    "unit": "nm",
+                    "conditions": "HRTEM imaging",
+                    "reaction_type": null,
+                    "evidence": 3
+                },
+                {
+                    "type": "Current density",
+                    "value": 19.82,
+                    "unit": "mA/cm\u00b2",
+                    "conditions": "RDE measurements at 1600 rpm, -0.45 V in 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 4
+                },
+                {
+                    "type": "XRD",
+                    "values": [
+                        37.4,
+                        42.9,
+                        43.6,
+                        44.8,
+                        37.4,
+                        42.9,
+                        43.6,
+                        44.8,
+                        37.4,
+                        42.9,
+                        43.6,
+                        44.8
+                    ],
+                    "units": [
+                        "degrees"
+                    ],
+                    "conditions": [
+                        "(111) plane of MnO2",
+                        "X-ray diffraction pattern",
+                        "XRD pattern",
+                        "(401) plane of MnO2",
+                        "(321) plane of MnO2",
+                        "(101) plane of MnO2"
+                    ],
+                    "evidence": 3.0
+                }
+            ],
+            "benchmark": false
+        }
+    ],
+    "doi": "example_doi",
+    "factor": "Hydrogen coverage,Energy barrier,Conductivity,Surface area,Size,Defect,Dopant,Active sites,Stability,Electrode potential,Overpotential,Tafel slope,onsite potential,Current density,Mass loading,XPS,FTIR,Raman,XRD",
+    "meta": {
+        "maintext": "/Users/yangz/Documents/projects/llm4catalyst/documents/maintext/A_Facile_and_General_Approach_for_the_Direct_Fabri_maintext.txt",
+        "abstract": "/Users/yangz/Documents/projects/llm4catalyst/documents/abstract/A_Facile_and_General_Approach_for_the_Direct_Fabri_abs.txt",
+        "intro": "documents/intro/c60_intro.txt",
+        "window_size": 2,
+        "chunk_size": 1000,
+        "chunk_overlap": 100,
+        "output": "results",
+        "property": "/Users/yangz/Documents/projects/llm4catalyst/prompts/properties.txt",
+        "self_defined": true,
+        "title": "A_Facile_and_General_Approach_for_the_Direct_Fabri"
+    }
+}

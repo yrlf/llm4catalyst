@@ -1,0 +1,742 @@
+{
+    "materials": [
+        {
+            "material_name": "IrO2/Ta2O5",
+            "properties": [
+                {
+                    "type": "Stability",
+                    "value": 800.0,
+                    "unit": "h",
+                    "conditions": "at 2000 mA cm\u20132 in acid solution",
+                    "reaction_type": "OER",
+                    "evidence": 0
+                }
+            ],
+            "benchmark": true
+        },
+        {
+            "material_name": "IrO2/MnO2",
+            "properties": [
+                {
+                    "type": "Stability",
+                    "value": 800.0,
+                    "unit": "h",
+                    "conditions": "at 2000 mA cm\u20132 in acid solution",
+                    "reaction_type": "OER",
+                    "evidence": 0
+                }
+            ],
+            "benchmark": true
+        },
+        {
+            "material_name": "Co2.7Fe0.3O4-NWs/CFP",
+            "properties": [
+                {
+                    "type": "Diameter",
+                    "value": 100.0,
+                    "unit": "nm",
+                    "conditions": "grown on carbon fiber paper",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "diameter",
+                    "value": 100.0,
+                    "unit": "nm",
+                    "conditions": "grown on carbon fiber paper",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "Onset overpotential",
+                    "value": 166.0,
+                    "unit": "mV",
+                    "conditions": "in 1 M KOH, LSV",
+                    "reaction_type": "OER",
+                    "evidence": 4
+                },
+                {
+                    "type": "Overpotential at 10 mA cm\u00b2",
+                    "value": 342.0,
+                    "unit": "mV",
+                    "conditions": "in 1 M KOH, LSV",
+                    "reaction_type": "OER",
+                    "evidence": 4
+                },
+                {
+                    "type": "Current density at 500 mV overpotential",
+                    "value": 64.4,
+                    "unit": "mA cm\u00b2",
+                    "conditions": "in 1 M KOH, LSV",
+                    "reaction_type": "OER",
+                    "evidence": 4
+                },
+                {
+                    "type": "onset overpotential",
+                    "value": 166.0,
+                    "unit": "mV",
+                    "conditions": "in 1 M KOH, LSV",
+                    "reaction_type": "OER",
+                    "evidence": 5
+                },
+                {
+                    "type": "overpotential at 10 mA cm\u00b2",
+                    "value": 342.0,
+                    "unit": "mV",
+                    "conditions": "in 1 M KOH, LSV",
+                    "reaction_type": "OER",
+                    "evidence": 5
+                },
+                {
+                    "type": "current density at 500 mV overpotential",
+                    "value": 64.4,
+                    "unit": "mA cm\u00b2",
+                    "conditions": "in 1 M KOH, LSV",
+                    "reaction_type": "OER",
+                    "evidence": 5
+                },
+                {
+                    "type": "overpotential at 10 mA cm\u20132",
+                    "value": 342.0,
+                    "unit": "mV",
+                    "conditions": "in 1 M KOH, LSV",
+                    "reaction_type": "OER",
+                    "evidence": 6
+                },
+                {
+                    "type": "Cdl",
+                    "value": 33.0,
+                    "unit": "mF cm\u20132",
+                    "conditions": "in 1 M KOH solution",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 139.2,
+                    "unit": "mV dec\u20131",
+                    "conditions": "LSV, iRs-corrected",
+                    "reaction_type": "OER",
+                    "evidence": 8
+                },
+                {
+                    "type": "Charge-transfer resistance",
+                    "value": 40.9,
+                    "unit": "\u03a9 cm\u20132",
+                    "conditions": "EIS",
+                    "reaction_type": "OER",
+                    "evidence": 8
+                },
+                {
+                    "type": "mass loading",
+                    "value": 4.0,
+                    "unit": "mg cm\u20132",
+                    "conditions": "on CFP",
+                    "reaction_type": null,
+                    "evidence": 11
+                },
+                {
+                    "type": "mass loading",
+                    "value": 5.0,
+                    "unit": "mg cm\u20132",
+                    "conditions": "on CFP",
+                    "reaction_type": null,
+                    "evidence": 11
+                },
+                {
+                    "type": "XRD",
+                    "values": [
+                        19.1,
+                        31.3,
+                        36.8,
+                        44.7,
+                        59.3,
+                        65.2
+                    ],
+                    "units": [
+                        "\u00b0"
+                    ],
+                    "conditions": [
+                        "NA"
+                    ],
+                    "evidence": 2.0
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Co2.3Fe0.7O4-NSs/CFP",
+            "properties": [
+                {
+                    "type": "Onset overpotential",
+                    "value": 169.0,
+                    "unit": "mV",
+                    "conditions": "in 1 M KOH, LSV",
+                    "reaction_type": "OER",
+                    "evidence": 4
+                },
+                {
+                    "type": "Overpotential at 10 mA cm\u00b2",
+                    "value": 359.0,
+                    "unit": "mV",
+                    "conditions": "in 1 M KOH, LSV",
+                    "reaction_type": "OER",
+                    "evidence": 4
+                },
+                {
+                    "type": "Current density at 500 mV overpotential",
+                    "value": 106.8,
+                    "unit": "mA cm\u00b2",
+                    "conditions": "in 1 M KOH, LSV",
+                    "reaction_type": "OER",
+                    "evidence": 4
+                },
+                {
+                    "type": "onset overpotential",
+                    "value": 169.0,
+                    "unit": "mV",
+                    "conditions": "in 1 M KOH, LSV",
+                    "reaction_type": "OER",
+                    "evidence": 5
+                },
+                {
+                    "type": "overpotential at 10 mA cm\u00b2",
+                    "value": 359.0,
+                    "unit": "mV",
+                    "conditions": "in 1 M KOH, LSV",
+                    "reaction_type": "OER",
+                    "evidence": 5
+                },
+                {
+                    "type": "current density at 500 mV overpotential",
+                    "value": 106.8,
+                    "unit": "mA cm\u00b2",
+                    "conditions": "in 1 M KOH, LSV",
+                    "reaction_type": "OER",
+                    "evidence": 5
+                },
+                {
+                    "type": "overpotential at 10 mA cm\u20132",
+                    "value": 359.0,
+                    "unit": "mV",
+                    "conditions": "in 1 M KOH, LSV",
+                    "reaction_type": "OER",
+                    "evidence": 6
+                },
+                {
+                    "type": "current density at OER overpotential of 500 mV",
+                    "value": 106.8,
+                    "unit": "mA cm\u20132",
+                    "conditions": "in 1 M KOH, LSV",
+                    "reaction_type": "OER",
+                    "evidence": 6
+                },
+                {
+                    "type": "Cdl",
+                    "value": 64.1,
+                    "unit": "mF cm\u20132",
+                    "conditions": "in 1 M KOH solution",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 34.3,
+                    "unit": "mV dec\u20131",
+                    "conditions": "LSV, iRs-corrected",
+                    "reaction_type": "OER",
+                    "evidence": 8
+                },
+                {
+                    "type": "OER overpotential",
+                    "value": 10.0,
+                    "unit": "mA cm\u20132",
+                    "conditions": "LSV",
+                    "reaction_type": "OER",
+                    "evidence": 8
+                },
+                {
+                    "type": "Charge-transfer resistance",
+                    "value": 10.3,
+                    "unit": "\u03a9 cm\u20132",
+                    "conditions": "EIS",
+                    "reaction_type": "OER",
+                    "evidence": 8
+                },
+                {
+                    "type": "OER stability",
+                    "value": 60000.0,
+                    "unit": "s",
+                    "conditions": "at different current densities",
+                    "reaction_type": "OER",
+                    "evidence": 9
+                },
+                {
+                    "type": "Current density",
+                    "value": 200.0,
+                    "unit": "mA cm\u20132",
+                    "conditions": "fluctuation of potential with time",
+                    "reaction_type": "OER",
+                    "evidence": 9
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 34.3,
+                    "unit": "mV dec\u20131",
+                    "conditions": "OER at 1000 mA cm\u20132 for 100 h",
+                    "reaction_type": "OER",
+                    "evidence": 10
+                },
+                {
+                    "type": "Current density",
+                    "value": 1000.0,
+                    "unit": "mA cm\u20132",
+                    "conditions": "OER stability test for 100 h",
+                    "reaction_type": "OER",
+                    "evidence": 10
+                },
+                {
+                    "type": "mass loading",
+                    "value": 4.0,
+                    "unit": "mg cm\u20132",
+                    "conditions": "on CFP",
+                    "reaction_type": null,
+                    "evidence": 11
+                },
+                {
+                    "type": "mass loading",
+                    "value": 5.0,
+                    "unit": "mg cm\u20132",
+                    "conditions": "on CFP",
+                    "reaction_type": null,
+                    "evidence": 11
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Co3O4-NWs/CFP",
+            "properties": [
+                {
+                    "type": "Onset overpotential",
+                    "value": 181.0,
+                    "unit": "mV",
+                    "conditions": "in 1 M KOH, LSV",
+                    "reaction_type": "OER",
+                    "evidence": 4
+                },
+                {
+                    "type": "Overpotential at 10 mA cm\u00b2",
+                    "value": 372.0,
+                    "unit": "mV",
+                    "conditions": "in 1 M KOH, LSV",
+                    "reaction_type": "OER",
+                    "evidence": 4
+                },
+                {
+                    "type": "Current density at 500 mV overpotential",
+                    "value": 42.0,
+                    "unit": "mA cm\u00b2",
+                    "conditions": "in 1 M KOH, LSV",
+                    "reaction_type": "OER",
+                    "evidence": 4
+                },
+                {
+                    "type": "onset overpotential",
+                    "value": 181.0,
+                    "unit": "mV",
+                    "conditions": "in 1 M KOH, LSV",
+                    "reaction_type": "OER",
+                    "evidence": 5
+                },
+                {
+                    "type": "overpotential at 10 mA cm\u00b2",
+                    "value": 372.0,
+                    "unit": "mV",
+                    "conditions": "in 1 M KOH, LSV",
+                    "reaction_type": "OER",
+                    "evidence": 5
+                },
+                {
+                    "type": "current density at 500 mV overpotential",
+                    "value": 42.0,
+                    "unit": "mA cm\u00b2",
+                    "conditions": "in 1 M KOH, LSV",
+                    "reaction_type": "OER",
+                    "evidence": 5
+                },
+                {
+                    "type": "overpotential at 10 mA cm\u20132",
+                    "value": 372.0,
+                    "unit": "mV",
+                    "conditions": "in 1 M KOH, LSV",
+                    "reaction_type": "OER",
+                    "evidence": 6
+                },
+                {
+                    "type": "Cdl",
+                    "value": 17.8,
+                    "unit": "mF cm\u20132",
+                    "conditions": "in 1 M KOH solution",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 188.7,
+                    "unit": "mV dec\u20131",
+                    "conditions": "LSV, iRs-corrected",
+                    "reaction_type": "OER",
+                    "evidence": 8
+                },
+                {
+                    "type": "Charge-transfer resistance",
+                    "value": 50.3,
+                    "unit": "\u03a9 cm\u20132",
+                    "conditions": "EIS",
+                    "reaction_type": "OER",
+                    "evidence": 8
+                },
+                {
+                    "type": "mass loading",
+                    "value": 4.0,
+                    "unit": "mg cm\u20132",
+                    "conditions": "on CFP",
+                    "reaction_type": null,
+                    "evidence": 11
+                },
+                {
+                    "type": "mass loading",
+                    "value": 5.0,
+                    "unit": "mg cm\u20132",
+                    "conditions": "on CFP",
+                    "reaction_type": null,
+                    "evidence": 11
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "IrO2",
+            "properties": [
+                {
+                    "type": "Onset overpotential",
+                    "value": 91.0,
+                    "unit": "mV",
+                    "conditions": "in 1 M KOH, LSV",
+                    "reaction_type": "OER",
+                    "evidence": 4
+                },
+                {
+                    "type": "Overpotential at 10 mA cm\u00b2",
+                    "value": 245.0,
+                    "unit": "mV",
+                    "conditions": "in 1 M KOH, LSV",
+                    "reaction_type": "OER",
+                    "evidence": 4
+                },
+                {
+                    "type": "onset overpotential",
+                    "value": 91.0,
+                    "unit": "mV",
+                    "conditions": "in 1 M KOH, LSV",
+                    "reaction_type": "OER",
+                    "evidence": 5
+                },
+                {
+                    "type": "overpotential at 10 mA cm\u00b2",
+                    "value": 245.0,
+                    "unit": "mV",
+                    "conditions": "in 1 M KOH, LSV",
+                    "reaction_type": "OER",
+                    "evidence": 5
+                },
+                {
+                    "type": "overpotential at 10 mA cm\u20132",
+                    "value": 245.0,
+                    "unit": "mV",
+                    "conditions": "in 1 M KOH, LSV",
+                    "reaction_type": "OER",
+                    "evidence": 6
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 41.2,
+                    "unit": "mV dec\u20131",
+                    "conditions": "LSV, iRs-corrected",
+                    "reaction_type": "OER",
+                    "evidence": 8
+                },
+                {
+                    "type": "mass loading",
+                    "value": 4.0,
+                    "unit": "mg cm\u20132",
+                    "conditions": "on CFP",
+                    "reaction_type": null,
+                    "evidence": 11
+                },
+                {
+                    "type": "mass loading",
+                    "value": 5.0,
+                    "unit": "mg cm\u20132",
+                    "conditions": "on CFP",
+                    "reaction_type": null,
+                    "evidence": 11
+                },
+                {
+                    "type": "Oxygen Evolution Reaction (OER)",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "in Acid and Alkaline Solutions",
+                    "reaction_type": "OER",
+                    "evidence": 18
+                },
+                {
+                    "type": "Electrochemical activity",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "in Aqueous Solutions Containing C1 Compounds",
+                    "reaction_type": "NA",
+                    "evidence": 14
+                },
+                {
+                    "type": "Stability",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "in Aqueous Solutions Containing C1 Compounds",
+                    "reaction_type": "NA",
+                    "evidence": 14
+                },
+                {
+                    "type": "Degradation characteristics",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "in Aqueous Solutions Containing C1 Compounds",
+                    "reaction_type": "NA",
+                    "evidence": 14
+                }
+            ],
+            "benchmark": true
+        },
+        {
+            "material_name": "RuO2",
+            "properties": [
+                {
+                    "type": "Oxygen Evolution Reaction (OER)",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "in Acid and Alkaline Solutions",
+                    "reaction_type": "OER",
+                    "evidence": 18
+                }
+            ],
+            "benchmark": true
+        },
+        {
+            "material_name": "Cobalt-Iron Oxide Nanoarrays",
+            "properties": [
+                {
+                    "type": "Current density",
+                    "value": 1000.0,
+                    "unit": "mA cm\u20132",
+                    "conditions": "in 1 M KOH medium at room temperature",
+                    "reaction_type": "OER",
+                    "evidence": 12
+                },
+                {
+                    "type": "Oxygen Evolution Reaction",
+                    "value": 0.0,
+                    "unit": "NA",
+                    "conditions": "NA",
+                    "reaction_type": "OER",
+                    "evidence": 13
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "CoFe2O4 hollow nanospheres",
+            "properties": [
+                {
+                    "type": "Electrocatalytic activity",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "for Oxygen Reduction Reaction and Oxygen Evolution Reaction",
+                    "reaction_type": "ORR/OER",
+                    "evidence": 14
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "CoFe2O4/Carbon Nanotubes Hybrid",
+            "properties": [
+                {
+                    "type": "Electrocatalytic activity",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "for Oxygen Reduction Reaction and Oxygen Evolution Reaction",
+                    "reaction_type": "ORR/OER",
+                    "evidence": 14
+                },
+                {
+                    "type": "Oxygen Reduction Reaction activity",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "as efficient catalyst",
+                    "reaction_type": "ORR",
+                    "evidence": 15
+                },
+                {
+                    "type": "Oxygen Evolution Reaction activity",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "as efficient catalyst",
+                    "reaction_type": "OER",
+                    "evidence": 15
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Ti/IrO2-Ta2O5 oxide anodes",
+            "properties": [
+                {
+                    "type": "Degradation mechanism",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "in Sulphuric Acid",
+                    "reaction_type": "NA",
+                    "evidence": 14
+                }
+            ],
+            "benchmark": true
+        },
+        {
+            "material_name": "Ti/IrO2 + MnO2",
+            "properties": [
+                {
+                    "type": "Degradation mechanism",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "in 0.5 M H2SO4 solution",
+                    "reaction_type": "OER",
+                    "evidence": 16
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Co-Fe Hydroxide Nanosheet Arrays",
+            "properties": [
+                {
+                    "type": "Oxygen Evolution",
+                    "value": 0.0,
+                    "unit": "NA",
+                    "conditions": "Water Splitting",
+                    "reaction_type": "OER",
+                    "evidence": 17
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "FeOOH",
+            "properties": [
+                {
+                    "type": "Electrocatalysis",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "toward oxygen evolution reaction",
+                    "reaction_type": "OER",
+                    "evidence": 19
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Ru-decorated cobalt-iron oxide nanosheet arrays",
+            "properties": [
+                {
+                    "type": "Material type",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "derived from MOF and LDH double-precursors for overall water splitting in alkali and seawater",
+                    "reaction_type": "NA",
+                    "evidence": 20
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Nickel-doped Co4N nanowire bundles",
+            "properties": [
+                {
+                    "type": "Electrocatalyst",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "for oxygen evolution reaction",
+                    "reaction_type": "OER",
+                    "evidence": 21
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "NH4CoPO4\u2022H2O",
+            "properties": [
+                {
+                    "type": "OER activity",
+                    "value": 22.0,
+                    "unit": "index",
+                    "conditions": "3D self-supported electrocatalyst with asymmetric local atomic and electronic structure",
+                    "reaction_type": "OER",
+                    "evidence": 22
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Co3O4 nanoflowers",
+            "properties": [
+                {
+                    "type": "Oxygen vacancies",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "single layer porous structures",
+                    "reaction_type": "NA",
+                    "evidence": 23
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Ordered Mesoporous Cobalt\u2013Nickel Nitride",
+            "properties": [
+                {
+                    "type": "Oxygen Evolution Reaction Electrocatalysis",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "Nanocasting",
+                    "reaction_type": "OER",
+                    "evidence": 24
+                }
+            ],
+            "benchmark": false
+        }
+    ],
+    "doi": "example_doi",
+    "factor": "Hydrogen coverage,Energy barrier,Conductivity,Surface area,Size,Defect,Dopant,Active sites,Stability,Electrode potential,Overpotential,Tafel slope,onsite potential,Current density,Mass loading,XPS,FTIR,Raman,XRD",
+    "meta": {
+        "maintext": "/Users/yangz/Documents/projects/llm4catalyst/documents/maintext/CobaltIron_Oxide_Nanoarrays_Supported_on_Carbon_Fi_maintext.txt",
+        "abstract": "/Users/yangz/Documents/projects/llm4catalyst/documents/abstract/CobaltIron_Oxide_Nanoarrays_Supported_on_Carbon_Fi_abs.txt",
+        "intro": "documents/intro/c60_intro.txt",
+        "window_size": 2,
+        "chunk_size": 1000,
+        "chunk_overlap": 100,
+        "output": "results",
+        "property": "/Users/yangz/Documents/projects/llm4catalyst/prompts/properties.txt",
+        "self_defined": true,
+        "title": "CobaltIron_Oxide_Nanoarrays_Supported_on_Carbon_Fi"
+    }
+}

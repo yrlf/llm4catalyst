@@ -1,0 +1,184 @@
+Nitrogen doped carbon nanotubes (NCNTs) were synthesized by a single step chemical vapor deposition technique using either ferrocene or iron(II) phthalocyanine as catalyst and pyridine as the carbon and nitrogen precursor. Variations in surface morphology and electrocatalytic activity for oxygen reduction reaction (ORR) were observed between the NCNTs synthesized using different catalysts. The structural and chemical characterizations were carried out using transmission electron microscopy (TEM), Raman spectroscopy and X-ray photoelectron spectroscopy (XPS). The electrochemical activity of NCNTs was evaluated with rotating ring disc electrode (RRDE) voltammetry. Structural characterization suggested more defects formed on the NCNTs synthesized from ferrocene (Fc-NCNTs) which led to a rugged surface morphology compared to the NCNTs synthesized from iron(II) phthalocyanine (FePc-NCNTs). Based on the RRDE voltammetry study, Fc-NCNTs demonstrated much higher activity for ORR than FePc-NCNT. Evidences from the structural and chemical characterizations illustrate the potential impact of catalyst structure in shaping the surface structure of NCNTs and the positive effect of surface defects on ORR activity. These results showed that potential improvements on ORR activity of NCNTs could be achieved by tailoring the surface structure of NCNTs by using catalysts with different structures.
+Low temperature fuel cells have been receiving lots of attention as a sustainable power source for transport, stationary and portable applications due to their high efficiency and low emissions
+[1]
+. The slow kinetics of the oxygen reduction reaction (ORR) at the cathode is one of the key factors limiting the performance of low temperature fuel cells
+[1]
+. To date, the best electrocatalysts for cathodic ORR in fuel cells are the platinum based materials. However, due to the scarcity and nobility of this metal, the large scale commercialization of fuel cells using platinum based electrocatalysts is not economically feasible. As a result, non-precious metal catalysts such as transition metal alloys
+[2]
+and chalcogenides
+[3]
+have been investigated to accelerate the commercialization of fuel cells. Carbon materials are ideal supports for platinum catalyst particles, however the weak inherent electrocatalytic activity limits their direct application as catalysts. Good ORR performances have been observed for carbon based catalysts in alkaline conditions
+[4]
+,
+[5]
+,
+[6]
+, but relatively poor ORR performances have been reported for carbon materials including glassy carbon
+[7]
+, pyrolytic graphite
+[8]
+and carbon nanotubes (CNTs) in acid media
+[9]
+,
+[10]
+. To improve the inherent electrocatalytic activity of carbon materials nitrogen doping was proposed. Studies have shown that nitrogen containing carbon materials show significantly higher ORR activity compared to undoped carbon materials
+[11]
+,
+[12]
+. Strelko et al. concluded based on model simulations that nitrogen atoms provide an additional valence electron when incorporated into a carbon lattice that could significantly improve the electron donation process of graphite to oxygen
+[13]
+,
+[14]
+improving the efficiency of oxygen reduction.
+Nitrogen doped carbon nanotubes (NCNTs) synthesized by chemical vapor deposition have shown promising ORR activity as illustrated by many studies
+[15]
+,
+[16]
+,
+[17]
+,
+[18]
+,
+[19]
+. The observed ORR activity of NCNTs has been directly attributed to increased nitrogen content and more edge plane exposure
+[20]
+,
+[21]
+,
+[22]
+. Using non-gaseous nitrogen precursors such as triazine and pyridine, a nitrogen content of 2–9 at.% has been obtained
+[23]
+,
+[24]
+. Moreover, studies using a gaseous nitrogen species such as NH3 as nitrogen dopant have reported an improvement of the nitrogen content in NCNTs
+[25]
+,
+[26]
+,
+[27]
+. Many researchers have hypothesized the catalytic effect of metals on the formation of nitrogen containing active sites in nitrogen containing carbonaceous materials
+[28]
+,
+[29]
+,
+[30]
+,
+[31]
+. Also, the impact of metal catalyst precursors on the morphology of carbon nanostructures has been investigated in many studies
+[32]
+,
+[33]
+,
+[34]
+,
+[35]
+,
+[36]
+, with focus on the effects of different metals (i.e. Fe vs. Co) and their supports (i.e. Fe/SiO2 vs. Fe/MgO) on the surface morphology of NCNTs
+[37]
+. However, catalysts containing the same metal atom but different molecular structures have received little attention towards their effect on surface structure and ORR activity.
+In the present work, NCNTs were prepared via a single step CVD technique, using either ferrocene or iron(II) phthalocyanine as catalyst and pyridine as the carbon and nitrogen precursor. This approach allowed the direct comparison of the effect of catalyst structure on the synthesized NCNTs where the structural variations between ferrocene based NCNTs (Fc-NCNTs) and iron(II) phthalocyanine based NCNTs (FePc-NCNT) were investigated using transmission electron microscope (TEM) and Raman spectroscopy. The electrocatalytic activity of Fc-NCNTs and FePc-NCNTs towards ORR in alkaline conditions has been evaluated using rotating ring disc electrode (RRDE) voltammetry and analyzed based on the morphology of each sample. This study provides new insight regarding the improvement of ORR activity by modifying the structural properties of NCNTs as opposed to the conventional method of increasing nitrogen content.
+NCNTs were synthesized using a CVD setup consisting of Lindberg Blue furnace with a quartz tube fitted lengthwise. The catalyst for NCNTs was either ferrocene (98% Aldrich, FeC10H10) or iron(II) phthalocyanine (∼90% Aldrich, C32H16FeN8) and the carbon and nitrogen precursor is pyridine (99% Caledon Laboratory Chemicals). A short quartz tube (O.D. 18 mm, length 100 mm) with a silicon wafer (∼10 mm × 10 mm) placed inside was loaded into the center of the larger quartz tube. The carrier gas used was nitrogen at a flow rate of 65 SCCM and the reaction was carried out at 800 °C for 1 h under ambient pressure. After the growth, the furnace was cooled to 400 °C and held for 2 h where nitrogen gas was turned off and air was allowed into the system. The furnace was then cooled to room temperature. The NCNTs were obtained from the black deposit on the surface of the small quartz tube after growth. The obtained products were subjected to acid treatment by boiling in 0.5 M sulfuric acid for 5 h and were dried in a vacuum oven overnight.
+Scanning electron microscopy (SEM) (LEO FESEM 1530) was used to investigate the overall morphology of NCNTs. Transmission electron microscopy (TEM) (PHILIPS CM300) was used to examine the defects on the surface of NCNTs. X-ray photoelectron spectroscopy (XPS) (Thermal Scientific K-Alpha XPS spectrometer) was used to investigate the elemental composition and types of nitrogen group in the NCNTs. Raman spectroscopy (Bruker FT-Raman spectrometer) was used to investigate the degree of defects.
+Electrocatalytic activity was evaluated using RRDE voltammetry. The RRDE setup consisted of a biopotentiostat and a rotation speed controller (Pine Research Instrumentation). The RRDE has a collection efficiency of 0.26, it consists of a glassy carbon electrode (5 mm in diameter) and a platinum ring. Prior to RRDE voltammetry, an ink solution containing the NCNT catalyst was made by suspending 4 mg of NCNTs in 2 mL of 0.2 wt.% Nafion solution. The ink solution was sonicated until good dispersion of the NCNTs was obtained. For each RRDE voltammetry experiment, 20 μL of NCNT ink (0.04 mg of NCNT) was deposited onto the glassy carbon electrode and allowed to dry. After the ink was dried, the electrode was visually inspected to ensure a uniform film formation and that no NCNT ink was contacting the ring portion of the electrode. The electrode was fixed onto the rotating shaft and lowered into a glass cell containing 0.1 M potassium hydroxide as an electrolyte. A double junction Ag/AgCl reference electrode was used and a platinum wire fixed in a glass tube was used as counter electrode. The potential of the working electrode was varied from −1.1 to 0.2 V vs. Ag/AgCl and the potential sweep rate was 10 mV/s while the ring potential was held at 0.5 V. Before collecting the disc and ring currents the electrolyte was saturated with oxygen. RRDE voltammetry was performed at various rotation speeds and the background to each experiment was obtained by performing the same experiment in nitrogen saturated electrolyte with no rotation.
+Alignment between individual nanotubes from Fc-NCNTs (
+Fig. 1
+A) and FePc-NCNTs (
+Fig. 1
+B) was observed with SEM. The SEM images show similar length and diameter for the Fc-NCNTs and FePc-NCNTs. Energy dispersive X-ray spectroscopy (EDX) was performed simultaneously with SEM. From EDX analysis, the elemental composition from highest to lowest in the Fc-NCNTs and FePc-NCNTs was carbon, oxygen and nitrogen. The values of the compositional contribution of each element are listed in
+Table 1
+. The presence of nitrogen indicates successful doping of nitrogen into the CNTs. The similar nitrogen content between the two NCNTs samples indicates the minor effect of the selected catalysts on the nitrogen content of NCNTs. The presence of oxygen was observed in both samples, caused by the introduction of air into the reaction environment at 400 °C after synthesis was completed. Residual iron is expected to be found in the NCNTs sample even after acid washing. Signal from iron could not be detected by EDX, which could be caused by the sensitivity of the EDX equipment. However, XPS analysis showed trace amount of iron (0.2–0.27 at.%) in NCNTs samples.
+Fig. 1. SEM images of (A) Fc-NCNTs and (B) FePc-NCNTs.
+Table 1. Elemental composition of Fc-NCNTs and FePc-NCNTs after acid leaching from EDX.
+The TEM micrographs in
+Fig. 2
+display the bamboo structures in the two NCNTs samples. The formation of bamboo structure is common in NCNTs due to the formation of pentagons caused by nitrogen substitution in the graphite network. The FePc-NCNTs are characterized by a smooth, thick outer graphitic wall and a narrow hollow interior channel. The Fc-NCNTs are characterized by a more rugged, relatively thinner outer graphitic wall, and a wider hollow interior. Decrease in NCNTs diameter and wall thickness could be caused by nitrogen doping in NCNTs
+[38]
+,
+[39]
+. Based on the TEM images, similar NCNTs diameter was obtained however the large variation with respect to the graphite wall thickness is observed. These results suggest possible effects of catalyst in the graphitic wall formation of NCNTs.
+Fig. 2. TEM images of (A) Fc-NCNTs and (B) FePc-NCNTs.
+RRDE voltammetry was used to evaluate the electrocatalytic activity of the acid treated NCNTs electrocatalysts (
+Fig. 3
+). The onset potential (OP), half-wave potential (HWP), limiting current density, number of electrons transferred in the reaction and H2O selectivity are summarized in
+Table 2
+. The range of potential of RRDE voltammetry is from 0.2 to −1.1 V to observe possible reactions that could take place on the NCNTs modified electrode. Two distinct changes of the ORR polarization curve corresponding to different reduction processes can be identified. The first reduction process occurred near −0.4 V for Fc-NCNTs and −0.5 V for FePc-NCNTs. The second reduction process occurred at −0.9 V for both catalysts. The first reduction at −0.4 to −0.5 V corresponds to reduction of O2 to H2O2 and the second reduction at −0.9 V corresponds to a further reduction to produce water (OH− in this case). Similar results have been observed by Zhang et al. with multiwall carbon nanotube modified electrode
+[40]
+. With respect to the parameters summarized in
+Table 2
+, Fc-NCNTs having more defects showed superior ORR performance compared to the FePc-NCNTs having less defects. Fc-NCNTs with an OP of −0.12 V vs. Ag/AgCl compared to FePc-NCNTs with an OP of −0.18 V vs. Ag/AgCl indicate a lower overpotential for the Fc-NCNTs with respect to ORR. The limiting current was taken after the second reduction process where a current plateau is clearly observed. With the limiting current defined, the HWP was determined to be the potential that produces 50% of the limiting current. The HWP of Fc-NCNT (−0.33 V) showed a 0.13 V improvement compared to the HWP of FePc-NCNT (−0.46 V) indicating faster kinetics of Fc-NCNTs. Besides improvement in HWP, from the inset of
+Fig. 3
+, different behaviour of ring current for the two catalysts was evident in the potential range of −0.5 to −0.9 V. For Fc-NCNTs a decrease in ring current density with increasing disc current density was observed whereas similar ring current density was observed for FePc-NCNTs with increasing disc current. Based on the observed ring current behaviour, Fc-NCNTs is determined to be a more desirable catalyst for ORR since reduced H2O2 production was observed. Furthermore, from
+Table 2
+, higher H2O selectivity and higher number of electron transferred confirmed that the Fc-NCNTs is a more effective ORR catalyst as it favors the formation of H2O as opposed to the less efficient H2O2. From previous work done by our group, nitrogen content was determined to be crucial for ORR catalysis
+[41]
+. However, Ayala et al. illustrated a limitation regarding nitrogen doping in carbon nanotubes
+[42]
+. In their study, despite increasing the nitrogen concentration in reaction atmosphere, no further increase in nitrogen content was observed. Thus, further improvement to the catalytic activity of NCNTs by increasing the nitrogen doping solely has a limitation. Based on the improvement in ORR performance achieved by Fc-NCNT in this study, increasing the degree of defect in NCNTs could be a viable method in enhancing ORR activity.
+Fig. 3. Polarization curves of oxygen reduction in oxygen saturated 0.1 M KOH for Fc-NCNTs and FePc-NCNTs with rotation speed of 2500 rpm at the potential sweep rate of 10 mV/s. Inset shows the ring current density.
+Table 2. Summary of the important activity indicator of ORR.
+The Koutecky–Levich (KL) equation can be used to analyze the ORR kinetics of Fc-NCNTs and FePc-NCNTs. By taking the reciprocal of the observed current density (j), kinetic current density (jk) and reciprocal of the square root of electrode rotation speed, the KL equation reveals a linear relationship among these parameters connected by the Levich slope B.
+(1)
+The Levich slope can be further defined as:
+(2)
+Where n is the number of electrons transferred; F is the Faraday constant;
+is the bulk oxygen concentration;
+is the diffusion coefficient of oxygen; ν is the viscosity of the solution. Based on the KL plots of Fc-NCNTs (
+Fig. 4
+B) and FePc-NCNTs (
+Fig. 4
+D), similar slopes indicate the first order reaction kinetics of ORR in both NCNTs electrocatalysts
+[43]
+. Furthermore, by taking the reciprocal of the Y-intercept of KL plots at different potentials, the kinetic currents can be calculated. At the potential of −0.5 V, the kinetic current density of Fc-NCNTs is 9.53 mA cm−2, 71.2% higher compared to that of FePc-NCNTs (
+Table 3
+).
+Fig. 4. Polarization curves of oxygen reduction in oxygen saturated 0.1 M KOH for (A) Fc-NCNTs and (C) FePc-NCNTs with different rotation speeds at the potential sweep rate of 10 mV/s. KL plots of (B) Fc-NCNTs and (D) FePc-NCNTs at different potential.
+Table 3. Kinetic current density of oxygen reduction on Fc-NCNTs and FePc-NCNTs at different potentials.
+Tafel analysis can be used to analyze the kinetics of ORR. One important step in the ORR is the adsorption of oxygen species on NCNTs. For commercial Pt based catalyst, the adsorption of oxygen species can follow Langmuir or Temkin adsorption isotherm. The Langmuir and Temkin adsorption conditions for oxygen species are reflected by the linear appearance of the high and low current density regions of the Tafel plot respectively. The Tafel slope associated with Langmuir and Temkin adsorption conditions is −0.12 and −0.06 V dec−1 respectively
+[44]
+, but different Tafel slope values have been documented for Pt/C catalyst in alkaline condition
+[45]
+. Oxygen adsorption on Pt/C surface can adopt the bridge side-on and bridge end-on adsorbate configurations
+[46]
+. Similar oxygen adsorbate configurations have been proposed for NCNTs
+[47]
+, thus it is possible to extend the similar Tafel analysis to the case of NCNTs. The Tafel slope of Fc-NCNT at low and high current density regime is −0.065 and −0.136 V dec−1 respectively (
+Fig. 5
+A). The Tafel slope of FePc-NCNT at low and high current density regime is −0.087 and −0.171 V dec−1 respectively (
+Fig. 5
+B). The value of these Tafel slopes is similar with that of the Pt/C catalysts. One major difference of oxygen adsorption on Pt/C and NCNTs is that bridge side-on is the most probable oxygen adsorbate configuration for NCNTs. Such preferential adsorbate configuration can be attributed to the nitrogen induced charge delocalization and the side-on configuration could results in weakening of the O–O bonding to facilitate ORR
+[48]
+. However, determination of the exact nature of the nitrogen site responsible for such adsorption is complicated due to the presence of different nitrogen groups.
+Fig. 5
+shows higher kinetic current density for Fc-NCNT than FePc-NCNT, this could be caused by the higher exposure of surface nitrogen group from Fc-NCNT due to the more rugged surface.
+Fig. 5. Tafel plots for oxygen reduction on NCNT catalysts in 0.1 M KOH: (A) Fc-NCNTs; (B) FePc-NCNTs.
+More accurate elemental composition and the identification of different nitrogen groups in Fc-NCNTs and FePc-NCNTs were obtained using XPS (
+Fig. 6
+). Based on XPS results, Fc-NCNTs showed similar overall nitrogen content compared to FePc-NCNTs (
+Table 4
+). Since the only difference in the synthesis of Fc-NCNTs and FePc-NCNTs was the use of different catalyst, the formation of the surface structure of NCNTs could be influenced by different catalyst structures. Furthermore, nitrogen content has been attributed to be a dominant factor influencing ORR performance
+[20]
+,
+[21]
+,
+[22]
+,
+[49]
+, thus similar nitrogen content of Fc-NCNTs and FePc-NCNTs would suggest similar ORR performance. However, based on RRDE data, Fc-NCNTs with more defects showed much superior ORR performance compared to FePc-NCNTs containing lesser defects. Base on these ORR results, defects on the surface of NCNTs can be very important towards ORR activity.
+Fig. 6. XPS spectrum of Fc-NCNTs and FePc-NCNTs: (A) overall elemental composition; (B) high resolution XPS spectra of the N 1S region.
+Table 4. Elemental composition of Fc-NCNTs and FePc-NCNTs from XPS analysis.
+Raman spectroscopy was used to investigate the degree of defects in the NCNT samples (
+Fig. 7
+). Two peaks are found in the Raman spectrum of Fc-NCNTs and FePc-NCNTs centered at 1307.8 and 1581.1 cm−1. These two peaks correspond to the Raman active D and G-bands of NCNTs. The D-band is attributed to the disorder in the NCNT structure
+[50]
+whereas G-band is caused by the E2g vibration mode of graphitic network
+[50]
+. As a result, the ratio of the intensity of the D- and G-band (ID/IG) reflects the degree of disorder in the NCNTs where the disorder can be caused by defects due to nitrogen doping. From the Raman spectra, the ID/IG ratio of Fc-NCNT and FePc-NCNT was 1.87 and 1.22 respectively, indicative of a higher degree of defects in Fc-NCNT. This result is consistent with the structural characterizations and further illustrates the effect of catalyst structure on the surface structure of NCNTs. In addition, similar electronic structure of the Fc-NCNTs and FePc-NCNTs is suggested by the similar position of the G-band in both samples
+[51]
+.
+Fig. 7. Raman spectrum of Fc-NCNTs and FePc-NCNTs.
+NCNT electrocatalysts for ORR were successfully synthesized using the same carbon and nitrogen precursors but different catalysts by a CVD technique. Different catalyst structures were showed to have significant impact on the surface defects of the resultant NCNTs as confirmed by various structural characterization techniques. The electrocatalytic activity of NCNTs synthesized from catalysts with different structures was evaluated and significant differences were observed. Based on the difference in ORR kinetics, the importance of surface defects towards ORR activity was confirmed. Nitrogen content of NCNTs is crucial for ORR, but under similar nitrogen content, surface defect plays an important role. Higher degree of surface defect can enhance ORR activity by exposing more edge plane nitrogen groups such as pyridinic and pyrrolic nitrogen which could participate in the ORR through the lone pair electrons. As a conclusion, increasing the surface defects of NCNTs using catalyst materials with different structures is a viable method to improve the electrocatalytic activity of NCNTs.
+This work was financially supported by the Natural Sciences and Engineering Research Council of Canada (NSERC) and the University of Waterloo.
+Cookies are used by this site.
+Cookie Settings
+All content on this site: Copyright © 2024 Elsevier B.V., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the Creative Commons licensing terms apply.

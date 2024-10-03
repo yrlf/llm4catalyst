@@ -1,0 +1,169 @@
+{
+    "materials": [
+        {
+            "material_name": "CNTs",
+            "properties": [
+                {
+                    "type": "Chemical Composition",
+                    "value": "{Fe:5, C:40, N:25}",
+                    "unit": "%",
+                    "conditions": "Elemental composition in weight percentage, element-weight percentage",
+                    "reaction_type": "NA"
+                },
+                {
+                    "type": "Doping",
+                    "value": "{N:5}",
+                    "unit": "%",
+                    "conditions": "Atomic doping type and concentration",
+                    "reaction_type": "NA"
+                },
+                {
+                    "type": "Electronegativity",
+                    "value": 3.04,
+                    "unit": "Pauling scale",
+                    "conditions": "Doped nitrogen atom",
+                    "reaction_type": "NA"
+                },
+                {
+                    "type": "Bond Length",
+                    "value": 1.42,
+                    "unit": "Å",
+                    "conditions": "Bond length between C atoms",
+                    "reaction_type": "NA"
+                },
+                {
+                    "type": "Atomic Radius",
+                    "value": 70,
+                    "unit": "pm",
+                    "conditions": "Carbon atom",
+                    "reaction_type": "NA"
+                },
+                {
+                    "type": "Electron Configuration",
+                    "value": "Half-filled",
+                    "conditions": "Nitrogen doping",
+                    "reaction_type": "NA"
+                },
+                {
+                    "type": "Faradaic Efficiency",
+                    "value": 90,
+                    "unit": "%",
+                    "conditions": "Measured in HER reaction",
+                    "reaction_type": "HER"
+                },
+                {
+                    "type": "Yield Rate",
+                    "value": 1,
+                    "unit": "mg/cm²*h",
+                    "conditions": "Mass loading: 0.5 mg/cm²",
+                    "reaction_type": "HER"
+                },
+                {
+                    "type": "Onset Potential",
+                    "value": 0.75,
+                    "unit": "V",
+                    "conditions": "HER in 0.5 M H2SO4",
+                    "reaction_type": "HER"
+                },
+                {
+                    "type": "Overpotential",
+                    "value": 0.35,
+                    "unit": "V",
+                    "conditions": "ORR in 0.1 M KOH",
+                    "reaction_type": "ORR"
+                },
+                {
+                    "type": "BET Surface Area",
+                    "value": 151.2,
+                    "unit": "m²/g",
+                    "conditions": "N2 adsorption",
+                    "reaction_type": "NA"
+                },
+                {
+                    "type": "Tafel Slope",
+                    "value": 84.8,
+                    "unit": "mV/dec",
+                    "conditions": "HER",
+                    "reaction_type": "HER"
+                },
+                {
+                    "type": "Hydrogen Coverage",
+                    "value": 0.8,
+                    "unit": "ML",
+                    "conditions": "DFT calculation for HER",
+                    "reaction_type": "HER"
+                },
+                {
+                    "type": "Energy Barrier",
+                    "value": 0.62,
+                    "unit": "eV",
+                    "conditions": "Transition state",
+                    "reaction_type": "NA"
+                },
+                {
+                    "type": "Conductivity",
+                    "value": 1500,
+                    "unit": "S/m",
+                    "conditions": "Electrical conductivity of CNTs",
+                    "reaction_type": "NA"
+                },
+                {
+                    "type": "Surface Area",
+                    "value": 200,
+                    "unit": "m²/g",
+                    "conditions": "Measured by BET",
+                    "reaction_type": "NA"
+                },
+                {
+                    "type": "Size",
+                    "value": 50,
+                    "unit": "nm",
+                    "conditions": "Average CNT diameter",
+                    "reaction_type": "NA"
+                },
+                {
+                    "type": "Stability",
+                    "value": 3000,
+                    "unit": "cycles",
+                    "conditions": "Long life stability in HER",
+                    "reaction_type": "HER"
+                },
+                {
+                    "type": "Electrode Potential",
+                    "value": -0.25,
+                    "unit": "V",
+                    "conditions": "Measured vs RHE in HER",
+                    "reaction_type": "HER"
+                },
+                {
+                    "type": "XPS",
+                    "value": [543, 560, 643],
+                    "unit": "eV",
+                    "conditions": "Relative intensities: 100",
+                    "reaction_type": "NA"
+                },
+                {
+                    "type": "Raman",
+                    "value": [1345, 1580, 2675],
+                    "unit": "cm⁻¹",
+                    "conditions": "Relative intensities: 80, 100, 50",
+                    "reaction_type": "NA"
+                },
+                {
+                    "type": "FTIR",
+                    "value": [1100, 1400, 1650],
+                    "unit": "cm⁻¹",
+                    "conditions": "Relative intensities: strong, medium, weak",
+                    "reaction_type": "NA"
+                },
+                {
+                    "type": "XRD",
+                    "value": [26.5, 43.7, 54.3],
+                    "unit": "degrees",
+                    "conditions": "Relative intensities: 100, 85, 60",
+                    "reaction_type": "NA"
+                }
+            ]
+        }
+    ]
+}

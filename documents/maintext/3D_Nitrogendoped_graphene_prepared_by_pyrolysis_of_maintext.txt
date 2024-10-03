@@ -1,0 +1,228 @@
+Nitrogen-doped graphene (NG) is a promising metal-free catalyst for oxygen reduction reaction (ORR) in fuel cells and metal–air batteries. However, its practical application hinges on significant cost reduction by using novel synthetic methods and further improvement of the catalytic activity by increasing the density of catalytically active site. Here we report a low-cost, scalable, synthetic method for preparation of NG via pyrolysis of graphene oxide with a rationally selected N source polypyrrole. Because of the large number of N atoms in pyrrole ring, polypyrrole can facilitate the formation of graphitic N, which is considered vital for high catalytic activity. The resulting 3D porous structure of NG has an N doping level of 2–3 at%, of which as high as 44% are graphitic N. Electrochemical characterizations show that NG has high catalytic activity toward ORR in an alkaline electrolyte via a favorable four-electron pathway for the formation of water, leading to high performance and low polarization loss. The NG also displays excellent long-term stability and resistance to methanol crossover, offering performance characteristics superior to those of a commercial Pt/C catalyst. The effect of pyrolysis temperature on the structure and property of NG are revealed using X-ray photoelectron spectroscopy and electrochemical measurements, providing important insights into the rational optimization of electrocatalytic activity for ORR. In addition, the NG also shows high catalytic activity toward oxygen evolution reaction (OER), rendering its potential application as a bifunctional electrocatalyst for both ORR and OER.
+Download: Download full-size image
+► Low-cost and scalable preparation of nitrogen-doped graphene. ► Enriched graphitic nitrogen functionality that is vital for high catalytic activity. ► Excellent catalytic performance toward oxygen reduction and oxygen evolution reactions.
+Polarization loss due to oxygen reduction reaction (ORR) in fuel cells and metal–air batteries still represents one of the factors that critically affect the overall performance of these energy storage and conversion devices. For proton exchange membrane fuel cells, conventional Pt-based catalysts have been extensively investigated; however, they suffer from drawbacks of prohibitively high cost, poor stability, and susceptibility to crossover effect, which are becoming major hurdles for the commercialization of fuel cells
+[1]
+,
+[2]
+,
+[3]
+. Thus, the search for Pt-free catalysts has attracted numerous research efforts, and has led to the discoveries of promising alternative ORR catalysts, including transition metal-microcycles
+[4]
+,
+[5]
+, nanostructured manganese oxides
+[6]
+, and metal-free N-doped carbon materials
+[7]
+,
+[8]
+,
+[9]
+,
+[10]
+,
+[11]
+,
+[12]
+,
+[13]
+. Among them, N-doped carbon materials show great promise due to their high catalytic activity, excellent reliability, and environmental friendliness
+[7]
+,
+[8]
+,
+[9]
+,
+[10]
+,
+[11]
+,
+[12]
+,
+[13]
+. As an important member of N-doped carbon materials, N-doped graphene (NG) has drawn special attention recently, due largely to the intriguing properties of graphene such as the high surface area and remarkable electrical conductivity.
+To incorporate N atoms into a graphene lattice, various methods have been developed, including chemical vapor deposition
+[8]
+,
+[14]
+, thermally annealing of graphene or graphene oxide (GO) with NH3
+[10]
+,
+[15]
+, arc discharge of graphite with pyridine/NH3
+[16]
+, and nitrogen plasma treatment of graphene
+[17]
+,
+[18]
+. However, the applicability of these approaches is limited severely by the issues of high cost, inability to scale up, and the use of sophisticated instrumentation or toxic precursors. Recently, we developed a facile NG synthesis approach via pyrolysis of GO with low-cost N-containing precursors
+[19]
+,
+[20]
+. Using Melamine and urea as N sources, we achieved a high doping level of 7 and 8 at% and showed the potential toward large scale NG production
+[19]
+,
+[20]
+. Moreover, it was found that the N doping level and the nature of N functionalities are greatly affected by the structure of N-containing precursors, suggesting that the rational selection of a proper N source is an effective way to enhance the catalytic activity of NG.
+The catalytic activity of NG depends strongly on the bonding configuration of N atoms in the graphene matrix. Although the nature of active site in NG is still controversial, most recent studies, especially theoretical analysis, suggest that the graphitic N is responsible for the ORR activity
+[21]
+,
+[22]
+,
+[23]
+. It is therefore hypothesized that an enrichment of graphitic N in NG may result in significantly enhanced catalytic activity. In this study, we explored the use of polypyrrole (ppy) as the N source since the N atoms in pyrrole rings may be readily converted to graphitic N at elevated temperatures. Indeed, we found that the pyrolysis of GO and ppy composite (GO-ppy) produces NG with a high percentage of graphitic N. The pyrolysis temperature is a critical factor that determines the structure and catalytic performance of resulting NG. In particular, 900 °C appears to be an optimal pyrolysis temperature for the anticipated application. The structure and catalytic activity of NG sample pyrolyzed at 900 °C (NG-900) are discussed in detail. Samples are denoted as NG-temperature, where the temperature refers to the pyrolysis temperature.
+GO was prepared using the Hummers' method. To prepare GO-ppy composite, 200 mg GO was dispersed in 40 ml water by sonication. Concentrated HCl was added in to the GO suspension to form a 1 M solution. After that, 100 mg pyrrole was added into the GO solution. A catalyst solution of 0.17 g (NH4)2S2O8 in 1 M HCl was added. The reaction was carried out at room temperature for 24 h. Then the GO-ppy composite was collected by vacuum filtration, washed repeatedly with water, and dried at 55 °C over night. The NG was prepared by pyrolyzing the GO-ppy composite at 800 °C for 30 min in an Ar atmosphere. The undoped graphene was prepared by pyrolyzing pure GO under the same condition and used as a control sample. Pure ppy was prepared in the same way without adding GO.
+Transmission electron microscopy (TEM, Joel 100 CX) and scanning electron microscopy (SEM, LEO 1530) equipped with an energy dispersive spectrum (EDS) detector (Oxford Instrument) were used to image the morphology of NGs. The nitrogen adsorption/desorption isotherm was collected at using a Micromeritics TriStar II sorptometer (Micromeritics Instrument Corporation, USA). Powder X-ray diffraction (XRD) analysis was carried out with a Philips X-pert alpha-1diffactometer, using Cu Kα radiation (45 kV and 40 mA). The X-ray photoelectron spectroscopy (XPS) was carried out with a Thermo K-Alpha XPS. Thermogravimetric analysis (TGA) and differential scanning calorimetry (DSC) were carried out on a simultaneous DSC-TGA analyzer (SDT Q600, TA Instruments Co.). Raman characterization was carried out using a LabRAM ARAMIS, Horiba Jobin Yvon with a 532 nm-wavelength laser. Fourier transform infrared spectroscopy (FTIR) characterization was performed at ambient temperature with a FTIR spectrometer (Nicolet, Magna IR 560).
+The electrochemical properties of NG were tested in a three-electrode system. A Pt wire and Ag/AgCl electrode filled with saturated KCl aqueous solution were used as the counter electrode and reference electrode respectively. The electrolyte was 0.1 M aqueous KOH solution which was purged by nitrogen or oxygen for 10 min prior to the electrochemical test. To prepare the NG-loaded working electrode, NG was dispersed in the mixture of water and isopropanol (V:V=4:1) containing 0.05 wt% Nafion. 10.00 μL of 1 mg/ml NG dispersion was transferred onto a glassy carbon electrode (GC, 3 mm diameter, 0.07065 cm2 geometric area) and dried at 80 °C. The NG loading was calculated to be 141 μg/cm2. The control sample graphene and a commercial Pt/C catalyst (20 wt.% Pt, Alpha Aesar) on GC were prepared in the same way. Cyclic voltammetry (CV) were measured on a Versastat 2-channel system (Princeton Applied Research). The electrocatalytic activities of NG toward ORR were also measured using a rotating disk electrode (Pine Instrument, MSR analytical rotator) with a scan rate of 10 mV/s. 28 μL of 1 mg/ml NG dispersion was transferred onto the GC electrode (5 mm diameter, 0.196 cm2 geometric area), and dried in air at 80 °C for 1 h. A platinum wire was used as the counter electrode. The 0.1 M KOH solution was prepared as electrolyte and saturated with oxygen by bubbling with oxygen gas for 30 minutes before measuring ORR activities. The potential was controlled by a potentiostat (Solartron, SI 1286). The Koutecky–Levich equation was used to analyze the number of electron transfer
+[8]
+,
+[16]
+:
+where J, JL, JK are measured current density, diffusion-limiting current densities and kinetic-limiting current density respectively; ω is the rotation speed in rpm, F is the Faraday constant (96,485 C/mol), D0 is the diffusion coefficient of oxygen in 0.1 M KOH (1.9×10−5 cm2/s), υ is the kinetic viscosity (0.01 cm2/s), and C0 is the bulk concentration of oxygen (1.2×10−6 mol/ cm3). 0.2 is a constant when the rotation speed is expressed in rpm.
+GO-ppy was synthesized via an in-situ polymerization of pyrrole in a GO solution. The ppy grow preferentially on the surface of GO sheet due to the electrostatic interaction between positively charged pyrrole and negatively charge GO, and the π–π interaction between pyrrole ring and conjugated segment in GO. As a result of this strong interaction, GO acts as a structuring agent that ppy forms a thin layer on GO (
+Figure 1
+a), which is in contrast to the granular-like ppy obtained without adding GO (
+Figure S1a
+). The incorporation of ppy also changes the stacking of GO sheets, from a 2D closely stacked layer (
+Figure S1b
+) to a 3D porous structure (
+Figure 1
+b). This phenomenon has also been found in the preparation of GO-conducting polymer hydrogel, which was attributed to the increased ratio of bonding/repulsive forces that stabilizes the GO hydrogel network: by adding conducting polymers such as ppy, the negative charges on GO is neutralized that weaken the electrostatic repulsive force, and one polymer chain can interact with multiple GO sheets to strengthen the bonding force
+[24]
+,
+[25]
+.
+Figure 1. TEM (a) and SEM (b) images of GO-ppy; TEM (c) and SEM (d) images of NG-900.
+During the pyrolysis of GO-ppy, the ppy decomposes and re-constructs, forming NG that attaches on reduced GO surface. As a result, clean multi-layer graphene sheet was observed after pyrolysis (
+Figure 1
+c). The semi-transparency of NG-900 sheet under electron beam indicates a very small thickness. Interestingly, the 3D structure was largely preserved after pyrolysis at 900 °C, as seen in
+Figure 1
+d, which could be attributed to the open porous structure that facilitates the diffusion of gaseous species generated by the decomposition of labile functional groups in GO-ppy. In comparison, the exfoliation of GO occurred when closely packed GO was pyrolyzed at the same temperature (
+Figure S1c
+). The 3D NG-900 architecture gives rise to a high portion of meso- and micro-pores, revealed by the nitrogen adsorption/desorption isotherm which shows a type-IV curve with an H2-type of hysteresis loop (
+Figure 2
+). Brunauer–Emmett–Teller (BET) surface area of NG-900 is measured to be ∼370 m2/g and the averaged pore diameter is ∼5.3 nm (
+Figure 2
+inset). Moreover, the XRD pattern of NG-900 shown in
+Figure S2
+has a very broad peak centered at ∼26.0°, indicating the partially ordered stacking of NG with an interlayer spacing of 0.342 nm that is close to 0.335 nm for graphite.
+Figure 2. Nitrogen adsorption–desorption isotherm of NG-900; inset is the pore size distribution calculated from the adsorption branch on the basis of the Barrett–Joyner–Halenda (BJH) model.
+The N doping in NG-900 could be directly visualized from the N elemental mapping result by energy dispersive spectrum (EDS). As seen in
+Figure 3
+, the N heteroatoms distribute uniformly throughout the surfaces of NG-900. The chemical composition of NG-900 was further characterized by X-ray photoelectron spectroscopy (XPS). As shown in
+Figure 4
+a, the survey spectrum of NG-900 reveals the presence of C, O, and N without any other impurities and the N content is found to be ∼2–3 at% from the spectra collected at different locations. High resolution XPS was used as a primary tool to investigate the NG structure. The asymmetric high resolution C 1s peak has a tail at high binding energies indicating that a large portion of C atoms are connected with N and O heteroatoms (
+Figure S3a
+). In addition, the high resolution O 1s spectrum indicates that the O atoms exist mainly in the form of CO and COH (
+Figure S3b
+).
+Figure 3. N mapping of NG-900 and corresponding EDS spectrum; red dotes indicate the N doped sites.
+Figure 4. (a) XPS survey spectrum and (b) high resolution N 1s spectrum of NG-900. (c) Schematic of the bonding configurations of N functionalities. (d) Evolution of N functionalities with pyrolysis temperature.
+The high resolution N 1s spectrum is very useful to probe the nature of N functionalities in NG. Peak deconvolution shown in
+Figure 4
+b suggests four types of N functionalities in NG-900, which are pyridinic N (298.3 eV), pyrrolic N (400.2 eV), graphitic N (401.2 eV), and oxidized N (403.0 eV). The bonding configurations of these N functionalities are schematically shown in
+Figure 4
+c. The NG-900 has ∼44% graphitic N, which is much higher than those (∼20%) reported in previous works where melamine and urea were used as the N source
+[19]
+,
+[20]
+. This high percentage graphitic N in NG-900 may be attributed to the structure of the N source ppy; the N atoms in ppy can be easily converted to graphitic N. To investigate the transformation of N functionalities during pyrolysis, the percentages of N functionalities in NGs prepared at different temperatures are plotted in
+Figure 4
+d. The entire N in the initial GO-ppy is in the form of pyrrolic N as a result of the structural regularity of ppy monomers (
+Figure S3c
+). As the GO-ppy being heated to elevated temperatures (>300 °C), the pyrrolic N percentage decreases while the pyridinic N percentage increases monotonically, indicating a transformation from pyrrolic N to pyridinic N. However, the pyridinic N percentage starts to drop at temperatures greater than 600 °C with a simultaneously increase of graphitic N percentage, implying the transformation of pyridinic N to graphitic N. Moreover, it is also possible that pyrrolic N directly transforms to graphitic N at temperatures above 500 °C. Therefore, the high pyrrolic N content in the starting GO-ppy could be a major reason that such a high graphitic N content was obtained in NG.
+The chemical reaction during pyrolysis and the structural evolution of NG were also investigated using simultaneous differential scanning calorimetry-thermogravimetric analysis (SDT), Raman and Fourier transform infrared spectroscopy (FTIR) spectra. It is found from the SDT curve (
+Figure S4
+) that the decomposition of ppy starts at ∼270 °C, leading to a gradual weight loss and a broad exothermal peak centered at 300 °C. This extensive chemical reaction above 270 °C corresponds well with the evolution of N functionality determined by XPS. The Raman spectrum of graphene has been used to evaluate the structural disorder. As seen in
+Figure S5a
+, the ID/IG ratio is 1.10 for as prepared GO-ppy, and decreases to ∼0.94–0.97 for NGs pyrolyzed at 300–600 °C, which is indicative of thermal reduction of GO and the restoration of the conjugated system. However, the ID/IG ratio starts to increase at higher temperatures, reaching 1.11 for NG-900 and 1.17 for NG-1000, due probably to the decomposition of epoxy and hydroxyl groups that could cause cracking of the in-plane CC and the generation of more defects.
+Figure S5b
+shows the FTIR spectra of GO-ppy and NGs pyrolyzed at different temperatures, which have broad and overlapped peaks suggesting the complexity of their chemical structures. The characteristic peaks of ppy ring at ∼1542 and ∼1466 cm−1 are observed in the spectrum of NG-300, but slowly diminished in those of NGs pyrolyzed at greater temperatures, indicating the break of ppy rings during pyrolysis. Moreover, the peaks at ∼1580 and ∼1384 cm−1 are resulted from CC and OH groups respectively
+[26]
+,
+[27]
+. The broad peaks at 1300–800 cm−1 could be assigned to CN and CO groups
+[19]
+,
+[20]
+,
+[26]
+.
+The catalytic activity of NG-900 was examined in a conventional three-electrode system using nitrogen or oxygen saturated 0.1 M KOH as electrolyte. The CV curve of NG-900 (
+Figure 5
+a) shows a clean capacitive current background in the nitrogen saturated electrolyte, whereas an obvious cathodic current appears in the oxygen saturated electrolyte with a peak at −0.22 V, indicating the occurrence of ORR on the NG-900 surface. We used rotating disk electrode (RDE) measurement to investigate the ORR kinetics of NG-900 (
+Figure 5
+b). The number of electron transfer is calculated to be 3.8–3.9 between −0.3 and −0.6 V from the slope of Koutecky–Levich plots (
+Figure 5
+b inset), suggesting a predominant four-electron ORR catalyzed by NG-900. It is known that N-doped carbon materials show superior stability and tolerance to crossover effect compared to a commercial Pt/C catalyst
+[7]
+,
+[8]
+, which was also seen in NG-900. For example, after 2000 CV cycles in the oxygen saturated 0.1 M KOH, minimal change was observed in the CV curve of NG-900 (
+Figure S6a
+); in contrast, the cathodic current was decreased significantly for Pt/C under similar testing conditions (
+Figure S6b
+). Moreover, the presence of 3 M methanol did not hinder the catalytic ORR on NG-900 (
+Figure S6c
+), whereas a large anodic current was found in the case of Pt/C as a result of methanol oxidation (
+Figure S6d
+). In order to compare catalytic performances of NG-900 with previous reports, we summarized the catalytic characteristics of NGs from different preparation methods
+[8]
+,
+[10]
+,
+[19]
+,
+[20]
+,
+[28]
+,
+[29]
+,
+[30]
+in
+Table S1
+, which shows clearly that our approach produces one of the best performed NGs for ORR electrocatalysis, and is significantly superior to other scalable preparation methods. Moreover, it is necessary to note that this high catalytic activity is achieved at a moderate N doping level (2–3 at%), suggesting that it is the graphitic N content, rather than total N content, that determines the ORR catalytic activity of NG.
+Figure 5. Electrochemical characterizations of NGs for ORR. (a) CV curves of NG-900 in nitrogen or oxygen saturated 0.1 M KOH with a scan rate of 100 mV/s. (b) RDE measurement of NG-900 in oxygen saturated 0.1 M KOH with a scan rate of 10 mV/s; the inset shows corresponding Koutecky–Levich plots at different potentials. (c) LSV curves and (d) catalytic activity of graphene, and NGs prepared at different temperatures in oxygen saturated 0.1 M KOH with a scan rate of 10 mV/s and a rotation rate of 1600 rpm.
+The pyrolysis temperature has a profound influence on the catalytic activity of NGs. As seen in
+Figure 5
+c and d, 900 °C appears to be an optimal temperature since NG-900 displays a larger kinetic-limiting current (9.0 mA/cm2 at −0.4 V) with a desired four-electron pathway (3.8 at −0.4 V), compared to samples pyrolyzed at 800 and 1000 °C. Moreover, the NG-900 shows a smaller Tafel slope (
+Figure S7
+), suggesting a superior catalytic activity to other samples. It is obvious that the dependence of catalytic activity on the pyrolysis temperature is correlated with the aforementioned evolution of NG structure during pyrolysis, from which some useful insights can be gained into the structure–property relation of NG as ORR catalyst. Firstly, the catalytic activity of NG increases with pyrolysis temperature between 400 and 900 °C, which can be seen from the positively shifted onset potential (
+Figure S8
+). This increase of catalytic activity with pyrolysis temperature is in line with the increase of graphitic N content, but does not agree with the change of pyridinic N content that starts to drop above 600 °C. This result provides additional evidence that graphitic N, instead of pyridinic N, is the N functionality most responsible for ORR catalytic activity. Secondly, pyrolysis at a temperature higher than 900 °C causes the decomposition of some N functionalities and a resulting decrease of catalytic activity. As a result, the highest catalytic activity is obtained at an intermediate temperature of 900 °C, which has also been found in other works
+[19]
+,
+[20]
+. Thirdly, besides the N functionalities, the defects and graphene edges, which can enhance the ORR catalytic activity of N-doped carbon materials
+[31]
+, could also partially account for the catalytic activity and its change with pyrolysis temperature. It has been shown from the Raman spectra (
+Figure S5a
+) that more defects are produced at high temperatures (>800 °C). The generation of defects could improve the catalytic activity and mitigate the catalytic activity drop caused by the low N content. Consequently, NG-1000, though with a smaller number of electron transfer (3.2 at −0.4 V), shows a comparable kinetic-limiting current (8.5 mA/cm2 at −0.4 V).
+In addition to ORR, we also tested the catalytic property of NG-900 toward oxygen evolution reaction (OER), the reverse reaction of ORR. As seen
+Figure 6
+, when the CV scan was extended to water oxidation regime, large anodic current appeared due to the oxidation of water. Moreover, cathodic current peak in the ORR regime was observed as a result of the reduction of evolved oxygen. It is found that the OER catalytic activity of NG-900 is superior to undoped graphene, commercial Pt/C and glassy carbon electrode (
+Figure 6
+inset), signifying the potential application of NG as a bifunctional electrocatalyst for both ORR and OER for unitized regenerative fuel cells
+[32]
+and rechargeable metal–air batteries
+[33]
+.
+Figure 6. CV curves of NG-900 in nitrogen saturated 0.1 M KOH with a scanning rate of 100 mV/s. The inset is LSV of NG-900, graphene control, Pt/C and glassy carbon electrode in 0.1 M KOH with a scanning rate of 10 mV/s.
+We have developed a low-cost and scalable approach to synthesize NG via pyrolysis of GO and ppy. Morphological and structural characterizations of NG-900 reveal an interesting 3D porous structure with micro- and meso-pores, and a N content of 2–3 at% with predominantly graphitic N functionalities. Electrochemical tests of NG-900 show high ORR catalytic activity with good stability and resistance to methanol crossover. Moreover, in order to gain insight into the structure–property relation of NG as an ORR catalyst, the correlations of pyrolysis temperature, NG structure and the corresponding ORR catalytic activity are investigated, which signifies the important role of pyrrolic N-rich precursor ppy in achieving high graphitic N content and high catalytic activity. In addition, NG also exhibits a high OER catalytic activity. The bifunctional catalyst NG could be very useful in many energy conversion and storage technologies.
+SEM of GO and ppy control samples; XRD, Raman and FTIR characterizations of NGs; cycling stability test and anti-crossover test of NG-900 and Pt/C sample; more electrochemical characterizations of NGs samples; comparison of NG performances.
+The author would like thank Mr. Wentian Gu for his kindly help on nitrogen adsorption/desorption isotherm measurement. This work was financially supported by National Science Foundation (
+NSF, 0800849
+).
+Download: Download Word document (1MB)
+Supplementary materials
+Supplementary materials
+Ziyin Lin received his B.S. degree in Chemistry in 2009 from Peking Univsity, China. He is currently pursuing a Ph.D. degree at School of Chemistry and Biochemistry, Georgia Institute of Techonology. He joined Prof. CP Wong's group in 2009 and his research interests include the preparation and application of graphene-based materials in energy storage and conversion, vertically aligned carbon nanotube-based thermal interface materials, and novel nanocomposite for low-stress and high thermal conductivity underfills in electronic packaging.
+Gordon Waller is pursuing a Ph.D. in Materials Science and Engineering at the Georgia Institute of Technology. Before coming to Georgia Tech he received his B.S. in 2010 and M.S. in 2011 in Materials Science and Engineering from Virginia Polytechnic Institute and State University where he worked with oxide thin films grown using Pulsed Laser Deposition. He joined Professor Meilin Liu's group in 2011 and his primary research focus is on heterostructured cathodes for lithium batteries. His research interests include nanostructured electrode materials for lithium ion and lithium-oxygen batteries and novel non-precious metal catalysts.
+Yan Liu received the B.S. and M.S. degree in Textiles Engineering from Donghua University (Shanghai, China) and Philadelphia University, in 2006 and 2008 respectively. She is currently pursuing the Ph.D. degree at the School of Polymer, Textile and Fiber Engineering, Georgia Institute of Technology, Atlanta. She joined Dr. C.P. Wong's research group in fall, 2008. Her research interests include fabricating self-cleaning surfaces for different applications, micro-/nano-structured surfaces with multifunctionality for solar cell applications, and high refractive index LED encapsulant.
+Meilin Liu is a Regents' Professor of Materials Science and Engineering and Co-Director of the Center for Innovative Fuel Cell and Battery Technologies at Georgia Institute of Technology, Atlanta, Georgia, USA. He received his B.S. from South China University of Technology and both M.S. and Ph.D. from University of California at Berkeley. His research interests include in situ characterization and multi-scale modeling of charge and mass transfer along surfaces, across interfaces, and in membranes, thin films, and nanostructured electrodes, aiming at achieving rational design of materials and structures with unique functionalities for efficient energy storage and conversion.
+Prof. CP Wong is currently Dean of the Faculty of Engineering at the Chinese University of Hong Kong. He is on a no pay leave from Georgia Institute of Technology where he is a Regents' Professor and the Charles Smithgall Institute Endowed Chair at the School of Materials Science and Engineering. He received his B.S. degree from Purdue University, and his Ph.D. degree from the Pennsylvania State University. His research interests lie in the fields of polymeric electronic materials, electronic, photonic and MEMS packaging and interconnect, interfacial adhesions, nano-functional material syntheses and characterizations, nanocomposites, lead-free alloys, flip chip underfill, ultra high k capacitor composites and lotus effect coating materials.
+Cookies are used by this site.
+Cookie Settings
+All content on this site: Copyright © 2024 Elsevier B.V., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the Creative Commons licensing terms apply.

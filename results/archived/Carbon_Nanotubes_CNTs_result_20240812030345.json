@@ -1,0 +1,281 @@
+{
+    "materials": [
+        {
+            "material_name": "CNT films",
+            "properties": [
+                {
+                    "type": "Surface area",
+                    "value": 1315.0,
+                    "unit": "m2/g",
+                    "conditions": "theoretical value",
+                    "reaction_type": "NA",
+                    "evidence": 0
+                },
+                {
+                    "type": "Conductivity",
+                    "value": 100000.0,
+                    "unit": "S/m",
+                    "conditions": "continuous sp2-hybridized carbon structure",
+                    "reaction_type": "NA",
+                    "evidence": 0
+                },
+                {
+                    "type": "Surface area",
+                    "value": 1315.0,
+                    "unit": "m2/g",
+                    "conditions": "Theoretical value",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "Conductivity",
+                    "value": 100000.0,
+                    "unit": "S/m",
+                    "conditions": "Continuous sp2-hybridized carbon structure",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "Conductivity",
+                    "value": 2000.0,
+                    "unit": "S/cm",
+                    "conditions": "Directly grown by floating catalyst chemical vapor deposition (CVD)",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "Electrical conductivity",
+                    "value": 2000.0,
+                    "unit": "S cm\u20131",
+                    "conditions": "floating catalyst chemical vapor deposition (CVD)",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "ORR performance",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "surface-doped",
+                    "reaction_type": "ORR",
+                    "evidence": 4
+                },
+                {
+                    "type": "OER performance",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "surface-doped",
+                    "reaction_type": "OER",
+                    "evidence": 4
+                },
+                {
+                    "type": "ORR performance",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "bulk doped",
+                    "reaction_type": "ORR",
+                    "evidence": 4
+                },
+                {
+                    "type": "OER performance",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "bulk doped",
+                    "reaction_type": "OER",
+                    "evidence": 4
+                },
+                {
+                    "type": "Stability",
+                    "value": 100.0,
+                    "unit": "h",
+                    "conditions": "in laboratory trials",
+                    "reaction_type": "NA",
+                    "evidence": 6
+                },
+                {
+                    "type": "Stability",
+                    "value": 1000.0,
+                    "unit": "h",
+                    "conditions": "required for practical applications",
+                    "reaction_type": "NA",
+                    "evidence": 6
+                },
+                {
+                    "type": "Conductivity",
+                    "value": 1279.0,
+                    "unit": "S/cm",
+                    "conditions": "Stretchable conductors",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "Specific Surface Area",
+                    "value": 507.0,
+                    "unit": "m\u00b2/g",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 8
+                },
+                {
+                    "type": "Pore Structure",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "in situ Small/Wide Angle X-ray Scattering",
+                    "reaction_type": "NA",
+                    "evidence": 9
+                },
+                {
+                    "type": "Electrochemical Degradation",
+                    "value": 1929.0,
+                    "unit": "mV",
+                    "conditions": "at High Anodic Potential for Oxygen Evolution in Acidic Media",
+                    "reaction_type": "OER",
+                    "evidence": 12
+                },
+                {
+                    "type": "Thermoelectric properties",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "Improved",
+                    "reaction_type": "NA",
+                    "evidence": 14
+                },
+                {
+                    "type": "Decoration",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "Decorating",
+                    "reaction_type": "NA",
+                    "evidence": 10
+                },
+                {
+                    "type": "Iron concentration",
+                    "value": 1.0,
+                    "unit": "atoms",
+                    "conditions": "for efficient oxygen reduction",
+                    "reaction_type": "ORR",
+                    "evidence": 11
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "NixCo3\u2013xO4 loaded on CNT-PyPBI",
+            "properties": [
+                {
+                    "type": "Mass loading",
+                    "value": 37.0,
+                    "unit": "wt%",
+                    "conditions": "Uniform deposition",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "Size",
+                    "value": 5.0,
+                    "unit": "nm",
+                    "conditions": "Uniform deposition",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "Mass loading",
+                    "value": 37.0,
+                    "unit": "wt %",
+                    "conditions": "uniform deposition",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "Size",
+                    "value": 5.0,
+                    "unit": "nm",
+                    "conditions": "uniform deposition",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "mass loading",
+                    "value": 37.0,
+                    "unit": "wt %",
+                    "conditions": "NixCo3\u2013xO4 nanocrystals",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "size",
+                    "value": 5.0,
+                    "unit": "nm",
+                    "conditions": "NixCo3\u2013xO4 nanocrystals",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Fe-NC/rOCNT",
+            "properties": [
+                {
+                    "type": "Mass loading",
+                    "value": 37.0,
+                    "unit": "wt%",
+                    "conditions": "Uniform deposition",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "Size",
+                    "value": 5.0,
+                    "unit": "nm",
+                    "conditions": "Uniform deposition",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Pt/CNT_ionic liquid",
+            "properties": [],
+            "benchmark": true
+        },
+        {
+            "material_name": "Pt/CNT_IL_SiO2",
+            "properties": [],
+            "benchmark": true
+        },
+        {
+            "material_name": "CNT@POF",
+            "properties": [
+                {
+                    "type": "Conductivity",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "used as air electrode for flexible solid-state ZAB",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "PtFe-DCNT",
+            "properties": [],
+            "benchmark": true
+        }
+    ],
+    "doi": "example_doi",
+    "factor": "Hydrogen coverage,Energy barrier,Conductivity,Surface area,Size,Defect,Dopant,Active sites,Stability,Electrode potential,Overpotential,Tafel slope,onsite potential,Current density,Mass loading,XPS,FTIR,Raman,XRD",
+    "meta": {
+        "maintext": "/Users/yangz/Documents/projects/llm4catalyst/documents/maintext/Applications_of_Carbon_Nanotubes_in_Oxygen_Electro_maintext.txt",
+        "abstract": "/Users/yangz/Documents/projects/llm4catalyst/documents/abstract/Applications_of_Carbon_Nanotubes_in_Oxygen_Electro_abs.txt",
+        "intro": "documents/intro/c60_intro.txt",
+        "window_size": 2,
+        "chunk_size": 1000,
+        "chunk_overlap": 100,
+        "output": "results",
+        "property": "/Users/yangz/Documents/projects/llm4catalyst/prompts/properties.txt",
+        "self_defined": true,
+        "title": "Applications_of_Carbon_Nanotubes_in_Oxygen_Electro"
+    }
+}

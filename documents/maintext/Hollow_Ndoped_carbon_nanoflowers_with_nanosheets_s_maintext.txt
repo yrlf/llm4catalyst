@@ -1,0 +1,294 @@
+•
+Hollow N-doping carbon nanoflowers (h-N-CFs-800) are successfully prepared.
+•
+Covalent complexes act as calcination precursors and activated nitrogen sources.
+•
+Hollow and porous structure of h-N-CFs-800 increase the number of active sites.
+•
+The high ORR activity due to the unique hollow structure and abundant N doping.
+•
+h-N-CFs-800 has excellent ORR activity in both alkaline and neutral electrolytes.
+Hollow N-doping carbon nanoflowers (h-N-CFs-800) are successfully prepared.
+Covalent complexes act as calcination precursors and activated nitrogen sources.
+Hollow and porous structure of h-N-CFs-800 increase the number of active sites.
+The high ORR activity due to the unique hollow structure and abundant N doping.
+h-N-CFs-800 has excellent ORR activity in both alkaline and neutral electrolytes.
+The synthesis of economic carbon-based metal-free catalysts with high electroactivity for the oxygen reduction reaction (ORR) is still a huge challenge for energy storage and conversion devices. Herein, the hollow N-doped carbon nanoflowers (h-N-CFs) with nanosheets subunits were synthesized by using 3,5-diaminobenzoic acid-1,3,5-benzenetricarboxaldehyde (DABA-BTCO) complex nanoflowers as the self-template and nitrogen resource. Various physical characterizations show that h-N-CFs with hollow and porous architecture have a high surface area (1390.3 m2g−1) and abundant activated N atoms (i.e., graphitic N and pyridinic N). Electrochemical measurements demonstrate that h-N-CFs synthesized at 800 °C can be used as an efficient metal-free ORR catalyst with prominent electroactivity and stability due to hollow architecture, abundant pores, and high N-doping content. Meanwhile, h-N-CFs also show eminent ORR selectivity (i.e., methanol tolerance) in alkaline media, which markedly surpasses benchmark Pt/C catalyst in the presence of methanol.
+The high-quality hollow N-doping carbon nanoflowers (h-N-CFs) with nanosheets subunits are synthesized by using 2,5-diaminobenzoic acid-1,3,5-benzenetricarboxaldehyde (DABA-BTCO) complex nanoflowers as the self-template and nitrogen resource. The as-prepared h-N-CFs at 800 ℃ has excellent electrocatalytic oxygen reduction activity in both alkaline and neutral electrolytes, good long-term stability and eminent methanol tolerance, which is equal or even better than Pt/C electrocatalyst.
+Download: Download high-res image (175KB)
+Download: Download full-size image
+Since the oxygen reduction reaction (ORR) is an extremely important half-reaction in fuel cells and metal-air batteries devices, the ORR performance of catalysts directly determines the energy efficiency and service time of these devices
+[1]
+,
+[2]
+,
+[3]
+,
+[4]
+,
+[5]
+,
+[6]
+. Although platinum (Pt)-based catalysts possess remarkable ORR activity and stability, the high cost and low reserve drove the exploration of non-Pt ORR catalysts with high performance, which is urgent for further development of the energy sectors
+[7]
+,
+[8]
+,
+[9]
+,
+[10]
+,
+[11]
+. At present, metal-free carbon-based nanomaterials have exhibited efficient Pt-alternative cathode ORR catalysts in alkaline media. Doping carbon nanomaterials with heteroatoms (N, B, P, S, Cl, Se, Br, and I, etc.) is a feasible strategy for further improving the ORR activity, which is achieved by finely tuning their electronic/chemical structures and properties
+[12]
+,
+[13]
+,
+[14]
+,
+[15]
+,
+[16]
+,
+[17]
+. Compared with other heteroatom-doped carbon nanomaterials, N-doped carbon nanomaterials are more attractive because that the five valence electrons and atomic size of N atoms are similar to the C atoms, which can efficiently adjust the electronic property of the carbon atoms and turn into an active catalyst for the ORR
+[18]
+,
+[19]
+,
+[20]
+,
+[21]
+,
+[22]
+.
+Apart from the composition control, morphology regulation is another efficient strategy for the ORR activity enhancement of carbon-based nanomaterials
+[23]
+,
+[24]
+,
+[25]
+,
+[26]
+,
+[27]
+. As we all know, the electrocatalytic activity of a catalyst depends mainly on the amounts of active sites, electron communication capability, and mass transfer rate
+[28]
+,
+[29]
+. The previous advanced works have confirmed that hollow structures of nanomaterials own the strengths of the large surface area, more accessible internal channels, abundant active catalytic sites, and lower density, which are favourable for electrocatalytic applications
+[30]
+,
+[31]
+,
+[32]
+,
+[33]
+. In the course of catalytic reaction process, the hollow and porous architecture can provide rich active sites and accelerate the mass transfer
+[34]
+,
+[35]
+,
+[36]
+,
+[37]
+. For example, Liu and co-workers used melamine-cyanuric acid as template and covalent triazine framework as carbon resources to synthesize multi-dimensional carbon materials, which exhibited excellent electroactivity for both ORR and hydrogen evolution reaction
+[38]
+. At present, hard-template (silica, etched polymer, metal/metal oxide, etc.) synthesis and high-temperature seed epitaxial growth strategies have been widely applied to construct carbon-based materials with a well-defined hollow nanostructure
+[39]
+,
+[40]
+,
+[41]
+,
+[42]
+,
+[43]
+. However, hard-template synthesis suffers from the harsh synthetic procedure and tedious template removal step. Thus, exploring a new strategy for the construction of scalable, low-cost, and more controllable holey carbon nanomaterials is urgently needed.
+Herein, we reported a self-template strategy to prepare the hollow N-doping carbon nanoflowers (h-N-CFs) by using 3,5-diaminobenzoic acid-1,3,5-benzenetricarboxaldehyde (DABA-BTCO) complex nanoflowers as the self-template and nitrogen resource. The influences of the microstructure and chemical composition of h-N-CFs on the ORR activity were thoroughly investigated. According to experimental results, the N-doping and hollow structure of h-N-CFs were responsible for ORR activity enhancement. As a result, the optimal h-N-CFs exhibited high activity, unordinary selectivity, and long-term stability for the ORR in alkaline media.
+3,5-diaminobenzoic acid (DABA) was obtained from TCI Development Co., Ltd. (Shanghai, China). 1,3,5-benzenetricarboxaldehyde was purchased from J&K Scientific Ltd. (Beijing, China). Dimethylformamide, tetrahydrofuran, ethanol, and o-dichlorobenzene were purchased from Sinopharm Chemical Reagent Co., Ltd. (Shanghai, China).
+The 3,5-diaminobenzoic acid-1,3,5-benzenetricarboxaldehyde (DABA-BTCO) complex precursor was synthesized as follows. In a typical synthesis, DABA (
+Scheme 1
+, 0.375 mmol) and BTCO (
+Scheme 1
+, 0.565 mmol) were dissolved in 25 mL o-dichlorobenzene in the centrifuge tubes. After complete dissolution by sonication, 0.4 mL of acetic acid was added into the mixture solutions and then stood for 48 h at room temperature. The yellow DABA-BTCO complex precipitates were obtained and then washed thoroughly with dimethylformamide, tetrahydrofuran, and absolute ethanol three times, respectively. Finally, h-N-CFs-800 were achieved by carbonizing DABA-BTCO complex precipitates at 800 °C for 2 h at 5 °C·min-1 heating rate under an N2 flow condition.
+Scheme 1. The synthetic procedure of h-N-CFs-800.
+Fourier transform infrared spectra(FT-IR, Spectrum 100) and Thermal gravimetric analysis (TGA, TA-Instruments Q5000IR) were acquired to clarify the formation mechanism of precursors. Raman spectrometry (In Via Reflex), X-ray diffraction (XRD, D/max-rC), X-ray photoelectron spectroscopy (XPS, ESCALAB 250), transmission electron microscopy (TEM, JEM-2100F) with an energy-dispersive spectrometer (EDS) accessory, and scanning electron microscopy (SEM, SU8220) were used to characterize the crystalline structure, graphitization degrees, morphology, and surface composition of the samples. The physical adsorption instrument (ASAP 2400) was equipped to measure the surface area and pore volume of the samples.
+All the electrochemical experiments were conducted at CHI 760E electrochemical analyzer at 25 °C. The conventional three electrode system was constructed by a carbon rod counter electrode, a saturated calomel electrode (SCE) reference electrode, and a catalyst-modified rotating disk electrode (RDE) or a rotating ring disk electrode (RRDE) working electrode. The catalyst suspension ink was prepared by blending 2 mg of the catalyst into 1 mL of a water/Nafion solution with thorough sonication. Then, 10 μL ink of the resulting suspension was dropped on the surface of glassy carbon electrode and dried at 50 °C. The geometrical surface area of the disc electrode is 0.785 cm2 and the catalyst loading is 0.026 mg cm−2.
+The h-N-CFs-800 were easily achieved by calcining covalently linked DABA-BTCO complex precursor at 800 °C for 2 h under N2 atmosphere (
+Scheme 1
+).
+The chemical composition of h-N-CFs-800 was firstly investigated by the EDS. The EDS result shows that h-N-CFs-800 contain ca. 81.97, 11.14, and 6.89 atom % of C, N, and O, respectively (
+Fig. 1
+A). The fact indicates that the carbon materials are generated after carbonization and h-N-CFs-800 can provide effective N-doping. Powder XRD was applied to investigate the crystalline structure of h-N-CFs-800. A broad peak with large half-peak width at ≈23° and an unapparent peak at 44° correspond to (002) and (101) planes of carbon nanomaterials, which confirms the generation of carbon nanomaterials (
+Fig. 1
+B)
+[44]
+. Generally, the high graphitization degree of carbon nanomaterials effectively accelerates the electron communication and reaction rate of the electrocatalytic reaction on the electrode. The Raman spectrum can be applied to evaluate the graphitization state (
+Fig. 1
+C)
+[45]
+. Two peaks at 1345 cm-1 and 1580 cm-1 correspond to the D and G band of carbon materials, which are ascribed to sp3 carbon atoms and graphited sp2 carbon atoms, respectively. The ratio of the ID/IG of h-N-CFs-800 is 0.86, indicating that h-N-CFs-800 have a high graphitization degree.
+Fig. 1. (A) EDS data, (B) XRD spectrum, (C) Raman spectrum, (D) SEM image, (E) TEM image, (F) AFM image, and (G) HAADF-STEM image and corresponding element maps of h-N-CFs-800. Insert in
+Fig. 1
+E: magnified TEM image of h-N-CFs-800.
+As for microstructure characterization, the SEM image shows h-N-CFs-800 have a flower-like morphology, which is composed by self-assembly of nanosheet by nanosheet (
+Fig. 1
+D and
+Fig. S1
+). TEM image with low magnification exhibits that h-N-CFs-800 with flower-like morphology have the typical hollow architecture without any obvious collapse (
+Fig. 1
+E). Meanwhile, obvious channels on the nanosheets can also be observed. The hollow structure and the abundant channel of h-N-CFs-800 can accelerate the mass transfer and provide rich active sites. AFM image shows that the thickness of nanosheet subunits is only 3.42 nm (
+Fig. 1
+F). The high-resolution TEM (HRTEM) image shows that carbon nanosheet subunits are amorphous carbon (
+Fig. S2
+). Additionally, high-angle annular dark-field scanning TEM (HAADF-STEM) and the EDX elemental maps prove that C, N, and O elements are homogeneously distributed in h-N-CFs-800 (
+Fig. 1
+G), which suggests the N, C, and O elements uniformly distribute at h-N-CFs-800 and confirm the formation of the N-doped carbon.
+The hollow and porous architecture of h-N-CFs-800 was further confirmed by the N2 gas adsorption-desorption measurement (
+Fig. 2
+A). Brunauer–Emmett–Teller area of h-N-CFs-800 is 1390.3 m2g−1. And the adsorption-desorption curve belongs to the typical IV curves, which indicates the pore size distributes in micro- (in the low pressure of 0.05), meso- and macro-pores (in the high pressure about 0.4-1.0)
+[46]
+,
+[47]
+. A large proportion of pores is mainly centred at the region of 0.5-2.7 nm, which confirms the formation of micropores and mesopores during the pyrolysis process (Insert in
+Fig. 2
+A). And other pores distributed from 9.3 to 126 nm are attributed to hollow space, which is consistent with the TEM characterization. Thus, pore size distribution curve supports the unique hollow and porous morphology of h-N-CFs-800. The large surface area and hierarchical structure of h-N-CFs-800 prompt the active sites more accessible and accelerate the mass transfer in the ORR process. Compared with solid low dimensional carbon materials, the hollow and porous architecture of h-N-CFs-800 not only exhibits good mechanical intensity but also increases the utilization of the materials for every nanosheet, which is feasible for ORR
+[48]
+,
+[49]
+,
+[50]
+,
+[51]
+,
+[52]
+.
+Fig. 2. (A) N2 adsorption - desorption isotherms, (B) full scan XPS survey spectrum, (C) C 1 s XPS spectrum, and (D) N 1 s XPS spectrum of h-N-CFs-800. Insert in
+Fig. 2
+A: pore-size distribution.
+The surface chemical composition of h-N-CFs-800 was analyzed by XPS measurements. The XPS survey spectrum confirms the coexistence of C, N, O, in which their contents in h-N-CFs are ca. 88.67, 7.41, 3.62 atom%, respectively (
+Fig. 2
+B). The C 1 s spectrum of h-N-CFs-800 presents four obvious peaks at 284.61, 285.51, 286.73, and 288.94 eV, corresponding to graphitic C, C-sp3, CO/CN, CO, respectively (
+Fig. 2
+C). The C 1 s spectrum of h-N-CFs-800 suggests that the CO, CO and -COOH species still exist on the surface of h-N-CFs-800. The existence of these oxygen containing groups has been proved to improve the content of activating N species
+[53]
+,
+[54]
+,
+[55]
+. As for N elements (
+Fig. 2
+D), N 1 s spectrum can be deconvoluted into pyridinic-N (398.4 eV, 44.2%), graphitic-N (401.1 eV, 41.8%), and N-oxide (404.6 eV, 13.5%). The previous high-quality works have highlighted the activated N atoms (graphitic N and pyridinic N) can contribute to the outstanding ORR activity of N-doping carbon nanomaterials
+[56]
+,
+[57]
+,
+[58]
+. The activated N in h-N-CFs-800 is contributed more than 84.6% of all N atoms, which can be expected to accelerate the ORR kinetics.
+The DABA-BTCO complex precursor is prepared by the interaction of DABA and BTCO in o-dichlorobenzene as a solvent for 48 h at 25 °C. SEM and TEM images show DABA-BTCO complex precursor has flower-like morphology (
+Figs. S3 and S4
+). Nanoflowers-like DABA-BTCO complex precursors with N- containing species not only can introduce abundant N in a controllable, convenient, and scalable method but also can serve as a self-template for the synthesis of h-N-CFs-800. To prove the precursor synthesis, FTIR and solid-state 13C NMR characterization were performed. The peaks of CN (1624 cm−1) in the IR spectrum (
+Fig. S5
+) and 151.2 ppm in the solid-state 13C NMR spectrum (
+Fig. S6
+) confirm the successful polymerization of amino groups in DABA and aldehyde groups in BTCO. The formation of nanoflower-like precursors with nanosheets is attributed to the interaction between the reaction solvent and DABT-units. H-bond forces induced the assemble of two-dimensional (2D) thin nanosheet. Meanwhile, the halogen interaction between the di-halogen groups in the DCB and lone pair possessing atom in the DABTs (N, O, π system) drives the nanoflower structure formation
+[59]
+. The thermogravimetric curve proves that the precursor is stable at a high temperature of 382 °C because of its highly cross-linked structure (
+Fig. S7
+). And then the weight of the precursors starts to decompose rapidly, resulting in a higher residue mass (52%) even heated to 800 °C. The extremely high carbonization yield of the flower-like nanomaterials remains an appreciable residue about 50 wt%, suggesting that this material is an ideal carbon precursor. The carbonization process can effectively eliminate initial precursor particles with small size due to thermodynamic factor, which results in the hollow structure of h-N-CFs-800
+[49]
+.
+Thus, the hollow and porous architecture of h-N-CFs-800 originates from the original flower-like morphology of the DABA-BTCO complex precursor. DABA-BTCO complex precursor can not only serve as self-template but also provide abundant C and N sources.
+ORR electrocatalytic performance of h-N-CFs-800 was firstly evaluated by the cycle voltammetry (CV) measurements in 0.1 M KOH electrolyte. In O2-purged electrolyte, the CV curve of h-N-CFs-800 shows a distinct peak at 0.82 V (
+Fig. 3
+A). On the contrary, there is no typical cathodic peak in 0.1 M KOH under N2 atmosphere (
+Fig. 3
+A). Thus, CV curves confirm that h-N-CFs-800 possess obvious ORR activity. The linear sweep voltammetry (LSV) curve of h-N-CFs-800 exhibits an onset potential of 1.01 V, a halfwave potential (E1/2) of 0.87 V, and a limiting current density of -5.86 mA cm-2, which is basically equal to that of 20% Pt/C catalyst (
+Fig. 3
+B). h-N-CFs-800 own the better ORR activity than many previous reported carbon nanomaterials ORR catalysts (
+Table S1
+), also confirming its high ORR activity. The Tafel slope of ORR (79.3 mV dec-1) at h-N-CFs-800 is lower than that (93.6 mV dec-1) at Pt/C catalyst. These results suggest the superior electrocatalytic kinetics of h-N-CFs-800.
+Fig. 3. (A) CV curves of h-N-CFs-800 in an N2– and O2-purged 0.1 M KOH electrolyte at 50 mV s-1; (B) ORR polarization curves of h-N-CFs-800 and Pt/C catalyst in an O2-purged 0.1 M KOH electrolyte at 10 mV s-1 at rotation speed of 1600 rpm; (C) ORR polarization curves of h-N-CFs-800 at different rotation rates at 10 mV s-1; (D) The n and H2O2 yield plots measured from the RRDE tests. Insert in
+Fig. 3
+B: Tafel plots of h-N-CFs-800 and Pt/C catalyst. Insert in
+Fig. 3
+C: Koutecky-Levich of h-N-CFs-800.
+The ORR kinetics at h-N-CFs-800 were investigated by the LSV measurements (
+Fig. 3
+C). Commonly, increasing rotation rate leads to the thinner dissolution layer, which results in the increase of diffusion current. The Koutecky-Levich (K-L) plots of h-N-CFs-800 during 0.3 to 0.7 V potential range exhibit good linearity and parallelism (inset in
+Fig. 3
+C), suggesting the ORR kinetics belong to first-order kinetics. In addition, the electron transfer number (n) of ORR also can be calculated using K-L equation. Herein, n value at h-N-CFs-800 is approximately 3.95, indicating an ideal 4 electron transfer pathway. The RRDE with loaded h-N-CFs-800 was also applied to measure the ORR behavior. The value of ring disk currents (Ir) is inappreciable in 0.3–0.8 V potential range, which proves to an extremely low H2O2 yield (5-7%) (
+Fig. 3
+D). The calculated value of n is approximately 3.92, which is in good accordance with the obtained n by the K-L equation. Furthermore, the ORR performance of h-N-CFs-800 was measured in 0.1 M phosphate buffer electrolyte (pH 7.0). All electrochemical measurements results also indicate that h-N-CFs-800 exhibit comparable ORR activity relative to Pt/C catalyst in neutral media (
+Fig. S8
+).
+To understand the outstanding ORR activity, we first investigate the effect of morphology on this metal-free catalyst for the ORR. After changing solvents, the interaction between the solvents and DABA-BTCO complex precursors results in different morphology. Specifically, the Van Der Waals of acetone as solvent predominantly results in the directional linear morphology (
+Fig. S9
+A). And ethanol with strong polarity leads to generate the nanoparticles (
+Fig. S9
+B). After calcining these DABA-BTCO complex precursors at 800 °C, N-doping carbon nanowires (N-CWs-800) and N-doping carbon nanoparticles (N-CDs-800) were easily achieved (
+Fig. S10
+A-D). Electrochemical measurements show that h-N-CFs-800 has a higher E1/2 value than N-CWs-800 (0.80 V) and N-CDs-800 (0.72 V) (
+Fig. S10
+E). Physical characterization indicates that compared with both N-CWs-800 and N-CDs-800, h-N-CFs-800 with rigid structure exhibit the largest BET surface area, the highest N/C ratio and the highest amount of activated N (graphitic N and pyridinic N), which is responsible for substantial improvement in ORR activity (
+Fig. S10
+F-H,
+Tables S2 and S3
+).
+To understand the function of the carboxyl group at DABA, the carbon nanospheres (CSs-800) were synthesized by using o-phenylenediamine without carboxyl as a reaction precursor (
+Fig. S11
+A). Electrochemical measurements show the value of E1/2 (0.87 V) of h-N-CFs-800 for the ORR is more outstanding than that (0.71 V) of the CSs-800 (
+Fig. S11
+B). According to the XPS results, h-N-CFs-800 possess higher N/C ratio and higher amount activated pyridinic N, which confirm that CO and –COOH groups are also favourable to create pyridinic N with high ORR activity (
+Fig. S11
+C). As a result, h-N-CFs-800 have higher ORR activity than CSs-800.
+Additionally, the calcination temperature notably affects the ORR activity of h-N-CFs. When calcination temperature is fixed at 900 °C and 700 °C, the obtained hollow N-doping carbon nanoflowers were named h-N-CFs-900 and h-N-CFs-700. Electrochemical measurements show that h-N-CFs-800 has a higher E1/2, well comparable to h-N-CFs-900 and h-N-CFs-700 for the ORR, indicating the optimized calcination temperature of 800 °C (
+Fig. S12
+A). XPS measurements show calcination temperature strongly affects the N content and the pyridinic-N content of h-N-CFs (
+Fig. S12
+B and C). h-N-CFs-700 shows a low ORR activity because of the incomplete carbonization. After increasing calcination temperature to 900 °C, structural collapse of h-N-CFs was observed (
+Fig. S12
+D), which decreases the ORR activity.
+So far, all physical characterizations and electrochemical measurements indicate that the combinatorial effect of hollow architecture, abundant pores, and high N-doping content is responsible for high ORR activity of h-N-CFs-800
+[60]
+. Specifically, hollow and porous architecture effectively enhances the amounts of active sites and processes abundant channels to accelerate the mass transfer of dissolved O2 molecules. Additionally, the high content of pyridinic N with high ORR activity also contributes to the high activity of h-N-CFs-800.
+The ORR selectivity and durability catalysts are important indicators for evaluating the cathode in commercial fuel cells
+[61]
+,
+[62]
+,
+[63]
+. Hence, the methanol tolerance of the catalysts was firstly tested by CV. As observed, in the presence of 1 M methanol, Pt/C catalyst shows an obvious electrocatalytic activity for methanol oxidation. In contrast, no anodic oxidation peak of methanol is observed in h-N-CFs-800 in 0.1 M KOH electrolyte with 1 M CH3OH (
+Fig. 4
+A). This fact indicates that h-N-CFs-800 have exceeding methanol selectivity than Pt/C catalyst. The methanol tolerance of h-N-CFs-800 and Pt/C catalyst is further confirmed by the chronoamperometry experiment (
+Fig. 4
+B). The introduction of 1 M methanol has no noticeable effect for the ORR current of h-N-CFs-800 but results in a distinct drop in the ORR current of Pt/C catalyst. All of the above results demonstrate that h-N-CFs-800 have excellent ORR selectivity. Apart from catalytic tolerance, the long-term durability of ORR catalysts must be taken into account for their practical application. The durability of the catalyst was determined by cycling experiments (
+Fig. 4
+C) and chronoamperometry measurements (
+Fig. 4
+D). Although the current densities of both h-N-CFs-800 and Pt/C catalyst decrease after 5000 cycles, the E1/2 of h-N-CFs-800 only decreases by 14 mV (
+Fig. 4
+C) but that of the Pt/C catalyst obviously decays for 36 mV. The further chronoamperometric curves reveal that the retention ratio of h-N-CFs-800 is attenuated slowly than Pt/C catalyst. The h-N-CFs-800 retain 93.4% of the initial current value after 6000 s, which is clearly higher than that of commercial Pt/C (88.2 %) catalyst. All these results confirm the excellent stability of h-N-CFs-800 (
+Fig. 4
+D).
+Fig. 4. (A) CV curves of h-N-CFs-800 and Pt/C in N2-purged 0.1 M KOH electrolyte with (dash line) and without (solid line) 1 M CH3OH; (B) Chronoamperometry curve of h-N-CFs-800 and Pt/C catalyst at 0.7 V potential in O2-purged 0.1 M KOH electrolyte with 1 M CH3OH; (C) Durability comparison by LSVs for above catalysts before and after 5000 cycles; (D) Chronoamperometric response of h-N-CFs-800 in O2-purged 0.1 M KOH electrolyte.
+In summary, high-quality h-N-CFs-800 were successfully prepared by using DABA-BTCO complex nanoflowers as calcination precursors. Experimental results showed the morphology of DABA-BTCO complex precursors determined the morphology of N-doping carbon nanomaterials due to the self-template effect. The experimental results confirmed that the particular morphology and chemical composition of DABA-BTCO complex nanoflowers precursor are responsible for high surface area, hollow and porous architecture, enriched and effective N doping of h-N-CFs-800. Electrochemical measurements revealed h-N-CFs-800 have exceptional ORR performance in both alkaline and neutral electrolytes, good long-term stability and eminent methanol tolerance, which was equal or even better than Pt/C catalyst. What is more, this self-template strategy might be further applied to synthesize covalent nanomaterials with metal ions, thus further constructing N-doping carbon-supported metal nanoparticles nanohybrids with wide applications in the energy conversion field, such as low temperature fuel cells, water splitting, and metal-air batteries.
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+This work is sponsored by the National Natural Science Foundation of China (Nos.
+22074086
+and
+21972089
+), the Natural Science Foundation of Shaanxi Province (No.
+2020JM-282
+), and the Fundamental Research Funds for the Central Universities (No.
+GK202005003
+).
+The following are the Supplementary data to this article:
+Download: Download Word document (2MB)
+Supplementary data 1.
+Supplementary data 1.
+Cookies are used by this site.
+Cookie Settings
+All content on this site: Copyright © 2024 Elsevier B.V., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the Creative Commons licensing terms apply.
+How do you perceive AI in engineering? Your feedback matters in shaping AI integration within Knovel. Take our quick 10-minute survey to share your thoughts on AI trust, adoption, and its impact on your experience.

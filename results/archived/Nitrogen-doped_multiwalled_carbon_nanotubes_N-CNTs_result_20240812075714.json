@@ -1,0 +1,385 @@
+{
+    "materials": [
+        {
+            "material_name": "N-Doped Graphene Nanoribbons",
+            "properties": [
+                {
+                    "type": "Current density",
+                    "value": 0.0,
+                    "unit": "mA/cm\u00b2",
+                    "conditions": "ORR electrocatalytic oxidation reduction",
+                    "reaction_type": "ORR",
+                    "evidence": 0
+                },
+                {
+                    "type": "Onset potential",
+                    "value": 0.0,
+                    "unit": "V",
+                    "conditions": "ORR",
+                    "reaction_type": "ORR",
+                    "evidence": 0
+                },
+                {
+                    "type": "Electron transfer number",
+                    "value": 4.0,
+                    "unit": "electrons",
+                    "conditions": "rotating disk electrode and rotating ring disk electrode measurements, edge states, N-Qvalley, and pyridinic",
+                    "reaction_type": "ORR",
+                    "evidence": 0
+                },
+                {
+                    "type": "Electron transfer number",
+                    "value": 2.0,
+                    "unit": "electrons",
+                    "conditions": "rotating disk electrode and rotating ring disk electrode measurements, N-Qcenter sites",
+                    "reaction_type": "ORR",
+                    "evidence": 0
+                },
+                {
+                    "type": "Outer diameter",
+                    "value": 30.0,
+                    "unit": "nm",
+                    "conditions": "TEM imaging",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "Diameter",
+                    "value": 30.0,
+                    "unit": "nm",
+                    "conditions": "TEM imaging at 800 \u00b0C",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "Defect",
+                    "value": 0.811,
+                    "unit": "ratio",
+                    "conditions": "Raman spectroscopy after heat treatment at 850 \u00b0C",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "ORR current density",
+                    "value": 1.2,
+                    "unit": "times",
+                    "conditions": "treated at 400 \u00b0C compared to untreated",
+                    "reaction_type": "ORR",
+                    "evidence": 6
+                },
+                {
+                    "type": "peak potential",
+                    "value": 30.0,
+                    "unit": "mV",
+                    "conditions": "positive shift for treated N-CNTs at 400 \u00b0C",
+                    "reaction_type": "ORR",
+                    "evidence": 6
+                },
+                {
+                    "type": "ORR current density",
+                    "value": 1.7,
+                    "unit": "times",
+                    "conditions": "treated at 850 \u00b0C compared to untreated",
+                    "reaction_type": "ORR",
+                    "evidence": 6
+                },
+                {
+                    "type": "XPS peak",
+                    "value": 397.7,
+                    "unit": "eV",
+                    "conditions": "characterizing Fe\u2013Nx species",
+                    "reaction_type": "ORR",
+                    "evidence": 6
+                },
+                {
+                    "type": "Onset potential",
+                    "value": -0.22,
+                    "unit": "V",
+                    "conditions": "in O2-saturated 0.1 M KOH at 1500 rpm, RRDE measurements",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "Electron transfer number",
+                    "value": 1.9,
+                    "unit": "dimensionless",
+                    "conditions": "RRDE measurements",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "Electron transfer number",
+                    "value": 2.7,
+                    "unit": "dimensionless",
+                    "conditions": "RRDE measurements",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "Electron transfer number",
+                    "value": 3.0,
+                    "unit": "dimensionless",
+                    "conditions": "RRDE measurements",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "Electron transfer number",
+                    "value": 2.9,
+                    "unit": "dimensionless",
+                    "conditions": "RRDE measurements",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "Electron transfer number",
+                    "value": 1.9,
+                    "unit": "NA",
+                    "conditions": "ORR",
+                    "reaction_type": "ORR",
+                    "evidence": 8
+                },
+                {
+                    "type": "Electron transfer number",
+                    "value": 2.7,
+                    "unit": "NA",
+                    "conditions": "ORR",
+                    "reaction_type": "ORR",
+                    "evidence": 8
+                },
+                {
+                    "type": "Electron transfer number",
+                    "value": 3.0,
+                    "unit": "NA",
+                    "conditions": "ORR",
+                    "reaction_type": "ORR",
+                    "evidence": 8
+                },
+                {
+                    "type": "Electron transfer number",
+                    "value": 2.9,
+                    "unit": "NA",
+                    "conditions": "ORR",
+                    "reaction_type": "ORR",
+                    "evidence": 8
+                },
+                {
+                    "type": "Current density",
+                    "value": 2258.0,
+                    "unit": "mA/cm\u00b2",
+                    "conditions": "in Alkaline Media",
+                    "reaction_type": "ORR",
+                    "evidence": 10
+                },
+                {
+                    "type": "Raman Spectroscopy",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "CVD",
+                    "reaction_type": "NA",
+                    "evidence": 11
+                },
+                {
+                    "type": "Oxygen Reduction Reaction activity",
+                    "value": 15.0,
+                    "unit": "index",
+                    "conditions": "NA",
+                    "reaction_type": "ORR",
+                    "evidence": 15
+                },
+                {
+                    "type": "Oxygen Reduction Reaction activity",
+                    "value": 19.0,
+                    "unit": "index",
+                    "conditions": "NA",
+                    "reaction_type": "ORR",
+                    "evidence": 19
+                },
+                {
+                    "type": "Oxygen Reduction Activity",
+                    "value": 6707.0,
+                    "unit": "index",
+                    "conditions": "Intrinsic Carbon Defects",
+                    "reaction_type": "ORR",
+                    "evidence": 18
+                },
+                {
+                    "type": "Stability",
+                    "value": 0.0,
+                    "unit": "NA",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 21
+                },
+                {
+                    "type": "Conversion rate",
+                    "value": 100.0,
+                    "unit": "%",
+                    "conditions": "from pyridinic to pyrrolic nitrogen configuration",
+                    "reaction_type": "NA",
+                    "evidence": 22
+                },
+                {
+                    "type": "XPS",
+                    "values": [
+                        284.6,
+                        401.0,
+                        531.0,
+                        398.6,
+                        400.3,
+                        398.6,
+                        400.3,
+                        401.0,
+                        402.3,
+                        402.6,
+                        403.8,
+                        404.1,
+                        405.3,
+                        398.6,
+                        400.3,
+                        401.3,
+                        402.3,
+                        402.6,
+                        0.0,
+                        null,
+                        8071.0
+                    ],
+                    "units": [
+                        null,
+                        "NA",
+                        "eV"
+                    ],
+                    "conditions": [
+                        "Binding energy of N 1s",
+                        "binding energy for quaternary nitrogen (N-Q)",
+                        "binding energy for pyridinic type nitrogen",
+                        "CVD",
+                        "binding energy for pyrrolic type nitrogen",
+                        "C 1s peak",
+                        "N 1s peak, pyrrolic-N",
+                        "O 1s peak",
+                        "N 1s spectrum",
+                        "N 1s peak",
+                        "N 1s peak, pyridinic-N",
+                        "NA",
+                        "binding energy for valley-N (N-Qvalley)"
+                    ],
+                    "evidence": 3.4761904761904763
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Pt-Vulcan",
+            "properties": [
+                {
+                    "type": "Onset potential",
+                    "value": -0.65,
+                    "unit": "V",
+                    "conditions": "in O2-saturated 0.1 M KOH at 1500 rpm, RRDE measurements",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                }
+            ],
+            "benchmark": true
+        },
+        {
+            "material_name": "Co3O4 Nanocrystals on Graphene",
+            "properties": [
+                {
+                    "type": "Oxygen Reduction Reaction",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "Synergistic Catalyst",
+                    "reaction_type": "ORR",
+                    "evidence": 13
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Nickel\u2013Nitrogen\u2013Carbon",
+            "properties": [
+                {
+                    "type": "CO2 Electro-reduction rate",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "High rate",
+                    "reaction_type": "NA",
+                    "evidence": 14
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "MOF-Derived Metal-Free Catalyst",
+            "properties": [
+                {
+                    "type": "Oxygen Reduction Reaction Catalyst",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "Facile Activation Strategy",
+                    "reaction_type": "ORR",
+                    "evidence": 16
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Co-, N-, and S-Tridoped Carbon",
+            "properties": [
+                {
+                    "type": "Material derived from",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "Nitrogen- and",
+                    "reaction_type": "NA",
+                    "evidence": 17
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Pt\u2013Ni Nanoparticles",
+            "properties": [
+                {
+                    "type": "Oxygen Reduction Performance",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "Adhesion on Nitrogen-Doped Graphene",
+                    "reaction_type": "ORR",
+                    "evidence": 20
+                }
+            ],
+            "benchmark": true
+        },
+        {
+            "material_name": "non-metallic carbon-based catalysts",
+            "properties": [
+                {
+                    "type": "ORR pathway",
+                    "value": 2.0,
+                    "unit": "electron",
+                    "conditions": "in Cl--bearing electrolytes",
+                    "reaction_type": "ORR",
+                    "evidence": 23
+                }
+            ],
+            "benchmark": false
+        }
+    ],
+    "doi": "example_doi",
+    "factor": "Hydrogen coverage,Energy barrier,Conductivity,Surface area,Size,Defect,Dopant,Active sites,Stability,Electrode potential,Overpotential,Tafel slope,onsite potential,Current density,Mass loading,XPS,FTIR,Raman,XRD",
+    "meta": {
+        "maintext": "/Users/yangz/Documents/projects/llm4catalyst/documents/maintext/Formation_of_Active_Sites_for_Oxygen_Reduction_Rea_maintext.txt",
+        "abstract": "/Users/yangz/Documents/projects/llm4catalyst/documents/abstract/Formation_of_Active_Sites_for_Oxygen_Reduction_Rea_abs.txt",
+        "intro": "documents/intro/c60_intro.txt",
+        "window_size": 2,
+        "chunk_size": 1000,
+        "chunk_overlap": 100,
+        "output": "results",
+        "property": "/Users/yangz/Documents/projects/llm4catalyst/prompts/properties.txt",
+        "self_defined": true,
+        "title": "Formation_of_Active_Sites_for_Oxygen_Reduction_Rea"
+    }
+}

@@ -1,0 +1,430 @@
+{
+    "materials": [
+        {
+            "material_name": "Fe-doped Co3O4@C nanoparticles",
+            "properties": [
+                {
+                    "type": "Size",
+                    "value": 30.0,
+                    "unit": "nm",
+                    "conditions": "synthesized from CoFe layered double hydroxide",
+                    "reaction_type": "NA",
+                    "evidence": 0
+                },
+                {
+                    "type": "Size",
+                    "value": 50.0,
+                    "unit": "nm",
+                    "conditions": "synthesized from CoFe layered double hydroxide",
+                    "reaction_type": "NA",
+                    "evidence": 0
+                },
+                {
+                    "type": "Overpotential",
+                    "value": 260.0,
+                    "unit": "mV",
+                    "conditions": "at current density of 20 mA cm\u22122",
+                    "reaction_type": "OER",
+                    "evidence": 0
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 70.0,
+                    "unit": "mV dec\u22121",
+                    "conditions": "in alkaline solution",
+                    "reaction_type": "OER",
+                    "evidence": 0
+                },
+                {
+                    "type": "Current density",
+                    "value": 20.0,
+                    "unit": "mA cm\u22122",
+                    "conditions": "at overpotential of 260 mV",
+                    "reaction_type": "OER",
+                    "evidence": 0
+                },
+                {
+                    "type": "Stability",
+                    "value": 100.0,
+                    "unit": "h",
+                    "conditions": "no OER current density degradation",
+                    "reaction_type": "OER",
+                    "evidence": 0
+                },
+                {
+                    "type": "Size",
+                    "value": 30.0,
+                    "unit": "nm",
+                    "conditions": "synthesized from CoFe-LDH",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "Size",
+                    "value": 50.0,
+                    "unit": "nm",
+                    "conditions": "synthesized from CoFe-LDH",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "Overpotential",
+                    "value": 260.0,
+                    "unit": "mV",
+                    "conditions": "at current density of 20 mA/cm2",
+                    "reaction_type": "OER",
+                    "evidence": 1
+                },
+                {
+                    "type": "Overpotential",
+                    "value": 260.0,
+                    "unit": "mV",
+                    "conditions": "OER, current density of 20 mA/cm2",
+                    "reaction_type": "OER",
+                    "evidence": 2
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 70.0,
+                    "unit": "mV dec-1",
+                    "conditions": "OER",
+                    "reaction_type": "OER",
+                    "evidence": 2
+                },
+                {
+                    "type": "overpotential",
+                    "value": 260.0,
+                    "unit": "mV",
+                    "conditions": "in 1 M KOH, current density of 20 mA/cm2",
+                    "reaction_type": "OER",
+                    "evidence": 3
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 70.0,
+                    "unit": "mV/decade",
+                    "conditions": "in 1 M KOH",
+                    "reaction_type": "OER",
+                    "evidence": 3
+                },
+                {
+                    "type": "Size",
+                    "value": 30.0,
+                    "unit": "nm",
+                    "conditions": "after adsorption of glucose and calcination",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Size",
+                    "value": 50.0,
+                    "unit": "nm",
+                    "conditions": "after adsorption of glucose and calcination",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Size",
+                    "value": 30.0,
+                    "unit": "nm",
+                    "conditions": "TEM analysis",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                },
+                {
+                    "type": "Size",
+                    "value": 50.0,
+                    "unit": "nm",
+                    "conditions": "TEM analysis",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                },
+                {
+                    "type": "Interplanar distance",
+                    "value": 0.289,
+                    "unit": "nm",
+                    "conditions": "HRTEM, assigned to (220) plane",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                },
+                {
+                    "type": "Interplanar distance",
+                    "value": 0.47,
+                    "unit": "nm",
+                    "conditions": "HRTEM, assigned to (111) plane",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                },
+                {
+                    "type": "BET specific surface area",
+                    "value": 34.0,
+                    "unit": "m2 g\u22121",
+                    "conditions": "Nitrogen adsorption\u2013desorption measurement",
+                    "reaction_type": "NA",
+                    "evidence": 6
+                },
+                {
+                    "type": "Average pore size",
+                    "value": 26.0,
+                    "unit": "nm",
+                    "conditions": "BJH analysis",
+                    "reaction_type": "NA",
+                    "evidence": 6
+                },
+                {
+                    "type": "Pore volume",
+                    "value": 0.26,
+                    "unit": "cm3 g\u22121",
+                    "conditions": "BJH analysis",
+                    "reaction_type": "NA",
+                    "evidence": 6
+                },
+                {
+                    "type": "Co/Fe molar ratio",
+                    "value": 2.28,
+                    "unit": "ratio",
+                    "conditions": "ICP test",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "XPS peak",
+                    "value": 779.2,
+                    "unit": "eV",
+                    "conditions": "XPS, Co 2p3/2",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "XPS peak",
+                    "value": 794.3,
+                    "unit": "eV",
+                    "conditions": "XPS, Co 2p1/2",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "XPS peak",
+                    "value": 781.4,
+                    "unit": "eV",
+                    "conditions": "XPS, Co 2p3/2",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "XPS peak",
+                    "value": 796.9,
+                    "unit": "eV",
+                    "conditions": "XPS, Co 2p1/2",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "XPS peak",
+                    "value": 780.2,
+                    "unit": "eV",
+                    "conditions": "XPS, Co 2p3/2",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "XPS peak",
+                    "value": 795.5,
+                    "unit": "eV",
+                    "conditions": "XPS, Co 2p1/2",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "XPS peak",
+                    "value": 710.4,
+                    "unit": "eV",
+                    "conditions": "XPS, Fe 2p, Fe2+",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "XPS peak",
+                    "value": 721.8,
+                    "unit": "eV",
+                    "conditions": "XPS, Fe 2p, Fe2+",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "XPS peak",
+                    "value": 717.4,
+                    "unit": "eV",
+                    "conditions": "XPS, satellite peak, Fe2+",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "XPS peak",
+                    "value": 712.9,
+                    "unit": "eV",
+                    "conditions": "XPS, Fe 2p, Fe3+",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "XPS peak",
+                    "value": 724.4,
+                    "unit": "eV",
+                    "conditions": "XPS, Fe 2p, Fe3+",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "XPS peak",
+                    "value": 531.2,
+                    "unit": "eV",
+                    "conditions": "XPS, O 1s, hydroxyl groups",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "XPS peak",
+                    "value": 533.0,
+                    "unit": "eV",
+                    "conditions": "XPS, O 1s, absorbed water",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "XPS peak",
+                    "value": 529.4,
+                    "unit": "eV",
+                    "conditions": "XPS, O 1s, lattice O2-",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "XPS peak",
+                    "value": 284.5,
+                    "unit": "eV",
+                    "conditions": "XPS, C 1s, graphitic carbon",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "Surface area",
+                    "value": 34.0,
+                    "unit": "m2/g",
+                    "conditions": "BET analysis",
+                    "reaction_type": "NA",
+                    "evidence": 8
+                },
+                {
+                    "type": "Pore size",
+                    "value": 26.0,
+                    "unit": "nm",
+                    "conditions": "BJH analysis",
+                    "reaction_type": "NA",
+                    "evidence": 8
+                },
+                {
+                    "type": "OER onset potential",
+                    "value": 1.45,
+                    "unit": "V",
+                    "conditions": "in 1 M KOH, scan rate 10 mV/s",
+                    "reaction_type": "OER",
+                    "evidence": 8
+                },
+                {
+                    "type": "Overpotential",
+                    "value": 260.0,
+                    "unit": "mV",
+                    "conditions": "to achieve 20 mA/cm\u00b2",
+                    "reaction_type": "OER",
+                    "evidence": 8
+                },
+                {
+                    "type": "Stability",
+                    "value": 7.0,
+                    "unit": "%",
+                    "conditions": "100 h OER test at 1.50 V vs. RHE",
+                    "reaction_type": "OER",
+                    "evidence": 8
+                },
+                {
+                    "type": "pore size",
+                    "value": 26.0,
+                    "unit": "nm",
+                    "conditions": "BJH analysis",
+                    "reaction_type": "NA",
+                    "evidence": 9
+                },
+                {
+                    "type": "pore volume",
+                    "value": 0.26,
+                    "unit": "cm3 g\u22121",
+                    "conditions": "BJH analysis",
+                    "reaction_type": "NA",
+                    "evidence": 9
+                },
+                {
+                    "type": "XPS",
+                    "values": [
+                        710.4,
+                        721.8,
+                        717.4,
+                        712.9,
+                        724.4,
+                        531.2,
+                        533.0,
+                        529.4,
+                        284.5
+                    ],
+                    "units": [
+                        "eV"
+                    ],
+                    "conditions": [
+                        "Fe 2p spectrum",
+                        "C 1s spectrum",
+                        "O 1s spectrum",
+                        "Fe 2p spectrum, satellite peak"
+                    ],
+                    "evidence": 8.0
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "FeCo3O4@C nanosheets",
+            "properties": [
+                {
+                    "type": "pore size",
+                    "value": 7.0,
+                    "unit": "nm",
+                    "conditions": "BJH analysis",
+                    "reaction_type": "NA",
+                    "evidence": 9
+                },
+                {
+                    "type": "pore volume",
+                    "value": 0.05,
+                    "unit": "cm3 g\u22121",
+                    "conditions": "BJH analysis",
+                    "reaction_type": "NA",
+                    "evidence": 9
+                }
+            ],
+            "benchmark": false
+        }
+    ],
+    "doi": "example_doi",
+    "factor": "Hydrogen coverage,Energy barrier,Conductivity,Surface area,Size,Defect,Dopant,Active sites,Stability,Electrode potential,Overpotential,Tafel slope,onsite potential,Current density,Mass loading,XPS,FTIR,Raman,XRD",
+    "meta": {
+        "maintext": "/Users/yangz/Documents/projects/llm4catalyst/documents/maintext/Fedoped_Co3O4C_nanoparticles_derived_from_layered__maintext.txt",
+        "abstract": "/Users/yangz/Documents/projects/llm4catalyst/documents/abstract/Fedoped_Co3O4C_nanoparticles_derived_from_layered__abs.txt",
+        "intro": "documents/intro/c60_intro.txt",
+        "window_size": 2,
+        "chunk_size": 1000,
+        "chunk_overlap": 100,
+        "output": "results",
+        "property": "/Users/yangz/Documents/projects/llm4catalyst/prompts/properties.txt",
+        "self_defined": true,
+        "title": "Fedoped_Co3O4C_nanoparticles_derived_from_layered_"
+    }
+}

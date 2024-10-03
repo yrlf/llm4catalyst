@@ -1,0 +1,332 @@
+{
+    "materials": [
+        {
+            "material_name": "g-C3N4@N-G",
+            "properties": [
+                {
+                    "type": "ORR performance",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "comparable to Pt/C",
+                    "reaction_type": "ORR",
+                    "evidence": 0
+                },
+                {
+                    "type": "mass loading",
+                    "value": 10.0,
+                    "unit": "mg",
+                    "conditions": "mixed in 20 mL DI-water, sonicated for 20 min",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "mass loading",
+                    "value": 30.0,
+                    "unit": "mg",
+                    "conditions": "mixed in 20 mL DI-water, sonicated for 20 min",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "TGA",
+                    "value": 650.0,
+                    "unit": "\u00b0C",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "TGA",
+                    "value": 600.0,
+                    "unit": "\u00b0C",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "TGA",
+                    "value": 600.0,
+                    "unit": "\u00b0C",
+                    "conditions": "Thermogravimetric analysis",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Decomposition temperature",
+                    "value": 600.0,
+                    "unit": "\u00b0C",
+                    "conditions": "TGA analysis",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                },
+                {
+                    "type": "Thermo stability",
+                    "value": 300.0,
+                    "unit": "\u00b0C",
+                    "conditions": "TGA analysis over 300-600 \u00b0C",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                },
+                {
+                    "type": "XPS peak",
+                    "value": 284.6,
+                    "unit": "eV",
+                    "conditions": "C1s spectrum",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                },
+                {
+                    "type": "XPS peak",
+                    "value": 285.6,
+                    "unit": "eV",
+                    "conditions": "C1s spectrum",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                },
+                {
+                    "type": "XPS peak",
+                    "value": 286.0,
+                    "unit": "eV",
+                    "conditions": "C1s spectrum",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                },
+                {
+                    "type": "XPS peak",
+                    "value": 398.6,
+                    "unit": "eV",
+                    "conditions": "N1s spectrum",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                },
+                {
+                    "type": "XPS peak",
+                    "value": 400.6,
+                    "unit": "eV",
+                    "conditions": "N1s spectrum",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                },
+                {
+                    "type": "XPS peak",
+                    "value": 401.0,
+                    "unit": "eV",
+                    "conditions": "N1s spectrum",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                },
+                {
+                    "type": "XPS peak",
+                    "value": 405.7,
+                    "unit": "eV",
+                    "conditions": "N1s spectrum",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                },
+                {
+                    "type": "ORR onset potential",
+                    "value": -0.1,
+                    "unit": "V",
+                    "conditions": "CV in O2 saturated 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "ORR onset potential",
+                    "value": -0.31,
+                    "unit": "V",
+                    "conditions": "ORR performance",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "ORR half-wave potential",
+                    "value": -0.22,
+                    "unit": "V",
+                    "conditions": "ORR performance",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "Electron transfer number",
+                    "value": 4.0,
+                    "unit": "none",
+                    "conditions": "RRDE analysis",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "XPS",
+                    "values": [
+                        284.6,
+                        285.6,
+                        286.0,
+                        398.6,
+                        400.6,
+                        401.0,
+                        405.7,
+                        284.6,
+                        285.6,
+                        286.0,
+                        398.6,
+                        400.6,
+                        401.0,
+                        405.7
+                    ],
+                    "units": [
+                        "eV"
+                    ],
+                    "conditions": [
+                        "C1s spectrum, C\u2013N peak",
+                        "N1s spectrum, pyrrolic-N peak",
+                        "C1s spectrum, sp3-C peak",
+                        "N1s spectrum, pyridinic-N peak",
+                        "N1s spectrum, N-oxides peak",
+                        "N1s spectrum, graphitic-N peak",
+                        "X-ray photoelectron spectroscopy",
+                        "C1s spectrum, sp2-C peak"
+                    ],
+                    "evidence": 5.0
+                },
+                {
+                    "type": "XRD",
+                    "values": [
+                        27.4,
+                        26.4,
+                        13.0,
+                        27.4,
+                        13.0,
+                        26.2,
+                        26.4
+                    ],
+                    "units": [
+                        "\u00b0"
+                    ],
+                    "conditions": [
+                        "NA",
+                        "X-ray diffraction"
+                    ],
+                    "evidence": 2.5714285714285716
+                },
+                {
+                    "type": "Raman",
+                    "values": [
+                        1356.0,
+                        1588.0,
+                        0.99,
+                        1356.0,
+                        1588.0
+                    ],
+                    "units": [
+                        "ratio",
+                        "cm\u22121"
+                    ],
+                    "conditions": [
+                        "Raman spectroscopy",
+                        "NA"
+                    ],
+                    "evidence": 2.4
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Pt/C",
+            "properties": [
+                {
+                    "type": "ORR performance",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "benchmark for g-C3N4@N-G",
+                    "reaction_type": "ORR",
+                    "evidence": 0
+                }
+            ],
+            "benchmark": true
+        },
+        {
+            "material_name": "N-G",
+            "properties": [
+                {
+                    "type": "TGA",
+                    "value": 600.0,
+                    "unit": "\u00b0C",
+                    "conditions": "Thermogravimetric analysis",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "XRD",
+                    "values": [
+                        26.2
+                    ],
+                    "units": [
+                        "\u00b0"
+                    ],
+                    "conditions": [
+                        "X-ray diffraction"
+                    ],
+                    "evidence": 2.0
+                },
+                {
+                    "type": "Raman",
+                    "values": [
+                        1356.0,
+                        1588.0,
+                        0.94
+                    ],
+                    "units": [
+                        "ratio",
+                        "cm\u22121"
+                    ],
+                    "conditions": [
+                        "Raman spectroscopy"
+                    ],
+                    "evidence": 2.0
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "g-C3N4",
+            "properties": [
+                {
+                    "type": "TGA",
+                    "value": 650.0,
+                    "unit": "\u00b0C",
+                    "conditions": "Thermogravimetric analysis",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "XRD",
+                    "values": [
+                        27.4
+                    ],
+                    "units": [
+                        "\u00b0"
+                    ],
+                    "conditions": [
+                        "X-ray diffraction"
+                    ],
+                    "evidence": 4.0
+                }
+            ],
+            "benchmark": false
+        }
+    ],
+    "doi": "example_doi",
+    "factor": "Hydrogen coverage,Energy barrier,Conductivity,Surface area,Size,Defect,Dopant,Active sites,Stability,Electrode potential,Overpotential,Tafel slope,onsite potential,Current density,Mass loading,XPS,FTIR,Raman,XRD",
+    "meta": {
+        "maintext": "/Users/yangz/Documents/projects/llm4catalyst/documents/maintext/Graphitic_carbon_nitrides_supported_by_nitrogendop_maintext.txt",
+        "abstract": "/Users/yangz/Documents/projects/llm4catalyst/documents/abstract/Graphitic_carbon_nitrides_supported_by_nitrogendop_abs.txt",
+        "intro": "documents/intro/c60_intro.txt",
+        "window_size": 2,
+        "chunk_size": 1000,
+        "chunk_overlap": 100,
+        "output": "results",
+        "property": "/Users/yangz/Documents/projects/llm4catalyst/prompts/properties.txt",
+        "self_defined": true,
+        "title": "Graphitic_carbon_nitrides_supported_by_nitrogendop"
+    }
+}

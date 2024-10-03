@@ -1,0 +1,48 @@
+{
+    "materials": [
+        {
+            "material_name": "carbon nanotubes doped with nitrogen (CNT-N)",
+            "properties": [
+                {
+                    "type": "ORR activity",
+                    "value": 700.0,
+                    "unit": "\u00b0C",
+                    "conditions": "in-situ pyrolysis of polyaniline (PANI) nanotubes",
+                    "reaction_type": "ORR",
+                    "evidence": 0
+                },
+                {
+                    "type": "Stability",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "long-standing, in alkaline medium",
+                    "reaction_type": "ORR",
+                    "evidence": 0
+                },
+                {
+                    "type": "Tolerance",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "against methanol in alkaline medium",
+                    "reaction_type": "ORR",
+                    "evidence": 0
+                }
+            ],
+            "benchmark": false
+        }
+    ],
+    "doi": "example_doi",
+    "factor": "Hydrogen coverage,Energy barrier,Conductivity,Surface area,Size,Defect,Dopant,Active sites,Stability,Electrode potential,Overpotential,Tafel slope,onsite potential,Current density,Mass loading,XPS,FTIR,Raman,XRD",
+    "meta": {
+        "maintext": "/Users/yangz/Documents/projects/llm4catalyst/documents/maintext/Active_sites_for_oxygen_reduction_reaction_on_nitr_maintext.txt",
+        "abstract": "/Users/yangz/Documents/projects/llm4catalyst/documents/abstract/Active_sites_for_oxygen_reduction_reaction_on_nitr_abs.txt",
+        "intro": "documents/intro/c60_intro.txt",
+        "window_size": 2,
+        "chunk_size": 1000,
+        "chunk_overlap": 100,
+        "output": "results",
+        "property": "/Users/yangz/Documents/projects/llm4catalyst/prompts/properties.txt",
+        "self_defined": true,
+        "title": "Active_sites_for_oxygen_reduction_reaction_on_nitr"
+    }
+}

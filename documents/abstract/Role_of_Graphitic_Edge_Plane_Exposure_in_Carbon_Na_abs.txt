@@ -1,0 +1,11 @@
+Abstract
+The role that nanostructure plays in carbon-based oxygen reduction reaction (ORR) catalysts is unclear. In this publication, the role that graphitic edge plane exposure in carbon-based ORR catalysts was examined using two types of nanofibers: one with high edge plane exposure and one with minimal edge plane exposure. These nanofibers were grown, acid oxidized, and then treated with ammonia to incorporate nitrogen. They were characterized using electron microscopy, hydrophobicity imaging, X-ray photoelectron spectroscopy, and temperature-programmed oxidation experiments to verify their nanostructure, surface species, and overall composition. Rotating ring disk electrode experiments were performed to study their activity for ORR. It was found that nanostructure on its own is not a factor for improved ORR activity. Rather, nanofibers with high edge plane exposure, like stacked platelets, provide the appropriate locations for nitrogen to incorporate into the graphitic matrix. It was also found that gross nitrogen content did not play a role in ORR activity. Nitrogen had to be incorporated into the graphitic matrix, not attached as part of a surface functional group.
+This publication is licensed under the terms of your institutional subscription. Request reuse permissions.
+Copyright © 2010 American Chemical Society
+Subjects
+what are subjects
+Ammonia
+Cells
+Nanofibers
+Nitrogen
+Oxidation

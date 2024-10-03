@@ -1,0 +1,260 @@
+{
+    "materials": [
+        {
+            "material_name": "GCN",
+            "properties": [
+                {
+                    "type": "Conductivity",
+                    "value": 0.01,
+                    "unit": "S cm-1",
+                    "conditions": "pristine GCN",
+                    "reaction_type": "NA",
+                    "evidence": 0
+                },
+                {
+                    "type": "Decomposition temperature",
+                    "value": 800.0,
+                    "unit": "\u00b0C",
+                    "conditions": "TG analysis",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "GCN/C",
+            "properties": [
+                {
+                    "type": "Pore size",
+                    "value": 150.0,
+                    "unit": "nm",
+                    "conditions": "macroporous",
+                    "reaction_type": "ORR",
+                    "evidence": 0
+                },
+                {
+                    "type": "Pore size",
+                    "value": 12.0,
+                    "unit": "nm",
+                    "conditions": "mesoporous",
+                    "reaction_type": "ORR",
+                    "evidence": 0
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": null,
+                    "unit": "mV/dec",
+                    "conditions": "high overpotential region, macroporous",
+                    "reaction_type": "ORR",
+                    "evidence": 0
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Pt/C",
+            "properties": [
+                {
+                    "type": "Current density",
+                    "value": -0.24,
+                    "unit": "V vs. Ag/AgCl",
+                    "conditions": "potential, CV",
+                    "reaction_type": "ORR",
+                    "evidence": 4
+                },
+                {
+                    "type": "Half wave potential",
+                    "value": 90.0,
+                    "unit": "mV",
+                    "conditions": "lower than hp-GSGCN_2\u00d7, CV",
+                    "reaction_type": "ORR",
+                    "evidence": 4
+                },
+                {
+                    "type": "Current density",
+                    "value": 0.0,
+                    "unit": "mA/cm\u00b2",
+                    "conditions": "after 3 M methanol addition, CV",
+                    "reaction_type": "MOR",
+                    "evidence": 4
+                },
+                {
+                    "type": "Durability",
+                    "value": 40.0,
+                    "unit": "%",
+                    "conditions": "loss after 10 hours, chronoamperometric response",
+                    "reaction_type": "ORR",
+                    "evidence": 4
+                }
+            ],
+            "benchmark": true
+        },
+        {
+            "material_name": "hp-GSGCN_2\u00d7",
+            "properties": [
+                {
+                    "type": "Current density",
+                    "value": 0.1,
+                    "unit": "eV",
+                    "conditions": "Cyclic voltammetry",
+                    "reaction_type": "ORR",
+                    "evidence": 2
+                },
+                {
+                    "type": "Conductivity",
+                    "value": 3.06,
+                    "unit": "S cm^-1",
+                    "conditions": "for GSGCN_2\u00d7",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "Surface area",
+                    "value": 50.0,
+                    "unit": "%",
+                    "conditions": "compared to GSGCN_2\u00d7",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "Electrode potential",
+                    "value": 30.0,
+                    "unit": "mV",
+                    "conditions": "increase in onset/peak reduction potential",
+                    "reaction_type": "ORR",
+                    "evidence": 3
+                },
+                {
+                    "type": "Current density",
+                    "value": 1.5,
+                    "unit": "times",
+                    "conditions": "compared to GSGCN_2\u00d7",
+                    "reaction_type": "ORR",
+                    "evidence": 3
+                },
+                {
+                    "type": "Interlayer spacing",
+                    "value": 0.33,
+                    "unit": "nm",
+                    "conditions": "HRTEM image",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "SSA",
+                    "value": 50.0,
+                    "unit": "%",
+                    "conditions": "compared to GSGCN_2\u00d7",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "E-SSA",
+                    "value": 30.0,
+                    "unit": "%",
+                    "conditions": "compared to GSGCN_2\u00d7",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Current density",
+                    "value": 1.5,
+                    "unit": "times",
+                    "conditions": "compared to GSGCN_2\u00d7, CV",
+                    "reaction_type": "ORR",
+                    "evidence": 4
+                },
+                {
+                    "type": "Reduction potential",
+                    "value": 30.0,
+                    "unit": "mV",
+                    "conditions": "increase, CV",
+                    "reaction_type": "ORR",
+                    "evidence": 4
+                },
+                {
+                    "type": "Decomposition temperature",
+                    "value": 770.0,
+                    "unit": "\u00b0C",
+                    "conditions": "TG analysis",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Conductivity",
+                    "value": 3.06,
+                    "unit": "S cm\u22121",
+                    "conditions": "four-probe conductivity measurement",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "XPS",
+                    "values": [
+                        284.7,
+                        288.1,
+                        399.0,
+                        0.0
+                    ],
+                    "units": [
+                        "%",
+                        "eV"
+                    ],
+                    "conditions": [
+                        "C\u2013C bond",
+                        "nitrogen content",
+                        "pyridinic nitrogen bonding",
+                        "N\u2013CN bond"
+                    ],
+                    "evidence": 4.0
+                },
+                {
+                    "type": "FTIR",
+                    "values": [
+                        800.0,
+                        1200.0,
+                        1650.0
+                    ],
+                    "units": [
+                        "cm-1"
+                    ],
+                    "conditions": [
+                        "stretching vibration modes of heptazine-derived repeating units",
+                        "out-of-plane bending vibration characteristics of heptazine rings"
+                    ],
+                    "evidence": 1.0
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "GS",
+            "properties": [
+                {
+                    "type": "Decomposition temperature",
+                    "value": 800.0,
+                    "unit": "\u00b0C",
+                    "conditions": "TG analysis",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                }
+            ],
+            "benchmark": false
+        }
+    ],
+    "doi": "example_doi",
+    "factor": "Hydrogen coverage,Energy barrier,Conductivity,Surface area,Size,Defect,Dopant,Active sites,Stability,Electrode potential,Overpotential,Tafel slope,onsite potential,Current density,Mass loading,XPS,FTIR,Raman,XRD",
+    "meta": {
+        "maintext": "/Users/yangz/Documents/projects/llm4catalyst/documents/maintext/Hierarchically_porous_graphene_sheets_and_graphiti_maintext.txt",
+        "abstract": "/Users/yangz/Documents/projects/llm4catalyst/documents/abstract/Hierarchically_porous_graphene_sheets_and_graphiti_abs.txt",
+        "intro": "documents/intro/c60_intro.txt",
+        "window_size": 2,
+        "chunk_size": 1000,
+        "chunk_overlap": 100,
+        "output": "results",
+        "property": "/Users/yangz/Documents/projects/llm4catalyst/prompts/properties.txt",
+        "self_defined": true,
+        "title": "Hierarchically_porous_graphene_sheets_and_graphiti"
+    }
+}

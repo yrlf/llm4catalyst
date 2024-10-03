@@ -1,0 +1,19 @@
+Abstract
+Hollow heterostructured nanomaterials have received tremendous interest in new-generation electrocatalyst applications. However, the design and fabrication of such materials remain a significant challenge. In this work, we present Co3O4–x-carbon@Fe2–yCoyO3 heterostructural hollow polyhedrons that have been fabricated by facile thermal treatment followed by solution-phase growth for application as efficient oxygen evolution reaction (OER) electrocatalysts. Starting from a single ZIF-67 hollow polyhedron, a novel complex structured composite material constructed from Co3O4–x nanocrystallite-embedded carbon matrix embedded with Fe2–yCoyO3 nanowires was successfully prepared. The Co3O4–x nanocrystallite with oxygen vacancies provides both heterogeneous nucleation sites and growth platform for Fe2–yCoyO3 nanowires. The resultant heterostructure combines the advantages of Fe2–yCoyO3 nanowires with the large surface area and surface defects of Co3O4–x nanocrystallite, resulting in improved electrocatalytic activity and electrical conductivity. As a result, such novel heterostructured OER electrocatalysts exhibit much lower onset potential (1.52 V) and higher current density (70 mA/cm2 at 1.7 V) than Co3O4–x-carbon hollow polyhedrons (onset 1.55 V, 35 mA/cm2 at 1.7 V) and pure Co3O4 hollow polyhedrons (onset 1.62 V, 5 mA/cm2 at 1.7 V). Furthermore, the design and synthesis of metal–organic framework (MOF)-derived nanomaterials in this work offer new opportunities for developing novel and efficient electrocatalysts in electrochemical devices.
+This publication is licensed under the terms of your institutional subscription. Request reuse permissions.
+Copyright © 2017 American Chemical Society
+Subjects
+what are subjects
+Defects In Solids
+Heterostructures
+Hollow Structures
+Nanowires
+Radiology
+Keywords
+what are keywords
+Co3O4−X-Carbon Hollow Polyhedrons
+Heterogeneous Nucleation
+Fe2−YCoYO3 Nanowires
+Heterostructured Nanomaterials
+Synergistic Effect
+OER Electrocatalyst

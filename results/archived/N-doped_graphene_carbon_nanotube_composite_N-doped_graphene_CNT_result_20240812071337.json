@@ -1,0 +1,332 @@
+{
+    "materials": [
+        {
+            "material_name": "N-doped graphene/carbon nanotube composite",
+            "properties": [
+                {
+                    "type": "Stability",
+                    "value": 1000.0,
+                    "unit": "cycles",
+                    "conditions": "potential cycles",
+                    "reaction_type": "ORR",
+                    "evidence": 0
+                },
+                {
+                    "type": "Mass loading",
+                    "value": 0.1,
+                    "unit": "mg cm\u22122",
+                    "conditions": "on GC disk electrodes",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "Nitrogen content",
+                    "value": 2.8,
+                    "unit": "at.%",
+                    "conditions": "XPS analysis",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Pyridinic N content",
+                    "value": 46.0,
+                    "unit": "%",
+                    "conditions": "XPS analysis",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Pyrrolic N content",
+                    "value": 24.0,
+                    "unit": "%",
+                    "conditions": "XPS analysis",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Quaternary N content",
+                    "value": 21.0,
+                    "unit": "%",
+                    "conditions": "XPS analysis",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Pyridine-N-oxide content",
+                    "value": 10.0,
+                    "unit": "%",
+                    "conditions": "XPS analysis",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Nitrogen content",
+                    "value": 2.8,
+                    "unit": "at.%",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 6
+                },
+                {
+                    "type": "Pyridinic N content",
+                    "value": 46.0,
+                    "unit": "%",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 6
+                },
+                {
+                    "type": "Pyrrolic N content",
+                    "value": 24.0,
+                    "unit": "%",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 6
+                },
+                {
+                    "type": "Quaternary N content",
+                    "value": 21.0,
+                    "unit": "%",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 6
+                },
+                {
+                    "type": "Pyridine-N-oxide content",
+                    "value": 10.0,
+                    "unit": "%",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 6
+                },
+                {
+                    "type": "onset potential",
+                    "value": -0.12,
+                    "unit": "V",
+                    "conditions": "vs SCE",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "Catalyst loading",
+                    "value": 100.0,
+                    "unit": "\u03bcg cm\u22122",
+                    "conditions": "ORR performance, O2-saturated 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 8
+                },
+                {
+                    "type": "Nitrogen content",
+                    "value": 2.5,
+                    "unit": "at.%",
+                    "conditions": "XPS analysis",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Pyridinic N content",
+                    "value": 39.0,
+                    "unit": "%",
+                    "conditions": "XPS analysis",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Pyrrolic N content",
+                    "value": 26.0,
+                    "unit": "%",
+                    "conditions": "XPS analysis",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Quaternary N content",
+                    "value": 17.0,
+                    "unit": "%",
+                    "conditions": "XPS analysis",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Pyridine-N-oxide content",
+                    "value": 17.0,
+                    "unit": "%",
+                    "conditions": "XPS analysis",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Nitrogen content",
+                    "value": 2.5,
+                    "unit": "at.%",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 6
+                },
+                {
+                    "type": "Pyridinic N content",
+                    "value": 39.0,
+                    "unit": "%",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 6
+                },
+                {
+                    "type": "Pyrrolic N content",
+                    "value": 26.0,
+                    "unit": "%",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 6
+                },
+                {
+                    "type": "Quaternary N content",
+                    "value": 17.0,
+                    "unit": "%",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 6
+                },
+                {
+                    "type": "Pyridine-N-oxide content",
+                    "value": 17.0,
+                    "unit": "%",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 6
+                },
+                {
+                    "type": "onset potential",
+                    "value": -0.15,
+                    "unit": "V",
+                    "conditions": "vs SCE",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "Nitrogen content",
+                    "value": 1.7,
+                    "unit": "at.%",
+                    "conditions": "XPS analysis",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Pyridinic N content",
+                    "value": 35.0,
+                    "unit": "%",
+                    "conditions": "XPS analysis",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Pyrrolic N content",
+                    "value": 32.0,
+                    "unit": "%",
+                    "conditions": "XPS analysis",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Quaternary N content",
+                    "value": 16.0,
+                    "unit": "%",
+                    "conditions": "XPS analysis",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Nitrogen content",
+                    "value": 1.7,
+                    "unit": "at.%",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 6
+                },
+                {
+                    "type": "Pyridinic N content",
+                    "value": 35.0,
+                    "unit": "%",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 6
+                },
+                {
+                    "type": "Pyrrolic N content",
+                    "value": 32.0,
+                    "unit": "%",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 6
+                },
+                {
+                    "type": "Quaternary N content",
+                    "value": 16.0,
+                    "unit": "%",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 6
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Pt/C",
+            "properties": [
+                {
+                    "type": "Mass loading",
+                    "value": 20.0,
+                    "unit": "\u03bcg cm\u22122",
+                    "conditions": "on GC disk electrodes",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "onset potential",
+                    "value": 0.05,
+                    "unit": "V",
+                    "conditions": "vs SCE",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                }
+            ],
+            "benchmark": true
+        },
+        {
+            "material_name": "GO/MWCNT",
+            "properties": [
+                {
+                    "type": "onset potential",
+                    "value": -0.2,
+                    "unit": "V",
+                    "conditions": "vs SCE",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "onset potential",
+                    "value": -0.8,
+                    "unit": "V",
+                    "conditions": "vs SCE",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                }
+            ],
+            "benchmark": false
+        }
+    ],
+    "doi": "example_doi",
+    "factor": "Hydrogen coverage,Energy barrier,Conductivity,Surface area,Size,Defect,Dopant,Active sites,Stability,Electrode potential,Overpotential,Tafel slope,onsite potential,Current density,Mass loading,XPS,FTIR,Raman,XRD",
+    "meta": {
+        "maintext": "/Users/yangz/Documents/projects/llm4catalyst/documents/maintext/Enhanced_oxygen_reduction_reaction_activity_of_nit_maintext.txt",
+        "abstract": "/Users/yangz/Documents/projects/llm4catalyst/documents/abstract/Enhanced_oxygen_reduction_reaction_activity_of_nit_abs.txt",
+        "intro": "documents/intro/c60_intro.txt",
+        "window_size": 2,
+        "chunk_size": 1000,
+        "chunk_overlap": 100,
+        "output": "results",
+        "property": "/Users/yangz/Documents/projects/llm4catalyst/prompts/properties.txt",
+        "self_defined": true,
+        "title": "Enhanced_oxygen_reduction_reaction_activity_of_nit"
+    }
+}

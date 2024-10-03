@@ -1,0 +1,19 @@
+Abstract
+Heat treating nitrogen-doped multiwalled carbon nanotubes containing up to six different types of nitrogen functionalities transforms particular nitrogen functionalities into other types which are more catalytically active toward oxygen reduction reactions (ORR). In the first stage, the unstable pyrrolic functionalities transform into pyridinic functionalities followed by an immediate transition into quaternary center and valley nitrogen functionalities. By measuring the electrocatalytic oxidation reduction current for the different samples, we achieve information on the catalytic activity connected to each type of nitrogen functionality. Through this, we conclude that quaternary nitrogen valley sites, N-Qvalley, are the most active sites for ORR in N-CNTs. The number of electrons transferred in the ORR is determined from ring disk electrode and rotating ring disk electrode measurements. Our measurements indicate that the ORR processes proceed by a direct four-electron pathway for the N-Qvalley and the pyridinic sites while it proceeds by an indirect two-electron pathway via hydrogen peroxide at the N-Qcenter sites. Our study gives both insights on the mechanism of ORR on different nitrogen functionalities in nitrogen-doped carbon nanostructures and it proposes how to treat samples to maximize the catalytic efficiency of such samples.
+This publication is licensed under the terms of your institutional subscription. Request reuse permissions.
+Copyright © 2012 American Chemical Society
+Subjects
+what are subjects
+Carbon Nanotubes
+Charge Transfer
+Electrodes
+Nitrogen
+Redox Reactions
+Keywords
+what are keywords
+Nitrogen-Doped Carbon Nanotubes
+Nitrogen Functionalities
+X-Ray Photoelectron Spectroscopy
+Electrochemistry
+Cyclic Voltammetry
+Oxygen Reduction Reactions

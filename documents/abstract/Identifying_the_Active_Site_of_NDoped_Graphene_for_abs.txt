@@ -1,0 +1,11 @@
+Abstract
+N-doped carbon materials are promising electrocatalysts for oxygen reduction reaction (ORR). However, the lack of knowledge in the nature of active sites limits the rational design of this type of catalysts. Although pyridinic N species are proposed to be active for ORR, little experimental evidence is provided to reveal the reactive sites. Herein, we developed a surface-modification method to identify the ortho-carbon atom of the pyridinic ring as the reactive site for ORR on N-doped graphene. The pyridinic ring of N-doped graphene was selectively grafted by an acetyl group at pyridinic N and ortho-C atoms by electrophilic and radical substitution, respectively. The former remained most of ORR catalytic activity, while the latter lost its activity completely. DFT calculations confirm that O2 can get adsorbed and reduced favorably on the ortho-C atom of the pyridinic ring. This study provides new insight into the nature of active sites and the ORR mechanism for N-doped carbon materials.
+This publication is licensed under the terms of your institutional subscription. Request reuse permissions.
+Copyright © 2018 American Chemical Society
+Subjects
+what are subjects
+Catalysts
+Free Energy
+Infrared Light
+Redox Reactions
+Two Dimensional Materials

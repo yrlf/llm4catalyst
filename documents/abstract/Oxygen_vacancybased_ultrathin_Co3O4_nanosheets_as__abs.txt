@@ -1,0 +1,8 @@
+•
+Ultrathin Co3O4 nanosheet with oxygen vacancies via hydrothermal and pre-oxidation.
+•
+Oxygen vacancies are formed by preoxidation of Co-based precursors.
+•
+Exhibited small overpotential of 367 mV for 10 mA/cm2 and Tafel slope of 65 mV/dec for OER.
+•
+Showed excellent electrochemical stability in alkaline.

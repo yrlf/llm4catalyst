@@ -1,0 +1,86 @@
+{
+  "materials": [
+    {
+      "material_name": "NG",
+      "properties": [
+        {
+          "type": "N doping level",
+          "value": 2.0,
+          "unit": "at%",
+          "conditions": "Measured in NG",
+          "reaction_type": "NA",
+          "evidence": 0
+        },
+        {
+          "type": "N doping level",
+          "value": 3.0,
+          "unit": "at%",
+          "conditions": "Measured in NG",
+          "reaction_type": "NA",
+          "evidence": 0
+        },
+        {
+          "type": "Graphitic N percentage",
+          "value": 44.0,
+          "unit": "%",
+          "conditions": "Measured in NG",
+          "reaction_type": "NA",
+          "evidence": 0
+        }
+      ],
+      "benchmark": false
+    },
+    {
+      "material_name": "NG-900",
+      "properties": [
+        {
+          "type": "BET Surface Area",
+          "value": 370.0,
+          "unit": "m\u00b2/g",
+          "conditions": "Nitrogen adsorption/desorption isotherm",
+          "reaction_type": "NA",
+          "evidence": 1
+        },
+        {
+          "type": "Average Pore Diameter",
+          "value": 5.3,
+          "unit": "nm",
+          "conditions": "Calculated from the adsorption branch using BJH model",
+          "reaction_type": "NA",
+          "evidence": 1
+        },
+        {
+          "type": "BET Surface Area",
+          "value": 370.0,
+          "unit": "m\u00b2/g",
+          "conditions": "Nitrogen adsorption/desorption isotherm, type-IV curve with an H2-type of hysteresis loop",
+          "reaction_type": "NA",
+          "evidence": 2
+        },
+        {
+          "type": "Average Pore Diameter",
+          "value": 5.3,
+          "unit": "nm",
+          "conditions": "Calculated from the adsorption branch on the basis of the Barrett\u2013Joyner\u2013Halenda (BJH) model",
+          "reaction_type": "NA",
+          "evidence": 2
+        }
+      ],
+      "benchmark": false
+    }
+  ],
+  "doi": "example_doi",
+  "factor": "Hydrogen coverage,Energy barrier,Conductivity,Surface area,Size,Defect,Dopant,Active sites,Stability,Electrode potential,Overpotential,Tafel slope,onsite potential,Current density,XPS,FTIR,Raman,XRD",
+  "meta": {
+    "maintext": "/Users/yangz/Documents/projects/llm4catalyst/documents/maintext/3D_Nitrogendoped_graphene_prepared_by_pyrolysis_of_maintext.txt",
+    "abstract": "/Users/yangz/Documents/projects/llm4catalyst/documents/abstract/3D_Nitrogendoped_graphene_prepared_by_pyrolysis_of_abs.txt",
+    "intro": "documents/intro/c60_intro.txt",
+    "window_size": 2,
+    "chunk_size": 2000,
+    "chunk_overlap": 200,
+    "output": "results",
+    "property": "/Users/yangz/Documents/projects/llm4catalyst/prompts/properties.txt",
+    "self_defined": true,
+    "title": "3D_Nitrogendoped_graphene_prepared_by_pyrolysis_of"
+  }
+}

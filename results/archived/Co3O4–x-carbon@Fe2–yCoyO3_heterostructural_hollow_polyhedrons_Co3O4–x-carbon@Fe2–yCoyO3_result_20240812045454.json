@@ -1,0 +1,520 @@
+{
+    "materials": [
+        {
+            "material_name": "Co3O4 Thin Film Electrocatalyst",
+            "properties": [
+                {
+                    "type": "overpotential",
+                    "value": 0.31,
+                    "unit": "V",
+                    "conditions": "at a current density of 10 mA/cm2",
+                    "reaction_type": "OER",
+                    "evidence": 0
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 67.0,
+                    "unit": "mV/decade",
+                    "conditions": "at a current density of 10 mA/cm2",
+                    "reaction_type": "OER",
+                    "evidence": 0
+                },
+                {
+                    "type": "Overpotential",
+                    "value": 0.31,
+                    "unit": "V",
+                    "conditions": "at a current density of 10 mA/cm2",
+                    "reaction_type": "OER",
+                    "evidence": 1
+                },
+                {
+                    "type": "Oxygen Evolution Reaction",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "simple chemical solution deposition",
+                    "reaction_type": "OER",
+                    "evidence": 15
+                },
+                {
+                    "type": "Electrocatalytic Properties",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "prepared on carbon fibers by thermal metal\u2013organic deposition for the oxygen evolution reaction in alkaline",
+                    "reaction_type": "OER",
+                    "evidence": 15
+                },
+                {
+                    "type": "Catalytic ozonation",
+                    "value": 12.0,
+                    "unit": "index",
+                    "conditions": "using Co3O4/C composite derived from ZIF-67 as catalyst",
+                    "reaction_type": "NA",
+                    "evidence": 17
+                },
+                {
+                    "type": "Surface area",
+                    "value": 820.0,
+                    "unit": "m\u00b2/g",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 19
+                },
+                {
+                    "type": "Electric conductivity",
+                    "value": 21.0,
+                    "unit": "index",
+                    "conditions": "as efficient water oxidation electrocatalysts in alkaline medium",
+                    "reaction_type": "OER",
+                    "evidence": 21
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "MnOx/nitrogen-doped carbon (NC)",
+            "properties": [
+                {
+                    "type": "surface area",
+                    "value": 135.0,
+                    "unit": "m2/g",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 0
+                },
+                {
+                    "type": "overpotential",
+                    "value": 1.67,
+                    "unit": "V",
+                    "conditions": "at a current density of 10 mA/cm2",
+                    "reaction_type": "OER",
+                    "evidence": 0
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 56.0,
+                    "unit": "mV/decade",
+                    "conditions": "at a current density of 10 mA/cm2",
+                    "reaction_type": "OER",
+                    "evidence": 0
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Co3O4\u2013x-carbon@Fe2\u2013yCoyO3 heterostructural hollow polyhedrons",
+            "properties": [
+                {
+                    "type": "Current density",
+                    "value": 13.1,
+                    "unit": "mA/cm2",
+                    "conditions": "at a potential of 1.65 V",
+                    "reaction_type": "OER",
+                    "evidence": 3
+                },
+                {
+                    "type": "Diameter",
+                    "value": 3.5,
+                    "unit": "nm",
+                    "conditions": "HRTEM",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "d-spacing",
+                    "value": 3.0,
+                    "unit": "\u00c5",
+                    "conditions": "HRTEM, attributed to (220) plane of Fe2\u2013yCoyO3",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Diameter",
+                    "value": 3.5,
+                    "unit": "nm",
+                    "conditions": "HRTEM characterization",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                },
+                {
+                    "type": "d-spacing",
+                    "value": 3.0,
+                    "unit": "\u00c5",
+                    "conditions": "HRTEM characterization, (220) plane of Fe2\u2013yCoyO3",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                },
+                {
+                    "type": "XRD peak",
+                    "value": 9.8,
+                    "unit": "\u00b0",
+                    "conditions": "XRD measurement",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                },
+                {
+                    "type": "XRD peak",
+                    "value": 19.5,
+                    "unit": "\u00b0",
+                    "conditions": "XRD measurement",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                },
+                {
+                    "type": "XRD peak",
+                    "value": 26.3,
+                    "unit": "\u00b0",
+                    "conditions": "XRD measurement",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                },
+                {
+                    "type": "d-spacing",
+                    "value": 3.0,
+                    "unit": "\u00c5",
+                    "conditions": "HRTEM, (220) plane of Fe2\u2013yCoyO3",
+                    "reaction_type": "NA",
+                    "evidence": 6
+                },
+                {
+                    "type": "Onset potential",
+                    "value": 1.52,
+                    "unit": "V",
+                    "conditions": "in 1 M KOH solution, versus RHE",
+                    "reaction_type": "OER",
+                    "evidence": 7
+                },
+                {
+                    "type": "Current density",
+                    "value": 70.0,
+                    "unit": "mA/cm\u00b2",
+                    "conditions": "at 1.70 V versus RHE",
+                    "reaction_type": "OER",
+                    "evidence": 7
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 37.6,
+                    "unit": "mV/decade",
+                    "conditions": "OER kinetics analysis",
+                    "reaction_type": "OER",
+                    "evidence": 7
+                },
+                {
+                    "type": "Onset potential",
+                    "value": 1.52,
+                    "unit": "V",
+                    "conditions": "in 1 M KOH solution, pH = 14, versus RHE",
+                    "reaction_type": "OER",
+                    "evidence": 8
+                },
+                {
+                    "type": "Current density",
+                    "value": 10.0,
+                    "unit": "mA/cm\u00b2",
+                    "conditions": "at 1.58 V versus RHE",
+                    "reaction_type": "OER",
+                    "evidence": 8
+                },
+                {
+                    "type": "onset potential",
+                    "value": 1.52,
+                    "unit": "V",
+                    "conditions": "in 1 M KOH, versus RHE, LSV curves",
+                    "reaction_type": "OER",
+                    "evidence": 9
+                },
+                {
+                    "type": "current density",
+                    "value": 10.0,
+                    "unit": "mA/cm\u00b2",
+                    "conditions": "at 1.58 V versus RHE",
+                    "reaction_type": "OER",
+                    "evidence": 9
+                },
+                {
+                    "type": "areal current density",
+                    "value": 70.0,
+                    "unit": "mA/cm\u00b2",
+                    "conditions": "at 1.70 V versus RHE",
+                    "reaction_type": "OER",
+                    "evidence": 9
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 37.6,
+                    "unit": "mV/decade",
+                    "conditions": "Tafel plots",
+                    "reaction_type": "OER",
+                    "evidence": 9
+                },
+                {
+                    "type": "charge-transfer resistance",
+                    "value": 8.0,
+                    "unit": "\u03a9",
+                    "conditions": "EIS at 1.6 V versus RHE",
+                    "reaction_type": "OER",
+                    "evidence": 9
+                },
+                {
+                    "type": "Surface area",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "high surface area due to Fe2\u2013yCoyO3 nanowires",
+                    "reaction_type": "OER",
+                    "evidence": 11
+                },
+                {
+                    "type": "Stability",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "excellent stability during long-term cycling in alkaline environment",
+                    "reaction_type": "OER",
+                    "evidence": 11
+                },
+                {
+                    "type": "XPS",
+                    "values": [
+                        2717.0
+                    ],
+                    "units": [
+                        "eV"
+                    ],
+                    "conditions": [
+                        "surface chemical states analysis"
+                    ],
+                    "evidence": 12.0
+                },
+                {
+                    "type": "XRD",
+                    "values": [
+                        9.8,
+                        19.5,
+                        26.3
+                    ],
+                    "units": [
+                        "\u00b0"
+                    ],
+                    "conditions": [
+                        "XRD pattern"
+                    ],
+                    "evidence": 6.0
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Co3O4/NRGO Nanocomposites",
+            "properties": [
+                {
+                    "type": "Activity",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "toward ORR and OER",
+                    "reaction_type": "ORR/OER",
+                    "evidence": 13
+                },
+                {
+                    "type": "Oxygen Reduction Reaction",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "oxide-carbon heterointerface",
+                    "reaction_type": "ORR",
+                    "evidence": 15
+                },
+                {
+                    "type": "Oxygen Evolution Reaction",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "oxide-carbon heterointerface",
+                    "reaction_type": "OER",
+                    "evidence": 15
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Co3O4/Co2MnO4 Nanocomposites",
+            "properties": [
+                {
+                    "type": "Oxygen Reduction Reaction",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "as a synergistic bifunctional catalyst",
+                    "reaction_type": "ORR",
+                    "evidence": 15
+                },
+                {
+                    "type": "Oxygen Evolution Reaction",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "as a synergistic bifunctional catalyst",
+                    "reaction_type": "OER",
+                    "evidence": 15
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Co3O4 Nanocrystals on Single-Walled Carbon Nanotubes",
+            "properties": [
+                {
+                    "type": "Oxygen Evolution Reaction",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "highly efficient catalyst",
+                    "reaction_type": "OER",
+                    "evidence": 15
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Iron-Cobalt Oxide Nanosheets",
+            "properties": [
+                {
+                    "type": "Oxygen Evolution Reaction",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "abundant oxygen vacancies",
+                    "reaction_type": "OER",
+                    "evidence": 15
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Co3O4/Ag:ZnIn2S4",
+            "properties": [
+                {
+                    "type": "Oxygen Evolution Reaction",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "dodecahedral hollow multi-shelled photocatalyst for enhancing solar energy utilization efficiency",
+                    "reaction_type": "OER",
+                    "evidence": 15
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "CoFe-loaded P, N co-doped carbon foam",
+            "properties": [
+                {
+                    "type": "Oxygen Evolution Reaction",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "derived from petroleum pitch waste",
+                    "reaction_type": "OER",
+                    "evidence": 15
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Co3O4@Fe-B-O heterostructure",
+            "properties": [
+                {
+                    "type": "Oxygen Evolution Reaction",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "oxygen-vacancy-rich for efficient oxygen evolution reaction in alkaline and neutral media",
+                    "reaction_type": "OER",
+                    "evidence": 15
+                },
+                {
+                    "type": "Oxygen evolution reaction activity",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "in alkaline and neutral media",
+                    "reaction_type": "OER",
+                    "evidence": 16
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "CoS2 on MOF-derived hollow carbon spheres",
+            "properties": [
+                {
+                    "type": "Overall Water Splitting",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "enhanced",
+                    "reaction_type": "NA",
+                    "evidence": 15
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Co3\u2212xFexO4 inverse opals",
+            "properties": [
+                {
+                    "type": "Overall Water Splitting",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "tunable catalytic activity for high-performance",
+                    "reaction_type": "NA",
+                    "evidence": 15
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Nickel-doped Co3O4",
+            "properties": [
+                {
+                    "type": "Oxygen Evolution Reaction",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "derived from bimetal zeolitic imidazolate frameworks for the oxygen evolution reaction of electrolysis",
+                    "reaction_type": "OER",
+                    "evidence": 15
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "FeCo-based hybrid MOF",
+            "properties": [
+                {
+                    "type": "oxygen evolution",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "effective",
+                    "reaction_type": "OER",
+                    "evidence": 18
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "CoFe2O4-CoFex/C Nanofibers",
+            "properties": [
+                {
+                    "type": "Oxygen Evolution Reaction",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "Electrocatalyst",
+                    "reaction_type": "OER",
+                    "evidence": 20
+                }
+            ],
+            "benchmark": false
+        }
+    ],
+    "doi": "example_doi",
+    "factor": "Hydrogen coverage,Energy barrier,Conductivity,Surface area,Size,Defect,Dopant,Active sites,Stability,Electrode potential,Overpotential,Tafel slope,onsite potential,Current density,Mass loading,XPS,FTIR,Raman,XRD",
+    "meta": {
+        "maintext": "/Users/yangz/Documents/projects/llm4catalyst/documents/maintext/Co3O4xCarbonFe2yCoyO3_Heterostructural_Hollow_Poly_maintext.txt",
+        "abstract": "/Users/yangz/Documents/projects/llm4catalyst/documents/abstract/Co3O4xCarbonFe2yCoyO3_Heterostructural_Hollow_Poly_abs.txt",
+        "intro": "documents/intro/c60_intro.txt",
+        "window_size": 2,
+        "chunk_size": 1000,
+        "chunk_overlap": 100,
+        "output": "results",
+        "property": "/Users/yangz/Documents/projects/llm4catalyst/prompts/properties.txt",
+        "self_defined": true,
+        "title": "Co3O4xCarbonFe2yCoyO3_Heterostructural_Hollow_Poly"
+    }
+}

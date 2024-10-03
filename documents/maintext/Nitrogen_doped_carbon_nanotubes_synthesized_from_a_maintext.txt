@@ -1,0 +1,302 @@
+In the present study, nitrogen doped carbon nanotubes (N-CNTs) were synthesized using three different aliphatic diamines as nitrogen–carbon precursor solutions with varying carbon chain lengths, in order to elucidate the effect of precursor solution on the overall nitrogen content and ORR activity of the synthesized materials. Increasing the nitrogen to carbon ratio in the precursor solution resulted in higher nitrogen contents in the synthesized N-CNTs, along with enhanced ORR activity for all three samples tested. The increase in activity was attributed to the enhanced properties and edge plane defects of N-CNTs resulting from higher nitrogen contents, illustrating the importance of using a nitrogen rich precursor solution.
+Low temperature fuel cells are considered a promising energy generation technology for the future due to their high efficiencies and low process emissions
+[1]
+,
+[2]
+,
+[3]
+,
+[4]
+. Currently, there are several issues hindering the widespread commercialization of this technology, mainly high cost and limited durability of component materials. Due to the inherently sluggish oxygen reduction reaction (ORR) kinetics present on the cathode, a significant amount of platinum catalyst is required, one of the main contributions to the cost of fuel cell systems due to the limited availability and high cost of this noble metal. Traditionally, the cathodic catalyst consists of platinum nanoparticles supported on high surface area carbons, mainly carbon black (Pt/C)
+[5]
+,
+[6]
+. Either reducing the platinum requirements of these ORR catalysts
+[7]
+,
+[8]
+,
+[9]
+or finding non-noble replacement materials
+[10]
+,
+[11]
+is of prime concern, and has been the focus of numerous investigations in recent years.
+Several different materials have been investigated as non-noble, alternative ORR catalysts including transition metal chalcogenides
+[12]
+,
+[13]
+, carbon nanotube (CNT) supported metal particles
+[14]
+,
+[15]
+, enzymatic compounds
+[16]
+, and metal free nitrogen doped carbon materials
+[17]
+,
+[18]
+. Specifically, several authors have reported enhanced ORR activity observed on nitrogen doped carbon materials formed at high temperatures, where there are mixed reviews attributing the increase in performance to either: (i) active sites composed of metal–nitrogen ligand structures
+[11]
+,
+[15]
+,
+[19]
+,
+[20]
+,
+[21]
+,
+[22]
+,
+[23]
+, or (ii) to the presence of nitrogen functional groups providing enhanced electron donor behavior and edge plane defects, facilitating the reduction of oxygen
+[17]
+,
+[18]
+,
+[24]
+,
+[25]
+,
+[26]
+,
+[27]
+,
+[28]
+. In the latter case, several reports have indicated that the primary function of the transition metal is not to function as an active site for the ORR, but to facilitate the stable incorporation of active nitrogen functionalities into graphitic carbons during high temperature synthesis
+[17]
+,
+[26]
+,
+[27]
+,
+[28]
+. Specifically, metal-free nitrogen doped carbon nanotubes (N-CNTs) have recently been found to display superior catalytic activity towards ORR in alkaline conditions when compared with traditional Pt/C, with their activity being attributed to the presence of pyridinic and pyrollic nitrogen species
+[18]
+. Since the increased performance is observed in the absence of metal containing compounds, nitrogen content is deemed an important factor when utilizing N-CNT catalysts. Chen et al.
+[29]
+investigated the ORR activity of N-CNTs synthesized with varying pyridine–ethanol ratios. The resulting activity was investigated in alkaline conditions in order to determine the effects of increasing the presence of nitrogen during synthesis. It was found that a higher nitrogen content present during synthesis directly resulted in increased nitrogen incorporation into N-CNTs, along with improved ORR performance. The effect of nitrogen content was also previously investigated synthesizing N-CNTs from either ethylenediamine, or pyridine precursor solutions
+[30]
+, where it was found that higher nitrogen contents in ethylenediamine based N-CNTs led to significant performance increase with respect to ORR compared with pyridine based N-CNTs.
+It is well established that the properties of N-CNT materials are directly related to the type of precursor materials used during synthesis
+[29]
+,
+[30]
+,
+[31]
+,
+[32]
+,
+[33]
+,
+[34]
+,
+[35]
+, with the amount of nitrogen present during growth influencing the observed overall N-CNT nitrogen content. A significant amount of uncertainty however, still surrounds the exact effect that the nitrogen–carbon precursor solution has on the nitrogen content and ORR catalytic activity of synthesized N-CNTs. Thus, in the present work, three aliphatic diamine precursor solutions with similar structures were utilized for synthesis. These materials were selected because the only significant variation between their molecular structures is varying nitrogen–carbon ratios, resulting from differing carbon chain lengths. This provides a strategic basis in order to carry out a systematic investigation on the effect of the nitrogen–carbon ratio present during growth, on the resulting nitrogen content and catalytic activity of the as-synthesized N-CNTs. Ethylenediamine (ED), 1,3-diaminopropane (DAP) and 1,4-diaminobutane (DAB) were selected as the N-CNT growth precursor solutions. Detailed investigation into the nanostructure and atomic composition of synthesized N-CNT materials was completed, along with their ORR activity being investigated in alkaline solution.
+N-CNTs were synthesized using a chemical vapour deposition (CVD) setup consisting of a Lindberg blue furnace fitted with a horizontal quartz tube running through lengthwise. A smaller quartz tube was inserted into the center as a substrate for N-CNT growth. Ethylenediamine, 1,3-diaminopropane and 1,4-diaminobutane were utilized as the nitrogen–carbon precursor solutions. Ferrocene was dissolved in solution (2.5 wt.%) as a growth catalyst and incidently acted as a supplementary carbon source. The furnace was initially heated to 800 °C under nitrogen gas flow, where at this reaction temperature a syringe pump was used to inject the precursor solution at a rate of 0.05 mL min−1 upstream of the growth substrate. After injection was completed, the furnace was maintained at the same growth temperature for 20 min before being cooled down to 400 °C and opened to the atmosphere for 2 h in order to burn off any amorphous carbon. After cooling down to room temperature, the synthesized N-CNTs were collected by scratching the soot deposits off the inside of the quartz tube substrate. These collected materials were then acid treated in 0.5 M H2SO4 at 90 °C for 1 h in order to remove any residual iron particles present from the growth catalyst.
+A Pine bipotentiostat rotating ring disc electrode (RRDE) setup was used for all electrochemical measurements. A glassy carbon disc electrode was coated with 20 μL of catalyst ink (4 mg catalyst/1.5 mL ethanol and 0.5 mL DDI water) which was adhered with 10 μL of 0.2 wt.% Nafion solution. The working electrode was immersed into a glass cell containing 0.1 M KOH electrolyte, along with a platinum wire counter electrode and a double junction Ag/AgCl reference electrode (3.5 M KCl), thus all potentials referred to in this study are with reference to Ag/AgCl. Background readings were obtained in nitrogen saturated conditions, followed by ORR readings obtained in oxygen saturated conditions at rotation speeds of 100, 400, 900 and 1600 rpm. The potential was swept from 0.2 to −1.0 V vs Ag/AgCl at a scan rate of 10 mV s−1. The ring potential was kept constant at 0.5 V vs Ag/AgCl to ensure the further reduction of H2O2 reaching the surface. All electrochemical measurements were carried out at room temperature (22 °C).
+Scanning electron microscopy (SEM) images were obtained using a LEO FESEM 1530. Transmission electron microscopy (TEM) imaging was carried out on a JEOL 2010 TEM to provide high resolution images of the samples morphology. Raman spectroscopy was utilized in order to investigate the first order Raman scattering of the samples and gauge the degree of structural defects present. X-ray photoelectron spectroscopy (XPS) imaging was obtained using a monochromatic Al Kα X-ray source to provide elemental compositions along with structural insight.
+In order to elucidate the effects of the precursor solution utilized for N-CNT synthesis, three nitrogen/carbon aliphatic diamine precursor solutions were investigated. As previously mentioned, ED, DAP and DAB were selected as they possess very similar structure, however provide varying nitrogen–carbon atomic ratios as summarized in
+Fig. 1
+. The elemental compositions of the synthesized products (ED-CNTs, DAP-CNTs and DAB-CNTs) were evaluated by XPS analysis with the results displayed in
+Table 1
+. This confirms the successful incorporation of nitrogen into all three N-CNT samples, where the amount of nitrogen doping was found to increase with the increasing nitrogen–carbon ratio present in the precursor solution. In this regard, ED-CNTs possessed the highest nitrogen incorporation (4.74 at.%) due to its nitrogen rich structure and thus a higher presence of nitrogen introduced to the growth environment. After N-CNT growth, the CVD furnace was exposed to ambient conditions at 400 °C in order to burn off any unstable amorphous carbon species, resulting in the observed oxygen content. The minimal iron content can be attributed to residual iron particles from the ferrocene growth catalyst remaining after acid leaching.
+Fig. 1. Molecular structure and corresponding nitrogen–carbon ratios for: (a) ED, (b) DAP and (c) DAB.
+Table 1. Overall atomic compositions determined by XPS analysis.
+The C 1s peaks for each sample are displayed in
+Fig. 2
+(a). The C 1s peaks for each sample display a slight shift to a higher binding energy than values expected for for pure graphitic materials (284.3 eV)
+[36]
+. This is a commonly observed occurrence for nitrogen doped graphitic materials
+[24]
+,
+[27]
+,
+[37]
+,
+[38]
+, where ED-CNTs displayed the most significant shift (284.8 eV) compared with DAP-CNTs (284.7 eV) and DAB-CNTs (284.6 eV), attributed to the varying nitrogen incorporation.
+Fig. 2. XPS of: (a) C 1s spectra and (b) N 1s spectra for ED-CNTs, DAP-CNTs and DAB-CNTs.
+The N 1s signal for each sample was broken down into three seperate peaks as displayed in
+Fig. 2
+(b) in order to determine the nitrogen species present and their relative amounts. The first peak located at approximately 398.6 can be attributed primarly to pyridinic nitrogen
+[24]
+,
+[36]
+, present on the edge planes of the nanotube walls
+[24]
+,
+[27]
+,
+[36]
+. The second peak can be further deconvoluted into two contributing species: (i) pyrollic nitrogen with a characteristic binding energy of 400.0–400.6 eV and (ii) quaternatry nitrogen with a characteristic binding energy of 401.1–401.7 eV
+[36]
+. Thus, it was concluded that the peaks observed at approximately 401.0 eV indicated the presence of both these nitgrogen species with a shift in the peak location to a lower binding energy indicating more pyrollic nitrogen whereas on the contrary, a peak shift to a higher binding energy indicates more quaternary nitrogen. The final peak observed can be attributed primarily to oxidized nitrogen species with a characteristic binding energy of 402.0–405.0 eV
+[36]
+. The amount of contributing nitrogen species was calculated based on the areas of their respective peaks, with the results summarized in
+Table 2
+.
+Table 2. Detailed breakdown of N 1s spectra obtained from XPS analysis indicating peak positions and relative amounts of nitrogen species.
+SEM images were obtained to investigate the morphology of synthesized samples as displayed in
+Fig. 3
+. ED-CNTs, DAP-CNTs and DAB-CNTs all displayed similar structures, with a zigzag pattern observed. This zigzag pattern is a result of nitrogen incorporation which serves to reduce the linearity of synthesized CNTs
+[39]
+.
+Fig. 3. SEM images of: (a) ED-CNTs, (b) DAP-CNTs and (c) DAB-CNTs.
+TEM images displayed in
+Fig. 4
+were obtained in order to investigate the effect of nitrogen content on the morphology and nanostructure of the synthesized N-CNTs. All three samples displayed the characteristic bamboo-like morphology of N-CNTs commonly reported in literature
+[35]
+,
+[40]
+,
+[41]
+,
+[42]
+,
+[43]
+, with some residual metallic iron particles observed on the surface. The formation of this bamboo-like nanostructure has been attributed to the incorporation of nitrogen dopant atoms, which lead to the energetically favored buckling of the graphitic nanotube walls
+[40]
+,
+[44]
+. In direct agreement with this theory, ED-CNTs (
+Fig. 4
+(a)) display the highest amount of structural deformations as a result of the significant nitrogen content. Small, round bamboo compartments are observed for ED-CNTs, whereas for DAP-CNTs (
+Fig. 4
+(b)) and DAB-CNTs (
+Fig. 4
+(c)), longer more rectangular compartments are observed. Furthermore, an increase in wall thickness was observed for N-CNTs with lower nitrogen contents consistent with a previous report
+[45]
+. An average wall thickness of 3.4, 7.2 and 10.1 nm was observed for ED-CNTs, DAP-CNTs and DAB-CNTs, respectively.
+Fig. 4. TEM images obtained displaying bamboo-like morphologies for: (a) ED-CNTs, (b) DAP-CNTs and (c) DAB-CNTs.
+The Raman spectrum of all three samples are displayed in
+Fig. 5
+, with two distinct peaks observed that are characteristic of CNT materials
+[25]
+,
+[46]
+,
+[47]
+. The D-band, commonly observed between 1200 and 1450 cm−1
+[37]
+indicates a reduction in the symmetry of the graphitic lattice, caused by heterogenous atom substitution and structural defects
+[37]
+,
+[48]
+. The G-band, commonly observed between 1550 and 1600 cm−1
+[37]
+is attributed to the E2g vibration mode that is present due to the sp2 bonded graphitic carbons
+[37]
+,
+[43]
+,
+[48]
+. The D band to G band intensity ratio (ID/IG) can be considered a measure of the degree of defects present in the N-CNT sample. This provides an indication of the succesful incoporation of heterogenous nitrogen atoms and the presence of edge plane site exposure
+[25]
+,
+[38]
+,
+[42]
+,
+[49]
+. The ID/IG ratios for ED-CNTs, DAP-CNTs and DAB-CNTs were determined to be 2.07, 1.41 and 1.35, respectively. These results are consistent with TEM analysis, where ED-CNTs displayed a significantly higher amount of structural defects compared with the other samples. From our materials, it is apparent that the ID/IG ratio increases as a direct result of nitrogen incorporation, which can be linked back to the choice of precursor solution utilized for N-CNT synthesis.
+Fig. 5. Raman spectroscopy of ED-CNTs, DAP-CNTs and DAB-CNTs displaying characteristic D and G band peaks.
+Polarization curves for ED-CNTs, DAP-CNTs and DAB-CNTs, along with their respective H2O selectivities are displayed in
+Fig. 6
+. H2O selectivity values were determined in order to quantitatively gauge the preferential reduction of oxygen towards the more efficient 4 electron pathway, compared to the less efficient 2 electron pathway resulting in the formation of H2O2. H2O selectivity can be calculated by Eq.
+(1)
+[26]
+:
+(1)
+where ID and IR represent the measured disc and ring currents, respectively, and N represents the ring collection efficiency (0.26).
+Fig. 6. (a) ORR polarization curves and (b) H2O selectivities obtained in 0.1 M KOH in the cathodic sweep direction at a scan rate of 10 mV s−1 and electrode rotation rate of 900 rpm.
+A distinct trend is noticed for each of the samples, where increased ORR half cell activity (
+Fig. 6
+(a)), along with higher H2O selectivity (
+Fig. 6
+(b)) was obtained for N-CNT samples with higher nitrogen contents. At a potential of −0.4 V vs Ag/AgCl and a electrode rotation speed of 900 rpm, ED-CNTs displayed a current density of 3.86 mA cm−2, significantly higher than 2.30 mA cm−2 and 1.75 mA cm−2 obtained for DAP-CNTs and DAB-CNTs, respectively. Under the same operating conditions, ED-CNTs also displayed an H2O selectivity of 87.0%, a drastic improvment over 77.0% displayed by DAP-CNTs and 61.6% for DAB-CNTs.
+The higher performance observed for ED-CNTs can be linked back to previous reports highlighting the importance of nitrogen groups on the ORR activity of nitrogen doped carbon materials. Pyridinic groups are commonly discussed and consist of a nitrogen atom hetereogenously bonded to two neighbouring carbon atoms, residing on the nanotube edge planes
+[27]
+,
+[50]
+,
+[51]
+. The increased density of these edge plane sites has been consistently shown to result in enhanced ORR activity
+[17]
+,
+[25]
+,
+[26]
+,
+[27]
+,
+[50]
+,
+[51]
+. It should be noted however, that there is a degree of ambiguity surrounding this conclusion. There is uncertainty as to whether or not the pyridinic nitrogen atom itself provides the actual active site for promiting the ORR, or whether the reaction takes place on the edge plane defect sites. Regardless, the presence of pyridinic nitrogen provides indication of the amount of edge plane exposure present on the nanotube walls and thus has been attributed to increased ORR activity. The nature of this peformance enhancement has been related to the increased electron density and electron donor properties present on the surface edge planes, a result of the extra valence electrons provided by the dopant pyridinic groups
+[25]
+,
+[49]
+,
+[51]
+,
+[52]
+. As a result, these sites serve to faciliate the adsorption of oxygen, along with providing a synergistic effect by readily adsorbing and further reducing reaction intermediates, specifically hydrogen peroxide
+[25]
+,
+[49]
+,
+[51]
+. Through XPS analysis, ED-CNTs were found to possess a significant nitrogen content (4.74 at.%) along with a high degree of pyridinic species (1.66 total at.%). This provides a logical explanation for the increased ORR activity and H2O selectivities observed. Diminished performance relative to ED-CNTs was observed for DAP-CNTs and DAB-CNTs. This aligns well with this hypothesis, with inferior performance attributed to lower pyridinic nitrogen contents (0.36 and 0.35 total at.% for DAP-CNTs and DAB-CNTs, respectively). It should be noted however, that the performance of DAB-CNTs was found to be significantly lower than DAP-CNTs, despite similar overall pyridinic nitrogen concentrations. This is attributed to the inferior overall nitrogen content (1.20 at.% vs 2.48 at.%), indicating the possibility of other active N–C functionalities
+[17]
+, or changes to the bulk properties of N-CNTs induced by nitrogen incorporation, leading to increased electronic conductivities
+[3]
+,
+[37]
+,
+[53]
+, electron donor behavior
+[3]
+,
+[41]
+,
+[54]
+,
+[55]
+and enhanced reactant and intermediate adsorption
+[25]
+,
+[52]
+,
+[56]
+. This illustrates the importance of the precursor solution utilized for N-CNT growth on the ORR activity of the samples observed in alkaline conditions. Higher nitrogen content containing N-CNTs, with some emphasis on pyridinic species will lead to significant improvements in the ORR activity. Furthermore, it has been found that at higher nitrogen contents (e.g. > 2 at.%) the formation of pyridinic nitrogen is preferred
+[45]
+, reiterating the importance of using a nitrogen rich precursor solution such as ethylenediamine. It should be noted that the effect of the nominal iron presence in the N-CNT catalyst materials cannot be neglected. There is some uncertainty regarding the exact role of the iron species present, which could potentially be linked to ORR catalytically active pyridinic FeN2/Cx species, low activity pyrollic FeN4/Cx species
+[57]
+, or inert iron and/or iron oxide particles. Regardless, the impact of nitrogen content with a focus on pyridinic (either Fe-coordinated or natural form) groups is apparent.
+Koutecky–Levich (KL) plots can be used to investigate the kinetics of ORR while eliminating the effects of reactant diffusion in the electrochemical cell. The overall current density can be broken down into diffusion and kinetic contributions applying Eq.
+(2)
+, the KL equation
+[58]
+:
+(2)
+where i denotes the current density, ik is the kinetically limited current density, ω is the electrode rotation speed and B is the Levich slope given by Eq.
+(3)
+:
+(3)
+where n denotes the number of electrons transferred, F is Faraday's constant, [O2] is the concentration of dissolved oxygen,
+is the diffusion coefficient of oxygen in solution and ν is the solution viscosity.
+KL plots were generated for ED-CNTs, DAP-CNTs and DAB-CNTs and are displayed in
+Fig. 7
+. These plots display linear, relatively parallel behavior, an indication of first order kinetics with respect to oxygen
+[58]
+. Slight changes in the observed slopes are apparent, primarily in the case of DAB-CNTs. This could be a result of the deviation in number of electrons transferred as indicated by changing H2O selectivity values (
+Fig. 6
+(b)), or slight deviation from the proposed first order kinetics. Regardless, the intercept of KL plots can be used to calculate ik values, which provide a good indication of the ORR kinetics on the catalyst surface, while eliminating the interfering effects of reactant diffusion. At an electrode voltage of −0.2 V vs Ag/AgCl, ED-CNTs displayed an ik of −5.07 mA cm−2, superior to −1.02 mA cm−2 and −0.65 mA cm−2 determined for DAP-CNTs and DAB-CNTs, respectively. This further confirms the enhanced performance of ED-CNTs after eliminating the effect of reactant diffusion due to the high nitrogen content and edge plane exposure.
+Fig. 7. Koutecky–Levich plots for: (a) ED-CNTs, (b) DAP-CNTs and (c) DAB-CNTs in 0.1 M KOH.
+Nitrogen rich N-CNTs are promising materials as ORR electrocatalysts in low temperature fuel cell applications, with the effect of various precursor materials illustrated in the present work. In summary, N-CNTs were synthesized from three different aliphatic diamine precursor solutions with varying carbon chain lengths. It was concluded that using precursor solutions with higher nitrogen to carbon atomic ratios will result in N-CNTs with higher overall nitrogen content and enhanced ORR activity. ED-CNTs were found to contain 4.74 at.% nitrogen and were found to have superior ORR activity compared with DAP-CNTs (2.48 at.% nitrogen), which displayed higher activity than DAB-CNTs (1.20 at.% nitrogen). The increase in performance was attributed to the enhanced electronic, structural and chemical properties resulting from higher overall nitrogen contents, with some emphasis placed on pyridinic species indicating a higher degree of edge plane exposure.
+This work was financially supported by the Natural Sciences and Engineering Research Council of Canada (NSERC) and the University of Waterloo. TEM images were obtained at the Canadian Centre for Electron Microscopy at McMaster University.
+Cookies are used by this site.
+Cookie Settings
+All content on this site: Copyright © 2024 Elsevier B.V., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the Creative Commons licensing terms apply.

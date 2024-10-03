@@ -1,0 +1,359 @@
+{
+    "materials": [
+        {
+            "material_name": "N-doped graphene quantum dots (N-GQDs)",
+            "properties": [
+                {
+                    "type": "Potential window",
+                    "value": 3.0,
+                    "unit": "V",
+                    "conditions": "cyclic voltammogram scanning",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "Size",
+                    "value": 2.0,
+                    "unit": "nm",
+                    "conditions": "TEM imaging",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "Size",
+                    "value": 5.0,
+                    "unit": "nm",
+                    "conditions": "TEM imaging",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "Topographic height",
+                    "value": 1.0,
+                    "unit": "nm",
+                    "conditions": "AFM imaging",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "Topographic height",
+                    "value": 2.5,
+                    "unit": "nm",
+                    "conditions": "AFM imaging",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "Interlayer spacing",
+                    "value": 0.34,
+                    "unit": "nm",
+                    "conditions": "High-resolution TEM",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "Size",
+                    "value": 2.0,
+                    "unit": "nm",
+                    "conditions": "Transmission electron microscopy (TEM)",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "Size",
+                    "value": 5.0,
+                    "unit": "nm",
+                    "conditions": "Transmission electron microscopy (TEM)",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "Topographic height",
+                    "value": 1.0,
+                    "unit": "nm",
+                    "conditions": "Atomic force microscopy (AFM)",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "Topographic height",
+                    "value": 2.5,
+                    "unit": "nm",
+                    "conditions": "Atomic force microscopy (AFM)",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "Diameter",
+                    "value": 2.0,
+                    "unit": "nm",
+                    "conditions": "TEM images",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Diameter",
+                    "value": 5.0,
+                    "unit": "nm",
+                    "conditions": "TEM images",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Topographic height",
+                    "value": 1.0,
+                    "unit": "nm",
+                    "conditions": "AFM image",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Topographic height",
+                    "value": 2.5,
+                    "unit": "nm",
+                    "conditions": "AFM image",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "XPS peak",
+                    "value": 284.0,
+                    "unit": "eV",
+                    "conditions": "XPS survey spectra",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "XPS peak",
+                    "value": 532.0,
+                    "unit": "eV",
+                    "conditions": "XPS survey spectra",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "XPS peak",
+                    "value": 398.5,
+                    "unit": "eV",
+                    "conditions": "High-resolution N 1s spectrum",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "XPS peak",
+                    "value": 401.0,
+                    "unit": "eV",
+                    "conditions": "High-resolution N 1s spectrum",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "XPS peak",
+                    "value": 285.2,
+                    "unit": "eV",
+                    "conditions": "High-resolution C 1s spectrum",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "XPS peak",
+                    "value": 286.6,
+                    "unit": "eV",
+                    "conditions": "High-resolution C 1s spectrum",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "XPS peak",
+                    "value": 288.3,
+                    "unit": "eV",
+                    "conditions": "High-resolution C 1s spectrum",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "XPS peak",
+                    "value": 289.0,
+                    "unit": "eV",
+                    "conditions": "High-resolution C 1s spectrum",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "UV-vis absorption peak",
+                    "value": 270.0,
+                    "unit": "nm",
+                    "conditions": "UV-vis absorption spectrum",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "XRD peak",
+                    "value": 25.0,
+                    "unit": "\u00b0",
+                    "conditions": "XRD profiles",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Interlayer spacing",
+                    "value": 0.34,
+                    "unit": "nm",
+                    "conditions": "XRD profiles",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "XPS",
+                    "values": [
+                        284.0,
+                        532.0,
+                        398.5,
+                        401.0,
+                        398.5,
+                        401.0,
+                        285.2,
+                        286.6,
+                        288.3,
+                        289.0,
+                        398.5,
+                        401.0,
+                        285.2,
+                        286.6,
+                        288.3,
+                        289.0
+                    ],
+                    "units": [
+                        "eV"
+                    ],
+                    "conditions": [
+                        "C\u2013O groups",
+                        "C\u2013N bond",
+                        "N 1s spectrum, pyrrolic N atoms",
+                        "C 1s spectrum, C\u2013N bond",
+                        "C 1s spectrum, O\u2013C\u2550O groups",
+                        "C 1s peak",
+                        "N 1s peak, pyridine-like N atoms",
+                        "N 1s peak, pyrrolic",
+                        "C\u2550O groups",
+                        "O\u2013C\u2550O groups",
+                        "O 1s peak",
+                        "C 1s spectrum, C\u2013O groups",
+                        "N 1s peak, pyrrolic N atoms",
+                        "N 1s peak, pyridine-like",
+                        "C 1s spectrum, C\u2550O groups",
+                        "N 1s spectrum, pyridine-like N atoms"
+                    ],
+                    "evidence": 3.5
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Pt/C",
+            "properties": [],
+            "benchmark": true
+        },
+        {
+            "material_name": "N-doped CNTs",
+            "properties": [],
+            "benchmark": false
+        },
+        {
+            "material_name": "N-doped graphene sheets",
+            "properties": [],
+            "benchmark": false
+        },
+        {
+            "material_name": "N-GQD/graphene",
+            "properties": [
+                {
+                    "type": "Conductivity",
+                    "value": 40.0,
+                    "unit": "S/cm",
+                    "conditions": "Measured on a graphene-supported N-GQD film",
+                    "reaction_type": "NA",
+                    "evidence": 6
+                },
+                {
+                    "type": "ORR onset potential",
+                    "value": -0.16,
+                    "unit": "V",
+                    "conditions": "O2-saturated 0.1 M KOH solution, LSV",
+                    "reaction_type": "ORR",
+                    "evidence": 6
+                },
+                {
+                    "type": "ORR peak potential",
+                    "value": -0.27,
+                    "unit": "V",
+                    "conditions": "O2-saturated 0.1 M KOH solution, LSV",
+                    "reaction_type": "ORR",
+                    "evidence": 6
+                },
+                {
+                    "type": "Current density",
+                    "value": 0.1,
+                    "unit": "M KOH",
+                    "conditions": "O2-saturated, LSV, RDE",
+                    "reaction_type": "ORR",
+                    "evidence": 6
+                },
+                {
+                    "type": "Conductivity",
+                    "value": 40.0,
+                    "unit": "S/cm",
+                    "conditions": "Measured in the formed film",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "ORR onset potential",
+                    "value": -0.16,
+                    "unit": "V",
+                    "conditions": "O2-saturated 0.1 M KOH solution",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "ORR reduction peak",
+                    "value": -0.27,
+                    "unit": "V",
+                    "conditions": "O2-saturated 0.1 M KOH solution",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "Transferred electron number",
+                    "value": 3.6,
+                    "unit": "electrons",
+                    "conditions": "Measured over the potential range from -0.3 to -0.6 V",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "Transferred electron number",
+                    "value": 4.4,
+                    "unit": "electrons",
+                    "conditions": "Measured over the potential range from -0.3 to -0.6 V",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                }
+            ],
+            "benchmark": false
+        }
+    ],
+    "doi": "example_doi",
+    "factor": "Hydrogen coverage,Energy barrier,Conductivity,Surface area,Size,Defect,Dopant,Active sites,Stability,Electrode potential,Overpotential,Tafel slope,onsite potential,Current density,Mass loading,XPS,FTIR,Raman,XRD",
+    "meta": {
+        "maintext": "/Users/yangz/Documents/projects/llm4catalyst/documents/maintext/gqd_maintext.txt",
+        "abstract": "/Users/yangz/Documents/projects/llm4catalyst/documents/abstract/gqd_abs.txt",
+        "intro": "/Users/yangz/Documents/projects/llm4catalyst/documents/intro/gqd_intro.txt",
+        "window_size": 2,
+        "chunk_size": 500,
+        "chunk_overlap": 50,
+        "output": "results",
+        "property": "/Users/yangz/Documents/projects/llm4catalyst/prompts/properties.txt",
+        "self_defined": true
+    }
+}

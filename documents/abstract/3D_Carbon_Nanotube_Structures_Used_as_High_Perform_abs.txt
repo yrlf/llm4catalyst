@@ -1,0 +1,11 @@
+Abstract
+We report a high performance oxygen reduction reaction (ORR) catalyst based on vertically aligned, nitrogen-doped carbon nanotube (VA-NCNT) arrays. Characterization in conditions analogous to the operation of a polymer electrolyte membrane fuel cell show ORR taking place on the catalyst at a favorable reduction potential with a superior current density and greater rate constant.
+This publication is licensed under the terms of your institutional subscription. Request reuse permissions.
+Copyright © 2010 American Chemical Society
+Subjects
+what are subjects
+Catalysts
+Electrical Properties
+Electrodes
+Platinum
+Redox Reactions

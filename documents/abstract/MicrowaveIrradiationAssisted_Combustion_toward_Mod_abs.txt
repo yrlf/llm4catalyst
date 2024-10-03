@@ -1,0 +1,18 @@
+Abstract
+A rapid method to high-yield synthesis of modified graphite by microwave irradiation of partially oxidized graphite (oxidized by H2SO4 and KMnO4) is reported. During the microwave irradiation, electrical arc induced flame combustion of Mn2O7 and vaporization and decomposition of H2SO4 to form O2 and SO2, which helped to decompose graphite within 30 s. The modified graphite boosts its ability to support the intercalation and diffusion of Li+ ions. As an anode material for lithium ion batteries, the modified graphite displays high reversible capacity of 373 mA·h/g, approaching the theoretical value of 372 mA·h/g. Long cycling performance of 410 charge–discharge cycles shows the capacity is retained at 370 mA·h/g, demonstrating superior stability. The improved cycling stability is attributed to the formation of a stable solid electrolyte interface film with the help of in situ formed S-based compounds on a graphite sheet. This work demonstrated a simple and effective method to alter carbon structures for improving energy storage ability.
+This publication is licensed under the terms of your institutional subscription. Request reuse permissions.
+Copyright © 2017 American Chemical Society
+Subjects
+what are subjects
+Anode Materials
+Carbon
+Electrodes
+Electromagnetic Radiation
+Irradiation
+Keywords
+what are keywords
+Modified Graphite
+Lithium Ion Battery
+Microwave Synthesis
+KMnO4 Oxidation
+Combustion

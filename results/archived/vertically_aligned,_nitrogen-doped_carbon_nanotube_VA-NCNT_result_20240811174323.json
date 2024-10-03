@@ -1,0 +1,297 @@
+{
+    "materials": [
+        {
+            "material_name": "Pt",
+            "properties": [
+                {
+                    "type": "Diameter",
+                    "value": 2.0,
+                    "unit": "nm",
+                    "conditions": "standard state (298 K, 1 atm) exchange current density",
+                    "reaction_type": "ORR",
+                    "evidence": 0
+                },
+                {
+                    "type": "Current density",
+                    "value": 6.0,
+                    "unit": "orders of magnitude",
+                    "conditions": "standard state (298 K, 1 atm) exchange current density",
+                    "reaction_type": "ORR",
+                    "evidence": 0
+                }
+            ],
+            "benchmark": true
+        },
+        {
+            "material_name": "Pt3M",
+            "properties": [],
+            "benchmark": true
+        },
+        {
+            "material_name": "Pt\u2212Pd nanodendrites",
+            "properties": [
+                {
+                    "type": "ORR activity",
+                    "value": 0.0,
+                    "unit": "NA",
+                    "conditions": "specific crystallite facets",
+                    "reaction_type": "ORR",
+                    "evidence": 0
+                }
+            ],
+            "benchmark": true
+        },
+        {
+            "material_name": "VA-NCNTs",
+            "properties": [
+                {
+                    "type": "Current density",
+                    "value": 0.0,
+                    "unit": "NA",
+                    "conditions": "PEMFC-analogous acidic medium, ORR",
+                    "reaction_type": "ORR",
+                    "evidence": 0
+                },
+                {
+                    "type": "Current density",
+                    "value": 2.62,
+                    "unit": "A/cm\u00b2",
+                    "conditions": "ORR, steady state voltammetry",
+                    "reaction_type": "ORR",
+                    "evidence": 1
+                },
+                {
+                    "type": "ORR rate constant",
+                    "value": 5.38,
+                    "unit": "cm/s",
+                    "conditions": "ORR, steady state voltammetry",
+                    "reaction_type": "ORR",
+                    "evidence": 1
+                },
+                {
+                    "type": "Current density",
+                    "value": 120.0,
+                    "unit": "\u03bcA",
+                    "conditions": "steady state ORR current",
+                    "reaction_type": "ORR",
+                    "evidence": 2
+                },
+                {
+                    "type": "Electrode potential",
+                    "value": 47.0,
+                    "unit": "mV",
+                    "conditions": "anodic shift in oxygen reduction potential",
+                    "reaction_type": "ORR",
+                    "evidence": 2
+                },
+                {
+                    "type": "Length",
+                    "value": 7.5,
+                    "unit": "\u03bcm",
+                    "conditions": "SEM imaging",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "Width",
+                    "value": 50.0,
+                    "unit": "nm",
+                    "conditions": "SEM imaging",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "Mass loading",
+                    "value": 50.0,
+                    "unit": "\u03bcg",
+                    "conditions": "yielded an \u223c120 \u03bcA steady state ORR current",
+                    "reaction_type": "ORR",
+                    "evidence": 4
+                },
+                {
+                    "type": "Current density",
+                    "value": 2108.3,
+                    "unit": "A cm\u22123",
+                    "conditions": "volumetric unit of active material",
+                    "reaction_type": "ORR",
+                    "evidence": 4
+                },
+                {
+                    "type": "Surface area",
+                    "value": 0.0,
+                    "unit": "m\u00b2/g",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 6
+                },
+                {
+                    "type": "Electrode potential",
+                    "value": 113968.0,
+                    "unit": "NA",
+                    "conditions": "for the selective sensing of hydroquinone and catechol",
+                    "reaction_type": "NA",
+                    "evidence": 10
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Pt-black",
+            "properties": [
+                {
+                    "type": "Size",
+                    "value": 2.2,
+                    "unit": "nm",
+                    "conditions": "dispersed onto a carbon black support",
+                    "reaction_type": "ORR",
+                    "evidence": 2
+                },
+                {
+                    "type": "Current density",
+                    "value": 20.0,
+                    "unit": "\u03bcA",
+                    "conditions": "peak-shaped transient ORR current",
+                    "reaction_type": "ORR",
+                    "evidence": 2
+                },
+                {
+                    "type": "Diameter",
+                    "value": 2.2,
+                    "unit": "nm",
+                    "conditions": "dispersed on carbon black support",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "Mass loading",
+                    "value": 90.0,
+                    "unit": "\u03bcg",
+                    "conditions": "generated an \u223c20 \u03bcA peak-shaped transient ORR current",
+                    "reaction_type": "ORR",
+                    "evidence": 3
+                },
+                {
+                    "type": "Particle size",
+                    "value": 2.2,
+                    "unit": "nm",
+                    "conditions": "dispersed onto a carbon black support",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                }
+            ],
+            "benchmark": true
+        },
+        {
+            "material_name": "Fe3C(Fe) hybrid nanostructure",
+            "properties": [
+                {
+                    "type": "O2 reduction catalysis",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "in Zn-Air batteries",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "N-Doped Carbon",
+            "properties": [
+                {
+                    "type": "Oxygen Reduction Reaction activity",
+                    "value": 0.0,
+                    "unit": "NA",
+                    "conditions": "NA",
+                    "reaction_type": "ORR",
+                    "evidence": 8
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "MOF\u2013FeZn",
+            "properties": [
+                {
+                    "type": "Catalyst",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "ultra-dispersive, nonprecious metal",
+                    "reaction_type": "NA",
+                    "evidence": 9
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "PtPd/porous holey nitrogen-doped carbon nanotubes",
+            "properties": [
+                {
+                    "type": "Sensitive nonenzymatic detection",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "for glucose detection",
+                    "reaction_type": "NA",
+                    "evidence": 11
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Pyrrolic nitrogen-doped multiwall carbon nanotubes",
+            "properties": [
+                {
+                    "type": "Catalyst",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "aerosol assisted chemical vapor deposition",
+                    "reaction_type": "NA",
+                    "evidence": 12
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Pt/CNT",
+            "properties": [
+                {
+                    "type": "Electrochemical performance",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "in PEMFC",
+                    "reaction_type": "NA",
+                    "evidence": 13
+                }
+            ],
+            "benchmark": true
+        },
+        {
+            "material_name": "PtPd/porous holey nitrogen-doped graphene",
+            "properties": [
+                {
+                    "type": "Current density",
+                    "value": 3.1,
+                    "unit": "mA/cm\u00b2",
+                    "conditions": "at 0.5 V vs. Ag/AgCl",
+                    "reaction_type": "NA",
+                    "evidence": 14
+                }
+            ],
+            "benchmark": false
+        }
+    ],
+    "doi": "example_doi",
+    "factor": "Hydrogen coverage,Energy barrier,Conductivity,Surface area,Size,Defect,Dopant,Active sites,Stability,Electrode potential,Overpotential,Tafel slope,onsite potential,Current density,Mass loading,XPS,FTIR,Raman,XRD",
+    "meta": {
+        "maintext": "/Users/yangz/Documents/projects/llm4catalyst/documents/maintext/3D_Carbon_Nanotube_Structures_Used_as_High_Perform_maintext.txt",
+        "abstract": "/Users/yangz/Documents/projects/llm4catalyst/documents/abstract/3D_Carbon_Nanotube_Structures_Used_as_High_Perform_abs.txt",
+        "intro": "documents/intro/c60_intro.txt",
+        "window_size": 2,
+        "chunk_size": 1000,
+        "chunk_overlap": 100,
+        "output": "results",
+        "property": "/Users/yangz/Documents/projects/llm4catalyst/prompts/properties.txt",
+        "self_defined": true,
+        "title": "3D_Carbon_Nanotube_Structures_Used_as_High_Perform"
+    }
+}

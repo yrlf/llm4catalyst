@@ -1,0 +1,236 @@
+•
+Cobalt oxide nanoparticles are synthesized on the surface of nitrogen doped carbon.
+•
+The hybrid composite enhances the conductivity, charge transfer and generate additional defect active sites.
+•
+The N-ACS@Co3O4 exhibits a superior OER activity and exceptional long-term durability.
+•
+DFT calculations demonstrate a strong adsorption of Co3O4 on N-doped graphene.
+•
+The strong adsorption of Co3O4 prevents its agglomeration, and improves the stability.
+Cobalt oxide nanoparticles are synthesized on the surface of nitrogen doped carbon.
+The hybrid composite enhances the conductivity, charge transfer and generate additional defect active sites.
+The N-ACS@Co3O4 exhibits a superior OER activity and exceptional long-term durability.
+DFT calculations demonstrate a strong adsorption of Co3O4 on N-doped graphene.
+The strong adsorption of Co3O4 prevents its agglomeration, and improves the stability.
+The design of hybrid electrocatalysts with abundant active sites and long term stability is crucial for efficient oxygen evolution reaction (OER) application. Cobalt oxide is considered as one of the most promising electrocatalysts to replace noble metal due to its low cost, availability, and electrocatalytic activity towards the oxygen evolution reaction in alkaline media. However, nano-scale cobalt oxide suffers from severe surface self-agglomeration during the OER process, so that leading to poor activity and durability. Herein, ultra-small cobalt oxide nanoparticles are anchored on the surface of nitrogen doped porous 3D graphitic carbon nano-spheres (N-ACS@Co3O4) to increase the amount of exposed active site and avoid the self-agglomeration. The obtained electrocatalyst (N-ACS@Co3O4) is enriched with abundant oxygen vacancies and exhibits a superior OER activity (Overpotential of 237 mV at 10 mA.cm−2) and exceptional stability for at least 30 h in alkaline electrolyte (1 M KOH). The DFT calculations demonstrate that the strong adsorption of Co3O4 on N-doped graphene can prevent its agglomeration, and therefore improves the stability of Co3O4 nanoparticles during OER process in line with the experimental results.
+Global warming and the energy crisis caused by the large use of fossil fuels are among the most important challenges that need to be addressed in order to ensure sustainable development. The oxygen evolution reaction (OER) has attracted significant attention due to its key roles in various energy conversion processes such as rechargeable metal-oxygen batteries, regenerative fuel cells and water electrolyzers [
+[1]
+,
+[2]
+,
+[3]
+]. However, the oxygen evolution reaction is hindered by the sluggish kinetics, mediated by a complex process of multistep proton (H+) coupled electron (e−) transfer, which limits the overall efficiency of the energy-conversion [
+4
+,
+5
+]. Therefore, the development of highly active OER catalysts is needed. Nowadays, IrO2 and RuO2 are the cutting-edge catalysts for the oxygen evolution reaction [
+6
+,
+7
+]. However, the commercial application of such metal oxides has not achieved the expected level because of their paucity, high cost, and unstable catalytic performance. Therefore, significant effort has been devoted to develop new catalysts, which include transition metals (Nickel, Cobalt, Iron …) and their derivatives as promising alternative materials for OER electrocatalysis [
+[8]
+,
+[9]
+,
+[10]
+,
+[11]
+,
+[12]
+,
+[13]
+,
+[14]
+,
+[15]
+,
+[16]
+,
+[17]
+]. Especially, Co3O4 nanoparticles proved to be one of the most promising alternatives to precious metals as heterogeneous OER electrocatalyst due to their natural abundance, stable phase compared to other cobalt-oxygen system and most importantly their mixed valence of Co2+ and Co3+ where the electron transport between these ions is beneficial for the electrocatalytic activity [
+18
+,
+19
+]. However, their practical application requires a further improvement. Previous research has demonstrated that the electrocatalytic activity and stability of a catalyst are heavily reliant on its electro-active surface area, electronic states, and structural stability [
+20
+]. Viewed in this way, diverse procedures have been adapted to improve the catalytic activity of Co3O4. First, the active surface area can be modulated by designing the particle size and pore structure varying the form of porous nanostructures (nanoparticles, nanosheets, nanowires, nanomeshes) [
+[21]
+,
+[22]
+,
+[23]
+,
+[24]
+,
+[25]
+,
+[26]
+,
+[27]
+,
+[28]
+]. The second strategy is appertaining to adjusting the electronic state of Co3O4 by heteroatom doping, iron impurity and defect generation [
+20
+,
+[29]
+,
+[30]
+,
+[31]
+]. For instance, Chen et al. [
+32
+] demonstrated that iron-doped cobalt oxide at octahedral sites in spinel structure enhanced significantly the OER activity. Recently, a promising approach has emerged which involves hybridizing the spinel cobalt oxide with carbon based materials [
+33
+,
+34
+]. The latter strategy has shown great improvement in the charge transport capacity and high strength of the entire system; it is caused by a strong interaction between the oxide and carbon which induces electronic structure reconfiguration in the vicinity of cobalt centers and leads to an improved electro-catalytic activity [
+19
+]. As a case in point, Yuan Ha et al. synthesized a nitrogen doped 2D Co3O4@C nanomesh with abundant oxygen vacancies via a bio-mineralization method [
+19
+]. The N–Co3O4@C nanomesh exhibits a good catalytic activity toward both HER and OER. However, despite all the efforts and the achievements made in this context, the development of higher active and especially long term stable Co3O4 based electrocatalysts for OER still remains challenging. One of the major problems is that when Co3O4 nanoparticles based electrocatalysts are downsized to the nanoscale to increase the number of exposed active sites, where their surface energy is dramatically magnified, leading to structural instability. More precisely, cobalt oxide nanoparticles suffer from severe surface self-agglomeration under strong acidic/alkaline and oxidative environments during the OER process, so that leading to poor activity and durability [
+35
+,
+36
+]. To protect the Co3O4 nanoparticles electrocatalysts from agglomeration during the OER process, anchoring and dispersing electrocatalyst on a given support, such as carbon materials, have been used as an effective approach for solving this problem. L. Xu et al. [
+37
+] proposed the ZIF-derived Co3O4 anchoring onto MWCNTs network, the as proposed electrocatalyst reveals high OER activity and strong stability due to their special morphology. However, since only the surface atoms are accessible to the reactants, the number of exposed electrocatalytic sites may be reduced due to coverage.
+The main objective of the present paper is to enhance the stability and activity of the electrocatalyst by a strong anchoring of the cobalt oxide nanoparticles on the surface of 3D nano-spherical, highly porous, nitrogen doped and high specific surface area graphitic carbon to increase the available number of active site and avoid the self-agglomeration. The 3D carbon spheres were first activated using KOH, pyrolysis and nitrogenation process, yielding a formation of abundant defects which promote the adsorption of Co3O4 on their surface. Doping the graphitic carbon by nitrogen improve the electron-withdrawing capability of functional groups (pyridinic N, C=O) which facilitate the OER reaction. The synthesized N-ACS@Co3O4 is characterized by a large content of abundant oxygen vacancies as compared with the bulk material due to their interaction with carbon spheres during the synthesis process. The N-ACS@Co3O4 exhibits a superior OER activity from the collaborative merits of both highly active graphitic carbon spheres and Co3O4 as evident by a small overpotential of 237 mV for reaching 10 mA/cm2 and high stability for 30 h. The good stability of N-ACS@Co3O4 is due to the uniform distribution and strong anchoring of cobalt oxide on the surface of graphitic carbon which preclude the self-approach of nanoparticles during the OER process.
+Cobalt (II) nitrate hexahydrate Co (NO3)2,6H2O (99.99%), Glucose (C6H12O6) Ammonia solution (NH3·H2O, 28 wt %) and RuO2 (99.95%) were obtained from Aladdin Chemistry Co., Ltd.
+In a typical synthesis, 0.25 g/mL of glucose solution was hydrothermally treated for 6 h at 170 °C, and then the brown powder was several times washed with ethanol and water, and dehumidified under 75 °C for 10 h. The obtained carbon spheres were then activated using pyrolysis approach with KOH (2/1 wt ratio of carbon spheres/KOH) at 900 °C under Ar atmosphere for 2 h (5 °C min−1).
+The as-obtained activated carbon spheres were treated with a dopamine (7.0 mg ml−1) and Tris solution (3.0 mg mL−1) solutions under continuous gentle stirring for one night, and then amassed using centrifugation. Then, the product was dispersed and sonicated in a dopamine solution (5.0 mg mL−1) for 20 min. The precipitate was then washed several times and freeze dried for 12 h. In the last step, the obtained product was annealed at 900 °C under Argon atmosphere for 2h (5 °C min−1) to obtain N-ACS.
+The solvothermal method has been adapted to prepare N-ACS@Co3O4. 0.25 g of cobalt (II) nitrate hexahydrate was dissociated in a homogeneous mix-solution of 30 mL water and 30 mL ethanol and stirred for 30 min. Then, 6 mL of ammonia solution (28%) was slowly pipetted in the above solution under continuous stirring. 0.1 g of the as prepared N-ACS was added into the solution under sonication and maintained for 20 min. The obtained solution was then hydrothermally treated for 10 h under 85 °C using Teflon-lined autoclave. Subsequently, the powder was collected by centrifugation and dried at 70 °C for 12 h. The pure Co3O4 was prepared by the same procedure without adding N-ACS.
+X-ray powder diffraction (XRD) was accomplished utilizing Bruker D8 Advance X-ray diffractometer. The XPS measurements were conducted using Escalab 250xi with Al Ka monochromator X-ray source. The xps peak41 software was used for the deconvolution of XPS peaks results, binding energies of all elements were corrected according to adventitious carbon C 1s (284.8 eV). ZEISS (Sigma 500) SEM was used to collect the morphological micrographs of the as-synthesized samples. The HR-TEM measurements were carried out using JEM 2100F HR-TEM.
+All electrochemical measurements were executed employing CHI-650E electrochemical workstation linked with a three-electrode cell. Hg/HgO electrode was used as a reference electrode and a platinum plate (1 cm2) was applied as a counter electrode. Nickel foam (1 cm2) coated with the catalyst served as a working electrode. The catalysts were deposited on the surface of the nickel foam using electrophoresis method (-10 mV for 1 min) in a solution containing 30 mg of the catalyst and 3 mg of I2 dispersed in 30 mL of acetone. The mass loading capacity of the catalyst on the surface of the nickel foam was 0.265 mg.cm−2. All potential measurements were referenced to the reversible hydrogen electrode (RHE) (ERHE = EHg/HgO + 0.098 + 0.059 pH). The electrocatalytic OER polarization curves were obtained without iR-compensation in a window of potential comprised between 0.7 and 1.75 V vs. RHE under a scan rate of 2 mV/s in 1.0 M alkaline KOH solution. The durability of all samples was tested by chronoamperometry mode at a potential of 1.5 V vs. RHE.
+The theoretical characterizations were conducted in the framework of the first-principles calculation by employing Vienna ab-initio simulation package (VASP) based on the projected augmented wave (PAW) potential [
+38
+]. The plane waves were expanded by an energy cutoff of 450 eV. The exchange and correlation interactions were treated by the generalized gradient approximation (GGA) of Perdew–Burke–Ernzerhof (PBE) functional [
+39
+]. Due to their large size, the calculations nano-spheres were mimicked by graphene at Gamma point only. The graphene (Gr)/Go3O4 heterostructure was modeled by placing a Co3O4 nanoparticle containing 56 atoms (24 Co and 32 O) on top of a 19.73 × 17.13 Å2 rectangular graphene layer cell. We focused on three configurations of N doping, observed in the XPS measurements, namely, on graphitic-N (N atoms substitute C atoms), pyridinic-N, and pyrrolic-N. We created a vacuum region of 30 Å along the z axis to ensure that there is no interaction between the layer and its repeated images. The atom positions were allowed to fully relax by employing the conjugate gradient algorithm until the Hellmann–Feynman forces acting on each atom are less than 0.03 eV/Å. We also included Grimme's DFT-D2 correction to take into account the van der Waals interactions [
+40
+].
+The N-ACS@Co3O4 was synthesized via a multistep strategy as illustrated in
+Scheme 1
+. In the first step, the carbon spheres (CSs) were synthesized using a hydrothermal treatment of Glucose followed by KOH activation treatment at 900 °C under Argon atmosphere. Then, the as prepared ACS was impregnated with dopamine solution which was followed by a second pyrolysis treatment at 900 °C under Argon atmosphere to obtain N-ACS. During this activation treatment, the specific surface area of the carbon nano-spheres (
+Figure S1a
+) is significantly improved from 2.36 to 625.98 m2g−1 with a considerable increase in the pore volume (
+Fig. 1
+a and b), revealing the presence of abundant micro- and meso-pores. It can be seen from the SEM image (
+Fig. 1
+c) that the N-ACS shows a spherical morphology with a diameter ranging from 200 to 800 nm. In the last step, Co3O4 was in-situ synthesized on the surface of the N-ACS via a hydrothermal process. The scanning electron microscopy (SEM) and transmission electron microscope (TEM) images corresponding to N-ACS@Co3O4 (
+Fig. 1
+d; 1e; 1f) show a uniform dispersion of Co3O4 nano-particles on the surface of N-ACS. The size of Co3O4 nanoparticles is comparatively between 20 and 40 nm. A clear lattice fringe is seen from the HR-TEM image (
+Fig. 1
+g), corresponding to the (311) plane of Co3O4 [
+41
+].
+Scheme 1. Schematic illustration for the synthesis of N-ACS@Co3O4.
+Fig. 1. (a) N2 adsorption-desorption isotherms and (b) pore size distribution of N-ACS@Co3O4; (c) SEM image of N-ACS; (d,e) SEM image of N-ACS@Co3O4; (f) TEM image of N-ACS@Co3O4 and (g)HR-TEM image of N-ACS@Co3O4.
+The structural characteristics of the as-synthesized N-ACS@Co3O4 were evaluated using X-ray powder diffraction (XRD) and X-ray photoelectron spectroscopy (XPS). The XRD diffractogram of the carbon nano-spheres (
+Fig. 2
+a) indicates the existence of their characteristic peaks situated at 25.87⁰ and 43.93⁰ which are allotted to the (002) and (101) planes of graphitic carbon, respectively [
+42
+,
+43
+]. The diffractogram of Co3O4 shows the characteristic peaks located at 19.02⁰ (111), 31.26⁰ (220), 36.79⁰ (311), 59.31⁰ (511) and 65.36⁰ (440) corresponding to the face-centered cubic structure of Co3O4 with a space group of Fd3m (JCPDS No.74-2120) [
+44
+,
+45
+]. For N-ACS@Co3O4, the XRD profiles show a coexistence of both graphitic carbon and Co3O4 phases, with a decrease in a peak strength due to the influence of heterostructures. The electronic states on the surface elements of samples were examinated using XPS. The survey spectra
+(Figure S2
+) of both N-ACS and N-ACS@Co3O4 reflect that the carbon spheres are successfully doped with nitrogen (see supporting information for more details).
+Fig. 2. (a) XRD, (b,c) The high-resolution XPS spectra of N 1s, (b,c) The high-resolution XPS spectra of Co 2p of N-ACS and N-ACS@Co3O4, (f) and (g) The high-resolution XPS spectra of O 1s of Co3O4 and N-ACS@Co3O4.
+Far-reaching, the high-resolution N 1s XPS spectrum of N-ACS (
+Fig. 2
+b) is composed of four peaks located at 398.16, 399.01, 400.83 and 404.50 eV, corresponding to pyridinic-N, pyrrolic-N, graphitic-N and oxidized-N, respectively [
+19
+,
+46
+,
+47
+]. The same N-species have been detected in the case of N-ACS@Co3O4 (
+Fig. 2
+c) with the apparition of an additional peak situated at 398.68 eV, related to Co-Nx coordination bonds [
+48
+,
+49
+]. The high-resolution spectrum of Co 2p in the pure Co3O4, could be decomposed into six main peaks (
+Fig. 2
+d) situated at 779.47, 780.92, 786.50, 794.47, 796.07 and 803.06 eV corresponding to Co3+ (Co 2p3/2), Co2+ (Co 2p3/2), satellite peak (Co 2p3/2), Co3+ (Co 2p1/2), Co2+ (Co 2p1/2), satellite peak (Co 2p1/2), respectively [
+11
+,
+12
+]. The same cobalt environment was found in the case of N-ACS@Co3O4 (
+Fig. 2
+e) with the apparition of a new peak at 786.82 eV corresponding to Co-Nx coordination bonds. The appearance of such peak in both Co 2p and N 1s spectra indicate a strong anchoring of cobalt oxide on the surface of carbon spheres which prevents the agglomeration of nanoparticles leading to a long stability of the catalyst during the OER process. The O 1s of Co3O4 can be deconvoluted into four peaks (
+Fig. 2
+f), where the first peak at 529.62 eV is associated to the lattice oxygen bonded to metals [
+26
+]. The peaks at 531.09 and 532.72 eV are corresponding to the surface-adsorbed oxygen or hydroxyl groups [
+28
+]. In turn, the peak located at 531.37 eV is associated with the surface oxygen vacancy species [
+28
+,
+50
+].
+The same oxygen species were identified in the O 1s of N-ACS@Co3O4 (
+Fig. 2
+g) except the estimated oxygen vacancy ratio which increases from 3.09% in Co3O4 to 17.80% in N-ACS@Co3O4. According to the previous reports, the rise in oxygen vacancies further minimizes the coordination numbers of neighboring metal atoms and thus optimizes the energy of the catalytic reaction [
+28
+]. Having investigated the morphological and structural properties of different proposed catalysts, we now focus on their electrocatalytic activity. Accordingly, linear sweep voltammetry (LSV) was used to evaluate the electrocatalytic activity of the proposed catalysts in a potential window of 0.7–1.7 V vs. RHE at a scan rate of 2 mV/s in the alkaline 1.0 M KOH solution. It can be seen from the results of
+Fig. 3
+a that the overpotentials (at 10 mA/cm2) of different catalysts decrease as follow: CS (374 mV) > ACS (286 mV) > Co3O4 (263 mV) > N-ACS (260 mV) > N-ACS@Co3O4 (237 mV). The thermal activation of CS (carbon spheres) into ACS (activated carbon spheres) has a significant improvement in their catalytic activity due to the enhancement of specific surface area and abundant micro- and meso-pores of the activated carbon nano-spheres. The N-ACS exhibited the highest OER activity compared to ACS ascribing to its higher pyridinic nitrogen content, given that the electron-withdrawing capability of functional groups (pyridinic N, C=O) facilitates OER reaction [
+51
+,
+52
+]. Among all the catalysts studied in this work, N-ACS@Co3O4 displays the smallest overpotential (237 mV to achieve 10 mA/cm2) indicating the highest OER activity. We emphasize that N-ACS@Co3O4 has a lower overpotential at 10 mA/cm2 compared to the commercial RuO2 (
+Fig. 3
+a), see also
+Table S1
+for a detailed comparison of OER activities of N-ACS@Co3O4 and recently reported similar OER catalysts. In terms of the OER kinetics, N-ACS@Co3O4 exhibits the smallest TAFEL slope (83.68 mV/dec) compared to all other catalysts (
+Fig. 3
+b). The fast kinetical process of N-ACS@Co3O4 can be confirmed by the EIS measurements (
+Fig. 3
+c). As identified from the electrochemical impedance spectroscopy (EIS) results, the semicircle corresponding to N-ACS@Co3O4 is smaller as compared to the other samples. The latter indicates its faster charge transfer kinetics with good electron conductivity.
+Fig. 3. (a) LSV curves, (b) Overpotentials to reach 10 mA/cm2 and Tafel slope values, (c) Nyquist plots, (d) Estimated Cdl, (e) durability test at 1.5 V, (f) Polarization curves at 1st and 10 000 cycles of different catalysts.
+The active surface area was extracted from the double-layer capacitance (Cdl), which can be determined exploiting cyclic voltammetry in a non-Faradaic potential range
+(Figure S3)
+. It can be concluded from
+Fig. 3
+d that the incorporation of nitrogen in ACS structure increases the ECSA from 125.5 cm2 (Cdl = 5.02 mF) to 170 cm2 (Cdl = 6.8 mF) while N-ACS@Co3O4 possesses the highest ECSA = 225 cm2 (Cdl = 9 mF) suggesting more electro-active sites.
+Since durability is an important critical performance that determines the practical application of a catalyst during a long OER process, the stability of the proposed catalysts was tested by chronoamperometry at 1.5 V vs. RHE for 30 h in 1.0 M KOH and LSV. As presented in
+Fig. 3
+e, the chronoamperometry curve correspond to N-ACS@Co3O4 unveils less than 14.50% decay in current density after 8 h of measurement and less than 21% after 30 h. The LSV polarization curve of N-ACS@Co3O4 shows a negligible change after 10 000 cycles (
+Fig. 3
+f) confirming the excellent stability compared to the pristine Co3O4. The excellent stability of N-ACS@Co3O4 can be assigned to its exceptional structural and compositional stability, where the anchoring of cobalt oxide nanoparticles at the surface of carbon spheres can prevent their agglomeration during the OER process as confirmed by the SEM and TEM micrographs in
+Fig. 4
+.
+Fig. 4
+also shows that N-ACS@Co3O4 maintains the same morphology after 30 h of electrolysis with no agglomeration of cobalt oxide nanoparticles. Contrariwise, the pristine Co3O4 subjected to a huge agglomeration during the OER process (
+Fig. 4
+). Besides,
+Fig. 4
+displayed that the Co 2p XPS spectra of the N-ACS@Co3O4 remain the same before and after the durability test, providing the high stability of the N-ACS@Co3O4 during the OER process.
+Fig. 4. SEM, TEM and XPS of Co3O4 and N-ACS@Co3O4 after 30 h of electrolysis.
+In order to understand the role of carbon support in preventing the agglomeration of cobalt oxide nanoparticles, we conducted the DFT calculations on the absorption energy of Co3O4 on the graphene layer in the presence of N doping. We considered the effect of three different nitrogen configurations, namely, pyridinic-N, pyrrolic-N, and graphitic-N (
+Fig. 5
+b).
+Fig. 5. Equilibrium geometry of: (a) Co3O4/Graphene, (b) Co3O4/Graphene with N substitutes C atom, (c) Co3O4/Graphene with Pyridinic-N, and (d) Co3O4/Graphene with Pyrrolic-N configurations.
+The adsorption energy of Co3O4/Gr heterostructure is calculated by the following equation:
+(1)
+where ECo3O4/Gr is the total energy of heterostructure, ECo3O4 is the total energy of an isolated Co3O4 nanoparticle, and EGr is the total energy of isolated graphene layer (N doped graphene layer).
+Note that the larger energy adsorption is, the stronger Co3O4 nanoparticles are adhered to the graphene layer which disables slipping and agglomeration. The equilibrium geometries of a Co3O4 nanoparticle adsorbed on pristine graphene layer and pyridinic-N, pyrrolic-N, graphitic-N configurations are shown in
+Fig. 5
+. For the sake of comparison, we also calculated the adsorption energy between two nanoparticles of Co3O4 as reference. The calculated values of adsorption energies are depicted in
+Fig. 5
+. The adsorption energy between two isolated Co3O4 nanoparticles is calculated to be −2.66 eV indicating a strong adhesion with chemical interactions as well as a high potential of agglomeration in line with experimental observation. The adsorption of Co3O4 nanoparticles on a pristine graphene surface yields the adsorption energy of −2.13 eV, which is smaller than that of two isolated Co3O4 nanoparticles. Therefore, pristine graphene cannot prevent the agglomeration of the nanoparticles. Upon introduction of N dopant in the graphene layer, the adsorption energies significantly increase, which points to a preferential anchoring of the Co3O4 nanoparticles at the surface rather than agglomeration. More specifically, the computed adsorption energies of Co3O4 nanoparticles on graphene with the graphytic-N and pyridinic-N configurations are −2.91 and −4.11 eV, respectively, which are larger than the interaction energy between two isolated Co3O4 nanoparticles. By contrast, the pyrrolic-N configuration only shows a negligible effect on the adsorption energy as compared to the pristine graphene. Therefore, we infer that promoting the formation of the graphitic-N and pyridinic-N configurations in the N-doped graphene layer is advantageous to further avoid agglomeration of Co3O4 nanoparticles.
+In summary, ultra-small cobalt oxide nanoparticles were synthesized on the surface of nitrogen-enriched activated carbon spheres as greatly active catalyst for OER. The activation of carbon nano-spheres yields a highly porous structure enriched with the abundant defects, which shows an exceptional ability to anchor the ultra-small cobalt oxide. The XPS results reflect the formation of Co-Nx coordination bonds indicating a strong surface anchoring of cobalt oxide on the carbon spheres, which prevents the agglomeration of nanoparticles, leading to a long stability of the catalyst during the OER process. The hybrid N-ACS@Co3O4 nano-composite with nitrogen incorporation could enhance its conductivity and charge transfer capability besides generating additional defect-related active sites and thus promote intrinsically the high activity of the electrocatalyst. The XPS results prove the creation of the abundant oxygen defects during the synthesis of cobalt oxide nanoparticles on the surface of carbon spheres, which enlarge the available electro-active surface area and favors better exposure and utilization of electro-catalytically active sites. The N-ACS@Co3O4 exhibits a high OER activity from the collaborative merits of the active graphitic carbon spheres and ultra-small cobalt oxide with a low overpotential of 237 mV to reach 10 mA/cm2 and high stability for 30 h. The density functional theory calculations illustrated that the adsorption of Co3O4 nanoparticles on N doped graphene exhibit a higher adsorption energy than that of two isolated nanoparticles, which promotes the adhesion of Co3O4 nanoparticles on the graphene support and prevents their agglomeration. The incorporation of N dopant in graphene in the form of graphytic- and pyridinic-configurations is highly suitable for an improvement of the stability of Co3O4 nanoparticles.
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+Computational resources for DFT calculations were provided by the Consortium des Équipements de Calcul Intensif (CÉCI) funded by F.R.S.-FNRS under Grant 2.5020.11. A.S acknowledges the financial support in part from EC through H2020-DT-NMBP-11-2020 project GA no. 953167 (OpenModel).
+The following is the Supplementary data to this article.
+Download: Download Word document (742KB)
+Multimedia component 1.
+Multimedia component 1.
+Cookies are used by this site.
+Cookie Settings
+All content on this site: Copyright © 2024 Elsevier B.V., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the Creative Commons licensing terms apply.

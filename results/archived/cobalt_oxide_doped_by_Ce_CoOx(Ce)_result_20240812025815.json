@@ -1,0 +1,578 @@
+{
+    "materials": [
+        {
+            "material_name": "CoOx(Ce)",
+            "properties": [
+                {
+                    "type": "Current density",
+                    "value": 20.0,
+                    "unit": "mA cm\u22122",
+                    "conditions": "at the overpotential of 261 mV",
+                    "reaction_type": "OER",
+                    "evidence": 0
+                },
+                {
+                    "type": "Current density",
+                    "value": 100.0,
+                    "unit": "mA cm\u22122",
+                    "conditions": "at the overpotential of 302 mV",
+                    "reaction_type": "OER",
+                    "evidence": 0
+                },
+                {
+                    "type": "Overpotential",
+                    "value": 261.0,
+                    "unit": "mV",
+                    "conditions": "to produce a current density of 20 mA cm\u22122",
+                    "reaction_type": "OER",
+                    "evidence": 2
+                },
+                {
+                    "type": "Overpotential",
+                    "value": 302.0,
+                    "unit": "mV",
+                    "conditions": "to produce a current density of 100 mA cm\u22122",
+                    "reaction_type": "OER",
+                    "evidence": 2
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 65.67,
+                    "unit": "mV dec\u22121",
+                    "conditions": "derived from polarization curves",
+                    "reaction_type": "OER",
+                    "evidence": 2
+                },
+                {
+                    "type": "Size",
+                    "value": 50.0,
+                    "unit": "nm",
+                    "conditions": "SEM imaging",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "Thickness",
+                    "value": 200.0,
+                    "unit": "nm",
+                    "conditions": "SEM imaging",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "Atomic ratio",
+                    "value": 0.125,
+                    "unit": "ratio (Ce:Co)",
+                    "conditions": "EDS analysis",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "Onset overpotential",
+                    "value": 85.0,
+                    "unit": "mV",
+                    "conditions": "OER, 1 mA/cm\u00b2, in 1 M KOH",
+                    "reaction_type": "OER",
+                    "evidence": 3
+                },
+                {
+                    "type": "Overpotential at 20 mA/cm\u00b2",
+                    "value": 261.0,
+                    "unit": "mV",
+                    "conditions": "OER, in 1 M KOH",
+                    "reaction_type": "OER",
+                    "evidence": 3
+                },
+                {
+                    "type": "Overpotential at 100 mA/cm\u00b2",
+                    "value": 302.0,
+                    "unit": "mV",
+                    "conditions": "OER, in 1 M KOH",
+                    "reaction_type": "OER",
+                    "evidence": 3
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 65.67,
+                    "unit": "mV dec\u22121",
+                    "conditions": "OER, data fitting from polarization curves",
+                    "reaction_type": "OER",
+                    "evidence": 3
+                },
+                {
+                    "type": "Current density",
+                    "value": 60.0,
+                    "unit": "mA/cm\u00b2",
+                    "conditions": "OER, long-term water electrolysis",
+                    "reaction_type": "OER",
+                    "evidence": 3
+                },
+                {
+                    "type": "Faraday efficiency",
+                    "value": 92.0,
+                    "unit": "%",
+                    "conditions": "OER, potentiostatic electrolysis in 1 M KOH",
+                    "reaction_type": "OER",
+                    "evidence": 3
+                },
+                {
+                    "type": "Charge transfer resistance",
+                    "value": 15.2,
+                    "unit": "\u03a9",
+                    "conditions": "OER, EIS measurement",
+                    "reaction_type": "OER",
+                    "evidence": 3
+                },
+                {
+                    "type": "Electron transport resistance",
+                    "value": 5.775,
+                    "unit": "\u03a9",
+                    "conditions": "OER, EIS measurement",
+                    "reaction_type": "OER",
+                    "evidence": 3
+                },
+                {
+                    "type": "Electrochemical surface area",
+                    "value": 21400.0,
+                    "unit": "cm\u00b2",
+                    "conditions": "OER, estimated from Cdl in CV scans",
+                    "reaction_type": "OER",
+                    "evidence": 3
+                },
+                {
+                    "type": "Raman peak positions",
+                    "value": 673.0,
+                    "unit": "cm-1",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Raman peak positions",
+                    "value": 451.0,
+                    "unit": "cm-1",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "onset overpotential",
+                    "value": 85.0,
+                    "unit": "mV",
+                    "conditions": "1 mA cm-2",
+                    "reaction_type": "OER",
+                    "evidence": 4
+                },
+                {
+                    "type": "overpotential",
+                    "value": 261.0,
+                    "unit": "mV",
+                    "conditions": "20 mA cm-2",
+                    "reaction_type": "OER",
+                    "evidence": 4
+                },
+                {
+                    "type": "overpotential",
+                    "value": 302.0,
+                    "unit": "mV",
+                    "conditions": "100 mA cm-2",
+                    "reaction_type": "OER",
+                    "evidence": 4
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 65.67,
+                    "unit": "mV dec-1",
+                    "conditions": "NA",
+                    "reaction_type": "OER",
+                    "evidence": 4
+                },
+                {
+                    "type": "charge transfer resistance",
+                    "value": 15.2,
+                    "unit": "\u03a9",
+                    "conditions": "NA",
+                    "reaction_type": "OER",
+                    "evidence": 4
+                },
+                {
+                    "type": "electron transport resistance",
+                    "value": 5.775,
+                    "unit": "\u03a9",
+                    "conditions": "NA",
+                    "reaction_type": "OER",
+                    "evidence": 4
+                },
+                {
+                    "type": "ECSA",
+                    "value": 21400.0,
+                    "unit": "cm2",
+                    "conditions": "NA",
+                    "reaction_type": "OER",
+                    "evidence": 4
+                },
+                {
+                    "type": "activation energy",
+                    "value": 2.68,
+                    "unit": "kJ mol-1",
+                    "conditions": "NA",
+                    "reaction_type": "OER",
+                    "evidence": 4
+                },
+                {
+                    "type": "Current density",
+                    "value": 60.0,
+                    "unit": "mA cm\u22122",
+                    "conditions": "maintained for 40 hours",
+                    "reaction_type": "OER",
+                    "evidence": 5
+                },
+                {
+                    "type": "Faraday efficiency",
+                    "value": 92.0,
+                    "unit": "%",
+                    "conditions": "in 1 M KOH for 1200 s",
+                    "reaction_type": "OER",
+                    "evidence": 5
+                },
+                {
+                    "type": "Charge transfer resistance",
+                    "value": 15.2,
+                    "unit": "\u03a9",
+                    "conditions": "Nyquist curve, low frequency range",
+                    "reaction_type": "OER",
+                    "evidence": 5
+                },
+                {
+                    "type": "Electron transport resistance",
+                    "value": 5.775,
+                    "unit": "\u03a9",
+                    "conditions": "from EIS spectra",
+                    "reaction_type": "OER",
+                    "evidence": 5
+                },
+                {
+                    "type": "ECSA",
+                    "value": 21400.0,
+                    "unit": "cm2",
+                    "conditions": "from CV scans",
+                    "reaction_type": "OER",
+                    "evidence": 5
+                },
+                {
+                    "type": "Activation energy",
+                    "value": 2.68,
+                    "unit": "kJ mol\u22121",
+                    "conditions": "Arrhenius plot at \u03b7 = 150 mV",
+                    "reaction_type": "OER",
+                    "evidence": 5
+                },
+                {
+                    "type": "ECSA",
+                    "value": 21400.0,
+                    "unit": "cm2",
+                    "conditions": "from cyclic voltammetry (CV) scans",
+                    "reaction_type": "NA",
+                    "evidence": 6
+                },
+                {
+                    "type": "Current density",
+                    "value": 780.5,
+                    "unit": "eV",
+                    "conditions": "XPS post-OER measurement",
+                    "reaction_type": "OER",
+                    "evidence": 6
+                },
+                {
+                    "type": "XPS",
+                    "values": [
+                        781.5,
+                        797.6,
+                        530.0,
+                        534.5
+                    ],
+                    "units": [
+                        "eV"
+                    ],
+                    "conditions": [
+                        "O 1s spectrum, peak O1",
+                        "O 1s spectrum, peak O4",
+                        "Co 2p3/2 peak",
+                        "Co 2p1/2 peak"
+                    ],
+                    "evidence": 5.0
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "RuO2",
+            "properties": [
+                {
+                    "type": "Current density",
+                    "value": 20.0,
+                    "unit": "mA cm\u22122",
+                    "conditions": "at the overpotential of 265 mV",
+                    "reaction_type": "OER",
+                    "evidence": 2
+                },
+                {
+                    "type": "Current density",
+                    "value": 100.0,
+                    "unit": "mA cm\u22122",
+                    "conditions": "at the overpotential of 320 mV",
+                    "reaction_type": "OER",
+                    "evidence": 2
+                },
+                {
+                    "type": "Overpotential",
+                    "value": 265.0,
+                    "unit": "mV",
+                    "conditions": "to produce a current density of 20 mA cm\u22122",
+                    "reaction_type": "OER",
+                    "evidence": 2
+                },
+                {
+                    "type": "Overpotential",
+                    "value": 320.0,
+                    "unit": "mV",
+                    "conditions": "to produce a current density of 100 mA cm\u22122",
+                    "reaction_type": "OER",
+                    "evidence": 2
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 82.87,
+                    "unit": "mV dec\u22121",
+                    "conditions": "derived from polarization curves",
+                    "reaction_type": "OER",
+                    "evidence": 2
+                },
+                {
+                    "type": "Overpotential at 20 mA/cm\u00b2",
+                    "value": 265.0,
+                    "unit": "mV",
+                    "conditions": "OER, in 1 M KOH",
+                    "reaction_type": "OER",
+                    "evidence": 3
+                },
+                {
+                    "type": "Overpotential at 100 mA/cm\u00b2",
+                    "value": 320.0,
+                    "unit": "mV",
+                    "conditions": "OER, in 1 M KOH",
+                    "reaction_type": "OER",
+                    "evidence": 3
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 82.87,
+                    "unit": "mV dec\u22121",
+                    "conditions": "OER, data fitting from polarization curves",
+                    "reaction_type": "OER",
+                    "evidence": 3
+                },
+                {
+                    "type": "Mass loading",
+                    "value": 1.1,
+                    "unit": "mg/cm\u00b2",
+                    "conditions": "OER, loaded onto CFP surface",
+                    "reaction_type": "OER",
+                    "evidence": 3
+                },
+                {
+                    "type": "overpotential",
+                    "value": 265.0,
+                    "unit": "mV",
+                    "conditions": "20 mA cm-2",
+                    "reaction_type": "OER",
+                    "evidence": 4
+                },
+                {
+                    "type": "overpotential",
+                    "value": 320.0,
+                    "unit": "mV",
+                    "conditions": "100 mA cm-2",
+                    "reaction_type": "OER",
+                    "evidence": 4
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 82.87,
+                    "unit": "mV dec-1",
+                    "conditions": "NA",
+                    "reaction_type": "OER",
+                    "evidence": 4
+                }
+            ],
+            "benchmark": true
+        },
+        {
+            "material_name": "CoOx",
+            "properties": [
+                {
+                    "type": "Size",
+                    "value": 3.2,
+                    "unit": "nm",
+                    "conditions": "TEM imaging",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "Overpotential at 20 mA/cm\u00b2",
+                    "value": 327.0,
+                    "unit": "mV",
+                    "conditions": "OER, in 1 M KOH",
+                    "reaction_type": "OER",
+                    "evidence": 3
+                },
+                {
+                    "type": "Overpotential at 100 mA/cm\u00b2",
+                    "value": 358.0,
+                    "unit": "mV",
+                    "conditions": "OER, in 1 M KOH",
+                    "reaction_type": "OER",
+                    "evidence": 3
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 246.7,
+                    "unit": "mV dec\u22121",
+                    "conditions": "OER, data fitting from polarization curves",
+                    "reaction_type": "OER",
+                    "evidence": 3
+                },
+                {
+                    "type": "Charge transfer resistance",
+                    "value": 70.8,
+                    "unit": "\u03a9",
+                    "conditions": "OER, EIS measurement",
+                    "reaction_type": "OER",
+                    "evidence": 3
+                },
+                {
+                    "type": "Electron transport resistance",
+                    "value": 6.715,
+                    "unit": "\u03a9",
+                    "conditions": "OER, EIS measurement",
+                    "reaction_type": "OER",
+                    "evidence": 3
+                },
+                {
+                    "type": "Electrochemical surface area",
+                    "value": 7880.0,
+                    "unit": "cm\u00b2",
+                    "conditions": "OER, estimated from Cdl in CV scans",
+                    "reaction_type": "OER",
+                    "evidence": 3
+                },
+                {
+                    "type": "overpotential",
+                    "value": 327.0,
+                    "unit": "mV",
+                    "conditions": "20 mA cm-2",
+                    "reaction_type": "OER",
+                    "evidence": 4
+                },
+                {
+                    "type": "overpotential",
+                    "value": 358.0,
+                    "unit": "mV",
+                    "conditions": "100 mA cm-2",
+                    "reaction_type": "OER",
+                    "evidence": 4
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 246.7,
+                    "unit": "mV dec-1",
+                    "conditions": "NA",
+                    "reaction_type": "OER",
+                    "evidence": 4
+                },
+                {
+                    "type": "charge transfer resistance",
+                    "value": 70.8,
+                    "unit": "\u03a9",
+                    "conditions": "NA",
+                    "reaction_type": "OER",
+                    "evidence": 4
+                },
+                {
+                    "type": "electron transport resistance",
+                    "value": 6.715,
+                    "unit": "\u03a9",
+                    "conditions": "NA",
+                    "reaction_type": "OER",
+                    "evidence": 4
+                },
+                {
+                    "type": "ECSA",
+                    "value": 7880.0,
+                    "unit": "cm2",
+                    "conditions": "NA",
+                    "reaction_type": "OER",
+                    "evidence": 4
+                },
+                {
+                    "type": "activation energy",
+                    "value": 11.1,
+                    "unit": "kJ mol-1",
+                    "conditions": "NA",
+                    "reaction_type": "OER",
+                    "evidence": 4
+                },
+                {
+                    "type": "ECSA",
+                    "value": 7880.0,
+                    "unit": "cm2",
+                    "conditions": "from cyclic voltammetry (CV) scans",
+                    "reaction_type": "NA",
+                    "evidence": 6
+                },
+                {
+                    "type": "Activation energy",
+                    "value": 11.1,
+                    "unit": "kJ/mol",
+                    "conditions": "Arrhenius plot at \u03b7 = 150 mV",
+                    "reaction_type": "OER",
+                    "evidence": 6
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "CeOx",
+            "properties": [
+                {
+                    "type": "XPS",
+                    "values": [
+                        882.5
+                    ],
+                    "units": [
+                        "eV"
+                    ],
+                    "conditions": [
+                        "Ce 3d spectra"
+                    ],
+                    "evidence": 6.0
+                }
+            ],
+            "benchmark": false
+        }
+    ],
+    "doi": "example_doi",
+    "factor": "Hydrogen coverage,Energy barrier,Conductivity,Surface area,Size,Defect,Dopant,Active sites,Stability,Electrode potential,Overpotential,Tafel slope,onsite potential,Current density,Mass loading,XPS,FTIR,Raman,XRD",
+    "meta": {
+        "maintext": "/Users/yangz/Documents/projects/llm4catalyst/documents/maintext/Amorphous_film_of_cerium_doped_cobalt_oxide_as_a_h_maintext.txt",
+        "abstract": "/Users/yangz/Documents/projects/llm4catalyst/documents/abstract/Amorphous_film_of_cerium_doped_cobalt_oxide_as_a_h_abs.txt",
+        "intro": "documents/intro/c60_intro.txt",
+        "window_size": 2,
+        "chunk_size": 1000,
+        "chunk_overlap": 100,
+        "output": "results",
+        "property": "/Users/yangz/Documents/projects/llm4catalyst/prompts/properties.txt",
+        "self_defined": true,
+        "title": "Amorphous_film_of_cerium_doped_cobalt_oxide_as_a_h"
+    }
+}

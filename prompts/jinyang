@@ -1,0 +1,111 @@
+{
+    "materials": [
+        {
+            "material_name": "CNTs",
+            "properties": [
+                {
+                    "type": "Adsorption Energy",
+                    "value": 0.18,
+                    "unit": "eV",
+                    "conditions": "in 0.5 M H2SO4",
+                    "reaction_type": "HER", 
+                    "evidence": 0
+                },
+                {
+                    "type": "XPS peak",
+                    "value": 398.5,
+                    "unit": "eV",
+                    "conditions": "N 1s, pyridinic N",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "XRD peak",
+                    ...
+                },
+            ]
+        }
+    ]
+}
+
+计算参数
+"DFT": True
+d-band center
+rate determined step
+
+adsorption energy (涉及到吸附物) -> value
+    condition: 
+        reaction: HER, ORR,
+        ph: 0, 7, 14
+        *adsorbate: H, O, OH
+
+formation energy
+Bader transfer:
+    condition:
+        atom: Fe, C, N
+
+reaction pathway: 文字描述 (ORR 里有 2~3 种, NRR 有 3~4 种, HER 有 2 种)
+    condition:
+        reaction: HER, ORR, NRR
+        
+transient state:
+characterization
+1. XPS -> [543, 560, 643]
+
+[543, 560, 643]   100
+[543, 560, ]      110
+[543, 560, 743]   120
+[343]             80
+
+
+2. raman -> x
+3. XRD -> 
+4. ftir ->
+
+5. 元素组成
+6. doping: 原子种类
+
+Doping: N 
+Chemical composition: Fe, C, N
+
+additional:
+晶体结构: 键型, 键长
+形貌特征:
+电负性:
+键长:
+原子半径:
+核外电子排布: 半满/全满
+
+synthesis
+1. 制备条件.. ->x
+2. 温度
+3. 原材料
+4. 合成方式
+5. 合成时间
+
+performance
+"onset at xxx current density, HER"
+
+important!:
+法拉第效率
+
+
+*[yield rate]: 每 1mg /h 的产物 or ppm or 产物mg/cm2*h
+    condition: Mass loading
+
+onset potential               
+
+long life stability
+
+1. overpotential + "reaction type: ORR"  -> Y
+1. overpotential + "计算: ORR"  -> Y
+2. overpotential + "reaction type: HER"  -> 
+
+ORR overpotential (y) / HER overpotential 
+2. BET    -> x
+3. Tafel... ->x
+
+
+
+应用领域: ORR, HER
+1. paper:  x paper related 

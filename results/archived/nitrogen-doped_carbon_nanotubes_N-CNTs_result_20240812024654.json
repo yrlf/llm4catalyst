@@ -1,0 +1,342 @@
+{
+    "materials": [
+        {
+            "material_name": "N-doped carbon nanotubes",
+            "properties": [
+                {
+                    "type": "Temperature",
+                    "value": 343.0,
+                    "unit": "K",
+                    "conditions": "drying in a vacuum",
+                    "reaction_type": "NA",
+                    "evidence": 0
+                },
+                {
+                    "type": "Temperature",
+                    "value": 1273.0,
+                    "unit": "K",
+                    "conditions": "carbonization under argon gas atmosphere",
+                    "reaction_type": "NA",
+                    "evidence": 0
+                },
+                {
+                    "type": "SEM",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "low-magnification SEM image",
+                    "reaction_type": "NA",
+                    "evidence": 8
+                },
+                {
+                    "type": "Mass loading",
+                    "value": 0.25,
+                    "unit": "mgcatalyst/cm2",
+                    "conditions": "ORR in 0.1 M KOH, LSV",
+                    "reaction_type": "ORR",
+                    "evidence": 1
+                },
+                {
+                    "type": "Mass loading",
+                    "value": 5.0,
+                    "unit": "mg/cm2",
+                    "conditions": "MEA fabrication for AEMFC",
+                    "reaction_type": "ORR",
+                    "evidence": 1
+                },
+                {
+                    "type": "Current density",
+                    "value": 89.0,
+                    "unit": "%",
+                    "conditions": "at -0.25 V in O2-saturated 0.1 M KOH after 7200 s",
+                    "reaction_type": "ORR",
+                    "evidence": 6
+                },
+                {
+                    "type": "Electron transfer number",
+                    "value": 3.8,
+                    "unit": "electrons",
+                    "conditions": "ORR",
+                    "reaction_type": "ORR",
+                    "evidence": 6
+                },
+                {
+                    "type": "Open circuit voltage",
+                    "value": 0.87,
+                    "unit": "V",
+                    "conditions": "MEA with N-CNT as cathode in AEMFC",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "Current density",
+                    "value": 11.0,
+                    "unit": "mA/cm2",
+                    "conditions": "at 0.7 V",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "Power density",
+                    "value": 37.3,
+                    "unit": "mW/cm2",
+                    "conditions": "MEA with N-CNT as cathode in AEMFC",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "Oxygen reduction reaction activity",
+                    "value": 15.0,
+                    "unit": "index",
+                    "conditions": "NA",
+                    "reaction_type": "ORR",
+                    "evidence": 15
+                },
+                {
+                    "type": "magnetic properties",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "encapsulated by nitrogen-doped multiwall carbon nanotubes",
+                    "reaction_type": "NA",
+                    "evidence": 17
+                },
+                {
+                    "type": "XPS",
+                    "values": [
+                        284.0,
+                        400.0,
+                        398.5,
+                        400.0,
+                        401.5,
+                        398.5,
+                        400.0,
+                        401.5
+                    ],
+                    "units": [
+                        "eV"
+                    ],
+                    "conditions": [
+                        "binding energy for pyridinic nitrogen",
+                        "binding energy for quaternary nitrogen",
+                        "binding energy for pyrrolic nitrogen",
+                        "XPS survey-scan spectrum",
+                        "Deconvoluted XP N1s spectrum"
+                    ],
+                    "evidence": 3.125
+                },
+                {
+                    "type": "XRD",
+                    "values": [
+                        null,
+                        25.0,
+                        43.0,
+                        52.0,
+                        25.0,
+                        43.0,
+                        52.0
+                    ],
+                    "units": [
+                        null,
+                        "\u00b0"
+                    ],
+                    "conditions": [
+                        "Supporting Information, Figure S1a",
+                        "Powder XRD pattern"
+                    ],
+                    "evidence": 3.7142857142857144
+                },
+                {
+                    "type": "Raman",
+                    "values": [
+                        null,
+                        1355.0,
+                        1582.0,
+                        1355.0,
+                        1582.0
+                    ],
+                    "units": [
+                        null,
+                        "cm-1",
+                        "cm\u20131"
+                    ],
+                    "conditions": [
+                        "Supporting Information, Figure S1b",
+                        "Raman spectrum",
+                        "First-order Raman spectra"
+                    ],
+                    "evidence": 4.0
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Pt/C",
+            "properties": [
+                {
+                    "type": "Mass loading",
+                    "value": 0.1,
+                    "unit": "mgcatalyst/cm2",
+                    "conditions": "ORR in 0.1 M KOH, LSV",
+                    "reaction_type": "ORR",
+                    "evidence": 1
+                },
+                {
+                    "type": "Mass loading",
+                    "value": 2.5,
+                    "unit": "mg of 20 wt %",
+                    "conditions": "MEA fabrication for AEMFC",
+                    "reaction_type": "ORR",
+                    "evidence": 1
+                },
+                {
+                    "type": "TEM",
+                    "value": 3.8,
+                    "unit": "nm",
+                    "conditions": "Transmission electron microscopic image",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "Size",
+                    "value": 3.8,
+                    "unit": "nm",
+                    "conditions": "TEM average size",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                },
+                {
+                    "type": "Current density",
+                    "value": 80.0,
+                    "unit": "%",
+                    "conditions": "at -0.25 V in O2-saturated 0.1 M KOH after 7200 s",
+                    "reaction_type": "ORR",
+                    "evidence": 6
+                },
+                {
+                    "type": "Electron transfer number",
+                    "value": 4.0,
+                    "unit": "electrons",
+                    "conditions": "ORR",
+                    "reaction_type": "ORR",
+                    "evidence": 6
+                },
+                {
+                    "type": "Open circuit voltage",
+                    "value": 1.0,
+                    "unit": "V",
+                    "conditions": "MEA with Pt/C as cathode in AEMFC",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "Current density",
+                    "value": 38.0,
+                    "unit": "mA/cm2",
+                    "conditions": "at 0.7 V",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "Power density",
+                    "value": 61.7,
+                    "unit": "mW/cm2",
+                    "conditions": "MEA with Pt/C as cathode in AEMFC",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                }
+            ],
+            "benchmark": true
+        },
+        {
+            "material_name": "Fe/N/C Nanotubes",
+            "properties": [
+                {
+                    "type": "Cathode Catalyst Activity",
+                    "value": 6485.0,
+                    "unit": "ORR",
+                    "conditions": "Alkaline Polymer Electrolyte Fuel Cells",
+                    "reaction_type": "ORR",
+                    "evidence": 9
+                },
+                {
+                    "type": "Electrocatalysis",
+                    "value": 16.0,
+                    "unit": "index",
+                    "conditions": "oxygen reduction in alkaline and acid solutions",
+                    "reaction_type": "ORR",
+                    "evidence": 16
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Fe\u2212Co\u2212N\u2212C",
+            "properties": [
+                {
+                    "type": "Performance",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "in Alkaline Hydrogen and Ethanol Fuel Cells",
+                    "reaction_type": "ORR",
+                    "evidence": 11
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Nanoporous Graphene",
+            "properties": [
+                {
+                    "type": "Active sites",
+                    "value": 0.0,
+                    "unit": "NA",
+                    "conditions": "Fe/Co-N",
+                    "reaction_type": "ORR",
+                    "evidence": 12
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Nitrogen-Doped Carbon Nanotube Aerogels",
+            "properties": [
+                {
+                    "type": "ORR activity",
+                    "value": 13.0,
+                    "unit": "index",
+                    "conditions": "High-Performance",
+                    "reaction_type": "ORR",
+                    "evidence": 13
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Co@Au core-shell nanoparticles encapsulated by nitrogen-doped multiwall carbon nanotubes",
+            "properties": [
+                {
+                    "type": "Magnetic properties",
+                    "value": null,
+                    "unit": null,
+                    "conditions": null,
+                    "reaction_type": "NA",
+                    "evidence": 14
+                }
+            ],
+            "benchmark": false
+        }
+    ],
+    "doi": "example_doi",
+    "factor": "Hydrogen coverage,Energy barrier,Conductivity,Surface area,Size,Defect,Dopant,Active sites,Stability,Electrode potential,Overpotential,Tafel slope,onsite potential,Current density,Mass loading,XPS,FTIR,Raman,XRD",
+    "meta": {
+        "maintext": "/Users/yangz/Documents/projects/llm4catalyst/documents/maintext/Activity_Selectivity_and_AnionExchange_Membrane_Fu_maintext.txt",
+        "abstract": "/Users/yangz/Documents/projects/llm4catalyst/documents/abstract/Activity_Selectivity_and_AnionExchange_Membrane_Fu_abs.txt",
+        "intro": "documents/intro/c60_intro.txt",
+        "window_size": 2,
+        "chunk_size": 1000,
+        "chunk_overlap": 100,
+        "output": "results",
+        "property": "/Users/yangz/Documents/projects/llm4catalyst/prompts/properties.txt",
+        "self_defined": true,
+        "title": "Activity_Selectivity_and_AnionExchange_Membrane_Fu"
+    }
+}

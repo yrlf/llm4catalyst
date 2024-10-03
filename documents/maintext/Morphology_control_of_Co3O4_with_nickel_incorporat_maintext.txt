@@ -1,0 +1,321 @@
+•
+Ni-Co3O4 NWs were achieved by hydrothermal method.
+•
+Ni incorporation improved charge transfer and electronic conductivity.
+•
+Ni-Co3O4 effectively lowered the energy barrier of OER.
+•
+12% Ni-Co3O4 exhibited exceptional OER activity.
+Ni-Co3O4 NWs were achieved by hydrothermal method.
+Ni incorporation improved charge transfer and electronic conductivity.
+Ni-Co3O4 effectively lowered the energy barrier of OER.
+12% Ni-Co3O4 exhibited exceptional OER activity.
+Co3O4 with different morphologies including nanomeshs, nanorods, and nanowires structures were prepared by one-step hydrothermal method using various precursors. The Co3O4 nanowires arrays showed the optimal oxygen evolution reaction (OER) performance with an overpotential of 394 mV at 20 mA cm−2 and Tafel slope of 112 mV dec−1 in alkaline electrolyte. Subsequently, the effect of Ni doping on OER activity of Co3O4 nanowires arrays was further studied under identical conditions. Notably, the as-prepared 12% Ni-Co3O4 (the molar ratio of Ni to Co is 12%) rendered the best activity with a low overpotential of 340 mV to achieve 20 mA cm−2 and Tafel slope of 60 mV dec−1, and superior stability, outperforming other Ni-Co3O4 samples. Density functional theory (DFT) calculations revealed that the theoretical overpotentials of Co3O4 and Ni-Co3O4 were calculated to be 1.70 V and 0.51 V, respectively, and the chemical conversion from OH* to O* is the rate-limiting step (RLS) with energy barrier of 1.74 eV for Ni-Co3O4. Therefore, this study provides a promising method for designing highly active and stable substitution for noble metal catalysts toward OER.
+Download: Download high-res image (185KB)
+Download: Download full-size image
+Because of traditional fossil energy depletion and environmental pollutions deterioration
+[1]
+,
+[2]
+,
+[3]
+, it is urgent to find secure, sustainable, clean, and renewable energy instead of fossil fuels for human society
+[4]
+,
+[5]
+,
+[6]
+,
+[7]
+. Electrochemical water splitting is deemed as a promising strategy for the production of renewable energy
+[8]
+. Whereas, the anodic OER determines the overall water-splitting efficiency. It is mainly because sluggish four-electron transfer process (
+) in alkaline electrolyte results in high overpotential
+[9]
+,
+[10]
+. Noble metal oxides, such as RuO2 and IrO2, are regarded as benchmarking catalysts for OER but limited to high cost
+[11]
+,
+[12]
+. Accordingly, exploring earth-abundant, inexpensive, and highly efficient OER electrocatalysts is urgently desired
+[13]
+.
+Recently, Transition metal oxides, sulfides, and phosphides have received extensive attention as OER electrocatalyst because of low cost and abundant source
+[14]
+,
+[15]
+,
+[16]
+. Oxides can maintain stable even at high potentials in comparison of sulfides and phosphides
+[17]
+, and multiple oxidation states of oxides endow them with excellent catalytic properties and electrochemical performance
+[18]
+. Therefore, transition metal oxides, such as Co3O4 are considered as promising candidates for OER. Nonetheless, poor intrinsic activity and low active sites greatly hinder large-scale application of Co3O4
+[19]
+. Therefore, considerable efforts should be made to improve its OER performance.
+It is known that morphology can greatly affect the catalytic activity of catalysts, because the active sites of catalysts, which is beneficial to Faradaic redox reaction, is in direct proportion to specific surface area
+[20]
+. For instance, Luo et al. reported the synthesis of MnOx with different morphologies toward OER, and the MnOx with nanowire arrays achieve higher OER performance than that of nanosheet arrays of MnOx and cotton wool structure
+[21]
+. Kim et al. demonstrated the CuCo2O4 nanosheet arrays performed lower overpotential and Tafel slope than that of CuCo2O4 with agglomerated embossing, cubic, or compact-granular shape
+[22]
+. Doping is also considered to be an effective strategy to enhance the OER performance of catalysts mainly due to the change of electronic structure accompanied by improved electrical conductivity depending on the incorporation of dopants. It is reported that transition metal Ni have suitable chemical bond strength with intermediates due to its unique 3d electronic structures
+[23]
+Gerken et al.
+[24]
+reported that one of the key factors determining OER performance is the chemical bond strength of metal-OH in alkaline electrolyte. For example, both of Ni-α-Fe2O3 nanoclews
+[25]
+and Ni-MnO2 ultrathin nanosheets
+[26]
+exhibited higher OER activity compared to pure samples.
+Herein, the Co3O4 with different morphologies and Ni-Co3O4 nanowire arrays were successfully prepared, and the influence of morphology and Ni doping on OER activity of Co3O4 in alkaline electrolyte were systematically investigated
+Nickel nitrate (Ni(NO3)2·6H2O, 99.9%), cobalt chloride (CoCl2·6H2O, 99%), cobalt acetate (Co(CH3COO)2·4H2O, 99%), cobalt nitrate (Co(NO3)2·6H2O, 99%), urea (NH2CONH2, 99%), and ammonium fluoride (NH4F, 99%) were purchased from Sinopharm. All chemicals in the experiment were of analytical grade and used directly unless otherwise specified.
+Typically, Ni-Co3O4 samples were synthesized by one-step hydrothermal method. Briefly, CoCl2·6H2O (1.45 g), NH4F (0.34 g), and urea (1.65 g) were successively dissolved in 40 mL pure water with strong stirring for 20 min. Then the resulting homogeneous solution was stirred vigorously with the addition of Ni(NO3)2·6H2O for about 0.5 h. After that, the mixture and a piece of cleaned FTO with conductive side facing down were transferred into a Teflon-lined stainless steel autoclave (50 mL) and reacted at 120 °C for 5 h. Thereafter, the prepared precursors were rinsed thoroughly with pure water and ethanol for three times, respectively, and dried at 60 °C overnight in an oven. Subsequently, the precursors were calcined at 450 °C for 2 h. The obtained samples were denoted as x% Ni-Co3O4 (x represents 1, 3, 6, 9, 12, 15, and 18). Co3O4 were prepared by different precursors (cobalt nitrate, cobalt acetate, and cobalt chloride) using a same method without the addition of Ni(NO3)2·6H2O. The achieved samples were denoted as CN-Co3O4, CA-Co3O4, and CC-Co3O4.
+The Sirion 200 FE-SEM (FEI, Netherlands) and JEM-2100F STEM/EDS (Energy Dispersive Spectrometer) HRTEM (JEOL, Japan) were employed to measure the micromorphology. The crystalline structure was identified by X-ray diffraction (XRD-7000, Shimadzu, Japan) under Cu Kα radiation (wavelength 0.154 nm). X-ray photoelectron spectra (XPS) measurements were carried out on a 5300 ESCA instrument (Perkin-Elmer PHI Co., USA). The Thermo Fischer DXR (Thermo Fisher Scientific, USA) was adopted to achieve Raman spectra at ambient temperature.
+All measurements were conducted in 1.0 M KOH electrolyte on CHI660E electrochemical workstation with a three-electrode cell, in which the saturated calomel electrode, Pt plate and the as-prepared film were employed as the reference and counter electrode and working electrode, respectively. All potentials in this work were calculated with regard to reversible hydrogen electrode (RHE) using the following Nernst equation.
+(1)
+The polarization curves were carried out in electrolyte purged by oxygen for 0.5 h at a scan rate of 5 mV s−1. The cyclic voltammetry (CV) measurements were performed to calculate double-layer capacitance (Cdl) values in the non-faradaic potential range between 1.05 and 1.15 V vs. RHE at multiple scan rates of 0.5, 1, 1.5, 2, and 2.5 mV s−1
+[27]
+. The linear slope values resulting from plotting the current density differences (ΔJ) at 1.1 V against the scan rates are equal to twice of Cdl, ECSA is calculated by the Eq.
+(2)
+. Mott-Schottky curves were obtained at a fixed frequency of 1 KHz. Electrochemical impedance spectra (EIS) were tested at an amplitude of 5 mV with the frequency ranging from 100 mHz to100 kHz.
+(2)
+where the Cs value is 0.04 mF cm−2 in alkaline electrolyte
+[28]
+. S is the geometric area of prepared electrodes.
+The roughness factor (RF) is described by the Eq.
+(3)
+.
+(3)
+The number (N) of active sites is calculated by the Eq.
+(4)
+.
+(4)
+where Cs value is 0.04 mF cm−2 in alkaline electrolyte, which provides the number of active sites (1.761 × 1015)
+[29]
+.
+The turnover frequency (TOF) is calculated based on the Eq.
+(5)
+.
+(5)
+In which j is the current density, NA represents Avogadro constant of 6.022 × 1023. F stands for Faraday constant of 96,485C mol−1
+[30]
+.
+All the calculations were carried out using CASTEP module. The exchange-correlation functional was described by Perdew-Burke-Ernzerh (PBE) of generalized gradient approximation (GGA)
+[31]
+. A cutoff energy of 340 eV was set for the expansion of the wave functions. An energy convergence tolerance of 1.0 × 10−5 eV/atom, a self-consistence-field (SCF) convergence tolerance of 1.0 × 10−6 eV/atom, a maximum displacement tolerance of 0.001 Å, and a maximum force tolerance of 0.03 eV/Å as the convergence criteria were set for the optimization of Co3O4 structure and energy calculations. The electronic properties were calculated through a 2 × 2 × 3 Monkhorst-Pack k-point mesh
+[32]
+. The (2 2 0) plane with low free energy was more stable than (3 1 1) plane according to our calculations. Therefore, all the calculations were performed on (2 2 0) plane of Co3O4 and Ni-Co3O4 slab model with 2 × 2 super cell consisting of three layers.
+In alkaline electrolyte, it is reasonable that the OER process includes the following four steps.
+(6)
+(7)
+(8)
+(9)
+where * and M* are active sites and intermediates adsorbed on catalyst surface, respectively.
+The adsorption energy of O*, OH* and OOH* is calculated as follows
+[33]
+:
+(10)
+(11)
+(12)
+where E(*), E(O*), E(OH*), and E(OOH*) are the energy of the surface, surface with O*, OH*, and OOH*, respectively. The
+is calculated by Eq.
+(13)
+.
+(13)
+ΔGads is adsorption free energy. ΔEZPE and TΔS are the energy change of zero-point energy and entropy
+[34]
+, respectively.
+The free energy change is provided by the following expressions.
+(14)
+(15)
+(16)
+(17)
+where e and U are the transferred electrons and the potential measured against the standard hydrogen electrode, respectively.
+In this work, the theoretical overpotentials are calculated by Eq.
+(18)
+[35]
+.
+(18)
+The crystal structure of samples prepared by different precursors were identified by XRD patterns, as exhibited in
+Fig. 1
+. Obviously, the characteristic peaks at 31.3°, 36.8°, 44.8°, 59.4°, and 65.2° in all the Co3O4 (
+Fig. 1
+a) were indexed to (2 2 0), (3 1 1), (4 0 0), (5 1 1), and (4 4 0) planes of cubic-structured Co3O4 (JCPDS No. 09-0418), respectively. And the characteristic peaks (
+Fig. 1
+b) in Ni-Co3O4 were similar to that of Co3O4. No additional peaks are observed in all the samples. But the diffraction peaks at 65.2° in Ni-Co3O4 shifted slightly compared to pure Co3O4 (
+Fig. 1
+c), indicating that Ni is embedded into the lattice of Co3O4. Therefore, it is reasonable that the partial Co is substituted by Ni because of similar ionic radius.
+Fig. 1
+d exhibits the Raman spectra of CC-Co3O4, 9% and 12% Ni-Co3O4. The peaks at 195, 480, 522, and 684 cm−1 in Co3O4 in this work were similar to that of reported Co3O4
+[34]
+. Compared with that of pure Co3O4, the peaks at 684 cm−1 in 9% and 12% Ni-Co3O4 slightly shifted due to the change of grain size caused by Ni doping
+[36]
+.
+Fig. 1. XRD patterns of (a) Co3O4, (b) Ni-Co3O4, (c) a magnified small range of Ni-Co3O4, (d) Raman spectra of different films.
+Fig. S1
+a exhibits the schematic diagrams of CN-Co3O4, CA-Co3O4, and CC-Co3O4. Clearly, CN-Co3O4 (
+Fig. S1
+b) shows nanomesh-like structure with diameters of 120–130 nm when the precursor is Co(NO3)2. And CA-Co3O4 nanorods (
+Fig. S1
+c) and CC-Co3O4 nanowires (
+Fig. S1
+d) with diameters of 80–90 nm are observed when the precursors are Co(CH3COO)2 and CoCl2, respectively. Furthermore, we also performed high-angle annular dark-field scanning transmission electron microscopy (HAADF-STEM) measurements for Co3O4.
+Fig. S1
+e demonstrated the homogeneous distribution of Co and O elements over Co3O4 confirmed by EDX spectrum (
+Fig. S1
+f).
+The fabrication process of Co3O4 and Ni-Co3O4 are shown in
+Fig. 2
+a. To improve catalytic performance of Co3O4, we conducted the preparation of Ni-Co3O4.
+Fig. 2
+b–d display the SEM images of Ni-Co3O4. It can be seen that no obvious change is observed after Ni doping compared to Co3O4 (
+Fig. 2
+b). And 9% (
+Fig. 2
+c) and 12% Ni-Co3O4 (
+Fig. 2
+d) show similar morphology to Co3O4. The thickness of 12% Ni-Co3O4 film was measured to be about 1.9 μm from the cross-section SEM image (the inset of
+Fig. 2
+d). TEM image (
+Fig. 2
+e) further confirmed its nanowire structure. The obvious lattice fringe with the spacing distance of 0.239 and 0.278 nm corresponding to (3 1 1) and (2 2 0) planes of Co3O4, respectively, were exposed in
+Fig. 2
+f, suggesting the high crystallinity. For 12% Ni-Co3O4, all the related elements were also confirmed by elements mapping images (
+Fig. 2
+g) and EDX spectrum (
+Fig. S2
+).
+Fig. 2. (a) Schematic illustration of synthetic process, SEM images of (b) CC-Co3O4, (c) 9% Ni-Co3O4 and (d) 12% Ni-Co3O4 films and (e) TEM image, (f) HRTEM image and (g) HAADF-STEM image and the corresponding element mappings of 12% Ni-Co3O4 film, the inset in (d) shows the cross-sectional SEM image of 12% Ni-Co3O4 film.
+Fig. 3
+shows the XPS spectra of samples. As observed in
+Fig. 3
+a, both samples displayed the presence of Co and O elements. The survey spectrum of 12% Ni-Co3O4 exhibited an obvious Ni 2p signal peak in addition to Co and O elements. In the Co 2p spectrum of Co3O4 (
+Fig. 3
+b), two peaks at 780.2 and 795.4 eV were attributed to Co 2p1/2 and Co 2p3/2, respectively, which is consistent with previous reports
+[37]
+. The peaks at 781.8 and 796.9 eV were assigned to Co2+, and the other peaks located at 779.5 and 794.8 eV could be ascribed to Co3+, confirming the coexistence of Co2+ and Co3+
+[38]
+. Two kinds of Ni species with two shakeup satellites were present in the Ni 2p spectrum, as indicated in
+Fig. 3
+c. The peaks at 873.4 and 856.2 eV were ascribed to Ni3+, and the peaks located at 872.3 and 854.5 eV were attributed to Ni2+, further confirming the existence of Ni
+[39]
+,
+[40]
+,
+[41]
+. In the O 1s spectrum, the peaks at 532.4, 531.2, and 529.9 eV were ascribed to O from H2O absorbed on catalyst surface, oxygen species or surface hydroxyl group, and lattice O from CoO bond
+[42]
+, respectively. Clearly, the peak at 529.6 eV in 12% Ni-Co3O4 shifted to a lower binding energy compared to Co3O4 (
+Fig. 3
+d), indicating successful incorporation of Ni.
+Fig. 3. (a) XPS survey spectrum and high-resolution spectra in (b) Co 2p, (c) Ni 2p and (d) O 1s regions for Co3O4 and 12% Ni-Co3O4.
+Fig. S3
+a shows the polarization curves of CN-Co3O4, CA-Co3O4, and CC-Co3O4 in O2-saturated electrolyte. Obviously, the CC-Co3O4 with nanowire arrays achieved optimal OER performance with a smaller overpotential of 394 mV at 20 mA cm−2 than that of CN-Co3O4 (425 mV) and CA-Co3O4 (434 mV) (
+Fig. S3
+b). Moreover, the OER activity of samples was further assessed by Tafel slope, which represents enhancement of overpotential with steady-state current density.
+Fig. S3
+c shows the calculated Tafel slope values for CN-Co3O4, CA-Co3O4, and CC-Co3O4. Clearly, the CC-Co3O4 gave a smaller Tafel slope value (112 mV dec−1) in comparison of CN-Co3O4 electrode (124 mV dec−1) and CA-Co3O4 (141 mV dec−1), further demonstrating more favorable OER kinetics of CC-Co3O4. In addition, the long-term stability is also a significant criterion for samples. The chronopotentiometry curve at steady-state current density of 50 mA cm−2 is presented in
+Fig. S3
+d. It is seen that the CC-Co3O4 almost remained its initial activity with slight change in current density after 24 h electrolysis. The serrate-like shape was apparently observed in the enlarged time-dependent current curve, which was ascribed to the bubble accumulation and release process of O2 on CC-Co3O4 surface
+[43]
+.
+The electrochemically active surface areas (ECSA) is also an effective approach to evaluate the catalytic performance of samples, as depicted in
+Fig. S4
+. The large ECSA means more active sites
+[44]
+. Markedly, the calculated ECSA value of CC-Co3O4 was 1022 cm2 higher than that of CN-Co3O4 (405 cm2) and CA-Co3O4 (110 cm2), implying that the CC-Co3O4 exposed more active sites and performed superior catalytic activity.
+Fig. S5
+shows the EIS of CN-Co3O4, CA-Co3O4, and CC-Co3O4. The fitted Rct value of CC-Co3O4 (10.5 Ω) was smaller than that of CN-Co3O4 and CA-Co3O4 electrodes, indicating higher charge-transfer rate. Therefore, CC-Co3O4 was further investigated.
+We also evaluated the effect of Ni doping on the OER performance of CC-Co3O4 by LSV curves.
+Fig. 4
+a presents the polarization curves of samples. Obviously, the Ni-Co3O4 delivered a much higher current density and lower onset potential in comparison of Co3O4.
+Fig. 4
+b reveals the influence of different amounts of Ni on overpotentials. It is observed that the 12% Ni-Co3O4 achieved the best OER performance with a low overpotential of 340 mV at 20 mA cm−2, which was also even 90 mV lower than that of the state-of-the-art RuO2 catalyst
+[45]
+. But the other samples required much higher overpotentials to obtain 20 mA cm−2. Exposed active sites were insufficient due to low amount of Ni, thus resulting in relatively poor catalytic performance. However, excess Ni may block the active sites, leading to decreased catalytic activity, which is ascribed to the decreased amount of oxygen in the surface
+[46]
+,
+[47]
+,
+[48]
+. Therefore, it can be speculated that Ni doping posed great influence on catalytic activity of samples. The corresponding Tafel slope values of Ni-Co3O4 were also much smaller than that of pure Co3O4, as shown in
+Fig. 4
+c. It is seen that the 12% Ni-Co3O4 showed the fastest OER kinetics with Tafel slope values of 60 mV dec−1. We listed some detailed comparison of electrocatalytic performance parameters of other reported catalysts, as shown in
+Table S1
+, respectively. As can be seen that the overpotentials and Tafel slope values of samples in this work are lower than that of reported catalysts.
+Fig. 4. (a) The polarization curves, (b) overpotential and (c) Tafel curves of Ni-Co3O4 film electrodes.
+Furthermore, CV curves were measured to calculate the Cdl.
+Fig. S6
+shows the CV curves of Ni-Co3O4. The related Cdl values were calculated and exhibited in
+Fig. 5
+a. Clearly, the ECSA value of 12% Ni-Co3O4 (3415 cm2) was higher than that of the other samples according to Eq.
+(2)
+, implying that the 12% Ni-Co3O4 exposed more active sites and exhibited favorable reaction kinetics. As observed in
+Fig. S7
+, the TOF of 12% Ni-Co3O4 (0.016 s−1 site−1) was larger than that of Co3O4 (0.007 s−1 site−1), suggesting that 12% Ni-Co3O4 performs enhanced mass and charge transfer process
+[30]
+. As observed, the 12% Ni-Co3O4 (
+Fig. 5
+b) provided a smallest Rct value of 4.6 Ω compared with the other samples, suggesting faster charge-transfer rate.
+Fig. 5. (a) Current density differences vs. scan rates curves and (b) electrochemical impedance spectroscopies of different film electrodes.
+The Mott-Schottky curves were achieved to uncover the origin of the enhanced catalytic activity, as shown in
+Fig. 6
+. The charge carrier concentrations (Nd) were calculated according to the slope value of Mott-Schottky curves and Eq.
+(19)
+.
+(19)
+Î
+µ
+where e0,
+are the electron charge (1.6 × 10−19C), the relative permittivity of Co3O4 electrode (12.9), and the permittivity of free space (8.86 × 10−12 F m−1), respectively
+[49]
+,
+[50]
+. The calculated Nd of CC-Co3O4 and 12% Ni-Co3O4 are 3.12 × 1018 and 9.87 × 1018 cm−3, respectively. Nd is proportional to the electronic conductivity of electrode. Therefore, the Mott-Schottky measurements further demonstrated the enhanced OER kinetics of 12% Ni-Co3O4.
+Fig. 6. Mott-Schottky curves of (a) Co3O4 and 12% Ni-Co3O4 and (b) 12% Ni-Co3O4.
+The stability of 12% Ni-Co3O4 was also evaluated by chronopotentiometry measurements.
+Fig. S8
+exhibits the time-dependent current curve for 24 h at 50 mA cm−2 and polarization curves before and after 500 cycles. It can be seen that the sample still preserves its excellent electrochemical stability.
+Fig. S9
+shows the XPS spectra of 12% Ni-Co3O4, which exhibited similar spectra and element contents to fresh samples, confirming the stability of sample. The XRD pattern after stability test presented no obvious changes in crystalline phase, as shown in
+Fig. S10
+a. Furthermore, the SEM images (
+Fig. S10
+b) showed that the 12% Ni-Co3O4 maintains its original structure with slight corrosion because of the continuous evolution of oxygen from the electrode surface, further demonstrating its structural stability.
+DFT calculations were conducted to explore the catalytic mechanism of OER process.
+Fig. 7
+a presents the total density of states (DOS) and partial density of states (PDOS) of Co3O4 and Ni-Co3O4. Obviously, the PDOS of Ni-Co3O4 showed that 3d orbitals of Ni played a key role in total DOS. Moreover, the two metal track of Ni-Co3O4 greatly contributed to the DOS value compared to Co3O4, indicating that more electrons could be transferred from Ni-Co3O4
+[51]
+, which was conducive to OER process. As displayed in
+Fig. 7
+b and c, Co3O4 and Ni-Co3O4 exhibits similar structural properties.
+Fig. 7. (a) The total density of states and partial density of states of Co3O4 and Ni-Co3O4 and top-view schematic models of (b) Co3O4 and (c) Ni-Co3O4.
+Fig. 8
+shows the free energy (ΔG) profiles of Co3O4 and Ni-Co3O4. The OER process started with the adsorption of OH−, followed by the formation of OH* and subsequent oxidation of OH* to O*, OOH*, and O2 (g). The step with the largest ΔG value is the RLS
+[52]
+. For Co3O4, the formation of O2 from OOH* was the RLS with a largest ΔG of 2.93 eV to overcome energy barrier and theoretical overpotential of 1.70 V, as shown in
+Fig. 8
+a. For Ni-Co3O4, the RLS was the chemical conversion from OH* to O* with the largest ΔG of 1.74 eV and theoretical overpotential of 0.51 V (
+Fig. 8
+b). The insets of
+Fig. 8
+display that the intermediates tend to bond with Co/Ni atoms to form stable structures, implying Co/Ni atom may act as adsorption sites. Moreover, the free energy values for intermediates on Co3O4 are more negative than that on Ni-Co3O4, indicating the stable chemical adsorption of O2 on Co3O4
+[53]
+. Therefore, the OER process proceeds preferably on Ni-Co3O4.
+Fig. 8. Energetic profiles for OER on (a) Co3O4 and (b) Ni-Co3O4 models, the inset displays the optimized adsorption structures of adsorbates on Co3O4 and Ni-Co3O4, respectively.
+In summary, the Co3O4 with different morphologies were successfully prepared by one-step hydrothermal method. And the CC-Co3O4 nanowire arrays exhibited superior OER performance with an overpotential of 394 mV to achieve 20 mA cm−2 and which was lower than that of CN-Co3O4 (425 mV) and CA-Co3O4 (434 mV), respectively, which was attributed to the fact that nanowires arrays increase the electronic conductivity of electrodes. Moreover, we also investigated the effect of Ni doping on OER activity. Among the Ni-Co3O4 samples, the 12% Ni-Co3O4 showed the best OER activity with an overpotential of 340 mV to reach 20 mA cm−2, and the corresponding Tafel slope was 60 mV dec−1, exceeding the most OER catalysts. The result implies that the proper Ni doping (12%) greatly improves the OER activity of Co3O4, which is ascribed to the unique synergistic effects between Co and Ni and modified electronic structure. The excellent stability of 12% Ni-Co3O4 was confirmed by prolonged OER process and XPS, XRD, and SEM measurements. Both of experimental results and DFT calculations demonstrated that Ni doping greatly improved the OER catalytic performance of Co3O4. Therefore, we believed this work may provide an effective avenue for designing highly efficient noble-metal-free electrocatalysts for OER in the future.
+Hao Du: Investigation, Data curation, Formal analysis, Writing - original draft. Wenhong Pu: Supervision, Validation. Changzhu Yang: Conceptualization, Methodology, Resources, Supervision, Writing - review & editing.
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+This work was supported by the National Natural Science Foundation of China (Grant No.
+21707038
+). The authors thank the Analytical and Testing Center of HUST for the use of XRD, Raman and SEM equipment.
+The following are the Supplementary data to this article:
+Download: Download Word document (3MB)
+Supplementary data 1.
+Supplementary data 1.
+Oxide semiconductor gas sensors present advantages of high sensitivity, low manufacturing cost, simple detection means, and convenient use [8-10]. Many factors can affect the gas-sensing properties of the materials, such as morphology [11], structure [12], surface defects [13], elements [14], BET surface area [15], or exposed crystal facets [16], etc. The difference in material morphology often exposes different crystal planes, which is the main factor causing the difference in material properties[17].
+Cookies are used by this site.
+Cookie Settings
+All content on this site: Copyright © 2024 Elsevier B.V., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the Creative Commons licensing terms apply.

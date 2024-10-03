@@ -1,0 +1,913 @@
+{
+    "materials": [
+        {
+            "material_name": "E-FeNC",
+            "properties": [
+                {
+                    "type": "half-wave potential",
+                    "value": 0.875,
+                    "unit": "V",
+                    "conditions": "vs. reversible hydrogen electrode (RHE)",
+                    "reaction_type": "ORR",
+                    "evidence": 0
+                },
+                {
+                    "type": "specific capacity",
+                    "value": 710.0,
+                    "unit": "mA h g\u22121",
+                    "conditions": "in primary ZAB",
+                    "reaction_type": "NA",
+                    "evidence": 0
+                },
+                {
+                    "type": "power density",
+                    "value": 151.6,
+                    "unit": "mW cm\u22122",
+                    "conditions": "in primary ZAB",
+                    "reaction_type": "NA",
+                    "evidence": 0
+                },
+                {
+                    "type": "specific capacity",
+                    "value": 710.0,
+                    "unit": "mA h g\u22121",
+                    "conditions": "as cathode catalyst in primary ZAB",
+                    "reaction_type": "ORR",
+                    "evidence": 1
+                },
+                {
+                    "type": "power density",
+                    "value": 151.6,
+                    "unit": "mW cm\u22122",
+                    "conditions": "as cathode catalyst in primary ZAB",
+                    "reaction_type": "ORR",
+                    "evidence": 1
+                },
+                {
+                    "type": "capacity retention",
+                    "value": 200.0,
+                    "unit": "h",
+                    "conditions": "rechargeable ZAB coupled with NiFe layered double hydroxide (LDH)",
+                    "reaction_type": "ORR",
+                    "evidence": 1
+                },
+                {
+                    "type": "specific capacity",
+                    "value": 710.0,
+                    "unit": "mA h g\u22121",
+                    "conditions": "in Zn-air battery",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "power density",
+                    "value": 151.6,
+                    "unit": "mW cm\u22122",
+                    "conditions": "in Zn-air battery",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "Specific capacity",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "used in ZABs",
+                    "reaction_type": "ORR",
+                    "evidence": 3
+                },
+                {
+                    "type": "Power density",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "used in ZABs",
+                    "reaction_type": "ORR",
+                    "evidence": 3
+                },
+                {
+                    "type": "Stability",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "used in ZABs",
+                    "reaction_type": "ORR",
+                    "evidence": 3
+                },
+                {
+                    "type": "Surface area",
+                    "value": 1168.0,
+                    "unit": "m2/g",
+                    "conditions": "N2 adsorption-desorption isotherms",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Pore size",
+                    "value": 7.8,
+                    "unit": "nm",
+                    "conditions": "N2 adsorption-desorption isotherms",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Total pore volume",
+                    "value": 2.65,
+                    "unit": "cm3/g",
+                    "conditions": "N2 adsorption-desorption isotherms",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Micropore area",
+                    "value": 48.98,
+                    "unit": "m2/g",
+                    "conditions": "t-plot method",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Micropore volume",
+                    "value": 0.02,
+                    "unit": "cm3/g",
+                    "conditions": "t-plot method",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "XANES",
+                    "value": 7132.6,
+                    "unit": "eV",
+                    "conditions": "between Fe foil (7131.4 eV) and Fe2O3 (7133.7 eV)",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                },
+                {
+                    "type": "micropore area",
+                    "value": 48.98,
+                    "unit": "m2 g-1",
+                    "conditions": "t-plot method",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "micropore volume",
+                    "value": 0.02,
+                    "unit": "cm3 g-1",
+                    "conditions": "t-plot method",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "N content",
+                    "value": 8.7,
+                    "unit": "at.%",
+                    "conditions": "elemental mapping",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "XRD peak",
+                    "value": 26.0,
+                    "unit": "\u00b0",
+                    "conditions": "characteristic of C-graphene",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "Raman ID/IG ratio",
+                    "value": 1.11,
+                    "unit": "ratio",
+                    "conditions": "Raman spectra",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "lattice distance",
+                    "value": 0.342,
+                    "unit": "nm",
+                    "conditions": "HRTEM",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "pore diameter",
+                    "value": 4.0,
+                    "unit": "nm",
+                    "conditions": "HRTEM",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "pore diameter",
+                    "value": 10.0,
+                    "unit": "nm",
+                    "conditions": "HRTEM",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "XANES pre-edge peak",
+                    "value": 7132.6,
+                    "unit": "eV",
+                    "conditions": "XANES",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "Fe content",
+                    "value": 0.32,
+                    "unit": "wt.%",
+                    "conditions": "ICP-AES",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "half-wave potential",
+                    "value": 0.875,
+                    "unit": "V",
+                    "conditions": "LSV in 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "limiting current density",
+                    "value": 5.27,
+                    "unit": "mA cm-2",
+                    "conditions": "LSV at 0.4 V",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "kinetic current density",
+                    "value": 2.53,
+                    "unit": "mA cm-2",
+                    "conditions": "LSV at 0.9 V vs RHE",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "kinetic current density",
+                    "value": 7.95,
+                    "unit": "mA cm-2",
+                    "conditions": "LSV at 0.85 V",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "ECSA",
+                    "value": 158.25,
+                    "unit": "cm2",
+                    "conditions": "based on double layer capacitance",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 62.0,
+                    "unit": "mV dec-1",
+                    "conditions": "Tafel plots in O2 reduction",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "electron transfer number",
+                    "value": 3.71,
+                    "unit": "ratio",
+                    "conditions": "RRDE measurements from 0.1 to 0.8 V vs RHE",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "electron transfer number",
+                    "value": 3.91,
+                    "unit": "ratio",
+                    "conditions": "RRDE measurements from 0.1 to 0.8 V vs RHE",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "peroxide yield",
+                    "value": 9.9,
+                    "unit": "%",
+                    "conditions": "RRDE measurements in whole potential range",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "long-time stability",
+                    "value": 91.4,
+                    "unit": "%",
+                    "conditions": "chronoamperometric measurement after 20000 s",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "half-wave potential",
+                    "value": 0.875,
+                    "unit": "V",
+                    "conditions": "in 0.1 M KOH, LSV, RDE",
+                    "reaction_type": "ORR",
+                    "evidence": 8
+                },
+                {
+                    "type": "limiting current density",
+                    "value": 5.27,
+                    "unit": "mA/cm\u00b2",
+                    "conditions": "at 0.4 V, LSV, RDE",
+                    "reaction_type": "ORR",
+                    "evidence": 8
+                },
+                {
+                    "type": "kinetic current density",
+                    "value": 2.53,
+                    "unit": "mA/cm\u00b2",
+                    "conditions": "at 0.9 V vs RHE, LSV",
+                    "reaction_type": "ORR",
+                    "evidence": 8
+                },
+                {
+                    "type": "kinetic current density",
+                    "value": 7.95,
+                    "unit": "mA/cm\u00b2",
+                    "conditions": "at 0.85 V, LSV",
+                    "reaction_type": "ORR",
+                    "evidence": 8
+                },
+                {
+                    "type": "ECSA",
+                    "value": 158.25,
+                    "unit": "cm\u00b2",
+                    "conditions": "based on double layer capacitance (Cdl)",
+                    "reaction_type": "NA",
+                    "evidence": 8
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 62.0,
+                    "unit": "mV dec-1",
+                    "conditions": "from LSV curves, O2 reduction",
+                    "reaction_type": "OER",
+                    "evidence": 8
+                },
+                {
+                    "type": "ECSA",
+                    "value": 158.25,
+                    "unit": "cm2",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 9
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 62.0,
+                    "unit": "mV dec-1",
+                    "conditions": "O2 reduction, LSV curves",
+                    "reaction_type": "ORR",
+                    "evidence": 9
+                },
+                {
+                    "type": "Electron transfer number",
+                    "value": 3.71,
+                    "unit": "NA",
+                    "conditions": "0.1 to 0.8 V vs RHE, RRDE measurements",
+                    "reaction_type": "ORR",
+                    "evidence": 9
+                },
+                {
+                    "type": "Peroxide yield",
+                    "value": 9.9,
+                    "unit": "%",
+                    "conditions": "NA",
+                    "reaction_type": "ORR",
+                    "evidence": 9
+                },
+                {
+                    "type": "Current density",
+                    "value": 91.4,
+                    "unit": "%",
+                    "conditions": "20000 s, chronoamperometric measurement",
+                    "reaction_type": "ORR",
+                    "evidence": 9
+                },
+                {
+                    "type": "Half-wave potential",
+                    "value": 91.0,
+                    "unit": "mV",
+                    "conditions": "0.1 M HClO4 solution",
+                    "reaction_type": "ORR",
+                    "evidence": 9
+                },
+                {
+                    "type": "Open circuit voltage",
+                    "value": 1.45,
+                    "unit": "V",
+                    "conditions": "Zn-air battery",
+                    "reaction_type": "NA",
+                    "evidence": 10
+                },
+                {
+                    "type": "Current density",
+                    "value": 97.0,
+                    "unit": "mA/cm\u00b2",
+                    "conditions": "at 1.0 V",
+                    "reaction_type": "NA",
+                    "evidence": 10
+                },
+                {
+                    "type": "Power density",
+                    "value": 151.6,
+                    "unit": "mW/cm\u00b2",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 10
+                },
+                {
+                    "type": "Specific capacity",
+                    "value": 710.0,
+                    "unit": "mA h g-1",
+                    "conditions": "galvanostatic discharge at 50 mA cm-2",
+                    "reaction_type": "NA",
+                    "evidence": 10
+                },
+                {
+                    "type": "Gravimetric energy density",
+                    "value": 660.3,
+                    "unit": "Wh kg-1",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 10
+                },
+                {
+                    "type": "N content",
+                    "value": 4.09,
+                    "unit": "at.%",
+                    "conditions": "elemental mapping",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "Fe content",
+                    "value": 0.37,
+                    "unit": "wt.%",
+                    "conditions": "ICP-AES",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "half-wave potential",
+                    "value": 0.837,
+                    "unit": "V",
+                    "conditions": "LSV at 0.4 V vs RHE",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "current density",
+                    "value": 4.29,
+                    "unit": "mA cm-2",
+                    "conditions": "LSV at 0.4 V",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "kinetic current density",
+                    "value": 0.64,
+                    "unit": "mA cm-2",
+                    "conditions": "LSV at 0.9 V vs RHE",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "electron transfer number",
+                    "value": 3.65,
+                    "unit": "ratio",
+                    "conditions": "RRDE measurements from 0.1 to 0.8 V vs RHE",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "electron transfer number",
+                    "value": 3.9,
+                    "unit": "ratio",
+                    "conditions": "RRDE measurements from 0.1 to 0.8 V vs RHE",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "peroxide yield",
+                    "value": 32.9,
+                    "unit": "%",
+                    "conditions": "RRDE measurements in whole potential range",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "half-wave potential",
+                    "value": 0.837,
+                    "unit": "V",
+                    "conditions": "vs RHE, in 0.1 M KOH, LSV, RDE",
+                    "reaction_type": "ORR",
+                    "evidence": 8
+                },
+                {
+                    "type": "current density",
+                    "value": 4.29,
+                    "unit": "mA/cm\u00b2",
+                    "conditions": "at 0.4 V, LSV, RDE",
+                    "reaction_type": "ORR",
+                    "evidence": 8
+                },
+                {
+                    "type": "kinetic current density",
+                    "value": 0.64,
+                    "unit": "mA/cm\u00b2",
+                    "conditions": "at 0.9 V vs RHE, LSV",
+                    "reaction_type": "ORR",
+                    "evidence": 8
+                },
+                {
+                    "type": "ECSA",
+                    "value": 39.5,
+                    "unit": "cm\u00b2",
+                    "conditions": "based on double layer capacitance (Cdl)",
+                    "reaction_type": "NA",
+                    "evidence": 8
+                },
+                {
+                    "type": "ECSA",
+                    "value": 39.5,
+                    "unit": "cm2",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 9
+                },
+                {
+                    "type": "Electron transfer number",
+                    "value": 3.65,
+                    "unit": "NA",
+                    "conditions": "0.1 to 0.8 V vs RHE, RRDE measurements",
+                    "reaction_type": "ORR",
+                    "evidence": 9
+                },
+                {
+                    "type": "Peroxide yield",
+                    "value": 32.9,
+                    "unit": "%",
+                    "conditions": "NA",
+                    "reaction_type": "ORR",
+                    "evidence": 9
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Pt/C",
+            "properties": [
+                {
+                    "type": "half-wave potential",
+                    "value": 0.859,
+                    "unit": "V",
+                    "conditions": "vs. reversible hydrogen electrode (RHE)",
+                    "reaction_type": "ORR",
+                    "evidence": 0
+                },
+                {
+                    "type": "half-wave potential",
+                    "value": 0.859,
+                    "unit": "V",
+                    "conditions": "LSV in 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "limiting current density",
+                    "value": 5.35,
+                    "unit": "mA cm-2",
+                    "conditions": "LSV at 0.4 V",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "kinetic current density",
+                    "value": 1.56,
+                    "unit": "mA cm-2",
+                    "conditions": "LSV at 0.9 V vs RHE",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "kinetic current density",
+                    "value": 2.49,
+                    "unit": "mA cm-2",
+                    "conditions": "LSV at 0.85 V",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "ECSA",
+                    "value": 48.8,
+                    "unit": "cm2",
+                    "conditions": "based on double layer capacitance",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 64.0,
+                    "unit": "mV dec-1",
+                    "conditions": "Tafel plots in O2 reduction",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "electron transfer number",
+                    "value": 3.96,
+                    "unit": "ratio",
+                    "conditions": "RRDE measurements from 0.1 to 0.8 V vs RHE",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "electron transfer number",
+                    "value": 3.98,
+                    "unit": "ratio",
+                    "conditions": "RRDE measurements from 0.1 to 0.8 V vs RHE",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "long-time stability",
+                    "value": 78.5,
+                    "unit": "%",
+                    "conditions": "chronoamperometric measurement after 20000 s",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "half-wave potential",
+                    "value": 0.859,
+                    "unit": "V",
+                    "conditions": "in 0.1 M KOH, LSV, RDE",
+                    "reaction_type": "ORR",
+                    "evidence": 8
+                },
+                {
+                    "type": "limiting current density",
+                    "value": 5.35,
+                    "unit": "mA/cm\u00b2",
+                    "conditions": "at 0.4 V, LSV, RDE",
+                    "reaction_type": "ORR",
+                    "evidence": 8
+                },
+                {
+                    "type": "kinetic current density",
+                    "value": 1.56,
+                    "unit": "mA/cm\u00b2",
+                    "conditions": "at 0.9 V vs RHE, LSV",
+                    "reaction_type": "ORR",
+                    "evidence": 8
+                },
+                {
+                    "type": "kinetic current density",
+                    "value": 2.49,
+                    "unit": "mA/cm\u00b2",
+                    "conditions": "at 0.85 V, LSV",
+                    "reaction_type": "ORR",
+                    "evidence": 8
+                },
+                {
+                    "type": "ECSA",
+                    "value": 48.8,
+                    "unit": "cm\u00b2",
+                    "conditions": "based on double layer capacitance (Cdl)",
+                    "reaction_type": "NA",
+                    "evidence": 8
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 64.0,
+                    "unit": "mV dec-1",
+                    "conditions": "from LSV curves, O2 reduction",
+                    "reaction_type": "OER",
+                    "evidence": 8
+                },
+                {
+                    "type": "Current density",
+                    "value": 2.49,
+                    "unit": "mA cm\u22122",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 9
+                },
+                {
+                    "type": "ECSA",
+                    "value": 48.8,
+                    "unit": "cm2",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 9
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 64.0,
+                    "unit": "mV dec-1",
+                    "conditions": "O2 reduction, LSV curves",
+                    "reaction_type": "ORR",
+                    "evidence": 9
+                },
+                {
+                    "type": "Electron transfer number",
+                    "value": 3.96,
+                    "unit": "NA",
+                    "conditions": "0.1 to 0.8 V vs RHE, RRDE measurements",
+                    "reaction_type": "ORR",
+                    "evidence": 9
+                },
+                {
+                    "type": "Peroxide yield",
+                    "value": 32.9,
+                    "unit": "%",
+                    "conditions": "NA",
+                    "reaction_type": "ORR",
+                    "evidence": 9
+                },
+                {
+                    "type": "Current density",
+                    "value": 78.5,
+                    "unit": "%",
+                    "conditions": "20000 s, chronoamperometric measurement",
+                    "reaction_type": "ORR",
+                    "evidence": 9
+                },
+                {
+                    "type": "Half-wave potential",
+                    "value": 91.0,
+                    "unit": "mV",
+                    "conditions": "0.1 M HClO4 solution",
+                    "reaction_type": "ORR",
+                    "evidence": 9
+                },
+                {
+                    "type": "Open circuit voltage",
+                    "value": 1.46,
+                    "unit": "V",
+                    "conditions": "Zn-air battery",
+                    "reaction_type": "NA",
+                    "evidence": 10
+                },
+                {
+                    "type": "Specific capacity",
+                    "value": 491.7,
+                    "unit": "mA h g-1",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 10
+                },
+                {
+                    "type": "Gravimetric energy density",
+                    "value": 442.5,
+                    "unit": "Wh kg-1",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 10
+                },
+                {
+                    "type": "Power density",
+                    "value": 121.5,
+                    "unit": "mW/cm\u00b2",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 10
+                }
+            ],
+            "benchmark": true
+        },
+        {
+            "material_name": "RuO2",
+            "properties": [],
+            "benchmark": true
+        },
+        {
+            "material_name": "E-NC",
+            "properties": [
+                {
+                    "type": "N content",
+                    "value": 2.81,
+                    "unit": "at.%",
+                    "conditions": "elemental mapping",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "Fe content",
+                    "value": 0.07,
+                    "unit": "wt.%",
+                    "conditions": "ICP-AES",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "half-wave potential",
+                    "value": 0.66,
+                    "unit": "V",
+                    "conditions": "LSV at 0.4 V",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "current density",
+                    "value": 1.95,
+                    "unit": "mA cm-2",
+                    "conditions": "LSV at 0.4 V",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "electron transfer number",
+                    "value": 2.62,
+                    "unit": "ratio",
+                    "conditions": "RRDE measurements from 0.1 to 0.8 V vs RHE",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "electron transfer number",
+                    "value": 2.85,
+                    "unit": "ratio",
+                    "conditions": "RRDE measurements from 0.1 to 0.8 V vs RHE",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "peroxide yield",
+                    "value": 61.1,
+                    "unit": "%",
+                    "conditions": "RRDE measurements in whole potential range",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "half-wave potential",
+                    "value": 0.66,
+                    "unit": "V",
+                    "conditions": "in 0.1 M KOH, LSV, RDE",
+                    "reaction_type": "ORR",
+                    "evidence": 8
+                },
+                {
+                    "type": "current density",
+                    "value": 1.95,
+                    "unit": "mA/cm\u00b2",
+                    "conditions": "at 0.4 V, LSV, RDE",
+                    "reaction_type": "ORR",
+                    "evidence": 8
+                },
+                {
+                    "type": "ECSA",
+                    "value": 57.5,
+                    "unit": "cm\u00b2",
+                    "conditions": "based on double layer capacitance (Cdl)",
+                    "reaction_type": "NA",
+                    "evidence": 8
+                },
+                {
+                    "type": "ECSA",
+                    "value": 57.5,
+                    "unit": "cm2",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 9
+                },
+                {
+                    "type": "Electron transfer number",
+                    "value": 2.62,
+                    "unit": "NA",
+                    "conditions": "0.1 to 0.8 V vs RHE, RRDE measurements",
+                    "reaction_type": "ORR",
+                    "evidence": 9
+                },
+                {
+                    "type": "Peroxide yield",
+                    "value": 61.1,
+                    "unit": "%",
+                    "conditions": "NA",
+                    "reaction_type": "ORR",
+                    "evidence": 9
+                }
+            ],
+            "benchmark": false
+        }
+    ],
+    "doi": "example_doi",
+    "factor": "Hydrogen coverage,Energy barrier,Conductivity,Surface area,Size,Defect,Dopant,Active sites,Stability,Electrode potential,Overpotential,Tafel slope,onsite potential,Current density,Mass loading,XPS,FTIR,Raman,XRD",
+    "meta": {
+        "maintext": "/Users/yangz/Documents/projects/llm4catalyst/documents/maintext/Edgesited_FeN4_atomic_species_improve_oxygen_reduc_maintext.txt",
+        "abstract": "/Users/yangz/Documents/projects/llm4catalyst/documents/abstract/Edgesited_FeN4_atomic_species_improve_oxygen_reduc_abs.txt",
+        "intro": "documents/intro/c60_intro.txt",
+        "window_size": 2,
+        "chunk_size": 1000,
+        "chunk_overlap": 100,
+        "output": "results",
+        "property": "/Users/yangz/Documents/projects/llm4catalyst/prompts/properties.txt",
+        "self_defined": true,
+        "title": "Edgesited_FeN4_atomic_species_improve_oxygen_reduc"
+    }
+}

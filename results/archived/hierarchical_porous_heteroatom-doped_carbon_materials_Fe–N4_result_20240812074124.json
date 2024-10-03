@@ -1,0 +1,388 @@
+{
+    "materials": [
+        {
+            "material_name": "P\u2013O/FeNC-SAC",
+            "properties": [
+                {
+                    "type": "Dopant",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "DFT calculations, long-range coordination",
+                    "reaction_type": "ORR",
+                    "evidence": 0
+                },
+                {
+                    "type": "Diameter",
+                    "value": 10.0,
+                    "unit": "nm",
+                    "conditions": "observed in SEM and TEM analyses",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "Surface area",
+                    "value": 0.0,
+                    "unit": "NA",
+                    "conditions": "hierarchical porosity, high specific surface area",
+                    "reaction_type": "ORR",
+                    "evidence": 3
+                },
+                {
+                    "type": "half-wave potential",
+                    "value": 0.912,
+                    "unit": "V",
+                    "conditions": "ORR in O2-saturated 0.1 M KOH at 1600 rpm",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "limiting current density",
+                    "value": -5.48,
+                    "unit": "mA cm\u20132",
+                    "conditions": "at 0.2 V, ORR in O2-saturated 0.1 M KOH at 1600 rpm",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "kinetic current density",
+                    "value": 7.54,
+                    "unit": "mA cm\u20132",
+                    "conditions": "at 0.9 V, ORR in O2-saturated 0.1 M KOH at 1600 rpm",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 68.7,
+                    "unit": "mV decade\u20131",
+                    "conditions": "ORR in O2-saturated 0.1 M KOH at 1600 rpm",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "H2O2 yield",
+                    "value": 5.0,
+                    "unit": "%",
+                    "conditions": "ORR in O2-saturated 0.1 M KOH at 1600 rpm",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "electron transfer number",
+                    "value": 4.0,
+                    "unit": "",
+                    "conditions": "ORR in O2-saturated 0.1 M KOH at 1600 rpm",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "Power density",
+                    "value": 222.3,
+                    "unit": "mW cm\u20132",
+                    "conditions": "in a zinc-air battery",
+                    "reaction_type": "ORR",
+                    "evidence": 6
+                },
+                {
+                    "type": "Charge\u2013discharge voltage gap",
+                    "value": 300.0,
+                    "unit": "h",
+                    "conditions": "in a zinc-air battery, durability test",
+                    "reaction_type": "ORR",
+                    "evidence": 6
+                },
+                {
+                    "type": "Current density loss",
+                    "value": 15.0,
+                    "unit": "%",
+                    "conditions": "chronoamperometry (CA) tests at 0.85 V vs RHE, after 50000 s",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "Energy barrier",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "DFT calculations, *OOH formation",
+                    "reaction_type": "ORR",
+                    "evidence": 9
+                },
+                {
+                    "type": "kinetic current density",
+                    "value": 3.35,
+                    "unit": "mA cm\u20132",
+                    "conditions": "at 0.9 V, ORR in O2-saturated 0.1 M KOH at 1600 rpm",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "Energy barrier",
+                    "value": 0.204,
+                    "unit": "eV",
+                    "conditions": "RDS for ORR",
+                    "reaction_type": "ORR",
+                    "evidence": 8
+                },
+                {
+                    "type": "Energy barrier",
+                    "value": 0.322,
+                    "unit": "eV",
+                    "conditions": "RDS for ORR",
+                    "reaction_type": "ORR",
+                    "evidence": 8
+                },
+                {
+                    "type": "Energy barrier",
+                    "value": 0.561,
+                    "unit": "eV",
+                    "conditions": "RDS for ORR",
+                    "reaction_type": "ORR",
+                    "evidence": 8
+                },
+                {
+                    "type": "Energy barrier",
+                    "value": 0.521,
+                    "unit": "eV",
+                    "conditions": "RDS for ORR",
+                    "reaction_type": "ORR",
+                    "evidence": 8
+                },
+                {
+                    "type": "XPS",
+                    "values": [
+                        135.6,
+                        133.9,
+                        128.5
+                    ],
+                    "units": [
+                        "eV"
+                    ],
+                    "conditions": [
+                        "P\u2013O bond",
+                        "P\u2013C bond",
+                        "Fe\u2013P bond, peak inexistence"
+                    ],
+                    "evidence": 4.0
+                },
+                {
+                    "type": "XRD",
+                    "values": [
+                        135.6,
+                        133.9,
+                        128.5
+                    ],
+                    "units": [
+                        "eV"
+                    ],
+                    "conditions": [
+                        "XPS, P\u2013C bond",
+                        "XPS, Fe\u2013P bond",
+                        "XPS, P\u2013O bond"
+                    ],
+                    "evidence": 2.0
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Pt/C",
+            "properties": [
+                {
+                    "type": "half-wave potential",
+                    "value": 0.864,
+                    "unit": "V",
+                    "conditions": "ORR in O2-saturated 0.1 M KOH at 1600 rpm",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "limiting current density",
+                    "value": -4.91,
+                    "unit": "mA cm\u20132",
+                    "conditions": "at 0.2 V, ORR in O2-saturated 0.1 M KOH at 1600 rpm",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "kinetic current density",
+                    "value": 1.87,
+                    "unit": "mA cm\u20132",
+                    "conditions": "at 0.9 V, ORR in O2-saturated 0.1 M KOH at 1600 rpm",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "Current density loss",
+                    "value": 40.0,
+                    "unit": "%",
+                    "conditions": "chronoamperometry (CA) tests at 0.85 V vs RHE, after 50000 s",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                }
+            ],
+            "benchmark": true
+        },
+        {
+            "material_name": "P\u2013O/NC",
+            "properties": [
+                {
+                    "type": "half-wave potential",
+                    "value": 0.735,
+                    "unit": "V",
+                    "conditions": "ORR in O2-saturated 0.1 M KOH at 1600 rpm",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "limiting current density",
+                    "value": -4.57,
+                    "unit": "mA cm\u20132",
+                    "conditions": "at 0.2 V, ORR in O2-saturated 0.1 M KOH at 1600 rpm",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "kinetic current density",
+                    "value": 0.13,
+                    "unit": "mA cm\u20132",
+                    "conditions": "at 0.9 V, ORR in O2-saturated 0.1 M KOH at 1600 rpm",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "FeNC-SAC",
+            "properties": [
+                {
+                    "type": "kinetic current density",
+                    "value": 2.03,
+                    "unit": "mA cm\u20132",
+                    "conditions": "at 0.9 V, ORR in O2-saturated 0.1 M KOH at 1600 rpm",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "Energy barrier",
+                    "value": 0.453,
+                    "unit": "eV",
+                    "conditions": "RDS for ORR",
+                    "reaction_type": "ORR",
+                    "evidence": 8
+                },
+                {
+                    "type": "Energy barrier",
+                    "value": 0.322,
+                    "unit": "eV",
+                    "conditions": "RDS for ORR",
+                    "reaction_type": "ORR",
+                    "evidence": 8
+                },
+                {
+                    "type": "Energy barrier",
+                    "value": 0.561,
+                    "unit": "eV",
+                    "conditions": "RDS for ORR",
+                    "reaction_type": "ORR",
+                    "evidence": 8
+                },
+                {
+                    "type": "Energy barrier",
+                    "value": 0.521,
+                    "unit": "eV",
+                    "conditions": "RDS for ORR",
+                    "reaction_type": "ORR",
+                    "evidence": 8
+                },
+                {
+                    "type": "Oxygen Reduction Reaction",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "Based on Lotus Seedpods and Industrial Acid Residues",
+                    "reaction_type": "ORR",
+                    "evidence": 10
+                },
+                {
+                    "type": "Oxygen Reduction Reaction Performance",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "with a high density of catalytically accessible FeN4 active sites",
+                    "reaction_type": "ORR",
+                    "evidence": 13
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Pt/C+IrO2",
+            "properties": [
+                {
+                    "type": "Power density",
+                    "value": 166.5,
+                    "unit": "mW cm\u20132",
+                    "conditions": "in a zinc-air battery",
+                    "reaction_type": "ORR",
+                    "evidence": 6
+                }
+            ],
+            "benchmark": true
+        },
+        {
+            "material_name": "Single-Atom Site with a P\u2013O Bond",
+            "properties": [
+                {
+                    "type": "Intrinsic Activity",
+                    "value": 11.0,
+                    "unit": "index",
+                    "conditions": "Rechargeable Zn\u2013Air Battery",
+                    "reaction_type": "NA",
+                    "evidence": 11
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "MIL-101-Derived Mesoporous Carbon",
+            "properties": [
+                {
+                    "type": "Oxygen Reduction Reaction Catalysts",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "Supporting Highly Exposed Fe Single-Atom Sites",
+                    "reaction_type": "ORR",
+                    "evidence": 12
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Pt",
+            "properties": [
+                {
+                    "type": "Intermediate Adsorption",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "for Methanol Oxidation",
+                    "reaction_type": "NA",
+                    "evidence": 14
+                }
+            ],
+            "benchmark": true
+        }
+    ],
+    "doi": "example_doi",
+    "factor": "Hydrogen coverage,Energy barrier,Conductivity,Surface area,Size,Defect,Dopant,Active sites,Stability,Electrode potential,Overpotential,Tafel slope,onsite potential,Current density,Mass loading,XPS,FTIR,Raman,XRD",
+    "meta": {
+        "maintext": "/Users/yangz/Documents/projects/llm4catalyst/documents/maintext/FeNC_SingleAtom_Catalyst_with_Hierarchical_Porous__maintext.txt",
+        "abstract": "/Users/yangz/Documents/projects/llm4catalyst/documents/abstract/FeNC_SingleAtom_Catalyst_with_Hierarchical_Porous__abs.txt",
+        "intro": "documents/intro/c60_intro.txt",
+        "window_size": 2,
+        "chunk_size": 1000,
+        "chunk_overlap": 100,
+        "output": "results",
+        "property": "/Users/yangz/Documents/projects/llm4catalyst/prompts/properties.txt",
+        "self_defined": true,
+        "title": "FeNC_SingleAtom_Catalyst_with_Hierarchical_Porous_"
+    }
+}

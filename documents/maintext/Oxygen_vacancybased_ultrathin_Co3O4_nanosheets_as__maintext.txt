@@ -1,0 +1,208 @@
+•
+Ultrathin Co3O4 nanosheet with oxygen vacancies via hydrothermal and pre-oxidation.
+•
+Oxygen vacancies are formed by preoxidation of Co-based precursors.
+•
+Exhibited small overpotential of 367 mV for 10 mA/cm2 and Tafel slope of 65 mV/dec for OER.
+•
+Showed excellent electrochemical stability in alkaline.
+Ultrathin Co3O4 nanosheet with oxygen vacancies via hydrothermal and pre-oxidation.
+Oxygen vacancies are formed by preoxidation of Co-based precursors.
+Exhibited small overpotential of 367 mV for 10 mA/cm2 and Tafel slope of 65 mV/dec for OER.
+Showed excellent electrochemical stability in alkaline.
+Enhancing the catalytic activity of Co3O4 electrocatalysts featuring abundant oxygen vacancies is required to enable their application in oxygen evolution reaction (OER). However, developing a harmless defect engineering strategy based on mild conditions to realize such an enhancement remains a challenge. Here, ultrathin Co3O4 nanosheets with abundant oxygen vacancies were prepared through a simple two-step method comprising a hydrothermal process and pre-oxidation to study the catalytic activity of the nanosheets toward OER. The ultrathin sheet structure and the Co3O4 nanosheets surface provide abundant active sites. The oxygen vacancy not only improves the catalyst activity, but also improves the electron transfer efficiency. These advantages make ultrathin Co3O4 nanosheets with abundant oxygen vacancies an excellent electrocatalyst for oxygen evolution. In an alkaline medium, ultrathin Co3O4 nanosheets exhibited excellent OER catalytic activity, with a small overpotential (367 mV for 10 mA/cm2) and faster reaction kinetics (65 mV/dec).Moreover, the electrocatalyst still maintained 68% of its original catalytic activity after 24 h operation. This work provides an extensive and reliable method for the preparation of low-cost and highly efficient OER electrocatalysts.
+The increasing consumption of traditional non-renewable fossil fuel energy systems leads to serious energy depletion and environmental problems [
+[1]
+,
+[2]
+,
+[3]
+]. Until now, various promising renewable energy conversion technologies, including electrocatalytic water splitting, fuel cells, and metal–air batteries, have been rapidly developed as effective approaches to alleviate energy and environmental crises, as well as improving clean production and sustainable supply [
+[4]
+,
+[5]
+,
+[6]
+,
+[7]
+,
+[8]
+]. Unfortunately, those technologies are restricted by sluggish kinetics and inefficient oxygen evolution reaction (OER), which involves multiple steps of proton-coupled electron transfer [
+[9]
+,
+[10]
+,
+[11]
+,
+[12]
+]. Although noble metal oxides, such as IrO2 and RuO2, are commonly considered as the most promising electrocatalysts for OER [
+[13]
+,
+[14]
+,
+[15]
+,
+[16]
+], the scarcity and high cost have hindered their large-scale application [
+[17]
+,
+[18]
+,
+[19]
+]. Consequently, highly active, low-cost, and highly earth-abundant OER catalysts are essential to promote the development of new energy conversion technologies.
+Recently, earth-abundant transition metal-based electrocatalysts, including metal oxides, hydroxides, phosphates, and chalcogenides, have emerged, and they have been exploited to improve OER efficiency due to their unique electronic structure and electronic characteristics [
+[20]
+,
+[21]
+,
+[22]
+,
+[23]
+]. Among these electrocatalysts, cobalt oxides have been widely studied, and their electronic structure can be regulated because of their different oxidation states. For example, Zhou et al. [
+24
+] synthesized porous Co3O4 nanosheetsvia wet chemistry and high-temperature annealing, the nanosheets exhibited a small overpotential of 490 mV for 10 mA/cm2. Dong et al. [
+25
+] prepared hollow Co3O4 by using ZIF-67 as a template, with larger electrochemical reaction area and faster electron transfer. In addition, Acedera et al. [
+26
+] synthesized porous spinel Co3O4 nanoparticles through a facile solution-combustion route, and the porous spinel Co3O4 nanoparticles have high specific surface area, low crystallinity, and large porosity to enhance their electrochemical performance. Obviously, cobalt oxide is undoubtedly one of the most promising OER electrocatalysts.
+Up to date, high-efficiency catalysts, such as nanocrystals, nanowires, nanosheets, and mesoporous structures, usually have a large specific surface area, which can result in abundant active sites and facilitate the charge mobility of the surface between the electrocatalysts and electrolyte. Nanosheet electrocatalysts are promising electrocatalysts for OER because of their excellent chemical controllability and high conductivity, which are beneficial to electron transfer. Unfortunately, there are still some problems, such as low electrical conductivity [
+27
+] and insufficient exposed active sites [
+28
+]. According to previous reports, the Co2+/Co3+ratio in Co3O4 has a great influence on their electrocatalytic performance, and Co3O4 electrocatalystscontained more Co2+ usually feature excellent electrocatalytic performance [
+29
+]. Therefore, increasing the number of Co2+ active sites of cobalt-based the catalyst expected to improve the catalytic activity.
+Since the catalytic process always occurs on or near the electrocatalyst surface, the surface structure is an important factor for affecting the catalyst activity [
+30
+]. The strategies of engineering defects, heterojunction interfaces and amorphous states can be used to improve the conductivity and increase the catalytic active sites by modulating its electronic structure [
+[31]
+,
+[32]
+,
+[33]
+]. Especially, the introduction of defects on the catalyst surface provides more active sitesand thus reduces the Gibbs free energy in the catalytic process and improves the OER catalytic performance [
+[34]
+,
+[35]
+,
+[36]
+]. Until now, sodium borohydride reduction and plasma etching are normally the primary strategies used for producing oxygen vacancies in cobalt oxides [
+[37]
+,
+[38]
+,
+[39]
+]. For example, Wang et al. [
+40
+] used Ar plasma to strip CoFe LDHs and construct oxygen vacancies, which significantly improved the electrocatalytic activity of CoFe LDHs. Wei et al. [
+34
+] used NaBH4 as a reducing agent to create numerous oxygen vacancies on the Co3O4 nanosheet surfaces. However, both strategies show difficulty in controlling the types of defects and are harmful to the environment. It is believed that cobalt-based oxide with high specific area and oxygen vacancies can enhance the electrocatalytic activity.
+In this study, an ultrathin Co3O4 nanosheet with oxygen vacancies was developed as OER electrocatalyst via a two-step method comprising a simple hydrothermal process and pre-oxidation. Specifically, the pre-oxidation resulted in the formation of irregular pore structures on the nanosheets surfaces, which are conducive to the increasing the specific catalyst surface area and the material active center. The formation of oxygen vacancies can regulate the catalyst electronic structure, increase the Co2+ content and significantly improve the catalyst activity. Furthermore, the synthesized electrocatalyst exhibited a small overpotential (367 mV at 10 mA/cm2) and fast reaction kinetics (65 mV/dec) in alkaline medium, and the catalytic activity maintained excellent stability in 24 h with only 38% attenuation. This work provides an effective strategy for generating oxygen vacancies in cobalt oxides under mild conditions.
+Cobalt acetylacetonate was purchased from Aladdin Industrial Corporation, commercial RuO2 nanoparticles were bought from Sigma-Aldrich. Cetyl trimethyl ammonium bromide (CTAB), potassium hydroxide (KOH), and ethylene glycol were from Tianjin Damao chemical reagent factory. Nafion solution (5% wt) was supplied by DuPont. All chemical reagents were used without further purification.
+In brief, 60 mL ethylene glycol and 11 mL deionized water formed a mixed solution, 600 mg of cobalt acetylacetone were added to the above solution, stirred continuously for 10 min and dispersed evenly. Then 2.2 g CTAB was added to the mixed solution as a template, dispersed evenly, and transferred to 100 mL poly tetra fluoro-lined high-pressure reaction kettle, sealed, and placed in an oven at 180 °C for 20 h. After the reaction, the system was cooled to room temperature, the products were collected by washing with water and ethanol for at least three times, and then drying overnight in a vacuum at 60 °C for further characterization.
+Ultrathin Co3O4 nanosheets with abundant oxygen vacancies are obtained by a simple one-step pre-oxidation method. In brief, the as-obtained ultrathin Co-based precursor was placed in muff furnace and heated to 320 °C for 5 min. Different calcination temperature and time were used to prepare samples, and the obtained product was denoted as Ovac-Co3O4-T-t (T and t represent calcination temperature and time, respectively).
+The X-ray diffraction (XRD) patterns were carried out by a Bruker D8 advanced X-ray diffractometer with a wavelength of 1.54 Å Cu Karadiation at 40 kV and 40 mAMSAL-XD2. The morphology of the Ovac-Co3O4nanosheets catalysts was examined by using scanning electron microscopy (SEM, Zeiss 500) and transmission electron microscopy (TEM, FEI F20). The X-ray photoelectron spectroscopy (XPS) measurements were carried out by the XPS apparatus (ThermoFisher ESCALAB 250Xi) with pass energy of 100 eV. Electron spin resonance spectra (ESR) of the Ovac-Co3O4nanosheets catalysts were obtained on the Electron Paramagnetic Resonance apparatus (JES FA200).
+2.5 mg of Ovac-Co3O4 nanosheets was dispersed in 480 μL mixtures of distilled water and ethanol(1:1 v/v). Then, 20 μL Nafion was added to the above solution. The mixed solution was ultrasonically treated at least 30 min to form a homogeneous ink. 5 μL of the mixed solution was drop-casted onto the glassy carbon electrode with a diameter of 3 mm for the electrochemical measurements. The electrocatalytic activity of as-prepared Ovac-Co3O4 nanosheets electrodes was tested in a three-electrode system using CHI760E electrochemical workstation in a 1.0 M KOH solution (pH = 13.7). A Pt wire as the counter electrode, an Ag/AgCl electrode (saturated KCl) as the reference electrode, and a modified glassy carbon electrode as the working electrode were used to electrochemical measurement. The polarization curves were obtained by sweeping the potential from −0.2 V to 0.8 V at room temperature with a scan rate of 5 mV/s. AC impedance measurements were carried out at the open-circuit voltage in 1.0 M KOH from 0.01 to 105 Hz with an AC amplitude of 5 mV. The current density was calculated by the geometric area of the glassy carbon electrode which is 0.07 cm2.The i-t curve was measured at static potential of 1.60 V (vs RHE) for 24 h. The double-layer capacitance (Cdl) was estimated through cyclic voltammetry (CV) measurement at the nonfaradaic potential region (0.15–0.25 V) with the scan rates ranging of 40–100 mV/s. All the data were presented without iR compensation and converted to the standard reversible hydrogen electrode (RHE) in this study scale according to the Nernst equation: ERHE = EAg/AgCl +0.197 + 0.059 pH.
+Ultrathin Co3O4 nanosheets with abundant oxygen vacancies were synthesized by a two-step process (see
+Fig. 1
+). First, a Co-based precursor was prepared via a simple hydrothermal method, and then calcined at a low temperature obtain ultrathin Co3O4 nanosheets with abundant oxygen vacancies.
+Fig. 2
+a and b shows the morphology of the prepared Co-based precursor, which exhibited an ultrathin structure and a smooth and dense surface. The morphology of ultrathin Co3O4 nanosheets that obtained by calcining at 300, 320, and 350 °C can be found at
+Fig. 2
+c–h. After calcination, the catalyst surface became rough, and a large number of pore structures were formed. The porous structure can provide larger specific surface area and expose more active sites for electrocatalyst, which is beneficial to improve the catalyst activity.
+Fig. 1. Schematic illustration of the synthesized procedure of Ovac-Co3O4 nanosheets.
+Fig. 2. (a, b) SEM images of Co-based precursor, (c, d) Ovac-Co3O4-300-5 nanosheets, (e, f) Ovac-Co3O4-320-5 nanosheets, and (g, h) Ovac-Co3O4-350-5 nanosheets.
+Studies have shown that calcination time and temperature have a significant influence on nanomaterial agglomeration and crystallinity. In our study, the Co-based precursor was calcined at different temperatures and time and the corresponding SEM images of samples were illustrated in
+Fig. S1
+. As showed in
+Fig. S1a and b
+, the surface of the obtained Ovac-Co3O4-320-10 nanosheets showed pore structures of different sizes, and a small number of nanoparticles appeared on the material surface. The obtained Ovac-Co3O4-320-20 nanosheets also featured rough and uneven surfaces, but nanosheets’ agglomeration was more serious. Numerous nanoparticles of relatively uniform size appeared on the surface of Ovac-Co3O4-320-5 nanosheets (
+Fig. 2
+e and f), and nanoparticles formed a rare pore structure, which increased the catalyst-specific surface area. This structure is considered to be beneficial to increase the active site and improving the electrocatalytic activity.
+The effect of temperature on the nanosheets micromorphology was also studied. As depicted in
+Fig. 2
+, in comparison with the Ovac-Co3O4-320-5, Ovac-Co3O4-300-5 exhibit the dispersion of holes with different sizes on the nanosheets surface, indicating that an uneven structure was formed on the nanosheets surface after calcination at 300 °C. In addition, serious agglomeration was found in the Ovac-Co3O4-350-5 nanosheets microstructure (
+Fig. 2
+g and h). Thus, it can be inferred that the synthesized Ovac-Co3O4-320-5 nanosheets may display excellent electrochemical properties.
+Ultrathin Ovac-Co3O4 nanosheets are further characterized by TEM images. After calcination, a continuous channel structure was formed, and pores of 6–15 nm diameters were distributed on Ovac-Co3O4-320-5nanosheet surface. Comparing with the dense structure of the Co-based precursor, the pores of the Ovac-Co3O4 nanosheets were interconnected, which is beneficial to the electrolyte transport in the electrocatalyst OER process and the emission of generated gas [
+41
+]. In addition, the lattice fringe plane spacing of 0.243, 0.202, and 0.285 nm on the Ovac-Co3O4 nanosheets can be observed by high-resolution transmission electron microscopy (HRTEM), which is corresponding to Co3O4 (311), (220) and (400) crystal planes, respectively. The lattice fringes were blurred at the edge of the pores and clear in the region far away from the pore structure, which may be due to the lattice distortion of Co3O4. XRD patterns were conducted to detect the structural and compositional transformation of Ovac-Co3O4 nanosheets.
+Fig. 3
+g and
+Fig. S2
+showsthe XRD patterns of the electrocatalyst obtained under different reaction conditions. The XRD spectra of Ovac-Co3O4 nanosheets displayed characteristic peaks that located at 19.0°, 31.3°, 36.8°, 44.8°, 59.4°, and 65.2°, which are assigned to the (111), (220), (311), (400), (511) and (440) planes of the hexagonal system Co3O4 (PDF#43–1003), respectively [
+42
+]. However, compared with other electrocatalysts, the Ovac-Co3O4-320-5 nanosheets showed XRD patterns with stronger peaks, indicating that the Ovac-Co3O4-320-5 nanosheets had better crystallinity.
+Fig. 3. (a–c) TEM and (d–f) HRTEM images of Ovac-Co3O4-320-5 nanosheets. (g) XRD patterns and (h) Raman spectra of Ovan-Co3O4 nanosheets prepared by treatment at different calcination temperatures for 5 min. (i) Electron spin resonance spectra of precursor and Ovan-Co3O4-320-5 nanosheets.
+Fig. 3
+h shows the Raman spectrum of the Co3O4 structure, the characteristic peaks appeared at F2g (507 cm−1), Eg (465 cm−1), and A1g (667 cm−1), where the A1g peak represents the highest cation sublattice and any change in this peak, suggesting the formation of lattice distortion [
+43
+]. Compared with Ovac-Co3O4-300-5 and Ovac-Co3O4-350-5, the major peak of A1g in Ovac-Co3O4-320-5 nanosheets had a red shift of 5.78 cm−1, implying the oxygen vacancy defect. Besides, the Raman spectra of the Co3O4 nanosheets prepared by calcination at 320 °C under different time were shown. It can be seen that the main peak of A1g in Ovac-Co3O4-320-5 nanosheets presented a greater red shift than those of A1g in Ovac-Co3O4-320-10, Ovac-Co3O4-320-20, and Co3O4–N2, suggesting oxygen vacancies could be constructed easily through carbonization in air atmosphere. The Raman spectrum result indicates that the obtained Ovac-Co3O4 nanosheets exhibit a spinel structure, which is consistent with the XRD pattern.
+In addition, electron spin resonance (ESR) measurements were employed to further verify the formation of oxygen vacancies. As shown in
+Fig. 3
+i, the precursor and Ovac-Co3O4-320-5 nanosheets both displayed paramagnetic signals at a value of g = 1.994, and the signal intensity of the Ovac-Co3O4-320-5 nanosheet was significantly stronger than that of the precursor, indicating that the Ovac-Co3O4-320-5 nanosheets contains abundant oxygen vacancies, which corresponds with the Raman spectra results [
+29
+].This finding is further confirmed by photoluminescence (PL) spectroscopy shown in
+Fig. S12
+, compared with the precursor, Ovac-Co3O4-320-5 nanosheets display a strong PL emission peak at 450 nm, which corresponds to the recombination of holes with two-electron-trapped oxygen vacancies [
+44
+].
+The surface element composition and electronic state of the Ovac-Co3O4 nanosheet electrocatalyst were further measured by XPS.
+Fig. 4
+a shows the presence of Co, C, and O elements in Ovac-Co3O4 nanosheets. The high-resolution XPS of Co2p and O1s in the Ovac-Co3O4 nanosheet catalyst are shown in
+Fig. 4
+b and c. In terms of the Co2p spectrum, the peaks with the binding energy at 781.1 and 797.3 eV belong to Co2p3/2 and Co2p1/2, while the peaks at 786.2 and 803.1 eV are assigned to the satellite peaks of Co2p [
+39
+]. Through pre-oxidation, oxygen vacancies were formed on the Ovac-Co3O4 nanosheets, which caused the delocalization of electrons near the oxygen vacancies and that originally occupied the O1s orbital, and the charge density and coordination of Co3+ changed, thus, part of Co3+ was reduced to Co2+. In many previous reports, Co2+was widely regarded as the main active site for the Co3O4 electrocatalyst in the OER process. In addition,
+Fig.4c
+and
+Fig. S8-11
+shows the fine spectra of O1s of Ovac-Co3O4-320-5, Ovac-Co3O4-300-5, Ovac-Co3O4-350-5, Ovac-Co3O4-320-10, and Ovac-Co3O4-320-20 nanosheets. Two peaks of binding energy, 530.4 eV and 531.4 eV were formed through the fitting, respectively representing lattice oxygen and oxygen vacancy. Moreover, Ovac-Co3O4-320-5 had the same peak location as the Ovac-Co3O4-300-5 and Ovac-Co3O4-350-5 nanosheets, but the oxygen vacancy generated by Ovac-Co3O4-320-5 at 531.4eV was relatively high (
+Fig. 4
+d), which is beneficial to enhancing the catalytic activity of Ovac-Co3O4-320-5 nm tablets in the OER process. Through O1s analysis, the same results could be achieved for Co2p XPS, Raman spectra, and ESR spectra. In addition, from
+Fig. 4
+d, Ovac-Co3O4-320-5 had more oxygen vacancies than the other nanosheets. Based on the above characterization, ultrathin Co3O4 nanosheets with abundant oxygen vacancies were successfully synthesized using the presented method.
+Fig. 4. (a) XPS spectra of Ovac-Co3O4 nanosheets prepared at different conditions. (b) High-resolution XPS spectra of Co 2p and (c) O 1s. (d) Oxygen vacancy contentin Ovac-Co3O4 nanosheets prepared at different conditions.
+The detailed characterization above indicates that a large number of oxygen vacancies were created in theCo3O4 nanosheets electrocatalyst through defect engineering. This special structure can not only improve the intrinsic conductivity of Co3O4 and regulate its electronic structure but also enhance the catalytic activity of Ovac-Co3O4 nanosheets during the OER process. The OER catalytic performance of ultrathin Co3O4 nanosheets with abundant oxygen vacancies was studied in a standard three-electrode system, and catalysts obtained under commercial RuO2 and other preparation conditions were also referenced. Numerous research reports indicate that multi-degree metal oxides exhibit a four-electron reaction step in the OER reaction in alkaline solution, which is a recognized slow kinetic process:
+where M represents adsorption positions on the OER electrocatalyst surface. Compared with the hydrogen evolution reaction, with a single-electron process, the OER requires a large overpotential to complete due to the severe dynamic retardation of the OER four-electron process, which also becomes a bottleneck for efficient electrocatalytic water cracking. To explore the application of Ovac-Co3O4 nanosheet electrocatalysis in OER, a glassy carbon electrode was used as the working electrode, platinum sheet electrode as the counter electrode, and Ag/AgCl as the reference electrode in a 1 M KOH solution at room temperature. Linear sweep voltammetry was first performed using the three-electrode system. None of the test data were further corrected by IR. The obtained powder catalyst was loaded on the surface of the glassy carbon electrode as the working electrode using a 5 wt% Nafion solution for the electrochemical test.
+Here, catalytic performance of various electrocatalysts was explored for the OER process, including catalysts of Fe, Co, and Ni, in addition to Co-based electrocatalysts prepared at different temperatures and processing time. Compared with the electrocatalysis prepared by Ni and Fe elements, the Co-based catalyst has a small initial potential (
+Fig. S12
+). When the current density reached10 mA/cm2, the Co-based catalyst showed the minimum overpotential, indicating that the Co-based catalyst needs a rough small overpotential to drive the OER process. In addition, the Tafel slope of the Co-based catalyst was only 65 mV/dec (
+Fig. S13
+), which was 23 mV/dec and 27 mV/dec smaller than those of the Ni and Fe-based catalysts, respectively, this indicates that the oxygen vacancy-rich electrocatalyst prepared with cobalt element needs a smaller overpotential to reach the specified current density. It also implies that the Co-based electrocatalyst has a faster electron transfer rate and OER reaction kinetics. Moreover, the calcination temperature and time will have a certain effect on the nanomaterial structure. For Co-based catalysts with excellent OER catalytic performance, the effects of different calcination temperatures and time on the electrocatalytic performance were explored. Generally, the overpotential at a current density of 10 mA/cm2 is used to measure the electrocatalyst activity in the OER process. A lower overpotential indicates a higher OER catalytic activity of the catalyst.
+Fig. 5
+a shows the LSV curves of three oxygen vacancy-rich electrocatalysts and commercial RuO2. The ղ values of the Ovac-Co3O4-300-5, Ovac-Co3O4-320-5, Ovac-Co3O4-350-5, and commercial RuO2 electrode were 388, 367, 379, and 320 mV respectively. The Ovac-Co3O4-320-5 nanosheet electrocatalyst had the best oxygen evolution catalytic activity, as it had the lowest overpotential, which was due to the abundant oxygen vacancies provided by defect engineering. In addition, compared with Ovac-Co3O4-320-10, Ovac-Co3O4-320-20, the Ovac-Co3O4-320-5 also has the smallest overpotential. In order to study the oxidation peak of as-synthesized electrocatalyst, the cyclic voltammetry curves were measured potential region of 0.1–0.65 V (Ag/AgCl). It was observed that the oxidation peak showed a cathodic shift in Ovac-Co3O4-320-5 nanosheets compared to Ovac-Co3O4-320-5, and Ovac-Co3O4-320-5 (
+Fig. S23
+).
+Fig. 5. Polarization curves (a), Tafel plots (b), and Nyquist plots (c) of Ovac-Co3O4 electrocatalyst prepared at different temperatures for 5 min. i-T curves of Ovac-Co3O4-320-5 nanosheets (d). Cyclic voltammetry curves of Ovac-Co3O4-320-5 nanosheets tested at different scan rates (e). Current density as a function of the scan rate for Ovac-Co3O4 electrocatalyst prepared at different temperatures (f).
+To further reveal the inherent mechanism of the excellent electrocatalytic performance of the electrocatalysts, the Tafel slope, electrochemically active area (ECSA), and electrochemical impedance (EIS) of the material was measured.
+Fig. 5
+b shows the Tafel curve of the OER electrocatalyst. The Tafel slope in the curve can be used as a criterion for judging the kinetics of electrocatalysts and is also an important parameter for evaluating the OER kinetics. The Tafel slope of RuO2 was 63 mV/dec, and those of Ovac-Co3O4-300-5 and Ovac-Co3O4-350-5 were 70 and 71 mV/dec respectively. However, Ovac-Co3O4-320-5 had a Tafel slope of only 65 mV/dec, which indicates that Ovac-Co3O4-320-5 has a faster reaction kinetics because of its small Tafel slope.
+To explore the interface electron transport between the catalyst and the electrolyte, all electrocatalysts were subjected to an EIS test in the frequency range of 0.1 MHz to 0.01 Hz at open-circuit voltage. An AC voltage with the amplitude of 5 mV was applied during the test, and then a Nyquist diagram was obtained. As shown in
+Fig. 5
+c, compared with Ovac-Co3O4-300-5 and Ovac-Co3O4-350-5, Ovac-Co3O4-320-5 had a smaller solution resistance and charge transfer resistance at open-circuit voltage, which means that Ovac-Co3O4-320-5 electrocatalysis has a faster electron transfer rate and higher electrochemical activity, because the smaller the charge transfer resistance, the faster the electron transfer. Stability is another important indicator for evaluating the electrocatalysts performance. High-efficiency catalysts should have high catalytic activity and stability. Electrocatalyst stability was tested via the chronoamperometric method. A constant potential was added to the working electrode, and the change in the current of the working electrode with time was recorded. The current density initially featured a relatively significant decrease (
+Fig. 5
+d). As time progressed, the decrease rate fell, and the fluctuation range was small. After the working electrode worked continuously for 24 h, it still maintained over than 68% of the initial current density, this shows that the catalyst has better stability in alkaline medium.
+To evaluate the ECSA of the electrocatalyst, the current density without scanning rate was measured by cyclic voltammetry in the non-Faraday region of the electrocatalyst, and the voltage range was 0.15–0.25 V.Through an analysis of the double-layer capacitance of the finished electrode, we found that Cdl was linearly related to the ECSA. The results showed that the Cdl values of Ovac-Co3O4-300-5 and Ovac-Co3O4-350-5 were 3.37 mF/cm2 and 6.39 mF/cm2, respectively, while the Cdl values of Ovac-Co3O4-320-5 were 7.17 mF/cm2 (
+Fig. 5
+f), indicating that Ovac-Co3O4-320-5 had abundant electrochemical active sites. Moreover, the electrochemical activity area value is consistent with the previous electrochemical test results. Based on these experimental results, the prepared Ovac-Co3O4-320-5 with oxygen defects can be expediently utilized as an electrocatalyst for OER.
+Ultrathin Co3O4 nanosheets with abundant oxygen vacancies were successfully prepared through a simple and environmentally friendly two-step process. Morphological characterization and detailed spectral analysis indicated the presence of oxygen vacancies in the nanosheet-based electrocatalysts. The electrocatalyst with the best oxygen evolution performance exhibited a current density of 10 mA/cm2 with only a low overpotential of 367 mV, and a modest Tafel slope, 65 mV/dec. The existence of oxygen vacancies was the main cause of the improved electrocatalytic oxygen evolution performance of Co3O4 nanosheets. These results not only indicate that nanomaterials containing oxygen vacancies have a good application prospect in OER, but also provide an inexpensive and environmentally friendly preparation method for transition metal oxide-based catalysts.
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+This work was supported by Key scientific research plan (Key Laboratory) of Shaanxi Provincial Education Department (No.
+17JS016
+) and International Joint Research Center for biomass chemistry and materials, Shaanxi international science and technology cooperation base (
+2018GHJD-19
+), Shaanxi Key industry innovation chain projects (
+2020ZDLGY11-03
+) , Science and Technology Plan of Weiyang District of Xi'an (
+201910
+), Shaanxi Provincial Department of Education General Special Scientific Research Program (
+20JK0537
+).
+The following is the Supplementary data to this article:
+Download: Download Word document (4MB)
+Multimedia component 1.
+Multimedia component 1.
+Cookies are used by this site.
+Cookie Settings
+All content on this site: Copyright © 2024 Elsevier B.V., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the Creative Commons licensing terms apply.

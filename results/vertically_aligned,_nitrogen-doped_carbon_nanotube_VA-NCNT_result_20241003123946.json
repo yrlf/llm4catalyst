@@ -1,0 +1,240 @@
+{
+  "materials": [
+    {
+      "material_name": "VA-NCNT",
+      "properties": [
+        {
+          "type": "Current density",
+          "value": 2.62,
+          "unit": "A cm\u207b\u00b2",
+          "conditions": "ORR, steady state voltammograms",
+          "reaction_type": "ORR",
+          "evidence": 0
+        },
+        {
+          "type": "ORR rate constant",
+          "value": 5.38,
+          "unit": "cm s\u207b\u00b9",
+          "conditions": "ORR, steady state voltammograms",
+          "reaction_type": "ORR",
+          "evidence": 0
+        },
+        {
+          "type": "Oxygen reduction potential",
+          "value": 47.0,
+          "unit": "mV",
+          "conditions": "Anodic shift, ORR",
+          "reaction_type": "ORR",
+          "evidence": 0
+        },
+        {
+          "type": "Current Density",
+          "value": 120.0,
+          "unit": "\u03bcA",
+          "conditions": "steady state ORR current",
+          "reaction_type": "ORR",
+          "evidence": 1
+        },
+        {
+          "type": "Oxygen Reduction Potential",
+          "value": 47.0,
+          "unit": "mV",
+          "conditions": "anodic shift",
+          "reaction_type": "ORR",
+          "evidence": 1
+        },
+        {
+          "type": "Electrochemical Surface Area",
+          "value": 0.29,
+          "unit": "cm\u00b2",
+          "conditions": "Randles\u2212Sevcik equation",
+          "reaction_type": "ORR",
+          "evidence": 1
+        },
+        {
+          "type": "Geometric Area",
+          "value": 69.8,
+          "unit": "cm\u00b2",
+          "conditions": "total area of electrode",
+          "reaction_type": "ORR",
+          "evidence": 1
+        },
+        {
+          "type": "Surface Area Ratio",
+          "value": 0.42,
+          "unit": "%",
+          "conditions": "electrochemically inaccessible area due to polystyrene coverage",
+          "reaction_type": "ORR",
+          "evidence": 1
+        },
+        {
+          "type": "Current Density",
+          "value": 2.62,
+          "unit": "A/cm\u00b2",
+          "conditions": "kinetic limiting current density",
+          "reaction_type": "ORR",
+          "evidence": 1
+        },
+        {
+          "type": "ORR Rate Constant",
+          "value": 5.38,
+          "unit": "cm/s",
+          "conditions": "kinetic limiting current density",
+          "reaction_type": "ORR",
+          "evidence": 1
+        },
+        {
+          "type": "Volumetric Current Density",
+          "value": 2108.3,
+          "unit": "A/cm\u00b3",
+          "conditions": "active material volume",
+          "reaction_type": "ORR",
+          "evidence": 1
+        },
+        {
+          "type": "Overpotential",
+          "value": null,
+          "unit": null,
+          "conditions": "PEMFC performance",
+          "reaction_type": "ORR",
+          "evidence": 2
+        },
+        {
+          "type": "Current Density",
+          "value": 120.0,
+          "unit": "\u03bcA",
+          "conditions": "ORR, 50 \u03bcg of electrochemically accessible VA-NCNT",
+          "reaction_type": "ORR",
+          "evidence": 3
+        },
+        {
+          "type": "Electrode Potential",
+          "value": 47.0,
+          "unit": "mV",
+          "conditions": "anodic shift in oxygen reduction potential, ORR",
+          "reaction_type": "ORR",
+          "evidence": 3
+        },
+        {
+          "type": "Current Density",
+          "value": 2108.3,
+          "unit": "A cm\u207b\u00b3",
+          "conditions": "volumetric unit of active material, ORR",
+          "reaction_type": "ORR",
+          "evidence": 3
+        },
+        {
+          "type": "Overpotential",
+          "value": 0.35,
+          "unit": "V",
+          "conditions": "ORR in 0.1 M KOH",
+          "reaction_type": "ORR",
+          "evidence": 5
+        },
+        {
+          "type": "Electrocatalysis",
+          "value": null,
+          "unit": null,
+          "conditions": "Energy Conversion, Energy Storage",
+          "reaction_type": "NA",
+          "evidence": 6
+        }
+      ],
+      "benchmark": false
+    },
+    {
+      "material_name": "Pt-black",
+      "properties": [
+        {
+          "type": "Particle Size",
+          "value": 2.2,
+          "unit": "nm",
+          "conditions": "dispersed onto a carbon black support",
+          "reaction_type": "ORR",
+          "evidence": 1
+        },
+        {
+          "type": "Current Density",
+          "value": 20.0,
+          "unit": "\u03bcA",
+          "conditions": "peak-shaped transient ORR current",
+          "reaction_type": "ORR",
+          "evidence": 1
+        },
+        {
+          "type": "Current Density",
+          "value": 20.0,
+          "unit": "\u03bcA",
+          "conditions": "ORR, 90 \u03bcg of Pt-black",
+          "reaction_type": "ORR",
+          "evidence": 3
+        }
+      ],
+      "benchmark": true
+    },
+    {
+      "material_name": "Pt spheres",
+      "properties": [
+        {
+          "type": "Diameter",
+          "value": 2.0,
+          "unit": "nm",
+          "conditions": "Standard state (298 K, 1 atm) exchange current density on cathode catalyst",
+          "reaction_type": "ORR",
+          "evidence": 2
+        },
+        {
+          "type": "Current density",
+          "value": 6.0,
+          "unit": "orders of magnitude",
+          "conditions": "Comparison with anodic counterpart",
+          "reaction_type": "ORR",
+          "evidence": 2
+        }
+      ],
+      "benchmark": true
+    },
+    {
+      "material_name": "RuO2",
+      "properties": [
+        {
+          "type": "Oxygen Reduction Reaction",
+          "value": null,
+          "unit": null,
+          "conditions": "Bimetallic ZIFs derived nitrogen-doped hollow carbon with carbon nanotube bridges",
+          "reaction_type": "ORR",
+          "evidence": 4
+        }
+      ],
+      "benchmark": true
+    },
+    {
+      "material_name": "Mn3O4/MWCNT/Nafion\u2122 Modified Glassy Carbon Electrode",
+      "properties": [
+        {
+          "type": "Oxygen Reduction Activity",
+          "value": null,
+          "unit": null,
+          "conditions": "Electrochemical",
+          "reaction_type": "ORR",
+          "evidence": 7
+        }
+      ],
+      "benchmark": false
+    }
+  ],
+  "doi": "example_doi",
+  "factor": "Hydrogen coverage,Energy barrier,Conductivity,Surface area,Size,Defect,Dopant,Active sites,Stability,Electrode potential,Overpotential,Tafel slope,onsite potential,Current density,XPS,FTIR,Raman,XRD",
+  "meta": {
+    "maintext": "/Users/yangz/Documents/projects/llm4catalyst/documents/maintext/3D_Carbon_Nanotube_Structures_Used_as_High_Perform_maintext.txt",
+    "abstract": "/Users/yangz/Documents/projects/llm4catalyst/documents/abstract/3D_Carbon_Nanotube_Structures_Used_as_High_Perform_abs.txt",
+    "intro": "documents/intro/c60_intro.txt",
+    "window_size": 2,
+    "chunk_size": 2000,
+    "chunk_overlap": 200,
+    "output": "results",
+    "property": "/Users/yangz/Documents/projects/llm4catalyst/prompts/properties.txt",
+    "self_defined": true,
+    "title": "3D_Carbon_Nanotube_Structures_Used_as_High_Perform"
+  }
+}

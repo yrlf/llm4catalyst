@@ -1,0 +1,464 @@
+{
+    "materials": [
+        {
+            "material_name": "SWCNT",
+            "properties": [
+                {
+                    "type": "diameter",
+                    "associated_factor": "dimension or size",
+                    "value": "1.2 nm",
+                    "conditions": "TEM imaging",
+                    "reaction_type": "NA",
+                    "evidence": 0
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "C60 nanoparticles",
+            "properties": [
+                {
+                    "type": "diameter",
+                    "associated_factor": "dimension or size",
+                    "value": "1.3 nm",
+                    "conditions": "TEM imaging",
+                    "reaction_type": "NA",
+                    "evidence": 0
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "C60-SWCNT15",
+            "properties": [
+                {
+                    "type": "overpotential",
+                    "associated_factor": "electrocatalyst performance",
+                    "value": "420 mV",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 0
+                },
+                {
+                    "type": "overpotential",
+                    "associated_factor": "electrocatalyst performance",
+                    "value": "327 mV",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 0
+                },
+                {
+                    "type": "onset overpotential",
+                    "associated_factor": "electrocatalyst performance",
+                    "value": "114 mV",
+                    "conditions": "in N2-saturated 0.1 M KOH electrolyte using a three-electrode setup",
+                    "reaction_type": "HER",
+                    "evidence": -1
+                },
+                {
+                    "type": "overpotential",
+                    "associated_factor": "electrocatalyst performance",
+                    "value": "-0.38 V",
+                    "conditions": "at a current density of 10 mA cm\u22122",
+                    "reaction_type": "HER",
+                    "evidence": -1
+                },
+                {
+                    "type": "onset potential",
+                    "associated_factor": "electrocatalyst performance",
+                    "value": "0.81 V",
+                    "conditions": "in phosphate buffer solution (pH = 7)",
+                    "reaction_type": "ORR",
+                    "evidence": -1
+                },
+                {
+                    "type": "half-wave potential",
+                    "associated_factor": "electrocatalyst performance",
+                    "value": "0.77 V",
+                    "conditions": "in phosphate buffer solution (pH = 7)",
+                    "reaction_type": "ORR",
+                    "evidence": -1
+                },
+                {
+                    "type": "diffusion-limited current",
+                    "associated_factor": "electrocatalyst performance",
+                    "value": "1.31 mA/cm2",
+                    "conditions": "in phosphate buffer solution (pH = 7)",
+                    "reaction_type": "ORR",
+                    "evidence": -1
+                },
+                {
+                    "type": "overpotential",
+                    "associated_factor": "electrocatalyst performance",
+                    "value": "520 mV",
+                    "conditions": "at 10 mA cm\u22122 in phosphate buffer solution",
+                    "reaction_type": "OER",
+                    "evidence": -1
+                },
+                {
+                    "type": "onset overpotential",
+                    "associated_factor": "electrocatalyst performance",
+                    "value": "230 mV",
+                    "conditions": "in phosphate buffer solution",
+                    "reaction_type": "OER",
+                    "evidence": -1
+                },
+                {
+                    "type": "overpotential",
+                    "associated_factor": "electrocatalyst performance",
+                    "value": "329 mV",
+                    "conditions": "at 10 mA cm\u22122",
+                    "reaction_type": "HER",
+                    "evidence": -1
+                },
+                {
+                    "type": "onset overpotential",
+                    "associated_factor": "electrocatalyst performance",
+                    "value": "60 mV",
+                    "conditions": "in neutral phosphate buffer solution",
+                    "reaction_type": "HER",
+                    "evidence": -1
+                },
+                {
+                    "type": "onset potential",
+                    "associated_factor": "electrocatalyst performance",
+                    "value": "1.26 V",
+                    "conditions": "in 0.5 M H2SO4",
+                    "reaction_type": "OER",
+                    "evidence": 9
+                },
+                {
+                    "type": "overpotential",
+                    "associated_factor": "electrocatalyst performance",
+                    "value": "420 mV",
+                    "conditions": "in 0.5 M H2SO4",
+                    "reaction_type": "OER",
+                    "evidence": 9
+                },
+                {
+                    "type": "Tafel slope",
+                    "associated_factor": "electrocatalyst performance",
+                    "value": "38.4 mV dec-1",
+                    "conditions": "in 0.5 M H2SO4",
+                    "reaction_type": "OER",
+                    "evidence": 9
+                },
+                {
+                    "type": "steady-state current density change",
+                    "associated_factor": "higher electrocatalytic activities and better long-term stabilities",
+                    "value": "5.0%",
+                    "conditions": "after 1.5 h in 0.5 M H2SO4",
+                    "reaction_type": "OER",
+                    "evidence": 9
+                },
+                {
+                    "type": "Tafel slope",
+                    "associated_factor": "electrocatalyst performance",
+                    "value": "166.1 mV dec\u22121",
+                    "conditions": "in neutral medium",
+                    "reaction_type": "HER",
+                    "evidence": 0
+                },
+                {
+                    "type": "Tafel slope",
+                    "associated_factor": "electrocatalyst performance",
+                    "value": "38.4 mV dec\u22121",
+                    "conditions": "in 0.5 M H2SO4",
+                    "reaction_type": "OER",
+                    "evidence": 0
+                },
+                {
+                    "type": "Tafel slope",
+                    "associated_factor": "electrocatalyst performance",
+                    "value": "73.2 mV dec\u22121",
+                    "conditions": "in 0.5 M H2SO4",
+                    "reaction_type": "HER",
+                    "evidence": 0
+                },
+                {
+                    "type": "onset potential",
+                    "associated_factor": "electrocatalyst performance",
+                    "value": "0.91 V",
+                    "conditions": "in 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 2
+                },
+                {
+                    "type": "half-wave potential",
+                    "associated_factor": "electrocatalyst performance",
+                    "value": "0.84 V",
+                    "conditions": "in 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 2
+                },
+                {
+                    "type": "onset potential",
+                    "associated_factor": "electrocatalyst performance",
+                    "value": "0.91 V",
+                    "conditions": "in 0.1 M KOH, ORR measurements",
+                    "reaction_type": "ORR",
+                    "evidence": 3
+                },
+                {
+                    "type": "half-wave potential",
+                    "associated_factor": "electrocatalyst performance",
+                    "value": "0.84 V",
+                    "conditions": "in 0.1 M KOH, ORR measurements",
+                    "reaction_type": "ORR",
+                    "evidence": 3
+                },
+                {
+                    "type": "diffusion-limiting current",
+                    "associated_factor": "electrocatalyst performance",
+                    "value": "1.73 mA/cm2",
+                    "conditions": "in 0.1 M KOH, ORR measurements",
+                    "reaction_type": "ORR",
+                    "evidence": 3
+                },
+                {
+                    "type": "diffusion-limiting current",
+                    "associated_factor": "electrocatalyst performance",
+                    "value": "1.73 mA/cm2",
+                    "conditions": "in 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 1
+                },
+                {
+                    "type": "current reduction",
+                    "associated_factor": "higher electrocatalytic activities and better long-term stabilities",
+                    "value": "7.4%",
+                    "conditions": "after a 50 h chronoamperometric test at 0.7 V with O2 continuously flowing into 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 2
+                },
+                {
+                    "type": "current density",
+                    "associated_factor": "electrocatalyst performance",
+                    "value": "10 mA/cm2",
+                    "conditions": "at 1.69 V in 0.1 M KOH",
+                    "reaction_type": "OER",
+                    "evidence": 3
+                },
+                {
+                    "type": "Tafel slope",
+                    "associated_factor": "electrocatalyst performance",
+                    "value": "46.7 mV dec\u22121",
+                    "conditions": "in 0.1 M KOH",
+                    "reaction_type": "OER",
+                    "evidence": 3
+                },
+                {
+                    "type": "current reduction",
+                    "associated_factor": "higher electrocatalytic activities and better long-term stabilities",
+                    "value": "7.9%",
+                    "conditions": "for 10 h at 1.65 V in 0.1 M KOH",
+                    "reaction_type": "OER",
+                    "evidence": 3
+                },
+                {
+                    "type": "potential difference",
+                    "associated_factor": "electrocatalyst performance",
+                    "value": "0.82 V",
+                    "conditions": "in 0.1 M KOH",
+                    "reaction_type": "OER",
+                    "evidence": 3
+                },
+                {
+                    "type": "onset potential",
+                    "associated_factor": "electrocatalyst performance",
+                    "value": "0.91 V",
+                    "conditions": "in O2-saturated 0.1 M aqueous KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 0
+                },
+                {
+                    "type": "half-wave potential",
+                    "associated_factor": "electrocatalyst performance",
+                    "value": "0.84 V",
+                    "conditions": "in O2-saturated 0.1 M aqueous KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 0
+                },
+                {
+                    "type": "diffusion-limited current",
+                    "associated_factor": "electrocatalyst performance",
+                    "value": "1.73 mA/cm2",
+                    "conditions": "in O2-saturated 0.1 M aqueous KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 0
+                },
+                {
+                    "type": "current reduction after chronoamperometric test",
+                    "associated_factor": "higher electrocatalytic activities and better long-term stabilities",
+                    "value": "7.4%",
+                    "conditions": "after 50 h at 0.7 V with O2 continuously flowing into 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 1
+                },
+                {
+                    "type": "OER activity",
+                    "associated_factor": "electrocatalyst performance",
+                    "value": "10 mA/cm2 at 1.69 V",
+                    "conditions": "in 0.1 M KOH",
+                    "reaction_type": "OER",
+                    "evidence": 2
+                },
+                {
+                    "type": "Tafel slope",
+                    "associated_factor": "electrocatalyst performance",
+                    "value": "46.7 mV dec-1",
+                    "conditions": "in 0.1 M KOH",
+                    "reaction_type": "OER",
+                    "evidence": 2
+                },
+                {
+                    "type": "current reduction after steady-state",
+                    "associated_factor": "higher electrocatalytic activities and better long-term stabilities",
+                    "value": "7.9%",
+                    "conditions": "for 10 h at 1.65 V in 0.1 M KOH",
+                    "reaction_type": "OER",
+                    "evidence": 2
+                },
+                {
+                    "type": "onset overpotential",
+                    "associated_factor": "electrocatalyst performance",
+                    "value": "114 mV",
+                    "conditions": "in N2-saturated 0.1 M KOH",
+                    "reaction_type": "HER",
+                    "evidence": 3
+                },
+                {
+                    "type": "Tafel slope",
+                    "associated_factor": "electrocatalyst performance",
+                    "value": "120.8 mV dec-1",
+                    "conditions": "in N2-saturated 0.1 M KOH",
+                    "reaction_type": "HER",
+                    "evidence": 3
+                },
+                {
+                    "type": "overpotential for current density",
+                    "associated_factor": "electrocatalyst performance",
+                    "value": "-0.38 V",
+                    "conditions": "for 10 mA/cm2 in N2-saturated 0.1 M KOH",
+                    "reaction_type": "HER",
+                    "evidence": 3
+                },
+                {
+                    "type": "performance decrease after continuous HER process",
+                    "associated_factor": "higher electrocatalytic activities and better long-term stabilities",
+                    "value": "7.1%",
+                    "conditions": "after 15 h",
+                    "reaction_type": "HER",
+                    "evidence": 3
+                },
+                {
+                    "type": "current density",
+                    "associated_factor": "electrocatalyst performance",
+                    "value": "10 mA cm\u22122",
+                    "conditions": "at 1.69 V potential, in 0.1 M KOH electrolyte",
+                    "reaction_type": "OER",
+                    "evidence": 0
+                },
+                {
+                    "type": "Tafel slope",
+                    "associated_factor": "electrocatalyst performance",
+                    "value": "46.7 mV dec\u22121",
+                    "conditions": "in 0.1 M KOH electrolyte",
+                    "reaction_type": "OER",
+                    "evidence": 0
+                },
+                {
+                    "type": "current reduction",
+                    "associated_factor": "long-term stabilities",
+                    "value": "7.9%",
+                    "conditions": "for 10 h at 1.65 V in 0.1 M KOH electrolyte",
+                    "reaction_type": "OER",
+                    "evidence": 0
+                },
+                {
+                    "type": "\u0394E",
+                    "associated_factor": "electrocatalyst performance",
+                    "value": "0.82 V",
+                    "conditions": "in 0.1 M KOH electrolyte",
+                    "reaction_type": "OER",
+                    "evidence": 0
+                },
+                {
+                    "type": "onset overpotential",
+                    "associated_factor": "electrocatalyst performance",
+                    "value": "\u223c114 mV",
+                    "conditions": "in N2-saturated 0.1 M KOH electrolyte",
+                    "reaction_type": "HER",
+                    "evidence": 1
+                },
+                {
+                    "type": "Tafel slope",
+                    "associated_factor": "electrocatalyst performance",
+                    "value": "120.8 mV dec\u22121",
+                    "conditions": "in N2-saturated 0.1 M KOH electrolyte",
+                    "reaction_type": "HER",
+                    "evidence": 1
+                },
+                {
+                    "type": "overpotential",
+                    "associated_factor": "electrocatalyst performance",
+                    "value": "\u22120.38 V",
+                    "conditions": "to achieve the current density of 10 mA cm\u22122",
+                    "reaction_type": "HER",
+                    "evidence": 1
+                },
+                {
+                    "type": "onset potential",
+                    "associated_factor": "electrocatalyst performance",
+                    "value": "-210 mV",
+                    "conditions": "in 0.1 M KOH, two-electrode electrochemical water-splitting setup",
+                    "reaction_type": "HER",
+                    "evidence": 12
+                },
+                {
+                    "type": "overpotential",
+                    "associated_factor": "electrocatalyst performance",
+                    "value": "320 mV",
+                    "conditions": "at 10 mA cm\u22122 current",
+                    "reaction_type": "HER",
+                    "evidence": 12
+                },
+                {
+                    "type": "Tafel slope",
+                    "associated_factor": "electrocatalyst performance",
+                    "value": "73.2 mV dec\u22121",
+                    "conditions": "for HER",
+                    "reaction_type": "HER",
+                    "evidence": 12
+                },
+                {
+                    "type": "overpotential",
+                    "associated_factor": "electrocatalyst performance",
+                    "value": "600 mV",
+                    "conditions": "at 20.0 mA cm\u22122 current density",
+                    "reaction_type": "OER",
+                    "evidence": 0
+                },
+                {
+                    "type": "current density",
+                    "associated_factor": "electrocatalyst performance",
+                    "value": "20.0 mA cm\u22122",
+                    "conditions": "at an overpotential of 600 mV",
+                    "reaction_type": "OER",
+                    "evidence": 0
+                },
+                {
+                    "type": "Tafel slope",
+                    "associated_factor": "electrocatalyst performance",
+                    "value": "129 mV dec\u22121",
+                    "conditions": "NA",
+                    "reaction_type": "OER",
+                    "evidence": 0
+                }
+            ],
+            "benchmark": false
+        }
+    ],
+    "doi": "example_doi",
+    "factor": " higher electrocatalytic activities and better long-term stabilities,adsorption-induced intermolecular charge-transfer with the C60 electron-acceptor,electrocatalyst performance,mass loading,specific surface area,dimension or size"
+}

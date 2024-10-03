@@ -1,0 +1,56 @@
+{
+    "materials": [
+        {
+            "material_name": "Co3O4 nanosheets",
+            "properties": [
+                {
+                    "type": "overpotential",
+                    "value": 308.0,
+                    "unit": "mV",
+                    "conditions": "at the current density of 10 mA cm\u22122 in 1 M KOH",
+                    "reaction_type": "OER",
+                    "evidence": 0
+                },
+                {
+                    "type": "overpotential",
+                    "value": 342.0,
+                    "unit": "mV",
+                    "conditions": "at the current density of 10 mA cm\u22122 in 1 M KOH",
+                    "reaction_type": "OER",
+                    "evidence": 0
+                },
+                {
+                    "type": "overpotential",
+                    "value": 350.0,
+                    "unit": "mV",
+                    "conditions": "at the current density of 10 mA cm\u22122 in 1 M KOH",
+                    "reaction_type": "OER",
+                    "evidence": 0
+                },
+                {
+                    "type": "overpotential",
+                    "value": 448.0,
+                    "unit": "mV",
+                    "conditions": "at the current density of 10 mA cm\u22122 in 1 M KOH",
+                    "reaction_type": "OER",
+                    "evidence": 0
+                }
+            ],
+            "benchmark": false
+        }
+    ],
+    "doi": "example_doi",
+    "factor": "Hydrogen coverage,Energy barrier,Conductivity,Surface area,Size,Defect,Dopant,Active sites,Stability,Electrode potential,Overpotential,Tafel slope,onsite potential,Current density,Mass loading,XPS,FTIR,Raman,XRD",
+    "meta": {
+        "maintext": "/Users/yangz/Documents/projects/llm4catalyst/documents/maintext/Controlled_Synthesis_of_Co3O4_Electrocatalysts_wit_maintext.txt",
+        "abstract": "/Users/yangz/Documents/projects/llm4catalyst/documents/abstract/Controlled_Synthesis_of_Co3O4_Electrocatalysts_wit_abs.txt",
+        "intro": "documents/intro/c60_intro.txt",
+        "window_size": 2,
+        "chunk_size": 1000,
+        "chunk_overlap": 100,
+        "output": "results",
+        "property": "/Users/yangz/Documents/projects/llm4catalyst/prompts/properties.txt",
+        "self_defined": true,
+        "title": "Controlled_Synthesis_of_Co3O4_Electrocatalysts_wit"
+    }
+}

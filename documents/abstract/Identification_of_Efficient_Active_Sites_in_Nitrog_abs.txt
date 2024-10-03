@@ -1,0 +1,11 @@
+Abstract
+Nitrogen-doped carbon nanotubes (NCNTs) have demonstrated great promise as an electrocatalyst alternative to platinum for oxygen reduction reaction (ORR). However, there is much disagreement regarding which N doping sites are most desirable for the reaction. Here, we report an experimental and computational study to identify the efficient active sites in NCNTs for ORR in alkaline media. In our experiments, we synthesized NCNTs of similar overall N content (∼4.1%) and carbon matrix but varying percentages of different types of N doping species. Our results reveal a positive correlation between ORR activity and the content of graphitic N doping. Furthermore, we performed density functional theory calculations to predict the free energy evolution of ORR on various N doping sites in NCNTs. Our computational results also indicate that graphitic N doping sites exhibit higher thermodynamic limiting potential for ORR than pyridinic N doping sites. Our combined experimental and theoretical study concludes that graphitic N doping sites are more efficient for ORR than pyridinic N doping in NCNTs.
+This publication is licensed under the terms of your institutional subscription. Request reuse permissions.
+Copyright © 2020 American Chemical Society
+Subjects
+what are subjects
+Carbon Nanotubes
+Catalysts
+Doping
+Redox Reactions
+X-Ray Photoelectron Spectroscopy

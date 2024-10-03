@@ -1,0 +1,436 @@
+{
+    "materials": [
+        {
+            "material_name": "CNx/CBx-GNRs",
+            "properties": [
+                {
+                    "type": "ORR performance",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "used as electrocatalysts for oxygen reduction",
+                    "reaction_type": "ORR",
+                    "evidence": 0
+                },
+                {
+                    "type": "Cathodic peak potential",
+                    "value": -0.2,
+                    "unit": "V",
+                    "conditions": "O2-saturated 0.1 M NaOH solution, scanning rate 100 mV/s",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "Current density",
+                    "value": -3.75,
+                    "unit": "mA/cm\u00b2",
+                    "conditions": "O2-saturated 0.1 M NaOH solution, scanning rate 100 mV/s",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "onset potential",
+                    "value": -0.2,
+                    "unit": "V",
+                    "conditions": "O2-saturated 0.1 M NaOH solution, cyclic voltammetry, 100 mV/s scanning rate",
+                    "reaction_type": "ORR",
+                    "evidence": 6
+                },
+                {
+                    "type": "current density",
+                    "value": -3.75,
+                    "unit": "mA/cm\u00b2",
+                    "conditions": "O2-saturated 0.1 M NaOH solution, cyclic voltammetry, 100 mV/s scanning rate",
+                    "reaction_type": "ORR",
+                    "evidence": 6
+                },
+                {
+                    "type": "Cathodic peak potential",
+                    "value": -0.2,
+                    "unit": "V",
+                    "conditions": "in O2-saturated 0.1 M NaOH, cyclic voltammetry, scanning rate of 100 mV/s",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "Current density",
+                    "value": -3.75,
+                    "unit": "mA/cm\u00b2",
+                    "conditions": "in O2-saturated 0.1 M NaOH, cyclic voltammetry, scanning rate of 100 mV/s",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "OER current density",
+                    "value": 9.0,
+                    "unit": "mA/cm\u00b2",
+                    "conditions": "at 0.87 V (vs. Ag/AgCl) in 0.1 M solution of NaOH at scanning rate of 5 mV/s",
+                    "reaction_type": "OER",
+                    "evidence": 8
+                },
+                {
+                    "type": "Electron transfer number",
+                    "value": 3.91,
+                    "unit": "none",
+                    "conditions": "ORR",
+                    "reaction_type": "ORR",
+                    "evidence": 9
+                },
+                {
+                    "type": "Kinetic current density",
+                    "value": 0.0,
+                    "unit": "mA/cm\u00b2",
+                    "conditions": "ORR",
+                    "reaction_type": "ORR",
+                    "evidence": 9
+                },
+                {
+                    "type": "Electron transfer number",
+                    "value": 2.31,
+                    "unit": "none",
+                    "conditions": "ORR",
+                    "reaction_type": "ORR",
+                    "evidence": 9
+                },
+                {
+                    "type": "Electron transfer number",
+                    "value": 2.73,
+                    "unit": "none",
+                    "conditions": "ORR",
+                    "reaction_type": "ORR",
+                    "evidence": 9
+                },
+                {
+                    "type": "OER current density",
+                    "value": 9.0,
+                    "unit": "mA/cm\u00b2",
+                    "conditions": "OER, in 0.1 M NaOH, 0.87 V vs Ag/AgCl, LSV",
+                    "reaction_type": "OER",
+                    "evidence": 9
+                },
+                {
+                    "type": "Electrocatalyst activity",
+                    "value": 1321.0,
+                    "unit": "mV",
+                    "conditions": "for Oxygen Reduction in Fuel Cells",
+                    "reaction_type": "ORR",
+                    "evidence": 11
+                },
+                {
+                    "type": "Oxygen Reduction Electrocatalyst",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "Metal-Free",
+                    "reaction_type": "ORR",
+                    "evidence": 13
+                },
+                {
+                    "type": "Oxygen Reduction Reaction",
+                    "value": 100.0,
+                    "unit": "%",
+                    "conditions": "Faradaic Efficiency",
+                    "reaction_type": "ORR",
+                    "evidence": 14
+                },
+                {
+                    "type": "Curing Behavior",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "Fluoroelastomer (FKM) Incorporation",
+                    "reaction_type": "NA",
+                    "evidence": 13
+                },
+                {
+                    "type": "XPS",
+                    "values": [
+                        286.7,
+                        288.8,
+                        286.7,
+                        288.8,
+                        398.8,
+                        401.0,
+                        402.1,
+                        405.2,
+                        189.5,
+                        191.0
+                    ],
+                    "units": [
+                        "eV"
+                    ],
+                    "conditions": [
+                        "C 1s, carboxyl",
+                        "C 1s, epoxy",
+                        "N 1s peak, quaternary",
+                        "N 1s peak, pyrrolic",
+                        "C 1s peak, epoxy",
+                        "B 1s, BC3",
+                        "C 1s peak, carboxyl",
+                        "B 1s, BC2O",
+                        "N 1s peak, pyridinic",
+                        "N 1s peak, intercalated nitrogen molecules and/or oxides"
+                    ],
+                    "evidence": 2.4
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "CNx-MWCNTs",
+            "properties": [
+                {
+                    "type": "Length",
+                    "value": 50.0,
+                    "unit": "\u03bcm",
+                    "conditions": "HRTEM imaging",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "Diameter",
+                    "value": 30.0,
+                    "unit": "nm",
+                    "conditions": "HRTEM imaging",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "XPS",
+                    "values": [
+                        398.8,
+                        401.0,
+                        402.1,
+                        405.2,
+                        398.8,
+                        401.0,
+                        402.1,
+                        405.2
+                    ],
+                    "units": [
+                        "eV"
+                    ],
+                    "conditions": [
+                        "N 1s, quaternary",
+                        "N 1s, pyridinic",
+                        "N 1s peak, quaternary",
+                        "N 1s peak, pyrrolic",
+                        "N 1s, intercalated nitrogen molecules",
+                        "N 1s, pyrrolic",
+                        "N 1s peak, pyridinic",
+                        "N 1s peak, intercalated nitrogen molecules and/or oxides"
+                    ],
+                    "evidence": 2.5
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Pt/C",
+            "properties": [
+                {
+                    "type": "Onset potential",
+                    "value": -80.0,
+                    "unit": "mV",
+                    "conditions": "O2-saturated 0.1 M NaOH solution, scanning rate 5 mV/s",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "Current density",
+                    "value": -3.75,
+                    "unit": "mA/cm\u00b2",
+                    "conditions": "O2-saturated 0.1 M NaOH solution, scanning rate 5 mV/s",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "onset potential",
+                    "value": -80.0,
+                    "unit": "mV",
+                    "conditions": "O2-saturated 0.1 M NaOH solution, linear sweep voltammetry, 5 mV/s scanning rate",
+                    "reaction_type": "ORR",
+                    "evidence": 6
+                },
+                {
+                    "type": "current density",
+                    "value": -3.75,
+                    "unit": "mA/cm\u00b2",
+                    "conditions": "O2-saturated 0.1 M NaOH solution, linear sweep voltammetry, 5 mV/s scanning rate",
+                    "reaction_type": "ORR",
+                    "evidence": 6
+                },
+                {
+                    "type": "OER current density",
+                    "value": 9.0,
+                    "unit": "mA/cm\u00b2",
+                    "conditions": "at 0.87 V (vs. Ag/AgCl) in 0.1 M solution of NaOH at scanning rate of 5 mV/s",
+                    "reaction_type": "OER",
+                    "evidence": 8
+                },
+                {
+                    "type": "Electron transfer number",
+                    "value": 3.97,
+                    "unit": "none",
+                    "conditions": "ORR",
+                    "reaction_type": "ORR",
+                    "evidence": 9
+                },
+                {
+                    "type": "Kinetic current density",
+                    "value": 0.0,
+                    "unit": "mA/cm\u00b2",
+                    "conditions": "ORR",
+                    "reaction_type": "ORR",
+                    "evidence": 9
+                }
+            ],
+            "benchmark": true
+        },
+        {
+            "material_name": "CNx/CBx-Lon-GNRs",
+            "properties": [
+                {
+                    "type": "Electron transfer number",
+                    "value": 2.74,
+                    "unit": "none",
+                    "conditions": "ORR",
+                    "reaction_type": "ORR",
+                    "evidence": 9
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Carbon Black",
+            "properties": [
+                {
+                    "type": "Faradaic Efficiency",
+                    "value": 100.0,
+                    "unit": "%",
+                    "conditions": "Hydrogen Peroxide Generation",
+                    "reaction_type": "NA",
+                    "evidence": 12
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Three-Dimensional Nitrogen-Doped Graphene Nanoribbons Aerogel",
+            "properties": [
+                {
+                    "type": "Oxygen Reduction Electrocatalyst",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "Highly Efficient",
+                    "reaction_type": "ORR",
+                    "evidence": 13
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Dual heteroatom-doped reduced graphene",
+            "properties": [
+                {
+                    "type": "Text index",
+                    "value": 15.0,
+                    "unit": "index",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 15
+                },
+                {
+                    "type": "Amperometric",
+                    "value": 16.0,
+                    "unit": "index",
+                    "conditions": "Membrane-Less",
+                    "reaction_type": "NA",
+                    "evidence": 16
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "B/N co-doped 3D porous carbon",
+            "properties": [
+                {
+                    "type": "Electrocatalytic activity",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "for the oxygen reduction reaction",
+                    "reaction_type": "ORR",
+                    "evidence": 17
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "N, P-doped mesoporous carbon",
+            "properties": [
+                {
+                    "type": "Electrode modifier",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "for enhanced power performance and capacitive manner of microbial fuel cells",
+                    "reaction_type": "NA",
+                    "evidence": 18
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "RGO/ZnWO4/Fe3O4 nanocomposite",
+            "properties": [
+                {
+                    "type": "Electrocatalyst",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "for oxygen reduction reaction",
+                    "reaction_type": "ORR",
+                    "evidence": 19
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Nitrogen doped carbon",
+            "properties": [
+                {
+                    "type": "Electrocatalytic activity",
+                    "value": 20.0,
+                    "unit": "index",
+                    "conditions": "oxygen reduction reaction",
+                    "reaction_type": "ORR",
+                    "evidence": 20
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Graphene/nitrogen-doped porous carbon sandwiches",
+            "properties": [
+                {
+                    "type": "conductivity",
+                    "value": 0.0,
+                    "unit": "S/cm",
+                    "conditions": "metal-free oxygen reduction reaction",
+                    "reaction_type": "ORR",
+                    "evidence": 21
+                }
+            ],
+            "benchmark": false
+        }
+    ],
+    "doi": "example_doi",
+    "factor": "Hydrogen coverage,Energy barrier,Conductivity,Surface area,Size,Defect,Dopant,Active sites,Stability,Electrode potential,Overpotential,Tafel slope,onsite potential,Current density,Mass loading,XPS,FTIR,Raman,XRD",
+    "meta": {
+        "maintext": "/Users/yangz/Documents/projects/llm4catalyst/documents/maintext/BoronNitrogen_CoDoped_Helically_Unzipped_Multiwall_maintext.txt",
+        "abstract": "/Users/yangz/Documents/projects/llm4catalyst/documents/abstract/BoronNitrogen_CoDoped_Helically_Unzipped_Multiwall_abs.txt",
+        "intro": "documents/intro/c60_intro.txt",
+        "window_size": 2,
+        "chunk_size": 1000,
+        "chunk_overlap": 100,
+        "output": "results",
+        "property": "/Users/yangz/Documents/projects/llm4catalyst/prompts/properties.txt",
+        "self_defined": true,
+        "title": "BoronNitrogen_CoDoped_Helically_Unzipped_Multiwall"
+    }
+}

@@ -1,0 +1,17 @@
+Abstract
+Nitrogen-doped graphene (N-graphene) was synthesized by chemical vapor deposition of methane in the presence of ammonia. The resultant N-graphene was demonstrated to act as a metal-free electrode with a much better electrocatalytic activity, long-term operation stability, and tolerance to crossover effect than platinum for oxygen reduction via a four-electron pathway in alkaline fuel cells. To the best of our knowledge, this is the first report on the use of graphene and its derivatives as metal-free catalysts for oxygen reduction. The important role of N-doping to oxygen reduction reaction (ORR) can be applied to various carbon materials for the development of other metal-free efficient ORR catalysts for fuel cell applications, even new catalytic materials for applications beyond fuel cells.
+This publication is licensed under the terms of your institutional subscription. Request reuse permissions.
+Copyright © 2010 American Chemical Society
+Subjects
+what are subjects
+Carbon Nanotubes
+Electrodes
+Fuel Cells
+Redox Reactions
+Two Dimensional Materials
+Keywords
+what are keywords
+Graphene
+N-Doping
+Oxygen Reduction
+Fuel Cell

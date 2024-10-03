@@ -1,0 +1,18 @@
+Abstract
+Iron and nitrogen codoped carbons (Fe−N/C) have emerged as promising nonprecious metal catalysts for the oxygen reduction reaction (ORR). While Fe−Nx sites have been widely considered as active species for Fe−N/C catalysts, very recently, iron and/or iron carbide encased with carbon shells (Fe−Fe3C@C) has been suggested as a new active site for the ORR. However, most of synthetic routes to Fe−N/C catalysts involve high-temperature pyrolysis, which unavoidably yield both Fe−Nx and Fe−Fe3C@C species, hampering the identification of exclusive role of each species. Herein, in order to establish the respective roles of Fe−Nx and Fe−Fe3C@C sites we rationally designed model catalysts via the phase conversion reactions of Fe3O4 nanoparticles supported on carbon nanotubes. The resulting catalysts selectively contained Fe−Nx, Fe−Fe3C@C, and N-doped carbon (C−Nx) sites. It was revealed that Fe−Nx sites dominantly catalyze ORR via 4-electron (4 e–) pathway, exerting a major role for high ORR activity, whereas Fe−Fe3C@C sites mainly promote 2 e– reduction of oxygen followed by 2 e– peroxide reduction, playing an auxiliary role.
+This publication is licensed under the terms of your institutional subscription. Request reuse permissions.
+Copyright © 2017 American Chemical Society
+Subjects
+what are subjects
+Carbon Nanotubes
+Catalysts
+Charge Transfer
+Nitrogen
+Redox Reactions
+Keywords
+what are keywords
+Electrocatalysis
+Fe−N/C Catalyst
+Active Site
+Model System
+Oxygen Reduction Reaction

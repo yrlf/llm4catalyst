@@ -1,0 +1,11 @@
+Abstract
+The design and fabrication of efficient and inexpensive electrodes for use in the oxygen evolution reaction (OER) is essential for energy-conversion technologies. In this study, high OER performance is achieved using novel hierarchical ZnxCo3–xO4 nanostructures constructed with small secondary nanoneedles grown on primary rhombus-shaped pillar arrays. The nanostructures have large roughness factor, high porosity, and high active-site density. Only a small overpotential of ∼0.32 V is needed for a current density of 10 mA/cm2 with a Tafel slope of 51 mV/decade. The nanostructures are also found to perform significantly better than pure Co3O4 and a commercial Ir/C catalyst and to perform similarly to the best OER catalysts that have been reported for alkaline media. These merits combined with the satisfactory stability of the nanostructures indicate that they are promising electrodes for water oxidation.
+This publication is licensed under the terms of your institutional subscription. Request reuse permissions.
+Copyright © 2014 American Chemical Society
+Subjects
+what are subjects
+Catalysts
+Electrical Properties
+Electrodes
+Nanoarchitectures
+Radiology

@@ -1,0 +1,354 @@
+Nitrogen-doped multiwalled carbon nanotubes (CNx-MWCNTs) with bamboo structures have been unzipped via a helical mechanism, and nitrogen-doped graphene oxide nanoribbons (CNx-GONRs) with a multifaceted microstructure have been obtained. CNx-GONRs have then been exposed to nitrogen and/or sulfur precursors at high temperatures to obtain doped graphene nanoribbons. The effects of single-doping, two-step-doping, and co-doping time and temperature on the concentration of the dopants and their functional groups have been investigated by X-ray photoelectron spectroscopy (XPS). The oxygen reduction reaction (ORR) activity of the doped helical GNRs have been measured in both alkaline and acidic electrolytes, and compared with the state-of-the-art platinum/carbon (Pt/C) electrocatalysts. The nitrogen/sulfur co-doped graphene nanoribbons (CNx/CSx-GNRs) with helically unzipped structures have shown highly efficient ORR activity that is comparable to Pt/C in onset potential, exchange current density, four electron pathway selectivity, kinetic current density, and methanol tolerance. Such helical CNx/CSx-GNRs will greatly contribute to the development of precious metal-free carbon nanomaterials as electrocatalysts in the cathode of metal-air batteries, and alkaline and proton-exchange membrane fuel-cells.
+Electrocatalysts for oxygen reduction reaction (ORR), which occurs at the cathode of the fuel-cells and metal-air batteries, have recently become an intense focus of research
+[1]
+,
+[2]
+,
+[3]
+. So far, platinum (Pt) is widely used as the most practical electrocatalyst for ORR in both alkaline and acidic solutions. However, the oxygen reduction process in costly Pt electrocatalysts is sluggish and fairly stable. These limitations have stimulated extensive research for the development of more efficient, tolerant, and inexpensive alternatives
+[4]
+,
+[5]
+,
+[6]
+. Graphene-based nanomaterials have recently demonstrated promising potentials as alternatives to rare Pt electrocatalysts
+[7]
+,
+[8]
+. Since the original application of reduced graphene as an electrocatalyst with fast electron transfer
+[9]
+, several reports have proposed to enhance the ORR activity of graphene via chemical doping with heteroatoms of approximately the same radius, such as nitrogen
+[10]
+,
+[11]
+,
+[12]
+,
+[13]
+,
+[14]
+,
+[15]
+,
+[16]
+, boron
+[17]
+,
+[18]
+,
+[19]
+, sulfur
+[20]
+,
+[21]
+or phosphorus
+[22]
+. In particular, recent experimental efforts and theoretical calculations have shown that nitrogen functional groups are essential to enhance the ORR activity of graphene-based nanomaterials
+[5]
+,
+[6]
+,
+[16]
+. For instance, X-ray photoelectron spectroscopy (XPS) studies of nitrogen-doped graphene before and after ORR measurement indicated that pyridinic nitrogen on the edges would improve the ORR activity of the carbon atoms much more than pyrrolic and quaternary nitrogen
+[16]
+. Graphene-based nanomaterials can also be chemically doped by two heteroatoms, such as sulfur or boron to supplement nitrogen
+[18]
+,
+[19]
+,
+[21]
+. This type of doping provides synergistic ORR activities, especially if it is implemented by simultaneous exposure to both dopants, named “co-doping”
+[18]
+,
+[21]
+. However, there remains still a challenge whether graphene-based nanomaterials can compete with the Pt-based electrocatalysts in both alkaline and acidic electrolytes. Herein, the particular attention will be to onset potential, exchange current density, four electron pathway selectivity, kinetic current density, and tolerance to fuel molecules
+[5]
+.
+Among the current graphene-based nanomaterials, graphene nanoribbons (GNRs) from unzipping of multiwalled carbon nanotubes (MWCNTs) have recently become an excellent alternative to compete with the Pt electrocatalysts
+[9]
+. GNRs are thin strips of graphene with extremely edge-dependent properties mainly due to a much higher edge-to-plane ratio than the graphene sheets. Several consistent density functional theory (DFT) calculations showed that abundant edges in GNRs are exceptionally reactive, thus decrease the energy barrier for oxygen adsorption, and facilitate oxygen reduction
+[5]
+,
+[16]
+,
+[18]
+,
+[19]
+,
+[21]
+,
+[23]
+. The incorporation of pyridinic nitrogen into the GNRs' structure will also further enhance the ORR activity
+[19]
+,
+[21]
+, and will give preference to the four electron reduction pathway rather than the two electron
+[5]
+,
+[23]
+. Despite the unique electrocatalytic properties of abundant edges, only few experimental efforts have been made to explore the ORR activity of GNRs
+[24]
+,
+[25]
+,
+[26]
+,
+[27]
+. Partially unzipped MWCNTs have been initially used as an ORR electrocatalyst in both alkaline and acidic electrolytes
+[24]
+. Then, silver/GNR composites
+[25]
+and the GNRs with longitudinally unzipped structures
+[26]
+,
+[27]
+have shown a relatively good ORR activity in alkaline electrolytes. These GNRs with longitudinally unzipped structures, however, have limited ORR performance that perhaps could not be used in the current state-of-the-art fuel-cells and metal-air batteries. Therefore, developing GNRs with much more abundant active edges that can compete with Pt in both alkaline and acidic electrolytes will be of a great interest to replace precious metals by inexpensive carbon alternatives.
+We have recently reported helical unzipping mechanism of the bamboo structured, nitrogen-doped, multiwalled carbon nanotubes (CNx-MWCNTs). The product nitrogen-doped helical graphene nanoribbons (CNx-GNRs) have multifaceted structures with exceptional active edges
+[28]
+. These helical CNx-GNRs have demonstrated a significant property change in polymer nanocomposites due to their abundant edges
+[29]
+,
+[30]
+. Here, we show a highly efficient ORR activity of these helical GNRs in both alkaline and acidic electrolytes after being simultaneously co-doped by nitrogen and sulfur functional groups at elevated temperatures to obtain CNx/CSx-GNRs.
+Sulfuric acid (H2SO4, 95%), potassium permanganate (KMnO4, 99%), trifluoroacetic acid (C2HF3O2, 99%), diethyl ether ((C2H5)2O, 99%), hydrogen peroxide (H2O2, 30 wt % in H2O), benzyl disulfide (C6H5CH2SSCH2C6H5, 98%), and ethanol (denatured, reagent) were all purchased from Sigma–Aldrich, Canada. Hydrochloric acid (HCl, 38%) was purchased from VWR, Canada. Nitrogen doped multiwalled carbon nanotubes (92%, CNx-MWCNTs) with bamboo structures, average length of 50 μm and diameter of 20–40 nm were purchased from NanoTechLabs, Inc. (NTL).
+Typically, 150 mg of CNx-MWCNTs were stirred in 36 mL H2SO4 for 1 h, followed by addition of 4 mL of the second acid (TFA) to the mixture and stirred for another 15 min. Then, 750 mg KMnO4 was slowly added to the mixture. Once oily Mn oxide (VII) was seen, with a strong green metallic sheen, the addition of KMnO4 was stopped until it completely dissolved. Stirring continued at room temperature for 1 h and then at 65 °C in an oil bath for 2 h. To stop the oxidation, the mixture was added to 120 mL of cold distilled water, containing 5 mL H2O2 (30%), followed by filtration with PTFE 5 μm. At the end of the process, the black material was washed and vacuum filtered once with 20% HCl, once with distilled water, once with ethanol and three times with diethyl ether until the flakes of completely dried nitrogen doped graphene oxide nanoribbons (CNx-GONRs) were obtained. The weight of the final CNx-GONRs was 150 mg (yield of 100%).
+CNx-GONRs powders were thermally annealed and co-doped in a mixed atmosphere of Ar/NH3 gas and benzyl disulfide evaporated species for 1 h or 2.5 h at temperatures from 700 °C to 1100 °C. In a typical co-doping procedure, CNx-GONRs and benzyl disulfide powders were put in two separate quartz boats with a sufficient distance from each other (about 30 cm, depending on the furnace size) inside the main reaction chamber. The chamber was purged with Ar at room temperature at a flow rate of 50 sccm for about 30 min to minimize oxygen species in the sealed furnace chamber. NH3 was then purged into the chamber at room temperature at a flow rate of 10 sccm. Once the desired medium was set up at room temperature (Ar/NH3 (20%)), the first furnace around the CNx-GONRs sample was heated directly to the reaction temperature in 30 min and then kept constant at the temperature for the desired amount of time. While the first furnace started to heat up the CNx-GONRs sample, the second furnace for benzyl disulfide powder was heated to 350 °C to generate sulfur vapor inside the chamber. Therefore, CNx-GONRs were exposed simultaneously to both doping media. When the co-doping procedure was finished at the desired conditions, both furnaces were cooled to room temperature. Then, the NH3 flow was closed, but Ar was kept flowing at room temperature for 30 min with a flow rate of 50 sccm. The samples were then removed and prepared for characterization and electrochemical tests. For the single-doped samples, only one of the doping sources was used, NH3 gas for nitrogen doping or benzyl disulfide for sulfur doping. For two-step-doped sample, however, the sample was first doped by NH3 gas, then doped by sulfur vapor through two separate heating/cooling procedures.
+The overall microstructural features of CNx-MWCNTs and GNRs were studied by HRTEM. The HRTEM was carried out in a Tecnai TF20 G2 FEG-TEM (FEI, Hillsboro, Oregon, USA), at 200 kV acceleration voltage, with the standard single tilt holder. The images were captured by a Gatan UltraScan 4000 CCD (Gatan, Pleasanton, California, USA) at 2048 × 2048 pixels. Typically, less than 1 mg of the nanopowders were suspended in 10 mL ethanol and bath sonicated for 30 min. A drop of this suspension was placed on the carbon side of a standard TEM grid that was covered with a ∼40 nm thin holey carbon film (EMS, Hatfield, Pennsylvania, USA) and placed on a filter paper to quickly dry. To measure the elemental composition, a Physical Electronics PHI VersaProbe 5000-XPS was used to record XPS spectra. The spectra were taken using a monochromatic aluminum source, at 1486.6 eV and 49.3 W, with a beam diameter of 200.0 μm. The samples were pressed on a piece of an indium foil and, a double neutralization – a low energy electron beam and low energy Ar + beam – were used during spectrum acquisition. The binding energies were reported relative to C1s at 284.8 eV. The chamber analysis pressure was 2.0 × 10−7 Pa during acquisition. The take-off angle was 45°. For each sample, a high sensitivity mode spectrum was taken with a wide binding energy range of 0–1350 eV (survey) to determine the surface elemental composition of the samples at a pass energy of 140 eV. Then, a narrower binding energy window, with a pass energy of 26 eV, was used to get high energy resolution spectra of the elements present in the sample to determine its chemical environment and quantification. The structural defects of the samples were investigated using Raman spectroscopy. The Raman spectra were recorded by a Thermo Nicolet Dispersive XR Raman Microscope with a laser radiation of 532 nm, integration of 50 s, ×10 objective and a laser power of 24 mW. X-ray diffraction (XRD) patterns were obtained using a Rigaku SmartLab X-ray Diffractometer with Cu X-ray Tube and a wavelength of 1.54059 Å. The thermal stability of the nanopowders were measured using a Thermogravimetric Analyzer (TA instruments – TGA Q500). The samples were heated under air atmosphere (Praxair AI INDK) from room temperature to 800 °C at a rate of 10 °C/min. The sample was held at 800 °C for 10 min before cooling.
+All electrochemical properties were measured using a three-electrode system, where a modified glassy carbon electrode was used as working electrode, Pt wire as counter electrode and silver/silver chloride filled by 4 M of KCl solution as reference electrode. Modified glassy carbon electrodes were typically prepared by drop casting 16 μL of the sample suspension onto a glassy carbon rotating disk electrode with an active diameter of 5 mm and then let them dry for at least 12 h before measurement. The sample suspension is a mixture of the sample powder (e.g. GNR) and a binder (1 mg/1 mL ratio) bath sonicated for 30 min. The binder is a diluted solution of Nafion (800 μL) by distilled water (8 mL) and ethanol (2 mL). Prior to the deposition of the suspension, the glassy carbon electrode was mechanically polished by a 1.0, 0.3 and 0.05 μm alumina slurry and washed with distilled water and ethanol to obtain a mirror-like surface. For all measurements, 0.1 M NaOH solution was used as the alkaline electrolyte, and 0.5 M H2SO4 solution as the acidic electrolyte. Before each experiment, the electrolyte was also purged thoroughly with ultra-high purity oxygen (or argon for background subtraction) for ∼ 15 min. All electrochemical data were recorded via an Autolab PGSTAT (Metrohm, UK). Rotating disk electrode measurements were performed by a Pine rotating electrode system. In a typical ORR experiment, first a CV was performed in a potential range of 1.2 V–0 V (vs RHE) at a scanning rate of 100 mV/s for 200 cycles. Then, LSV was carried out in the same potential range, but at a scanning rate of 5 mV/s at different electrode rotation speeds (625–2500 rpm) to calculate electron transfer numbers, kinetic current densities, and Tafel slopes. The possible poisoning effects on ORR performance of the electrocatalysts were also studied by addition of 0.5 M methanol to the electrolyte.
+A helical unzipping mechanism of bamboo compartments in CNx-MWCNTs via a chemical oxidation method has been recently reported by our group
+[28]
+. Herein, as-obtained helical GNRs were co-doped by nitrogen and sulfur groups for applications as ORR electrocatalysts in both alkaline and acidic electrolytes.
+Fig. 1
+shows high resolution electron microscopy (HRTEM) images and schematics of the starting CNx-MWCNTs (
+Fig. 1
+a, insets), and the final CNx/CSx-GNRs with helically unzipped structures (
+Fig. 1
+b, insets). The average length and diameter of CNx-MWCNTs were 50 μm and 30 nm, respectively, based on the measurements of 70 HRTEM images. As observed in many HRTEM micrographs (e.g.
+Fig. 1
+a, inset), the CNx-MWCNTs have numerous capped short carbon nanotubes inside the main tube, named as “bamboo” structure, a characteristic that makes CNx-MWCNTs substantially different from the typical open-channel MWCNTs. The carbon layers in bamboo compartments, in particular those that are close to the dome parts, are less graphitic than the outside layers mainly due to the disorganized and degraded crystallinity of sp
+[2]
+carbon network
+[31]
+,
+[32]
+,
+[33]
+. Upon oxidation and unzipping, helical cleavage around the main axis was detected, which resulted in a multifaceted structure along the edges of the GNRs, although there might still be some residual CNx-MWCNTs with diameter < 15 nm (
+Fig. 1
+b), as also observed previously
+[19]
+,
+[28]
+. Nitrogen species, imperfect crystalline structure, and geometrical complexity of bamboo compartments together with the random distribution of chirality in CNx-MWCNTs may be responsible for such helical unzipping mechanisms. Intercalation of the CNx-MWCNTs’ structures by hydrosulfate anions followed by insertion of the oxidizing molecules within the defective walls of carbon nanotube was proposed as the mechanism of helical unzipping
+[28]
+. The resultant helically unzipped structures have readily available edges and active sites along the length of the GNRs, which are obviously much more than the longitudinally unzipped open channel MWCNTs. In an ideal condition, the helical GNRs would be completely unraveled with fully exfoliated nanoribbons so that all abundant edges could contribute to the electrocatalytic reactions. The 3D helical GNR nanostructures were usually identified as few layers of nanoribbons (
+Fig. 1
+b, light gray), although in some parts in the HRTEM images they look thicker (
+Fig. 1
+b, dark gray). Folding of helical GNRs often occurred during the HRTEM imaging process, when the entire body of the GNRs was exposed to the electron beam. In this case, a beam-induced movement of the nanoribbons was observed that made some portions appear thicker (darker) than the other portions.
+Fig. 1. (a) HRTEM image of an individual bamboo-structured, nitrogen-doped, multiwalled carbon nanotube (CNx-MWCNT) (insets are higher magnification of two bamboo compartments, and a schematic illustration of a bamboo structure), (b) HRTEM image of several nitrogen/sulfur co-doped graphene nanoribbons (CNx/CSx-GNRs) (insets are schematic illustrations of helical mechanism at the initial and final stages of unzipping). (A colour version of this figure can be viewed online.)
+Thermogravimetric analysis (TGA), Raman spectroscopy, and X-ray diffraction (XRD) results of the starting CNx-MWCNTs, the helical CNx-GONRs and the CNx/CSx-GNRs after nitrogen/sulfur co-doping at 1000 °C for 2.5 h are shown in
+Fig. 2
+. Three different regions can be identified in the TGA results (
+Fig. 2
+a)
+[28]
+. In the first region, the evaporation of water residue via an endothermic transition can be identified below 150 °C. The oxygen functionalities attached to the helical CNx-GONRs were then removed in the second region through an exothermic reaction from 150 °C to 400 °C. Ultimately, carbon nanomaterials were burned between 400 °C up to 700 °C. Nitrogen functional groups and lower graphitic properties of bamboo structures in the CNx-MWCNTs resulted in a slightly lower degradation onset temperature (20–30 °C) than the un-doped open channel MWCNTs
+[28]
+,
+[31]
+,
+[32]
+. During the thermal annealing process, most of the oxygen groups in the helical CNx-GONRs were utilized, and replaced by nitrogen and sulfur functionalities to obtain CNx/CSx-GNRs. These functionalities stabilized the helical GNR structure at higher temperatures even slightly more than the parent CNx-MWCNTs. Note that after nitrogen and sulfur doping (CNx/CSx-GNRs), a higher amount of the residues was observed, which could be due to the previous metal catalysts from the synthesis of the CNx-MWCNTs, and unreacted sulfur precursor (benzyl disulfide). The structural defects of the same samples were further explored by Raman spectroscopy, as shown in
+Fig. 2
+b. A very strong D-band, comparable to G-band (ID/IG = 0.79, AD/AG = 0.82), is evident for the CNx-MWCNT due to the contribution of nitrogen species into the MWCNTs. I and A represent the intensity and area of each band, respectively. Upon formation of helical CNx-GONRs, the G-band is considerably blue-shifted, the intensity of the D-band further increased (ID/IG = 0.99, AD/AG = 1.02), and the 2D-band disappeared. These significant changes, in agreement with the TGA results, are mainly due to the incorporation of oxygen groups and structural defects into the basal plane, and more importantly into the edges of the helical GNRs. Nitrogen/sulfur co-doping can further increase the intensity of the D-band (ID/IG = 1.06, AD/AG = 1.10) as a result of the formation of nitrogen-carbon-sulfur networks in the CNx/CSx-GNRs. Note that the 2D-band became invisible after nitrogen/sulfur co-doping, as compared with the parent CNx-MWCNTs. Discerning the effect of doping on the intensity of the 2D-bands (I2D) in graphene nanomaterials is still under debate in the literature
+[28]
+,
+[31]
+. XRD results are shown in
+Fig. 2
+c. A sharp graphitic (002) peak in XRD pattern of CNx-MWCNTs is evident at 26.24° corresponding to a d-spacing of 3.4 Å (
+Fig. 2
+c). There are also two peaks at 43.5° and 45°, which could be attributed to the Fe-based catalyst that was used for the synthesis of the nanotubes. Upon formation of the helical CNx-GONRs with exfoliated/intercalated multifaceted structures, a very strong, but slightly broader (001) peak in CNx-GONRs is detected at 9.78° which corresponds to a d-spacing of 9.1 Å. This (001) peak is an indication of a long-range, highly ordered graphene structure subjected to a c-axis expansion which preserves the ordered stacking of constituent graphitic walls of the carbon nanotubes
+[28]
+,
+[34]
+,
+[35]
+. Note, the graphitic (002) peak almost disappeared. The increase in spacing from 3.4 Å in CNx-MWCNTs to 9.1 Å in CNx-GONRs may be attributed to the incorporation of oxygen functionalities into the walls of carbon nanotubes in addition to the existing sulfuric acid intercalated molecules. The peaks due to the metal residues also became broader and lower in intensity after oxidation/unzipping. The (001) peak, however, disappeared after nitrogen/sulfur co-doping due to the reduction and possible restacking of the intercalated layers (
+Fig. 2
+c, CNx/CSx-GNRs). The graphitic (002) peak after co-doping is slightly broader, representing the permanent formation of the GNRs structure. Note that after nitrogen and sulfur doping (CNx/CSx-GNRs), the peaks for metal impurities reappeared at almost the same positions. The XRD peak at 35° for the CNx/CSx-GNRs sample, however, could be attributed to another orientation of the graphene nanoribbons' layers at a d-spacing of 2.61 Å.
+Fig. 2. (a) TGA, (b) Raman and (c) XRD of the starting CNx-MWCNT, the helical CNx-GONR, and the CNx/CSx-GNR after nitrogen/sulfur co-doping at 1000 °C for 2.5 h. (A colour version of this figure can be viewed online.)
+The elemental analyses and their inter-contributed functional groups of carbon, oxygen, nitrogen and sulfur after oxidation, and doping processes were obtained by XPS.
+Fig. 3
+shows the XPS survey, and some of the important high resolution spectra (N1s, C1s, S2p3/2) of the CNx-MWCNTs, the CNx-GONRs and the CNx/CSx-GNRs. The N1s deconvoluted peaks of the CNx-MWCNTs (
+Fig. 3
+a, red spectrum on the bottom) evidently showed the incorporation of pyridinic (398.8 eV), pyrrolic (401.0 eV), quaternary (402.1 eV), and intercalated nitrogen molecules and/or oxides (405.2 eV) into the sp2 hexagonal carbon nanotube. After oxidation and helical unzipping (CNx-GONRs), the N1s peak associated with the intercalated nitrogen molecules and/or oxides trapped inside the nanotube structure disappeared (
+Fig. 3
+a, black spectrum at the middle). This is an indication of successful opening of the bamboo structures. It seems that the deconvoluted peak at 405.2 eV (
+Fig. 3
+a, CNx-MWCNTs) is mainly due to the formation of nitrogen species in the larger diameter tubes (>15 nm), which became undetectable after the nanotube structure was unzipped (CNx-GONRs). These observations are in close agreement with the previous reports
+[19]
+,
+[28]
+,
+[30]
+,
+[35]
+. In addition, the deconvolution of C1s peak of CNx-GONRs indicates that the oxygen functional species are predominantly in the form of epoxy (C–O, 286.7 eV) and carboxyl (OC–OH, 288.8 eV) groups. Note that all spectra were calibrated with a binding energy of 284.8 eV for CC bond. Upon exposure of CNx-GONRs to nitrogen and sulfur precursors at 1000 °C for 2.5 h, a significant amount of nitrogen species were added into the graphene nanoribbon structure, although the sulfur concentration is as low as 0.2 at% at this temperature (
+Fig. 3
+a, blue spectrum on the top). In this study, ammonia (NH3) gas and benzyl disulfide powder (which melts at ∼71 °C, and boils at ∼270 °C)
+[36]
+were used as the nitrogen and sulfur precursors, respectively. The S2p3/2 deconvoluted peaks reveal that sulfur contributed to the peaks in three major forms, depending on the co-doping time and temperature (
+Fig. 3
+a,b). They include carbon bonded sulfur oxide groups (C—SOx—C, 168.5 eV), carbon disulfide (SCS, 163.6 eV), and elemental sulfur bonded directly to the carbon atoms, most likely to the edges of GNRs (S8, 163.1 eV)
+[20]
+,
+[21]
+,
+[36]
+,
+[37]
+. Note that sulfur also contributed in C1s spectrum of the CNx/CSx-GNRs in the form of carbon disulfide at 287.0 eV (
+Fig. 3
+a, blue spectrum on the top). In addition, some metal sulfide species are evident from the residual catalyst that were already used for the synthesis of the starting CNx-MWCNTs (e.g. FeS2, 161.5 eV). The high resolution S2p3/2 XPS spectra in
+Fig. 3
+a and b show that a lower sulfur content might be obtained at higher co-doping temperatures (e.g. 1000 °C), and for shorter co-doping times (e.g. 1 h). This is in close agreement with the previous reports on sulfur doping of graphene nanosheets
+[20]
+,
+[21]
+,
+[36]
+,
+[37]
+. Under these co-doping conditions, sulfur contributed in the form of sulfur oxide groups, and only minor contributions of elemental sulfur can be detected (
+Fig. 3
+a,b). The method of doping (co-doping vs two-step-doping) also showed a significant influence on the sulfur (
+Fig. 3
+b) and nitrogen (
+Fig. 3
+c) contents, and their functional groups. As shown in
+Fig. 3
+b, the CNx/CSx-GNRs obtained by two-step-doping technique have higher sulfur content (2.5 at%), mainly in the form of elemental sulfur and carbon disulfide. On the other hand, the N1s deconvoluted peaks (
+Fig. 3
+a, c) indicate that nitrogen in the co-doped GNRs mainly contributed in the form of pyridinic functional groups, and only small amount of nitrogen is pyrrolic. In contrast, the N1s peaks for the two-step-doped GNRs show that nitrogen contributed with all of its main functional groups: pyridinic, pyrrolic, and quaternary (
+Fig. 3
+c). The effects of co-doping time (1 h, 2.5 h) and temperature (700 °C–1100 °C) on nitrogen and sulfur at% are also shown in
+Fig. 3
+d. In the following sections, it is shown that the CNx/CSx-GNRs sample co-doped at 1000 °C for 2.5 h has the highest ORR activity in both alkaline and acidic electrolytes. Apparently, the presence of a dopant partner, such as sulfur, during the co-doping process restricted nitrogen species to the pyridinic groups, although a small amount of sulfur was finally added to the GNR structure. Pyridinic nitrogen is well known as the most active functional group of graphene nanomaterials for the ORR
+[5]
+,
+[6]
+,
+[16]
+,
+[19]
+. Although it has been reported that the FeS2 species are active for ORR
+[38]
+,
+[39]
+, our XPS findings showed that the FeS2 contributions are almost constant in all the CNx/CSx-GNRs samples co-doped at different temperatures (900 °C, 1000 °C) and times (1 h and 2.5 h) (
+Fig. 3
+a, b). In the following sections it is shown that the ORR activities of these samples are, however, significantly different.
+Fig. 3. (a) XPS survey of the starting CNx-MWCNTs (bottom, red), the CNx-GONRs (middle, black) and the CNx/CSx-GNRs co-doped at 1000 °C for 2.5 h (top, blue). Insets are high resolution deconvoluted spectra of N1s (pyridinic 398.8 eV, pyrrolic 401.0 eV, quaternary 402.1 eV, intercalated nitrogen molecules 405.2 eV), C1s (CC 284.8 eV, epoxy 286.7 eV, carbon disulfide (CS2) 287.0 eV, carboxyl 288.8 eV), and S2p3/2 (FeS2 161.5 eV, sulfur (S8) 163.1 eV, CS2 163.6 eV, SO2(x) 168.5 eV). (b,c) The effect of doping time (1 h, 2.5 h) and method (co-doping vs two-step doping) at 900 °C on sulfur and nitrogen atomic concentrations (at%) and functional groups in CNx/CSx-GNRs, respectively. (d) The effects of co-doping time and temperature on nitrogen and sulfur content of CNx/CSx-GNRs. (A colour version of this figure can be viewed online.)
+The ORR activity of the CNx/CSx-GNR samples was extensively studied in both alkaline and acidic electrolytes for the potential applications in metal-air batteries, and alkaline and proton-exchange membrane (PEM) fuel-cells, respectively.
+Fig. 4
+a shows the cyclic voltammograms (CV) of the starting CNx-MWCNTs, the CNx-GONRs and the CNx/CSx-GNRs after 200 cycles in O2-saturated and Ar-saturated 0.1 M solution of NaOH at a scanning rate of 100 mV/s. While all samples demonstrate a pure capacitive current background in Ar-saturated electrolyte (dashed curves), an obvious broad cathodic peak in O2-saturated electrolyte associated with the oxygen reduction can be detected (solid curves). In particular, CNx/CSx-GNRs co-doped at 1000 °C for 2.5 h has the lowest onset potential (at ∼1 V vs RHE) and largest current density, representing an exceptional ORR catalytic activity. The electrocatalytic properties of the selected samples compared with the Pt(20%)/C sample are further explored via linear sweep voltammetry (LSV) at a disk rotation speed of 900 rpm in both O2-saturated alkaline (0.1 M solution of NaOH) and acidic (0.5 M solution of H2SO4) electrolytes at a scanning rate of 5 mV/s (
+Fig. 4
+b–d). The results show a much lower onset potential of the nitrogen/sulfur co-doped sample (CNx/CSx-GNRs) in the alkaline electrolyte than the nitrogen-doped (CNx-GNR), sulfur-doped (CSx-GNR), and two-step-doped (CSx-CNx-GNR) samples (
+Fig. 4
+b). All samples were doped at 900 °C for 1 h. Although nitrogen mainly contributed in the form of pyridinic groups due to the presence of sulfur (
+Fig. 3
+b–d) through the co-doping process, only small amount of elemental sulfur and sulfur oxides were added to the co-doped GNRs structure (
+Fig. 3
+b,d). Therefore, this high ORR activity of the CNx/CSx-GNRs can be attributed to the synergistic effects of nitrogen/sulfur co-doping, the facetted structure of GNRs, and the increased edges with helical unzipping. Several previous studies
+[5]
+,
+[6]
+,
+[16]
+,
+[19]
+showed that pyridinic nitrogen groups, particularly those on the edges, are much more active for oxygen reduction than pyrrolic and quaternary nitrogen. The higher ORR activity of nitrogen/sulfur co-doped graphene nanomaterials than the single-doped (nitrogen or sulfur) graphene was also previously reported
+[21]
+,
+[40]
+,
+[41]
+,
+[42]
+.
+Fig. 4. (a) Cyclic voltammograms (CV) of the CNx-MWCNTs, the CNx-GONRs and the CNx/CSx-GNRs co-doped at 1000 °C for 2.5 h in O2-saturated (solid curves) and Ar-saturated (dashed curves) 0.1 M solution of NaOH at a scanning rate of 100 mV/s. (b) Linear sweep voltammetry (LSV) of single-doped (CNx-GNR, CSx-GNR), two-step-doped (CSx-CNx-GNR) and co-doped (CNx/CSx-GNRs) samples at 900 °C for 1 h in 0.1 M solution of NaOH. (c) The effects of nitrogen/sulfur co-doping time (1 h, 2.5 h) and temperature (900 °C–1100 °C) on the ORR activity of the CNx/CSx-GNRs compared to Pt(20%)/C in 0.1 M solution of NaOH. (d) LSV of the co-doped CNx/CSx-GNRs at 900 °C and 1000 °C for 2.5 h compared to Pt(20%)/C in 0.5 M solution of H2SO4. All LSV measurements were done in O2-saturated electrolytes at electrode rotation speed of 900 rpm at room temperature and scanning rate of 5 mV/s. (A colour version of this figure can be viewed online.)
+The effects of co-doping time and temperature on the ORR activity of the CNx/CSx-GNRs co-doped sample in the alkaline and acidic electrolytes were also investigated and shown in
+Fig. 4
+c, and d, respectively. It is evident that an increase in co-doping time and temperature can improve the activity up to an optimum point (2.5 h at 1000 °C), and beyond this point, the activity and co-doping are inversely related. As it was shown in
+Fig. 3
+b–d, co-doping at higher temperatures and for longer periods significantly increased the nitrogen content (up to ∼13 at%) mainly in the form of pyridinic groups, while sulfur content was very small and in the form of sulfur oxides and elemental sulfur. In fact, the presence of sulfur during the co-doping process restricted the nitrogen species to the pyridinic groups, presumably on the edges of the multifaceted structure, and ultimately leading to excellent ORR activity. Note that at very high nitrogen concentrations, there will be predominantly pyridinic species. Ghosh et al.
+[43]
+showed that the pyridinic nitrogen destroys the existing sub-levels in the unoccupied states near the Fermi level, which results in lower electrical conductivity. Therefore, the electrical conductivity of the CNx/CSx-GNRs would be drastically decreased at higher pyridinic nitrogen leading to a lower ORR activity than expected (see
+Fig. 3
+,
+Fig. 4
+c,d, sample 900 °C for 2.5 h). An onset potential of 1.02 V (vs RHE) and a current density of −2.9 mA/cm2 in the alkaline electrolyte, for the CNx/CSx-GNRs sample co-doped at 1000 °C for 2.5 h, are two of the key ORR properties that are very close to the values for the current state-of-the-art Pt(20%)/C electrocatalysts (
+Fig. 4
+c). This sample also showed the highest ORR activity in the acidic electrolyte (
+Fig. 4
+d, 0.5 M H2SO4), with a more positive onset potential of 150 mV than the other GNRs-based electrocatalysts. This ORR activity is comparable with that of the best graphene-based electrocatalyst reported to date by Li et al.
+[24]
+for acidic electrolytes. However, its activity is still lower than the commercial benchmark Pt(20%)/C electrocatalyst (
+Fig. 4
+d).
+In order to calculate the electron transfer numbers and the Tafel slopes, the other two key ORR properties, LSV measurements were performed for the CNx/CSx-GNRs sample co-doped at 1000 °C for 2.5 h at different disk rotation speeds from 625 rpm to 2500 rpm in O2-saturated alkaline (0.1 M NaOH) and acidic (0.5 M H2SO4) electrolytes, as shown in
+Fig. 5
+a and b, respectively. There is a direct relationship between the measured current density and the electrode rotation speed. The higher the rotation speed, the shorter the diffusion distance, and the larger the current density. The Koutecky–Levich plots (
+Fig. 5
+c,d) were generated from the polarization curves at different potentials according to the following equation:
+(1)
+where J is the measured current density (mA/cm2), Jk is the kinetic current density (mA/cm2), B is the reciprocal of the slope and ω is the angular electrode rotation speed (rad/s). An excellent linearity of the plots and the nearly parallel fitted lines at each potential are indications of first-order reaction kinetics and constant electron transfer number at different potentials
+[19]
+,
+[26]
+. The electron transfer number (n) can be calculated from the slopes of the lines using the following equation:
+(2)
+where F is the Faraday constant (96485 C/mol), ν is the kinematic viscosity of the electrolyte (0.011 cm2/s for 0.1 M NaOH and 0.01 cm2/s for 0.5 M H2SO4)
+[26]
+,
+is the diffusion coefficient of oxygen (1.9 × 10−5 cm2/s for 0.1 M NaOH and 1.4 × 10−5 cm2/s for 0.5 M H2SO4) and
+is the concentration of oxygen in the bulk (1.13 × 10−6 mol/cm3 for 0.1 M NaOH and 1.1 × 10−6 mol/cm3 for 0.5 M H2SO4)
+[19]
+,
+[26]
+,
+[1]
+. Note that the constant 0.2 in Equation
+(2)
+is adjusted as the rotation speed in Equation
+(1)
+is expressed in rpm. The results of the calculations of electron transfer numbers for the CNx/CSx-GNRs co-doped at 1000 °C for 2.5 h in comparison with the Pt(20%)/C are shown as insets in
+Fig. 5
+a,b. It is evident that the CNx/CSx-GNRs sample exhibits predominantly four-electron transfer for ORR (
+=3.92,
+ = 3.32), very close to the Pt/C (20%) sample (
+=3.97,
+ = 3.61). Other single-doped and two-step-doped GNR samples, however, showed a combined two-electron and four-electron reduction pathways, which is not efficient for the ORR applications. The Tafel slopes of the CNx/CSx-GNRs for the alkaline electrolyte were also calculated at low over-potentials and shown in
+Fig. 5
+e. Evidently, the GNR sample co-doped at 1000 °C for 2.5 h has a lower Tafel slope (57 mV/decade) than the samples co-doped at 900 °C for 2.5 h (72 mV/decade) and 1 h (85 mV/decade). This indicates that a much higher current density may be obtained for an electrochemical reaction at a lower over-potentials.
+Fig. 5. Kinetics of the ORR for the CNx/CSx-GNRs samples in both alkaline (0.1 M NaOH) and acidic (0.5 M H2SO4) electrolytes: (a,b) LSV curves at different electrode rotation speeds (625 rpm–2500 rpm) for the sample co-doped at 1000 °C for 2.5 h, and the calculated electron transfer number vs the Pt(20%)/C, (c,d) Koutecky–Levich plots at different potentials obtained from LSV curves of the same GNR sample, and (e) Tafel plots derived by the corresponding alkaline rotating disk electrode data for three co-doped GNR samples: 1000 °C for 2.5 h, 900 °C for 2.5 h, and 900 °C for 1 h. All LSV measurements were done in O2-saturated electrolytes at a scanning rate of 5 mV/s. (A colour version of this figure can be viewed online.)
+The CNx/CSx-GNRs electrocatalyst was also exposed to methanol to test the effect of poisoning in both alkaline (
+Fig. 6
+a: 0.1 M NaOH + 0.1 M MeOH) and acidic (
+Fig. 6
+b: 0.5 M H2SO4 + 0.5 M MeOH) electrolytes in comparison with the Pt(20%)/C electrocatalyst. In direct methanol fuel cells, the ORR electrocatalysts must exhibit satisfactory tolerance to methanol that may pass across the membrane from the anode to the cathode. Such fuel crossover not only lowers fuel utilization, but it also degrades the cathode activity (excess cathode polarization), resulting in a significant decrease of the cathode potential and thus of the cell voltage. We observed, as expected, that the ORR activity of the Pt(20%)/C electrocatalyst decreases in the presence of even small amount of methanol, in particular for acidic electrolytes (
+Fig. 6
+b). In contrast, the CNx/CSx-GNRs electrocatalyst (co-doped at 1000 °C for 2.5 h) showed slightly higher ORR activity (
+Fig. 6
+), exhibiting excellent tolerance to methanol poisoning effects. Although the exchange current density for the ORR is constant, it varies for methanol oxidation. In addition, the Tafel slope for methanol oxidation is higher (twice) than the ORR
+[44]
+. Therefore, one can expect that the decrease in potential with increasing current density is more significant in the presence of methanol. Note that the onset potential before and after addition of methanol is almost constant.
+Fig. 6. The ORR activity of the CNx/CSx-GNRs co-doped at 1000 °C for 2.5 h with added methanol to (a) alkaline (0.1 M NaOH + 0.1 M MeOH) and (b) acidic (0.5 M H2SO4 + 0.5 M MeOH) electrolytes. (A colour version of this figure can be viewed online.)
+CNx-MWCNTs with bamboo structures have been successfully unzipped using potassium permanganate and trifluoroacetic acid. The resultant CNx-GONRs have a multifaceted structure due to the helical unzipping mechanism of bamboo compartments. From the N1s XPS spectra, it is found that the peak associated with the nitrogen intercalated molecules and/or oxides trapped inside the nanotube disappeared after oxidation, indicating successful opening of the structure. The results showed that the CNx/CSx-GNRs co-doped at 1000 °C for 2.5 h can compete with the current state-of-the-art Pt(20%)/C electrocatalyst in both alkaline and acidic electrolytes in all of the key ORR properties: onset potential, exchange current density, four electron pathway selectivity, kinetic current density, and methanol tolerance. This excellent ORR activity is mainly due to the synergistic effects of nitrogen/sulfur co-doping and multifaceted structure of the graphene nanoribbons with helical unzipping mechanism. In agreement with the previous studies on doped graphene nanomaterials, pyridinic functional groups were found to be the main active sites in the CNx/CSx-GNRs sample that particularly enhance the ORR activity on the edges. The presence of sulfur during the co-doping process induced more pyridinic nitrogen groups inside the GNRs structure than the single-doped or two-step-doped GNRs. Such CNx/CSx-GNRs co-doped electrocatalyst would find application in metal-air batteries, and alkaline and proton-exchange membrane (PEM) fuel-cells.
+This research is financially supported by the Natural Sciences and Engineering Research Council of Canada (NSERC) and Alberta Innovates Technology Futures (AITF). Authors would like to also acknowledge the Microscopy and Imaging Facility (MIF) at the University of Calgary for their great help in HRTEM imaging and discussions.
+In recent years, novel metal-free heteroatomic doped carbon-based catalysts, especially diatomic doped materials, have attracted great attention owing to their ability to produce effective synergistic effects for different electrocatalytic reactions [11]. The co-doping strategy induced more pyridine N configurations in carbon materials than the single-doping strategy, and the introduction of pyridine N considerably improved the activity of the ORR reaction in both of the alkaline and acidic electrolytes [12]. Sulfur and nitrogen co-doping can enhance the ORR activity of ordered mesoporous carbon, which is attributed to long SC bonds at the edges, or defective positions in the sulfur itself leading to an elevated polarization spin distribution of the carbon atoms.
+Cookies are used by this site.
+Cookie Settings
+All content on this site: Copyright © 2024 Elsevier B.V., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the Creative Commons licensing terms apply.

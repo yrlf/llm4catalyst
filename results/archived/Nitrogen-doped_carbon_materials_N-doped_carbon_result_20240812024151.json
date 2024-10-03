@@ -1,0 +1,478 @@
+{
+    "materials": [
+        {
+            "material_name": "edge-HOPG",
+            "properties": [
+                {
+                    "type": "Depth",
+                    "value": 1200.0,
+                    "unit": "nm",
+                    "conditions": "AFM imaging, Fig. 1B",
+                    "reaction_type": "NA",
+                    "evidence": 0
+                },
+                {
+                    "type": "Depth variation",
+                    "value": 100.0,
+                    "unit": "nm",
+                    "conditions": "AFM imaging, varied by etching energy and duration",
+                    "reaction_type": "NA",
+                    "evidence": 0
+                },
+                {
+                    "type": "Depth variation",
+                    "value": 2000.0,
+                    "unit": "nm",
+                    "conditions": "AFM imaging, varied by etching energy and duration",
+                    "reaction_type": "NA",
+                    "evidence": 0
+                },
+                {
+                    "type": "N concentration",
+                    "value": 0.0,
+                    "unit": "at. %",
+                    "conditions": "free of N",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "pyri-HOPG",
+            "properties": [
+                {
+                    "type": "N concentration",
+                    "value": 0.6,
+                    "unit": "at. %",
+                    "conditions": "95% for pyri-N and 5% for grap-N",
+                    "reaction_type": "ORR",
+                    "evidence": 1
+                },
+                {
+                    "type": "XPS peak position",
+                    "value": 398.5,
+                    "unit": "eV",
+                    "conditions": "pyridinic N",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "ORR activity",
+                    "value": 0.6,
+                    "unit": "at. %",
+                    "conditions": "high activity at high voltages",
+                    "reaction_type": "ORR",
+                    "evidence": 1
+                },
+                {
+                    "type": "depth",
+                    "value": 1200.0,
+                    "unit": "nm",
+                    "conditions": "AFM imaging",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "depth variation",
+                    "value": 100.0,
+                    "unit": "nm",
+                    "conditions": "minimum depth by etching energy and duration",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "depth variation",
+                    "value": 2000.0,
+                    "unit": "nm",
+                    "conditions": "maximum depth by etching energy and duration",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "N concentration",
+                    "value": 0.6,
+                    "unit": "atomic %",
+                    "conditions": "XPS analysis",
+                    "reaction_type": "ORR",
+                    "evidence": 2
+                },
+                {
+                    "type": "pyridinic N concentration",
+                    "value": 95.0,
+                    "unit": "%",
+                    "conditions": "XPS analysis",
+                    "reaction_type": "ORR",
+                    "evidence": 2
+                },
+                {
+                    "type": "graphitic N concentration",
+                    "value": 5.0,
+                    "unit": "%",
+                    "conditions": "XPS analysis",
+                    "reaction_type": "ORR",
+                    "evidence": 2
+                },
+                {
+                    "type": "XPS peak",
+                    "value": 398.5,
+                    "unit": "eV",
+                    "conditions": "XPS analysis",
+                    "reaction_type": "ORR",
+                    "evidence": 2
+                },
+                {
+                    "type": "pyridinic N concentration",
+                    "value": 0.95,
+                    "unit": "%",
+                    "conditions": "XPS analysis",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "pyrrolic N concentration",
+                    "value": 0.05,
+                    "unit": "%",
+                    "conditions": "XPS analysis",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "N concentration",
+                    "value": 0.73,
+                    "unit": "at. %",
+                    "conditions": "82% for grap-N and 5% for pyri-N",
+                    "reaction_type": "ORR",
+                    "evidence": 1
+                },
+                {
+                    "type": "XPS peak position",
+                    "value": 401.1,
+                    "unit": "eV",
+                    "conditions": "graphitic N",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "N concentration",
+                    "value": 0.73,
+                    "unit": "atomic %",
+                    "conditions": "XPS analysis",
+                    "reaction_type": "ORR",
+                    "evidence": 2
+                },
+                {
+                    "type": "graphitic N concentration",
+                    "value": 82.0,
+                    "unit": "%",
+                    "conditions": "XPS analysis",
+                    "reaction_type": "ORR",
+                    "evidence": 2
+                },
+                {
+                    "type": "pyridinic N concentration",
+                    "value": 5.0,
+                    "unit": "%",
+                    "conditions": "XPS analysis",
+                    "reaction_type": "ORR",
+                    "evidence": 2
+                },
+                {
+                    "type": "XPS peak",
+                    "value": 401.1,
+                    "unit": "eV",
+                    "conditions": "XPS analysis",
+                    "reaction_type": "ORR",
+                    "evidence": 2
+                },
+                {
+                    "type": "pyridinic N concentration",
+                    "value": 0.82,
+                    "unit": "%",
+                    "conditions": "XPS analysis",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "clean-HOPG",
+            "properties": [
+                {
+                    "type": "N concentration",
+                    "value": 0.0,
+                    "unit": "at. %",
+                    "conditions": "free of N",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "N-GNS-1",
+            "properties": [
+                {
+                    "type": "N concentration",
+                    "value": 0.7,
+                    "unit": "at. %",
+                    "conditions": "XPS analysis",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "Pyridinic N concentration",
+                    "value": 0.7,
+                    "unit": "at. %",
+                    "conditions": "XPS",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                },
+                {
+                    "type": "Onset potential",
+                    "value": 0.77,
+                    "unit": "V",
+                    "conditions": "ORR",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "N concentration",
+                    "value": 1.9,
+                    "unit": "at. %",
+                    "conditions": "XPS analysis",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "Pyridinic N concentration",
+                    "value": 1.9,
+                    "unit": "at. %",
+                    "conditions": "XPS",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                },
+                {
+                    "type": "N concentration",
+                    "value": 6.3,
+                    "unit": "at. %",
+                    "conditions": "XPS analysis",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "Pyridinic N concentration",
+                    "value": 6.3,
+                    "unit": "at. %",
+                    "conditions": "XPS",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                },
+                {
+                    "type": "Onset potential",
+                    "value": 0.91,
+                    "unit": "V",
+                    "conditions": "ORR",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Model HOPG-4",
+            "properties": [
+                {
+                    "type": "Nitrogen concentration",
+                    "value": 0.6,
+                    "unit": "at. %",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "Pyridinic N concentration",
+                    "value": 0.57,
+                    "unit": "at. %",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "Current density at 0.5 V",
+                    "value": 0.00041,
+                    "unit": "mA/cm\u00b2",
+                    "conditions": "NA",
+                    "reaction_type": "ORR",
+                    "evidence": 3
+                },
+                {
+                    "type": "Specific activity per pyridinic N at 0.5 V",
+                    "value": 0.12,
+                    "unit": "e\u2013 s\u22121 pyri-N\u22121",
+                    "conditions": "NA",
+                    "reaction_type": "ORR",
+                    "evidence": 3
+                },
+                {
+                    "type": "Nitrogen concentration",
+                    "value": 0.6,
+                    "unit": "at. %",
+                    "conditions": "XPS",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                },
+                {
+                    "type": "Pyridinic N concentration",
+                    "value": 0.57,
+                    "unit": "at. %",
+                    "conditions": "XPS",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                },
+                {
+                    "type": "Current density",
+                    "value": 0.00041,
+                    "unit": "mA/cm\u00b2",
+                    "conditions": "ORR at 0.5 V",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "Specific activity per pyridinic N",
+                    "value": 0.12,
+                    "unit": "e\u2013 s\u22121 pyri-N\u22121",
+                    "conditions": "ORR at 0.5 V",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "Nitrogen concentration",
+                    "value": 4.9,
+                    "unit": "at. %",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "Pyridinic N concentration",
+                    "value": 2.2,
+                    "unit": "at. %",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "Current density at 0.5 V",
+                    "value": 0.0,
+                    "unit": "mA/cm\u00b2",
+                    "conditions": "NA",
+                    "reaction_type": "ORR",
+                    "evidence": 3
+                },
+                {
+                    "type": "Nitrogen concentration",
+                    "value": 4.9,
+                    "unit": "at. %",
+                    "conditions": "XPS",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                },
+                {
+                    "type": "Pyridinic N concentration",
+                    "value": 2.2,
+                    "unit": "at. %",
+                    "conditions": "XPS",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                },
+                {
+                    "type": "Current density",
+                    "value": 0.0009,
+                    "unit": "mA/cm\u00b2",
+                    "conditions": "ORR at 0.5 V",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "Specific activity per pyridinic N",
+                    "value": 0.066,
+                    "unit": "e\u2013 s\u22121 pyri-N\u22121",
+                    "conditions": "ORR at 0.5 V",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "Nitrogen concentration",
+                    "value": 5.5,
+                    "unit": "at. %",
+                    "conditions": "XPS",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                },
+                {
+                    "type": "Pyridinic N concentration",
+                    "value": 3.1,
+                    "unit": "at. %",
+                    "conditions": "XPS",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                },
+                {
+                    "type": "Current density",
+                    "value": 0.0016,
+                    "unit": "mA/cm\u00b2",
+                    "conditions": "ORR at 0.5 V",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "Specific activity per pyridinic N",
+                    "value": 0.082,
+                    "unit": "e\u2013 s\u22121 pyri-N\u22121",
+                    "conditions": "ORR at 0.5 V",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                }
+            ],
+            "benchmark": true
+        },
+        {
+            "material_name": "N-HOPG",
+            "properties": [
+                {
+                    "type": "XPS peak position",
+                    "value": 398.5,
+                    "unit": "eV",
+                    "conditions": "post-ORR in acidic conditions",
+                    "reaction_type": "ORR",
+                    "evidence": 4
+                },
+                {
+                    "type": "XPS peak position",
+                    "value": 400.1,
+                    "unit": "eV",
+                    "conditions": "post-ORR in acidic conditions",
+                    "reaction_type": "ORR",
+                    "evidence": 4
+                }
+            ],
+            "benchmark": false
+        }
+    ],
+    "doi": "example_doi",
+    "factor": "Hydrogen coverage,Energy barrier,Conductivity,Surface area,Size,Defect,Dopant,Active sites,Stability,Electrode potential,Overpotential,Tafel slope,onsite potential,Current density,Mass loading,XPS,FTIR,Raman,XRD",
+    "meta": {
+        "maintext": "/Users/yangz/Documents/projects/llm4catalyst/documents/maintext/Active_sites_of_nitrogendoped_carbon_materials_for_maintext.txt",
+        "abstract": "/Users/yangz/Documents/projects/llm4catalyst/documents/abstract/Active_sites_of_nitrogendoped_carbon_materials_for_abs.txt",
+        "intro": "documents/intro/c60_intro.txt",
+        "window_size": 2,
+        "chunk_size": 1000,
+        "chunk_overlap": 100,
+        "output": "results",
+        "property": "/Users/yangz/Documents/projects/llm4catalyst/prompts/properties.txt",
+        "self_defined": true,
+        "title": "Active_sites_of_nitrogendoped_carbon_materials_for"
+    }
+}

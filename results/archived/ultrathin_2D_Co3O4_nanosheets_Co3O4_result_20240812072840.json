@@ -1,0 +1,557 @@
+{
+    "materials": [
+        {
+            "material_name": "Co3O4 nanocrystals on N-doped reduced graphene oxide",
+            "properties": [
+                {
+                    "type": "Overpotential",
+                    "value": 290.0,
+                    "unit": "mV",
+                    "conditions": "at the current density of 10 mA cm\u22122 in 1 m KOH",
+                    "reaction_type": "OER",
+                    "evidence": 0
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 68.0,
+                    "unit": "mV dec\u22121",
+                    "conditions": "in 1 m KOH",
+                    "reaction_type": "OER",
+                    "evidence": 0
+                },
+                {
+                    "type": "overpotential",
+                    "value": 310.0,
+                    "unit": "mV",
+                    "conditions": "in 1 m KOH",
+                    "reaction_type": "OER",
+                    "evidence": 1
+                },
+                {
+                    "type": "overpotential",
+                    "value": 313.0,
+                    "unit": "mV",
+                    "conditions": "in 1 m KOH",
+                    "reaction_type": "OER",
+                    "evidence": 1
+                },
+                {
+                    "type": "overpotential",
+                    "value": 498.0,
+                    "unit": "mV",
+                    "conditions": "in phosphate buffer solution",
+                    "reaction_type": "OER",
+                    "evidence": 1
+                },
+                {
+                    "type": "overpotential",
+                    "value": 290.0,
+                    "unit": "mV",
+                    "conditions": "at the current density of 10 mA cm\u22122 in 1 m KOH",
+                    "reaction_type": "OER",
+                    "evidence": 1
+                },
+                {
+                    "type": "Surface area",
+                    "value": 133.52,
+                    "unit": "m2 g\u22121",
+                    "conditions": "BET analysis",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "Overpotential",
+                    "value": 290.0,
+                    "unit": "mV",
+                    "conditions": "OER in 1 m KOH",
+                    "reaction_type": "OER",
+                    "evidence": 5
+                },
+                {
+                    "type": "Overpotential",
+                    "value": 290.0,
+                    "unit": "mV",
+                    "conditions": "in 1 m KOH",
+                    "reaction_type": "OER",
+                    "evidence": 6
+                },
+                {
+                    "type": "Overpotential",
+                    "value": 290.0,
+                    "unit": "mV",
+                    "conditions": "in 1 m KOH at 1 mA cm-2",
+                    "reaction_type": "OER",
+                    "evidence": 7
+                },
+                {
+                    "type": "Double-layer capacitance",
+                    "value": 260.21,
+                    "unit": "mF cm-2",
+                    "conditions": "in 1 m KOH at scan rates ranging from 1 to 5 mV s-1",
+                    "reaction_type": "OER",
+                    "evidence": 7
+                },
+                {
+                    "type": "Sheet resistance",
+                    "value": 160.0,
+                    "unit": "\u03a9 sq-1",
+                    "conditions": "measured using the four point probe method",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "Co2+/Co3+ ratio",
+                    "value": 1.4,
+                    "unit": "",
+                    "conditions": "experimental conditions",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "overpotential",
+                    "value": 290.0,
+                    "unit": "mV",
+                    "conditions": "O2-saturated 1 m KOH electrolyte",
+                    "reaction_type": "OER",
+                    "evidence": 3
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 68.0,
+                    "unit": "mA dec-1",
+                    "conditions": "in 1 m KOH at 10 mA cm-2",
+                    "reaction_type": "OER",
+                    "evidence": 7
+                },
+                {
+                    "type": "Overpotential",
+                    "value": 290.0,
+                    "unit": "mV",
+                    "conditions": "in 1 m KOH at 10 mA cm-2",
+                    "reaction_type": "OER",
+                    "evidence": 7
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 67.0,
+                    "unit": "mA dec-1",
+                    "conditions": "in 1 m KOH at 10 mA cm-2",
+                    "reaction_type": "OER",
+                    "evidence": 7
+                },
+                {
+                    "type": "Overpotential",
+                    "value": 310.0,
+                    "unit": "mV",
+                    "conditions": "in 1 m KOH at 10 mA cm-2",
+                    "reaction_type": "OER",
+                    "evidence": 7
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 56.0,
+                    "unit": "mA dec-1",
+                    "conditions": "in 1 m KOH at 10 mA cm-2",
+                    "reaction_type": "OER",
+                    "evidence": 7
+                },
+                {
+                    "type": "Overpotential",
+                    "value": 313.0,
+                    "unit": "mV",
+                    "conditions": "in 1 m KOH at 10 mA cm-2",
+                    "reaction_type": "OER",
+                    "evidence": 7
+                },
+                {
+                    "type": "XPS",
+                    "values": [
+                        795.0,
+                        780.0,
+                        779.5,
+                        780.8,
+                        529.9,
+                        531.5
+                    ],
+                    "units": [
+                        "eV"
+                    ],
+                    "conditions": [
+                        "O 1s peak indicating oxygen vacancies",
+                        "Co 2p3/2 peak for Co2+",
+                        "Co 2p1/2 peak",
+                        "O 1s peak for metal\u2013oxygen bonds",
+                        "Co 2p3/2 peak for Co3+",
+                        "Co 2p3/2 peak"
+                    ],
+                    "evidence": 3.0
+                },
+                {
+                    "type": "XRD",
+                    "values": [
+                        10.4,
+                        25.8,
+                        23.0,
+                        111.0,
+                        220.0,
+                        311.0,
+                        511.0,
+                        400.0,
+                        440.0
+                    ],
+                    "units": [
+                        "\u00b0"
+                    ],
+                    "conditions": [
+                        "2\u03b8"
+                    ],
+                    "evidence": 1.0
+                },
+                {
+                    "type": "Raman",
+                    "values": [
+                        1354.0,
+                        1599.0,
+                        188.0,
+                        515.0,
+                        468.0,
+                        674.0
+                    ],
+                    "units": [
+                        "cm\u22121"
+                    ],
+                    "conditions": [
+                        "F2g mode",
+                        "Eg mode",
+                        "G band",
+                        "A1g mode",
+                        "D band"
+                    ],
+                    "evidence": 1.0
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "IrO2",
+            "properties": [
+                {
+                    "type": "overpotential",
+                    "value": 310.0,
+                    "unit": "mV",
+                    "conditions": "in 1 m KOH",
+                    "reaction_type": "OER",
+                    "evidence": 1
+                }
+            ],
+            "benchmark": true
+        },
+        {
+            "material_name": "porous Co3O4\u2013carbon nanowire arrays",
+            "properties": [
+                {
+                    "type": "OER activity",
+                    "value": 0.0,
+                    "unit": "",
+                    "conditions": "compared to IrO2/C",
+                    "reaction_type": "OER",
+                    "evidence": 1
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 70.0,
+                    "unit": "mA dec-1",
+                    "conditions": "in 0.1 m KOH at 10 mA cm-2",
+                    "reaction_type": "OER",
+                    "evidence": 7
+                },
+                {
+                    "type": "Overpotential",
+                    "value": 290.0,
+                    "unit": "mV",
+                    "conditions": "in 0.1 m KOH at 10 mA cm-2",
+                    "reaction_type": "OER",
+                    "evidence": 7
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "IrO2/C",
+            "properties": [
+                {
+                    "type": "OER activity",
+                    "value": 0.0,
+                    "unit": "",
+                    "conditions": "compared to porous Co3O4\u2013carbon nanowire arrays",
+                    "reaction_type": "OER",
+                    "evidence": 1
+                }
+            ],
+            "benchmark": true
+        },
+        {
+            "material_name": "commercial Co3O4",
+            "properties": [
+                {
+                    "type": "overpotential",
+                    "value": 380.0,
+                    "unit": "mV",
+                    "conditions": "O2-saturated 1 m KOH electrolyte",
+                    "reaction_type": "OER",
+                    "evidence": 3
+                },
+                {
+                    "type": "Surface area",
+                    "value": 30.68,
+                    "unit": "m2 g\u22121",
+                    "conditions": "BET analysis",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                },
+                {
+                    "type": "Overpotential",
+                    "value": 380.0,
+                    "unit": "mV",
+                    "conditions": "OER in 1 m KOH",
+                    "reaction_type": "OER",
+                    "evidence": 5
+                },
+                {
+                    "type": "Overpotential",
+                    "value": 380.0,
+                    "unit": "mV",
+                    "conditions": "in 1 m KOH",
+                    "reaction_type": "OER",
+                    "evidence": 6
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 95.0,
+                    "unit": "mA dec-1",
+                    "conditions": "in 1 m KOH",
+                    "reaction_type": "OER",
+                    "evidence": 7
+                },
+                {
+                    "type": "overpotential",
+                    "value": 332.0,
+                    "unit": "mV",
+                    "conditions": "O2-saturated 1 m KOH electrolyte",
+                    "reaction_type": "OER",
+                    "evidence": 3
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 80.0,
+                    "unit": "mA dec-1",
+                    "conditions": "in 1 m KOH",
+                    "reaction_type": "OER",
+                    "evidence": 7
+                },
+                {
+                    "type": "Double-layer capacitance",
+                    "value": 82.1,
+                    "unit": "mF cm-2",
+                    "conditions": "in 1 m KOH at scan rates ranging from 1 to 5 mV s-1",
+                    "reaction_type": "OER",
+                    "evidence": 7
+                },
+                {
+                    "type": "Sheet resistance",
+                    "value": 310.0,
+                    "unit": "\u03a9 sq-1",
+                    "conditions": "measured using the four point probe method",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "Overpotential",
+                    "value": 332.0,
+                    "unit": "mV",
+                    "conditions": "OER in 1 m KOH",
+                    "reaction_type": "OER",
+                    "evidence": 5
+                },
+                {
+                    "type": "Overpotential",
+                    "value": 332.0,
+                    "unit": "mV",
+                    "conditions": "in 1 m KOH",
+                    "reaction_type": "OER",
+                    "evidence": 6
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 71.0,
+                    "unit": "mA dec-1",
+                    "conditions": "in 1 m KOH at 1 mA cm-2",
+                    "reaction_type": "OER",
+                    "evidence": 7
+                },
+                {
+                    "type": "Overpotential",
+                    "value": 258.0,
+                    "unit": "mV",
+                    "conditions": "in 1 m KOH at 1 mA cm-2",
+                    "reaction_type": "OER",
+                    "evidence": 7
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 68.0,
+                    "unit": "mA dec-1",
+                    "conditions": "in 0.1 m KOH at 10 mA cm-2",
+                    "reaction_type": "OER",
+                    "evidence": 7
+                },
+                {
+                    "type": "Overpotential",
+                    "value": 300.0,
+                    "unit": "mV",
+                    "conditions": "in 0.1 m KOH at 10 mA cm-2",
+                    "reaction_type": "OER",
+                    "evidence": 7
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 59.0,
+                    "unit": "mA dec-1",
+                    "conditions": "in 1 m KOH at 10 mA cm-2",
+                    "reaction_type": "OER",
+                    "evidence": 7
+                },
+                {
+                    "type": "Overpotential",
+                    "value": 451.0,
+                    "unit": "mV",
+                    "conditions": "in 1 m KOH at 10 mA cm-2",
+                    "reaction_type": "OER",
+                    "evidence": 7
+                },
+                {
+                    "type": "Double-layer capacitance",
+                    "value": 40.39,
+                    "unit": "mF cm-2",
+                    "conditions": "in 1 m KOH at scan rates ranging from 1 to 5 mV s-1",
+                    "reaction_type": "OER",
+                    "evidence": 7
+                },
+                {
+                    "type": "Sheet resistance",
+                    "value": 680.0,
+                    "unit": "\u03a9 sq-1",
+                    "conditions": "measured using the four point probe method",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "XPS",
+                    "values": [
+                        795.0,
+                        780.0
+                    ],
+                    "units": [
+                        "eV"
+                    ],
+                    "conditions": [
+                        "Co 2p3/2 peak",
+                        "Co 2p1/2 peak"
+                    ],
+                    "evidence": 4.0
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "ultrathin Co3O4/CNTs",
+            "properties": [
+                {
+                    "type": "overpotential",
+                    "value": 324.0,
+                    "unit": "mV",
+                    "conditions": "O2-saturated 1 m KOH electrolyte",
+                    "reaction_type": "OER",
+                    "evidence": 3
+                },
+                {
+                    "type": "Overpotential",
+                    "value": 324.0,
+                    "unit": "mV",
+                    "conditions": "OER in 1 m KOH",
+                    "reaction_type": "OER",
+                    "evidence": 5
+                },
+                {
+                    "type": "Overpotential",
+                    "value": 324.0,
+                    "unit": "mV",
+                    "conditions": "in 1 m KOH",
+                    "reaction_type": "OER",
+                    "evidence": 6
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 77.0,
+                    "unit": "mA dec-1",
+                    "conditions": "in 1 m KOH",
+                    "reaction_type": "OER",
+                    "evidence": 7
+                },
+                {
+                    "type": "Double-layer capacitance",
+                    "value": 89.28,
+                    "unit": "mF cm-2",
+                    "conditions": "in 1 m KOH at scan rates ranging from 1 to 5 mV s-1",
+                    "reaction_type": "OER",
+                    "evidence": 7
+                },
+                {
+                    "type": "Sheet resistance",
+                    "value": 180.0,
+                    "unit": "\u03a9 sq-1",
+                    "conditions": "measured using the four point probe method",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "mesoporous Co3O4 nanoflakes",
+            "properties": [
+                {
+                    "type": "Tafel slope",
+                    "value": 48.0,
+                    "unit": "mA dec-1",
+                    "conditions": "in 1 m KOH at 1 mA cm-2",
+                    "reaction_type": "OER",
+                    "evidence": 7
+                },
+                {
+                    "type": "Overpotential",
+                    "value": 380.0,
+                    "unit": "mV",
+                    "conditions": "in 1 m KOH at 1 mA cm-2",
+                    "reaction_type": "OER",
+                    "evidence": 7
+                }
+            ],
+            "benchmark": false
+        }
+    ],
+    "doi": "example_doi",
+    "factor": "Hydrogen coverage,Energy barrier,Conductivity,Surface area,Size,Defect,Dopant,Active sites,Stability,Electrode potential,Overpotential,Tafel slope,onsite potential,Current density,Mass loading,XPS,FTIR,Raman,XRD",
+    "meta": {
+        "maintext": "/Users/yangz/Documents/projects/llm4catalyst/documents/maintext/Facile_Preparation_of_Ultrathin_Co3O4Nanocarbon_Co_maintext.txt",
+        "abstract": "/Users/yangz/Documents/projects/llm4catalyst/documents/abstract/Facile_Preparation_of_Ultrathin_Co3O4Nanocarbon_Co_abs.txt",
+        "intro": "documents/intro/c60_intro.txt",
+        "window_size": 2,
+        "chunk_size": 1000,
+        "chunk_overlap": 100,
+        "output": "results",
+        "property": "/Users/yangz/Documents/projects/llm4catalyst/prompts/properties.txt",
+        "self_defined": true,
+        "title": "Facile_Preparation_of_Ultrathin_Co3O4Nanocarbon_Co"
+    }
+}

@@ -1,0 +1,18 @@
+Abstract
+Iron and nitrogen codoped carbons (Fe–N–C) have attracted increasingly greater attention as electrocatalysts for oxygen reduction reaction (ORR). Although challenging, the synthesis of Fe–N–C catalysts with highly dispersed and fully exposed active sites is of critical importance for improving the ORR activity. Here, we report a new type of graphitic Fe–N–C catalysts featuring numerous Fe single atoms anchored on a three-dimensional simple-cubic carbon framework. The Fe–N–C catalyst, derived from self-assembled Fe3O4 nanocube superlattices, was prepared by in situ ligand carbonization followed by acid etching and ammonia activation. Benefiting from its homogeneously dispersed and fully accessible active sites, highly graphitic nature, and enhanced mass transport, our Fe–N–C catalyst outperformed Pt/C and many previously reported Fe–N–C catalysts for ORR. Furthermore, when used for constructing the cathode for zinc–air batteries, our Fe–N–C catalyst exhibited current and power densities comparable to those of the state-of-the-art Pt/C catalyst.
+This publication is licensed under the terms of your institutional subscription. Request reuse permissions.
+Copyright © 2017 American Chemical Society
+Subjects
+what are subjects
+Catalysts
+Electrodes
+Lattices
+Nanocubes
+Redox Reactions
+Keywords
+what are keywords
+Self-Assembly
+Fe−N−C Catalyst
+Single Atom
+Oxygen Reduction Reaction
+Zinc−air Battery

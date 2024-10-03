@@ -1,0 +1,344 @@
+{
+    "materials": [
+        {
+            "material_name": "NCs",
+            "properties": [
+                {
+                    "type": "Current density",
+                    "value": 3.0,
+                    "unit": "mA cm\u22122",
+                    "conditions": "Electrochemical impedance spectroscopy (EIS) measurements at 1600 rpm and at the potential under which the current density reaches",
+                    "reaction_type": "ORR",
+                    "evidence": 0
+                },
+                {
+                    "type": "Amplitude",
+                    "value": 10.0,
+                    "unit": "mV",
+                    "conditions": "Electrochemical impedance spectroscopy (EIS) measurements",
+                    "reaction_type": "ORR",
+                    "evidence": 0
+                },
+                {
+                    "type": "Onset potential",
+                    "value": -2.0,
+                    "unit": "\u03bcA cm\u22122",
+                    "conditions": "in 0.10 M KOH solution, LSV",
+                    "reaction_type": "ORR",
+                    "evidence": 3
+                },
+                {
+                    "type": "onset potential",
+                    "value": 993.0,
+                    "unit": "mV",
+                    "conditions": "ORR activity",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "current density",
+                    "value": 1.57,
+                    "unit": "mA cm\u22122",
+                    "conditions": "ORR activity",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "Onset potential",
+                    "value": 993.0,
+                    "unit": "mV",
+                    "conditions": "LSV, RDE at 1600 rpm",
+                    "reaction_type": "ORR",
+                    "evidence": 3
+                },
+                {
+                    "type": "Current density",
+                    "value": 1.85,
+                    "unit": "mA cm\u22122",
+                    "conditions": "LSV, RDE at 1600 rpm",
+                    "reaction_type": "ORR",
+                    "evidence": 3
+                },
+                {
+                    "type": "BET surface area",
+                    "value": 338.0,
+                    "unit": "m2 g\u22121",
+                    "conditions": "after pyrolysis",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Pore volume",
+                    "value": 0.9,
+                    "unit": "cm3 g\u22121",
+                    "conditions": "after pyrolysis",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "ORR activity",
+                    "value": 993.0,
+                    "unit": "mV",
+                    "conditions": "onset potential",
+                    "reaction_type": "ORR",
+                    "evidence": 4
+                },
+                {
+                    "type": "Current density",
+                    "value": 1.85,
+                    "unit": "mA cm\u22122",
+                    "conditions": "after pyrolysis",
+                    "reaction_type": "ORR",
+                    "evidence": 4
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Pt/C",
+            "properties": [
+                {
+                    "type": "Mass loading",
+                    "value": 0.127,
+                    "unit": "mg cm\u22122",
+                    "conditions": "Electrocatalytic performance measurements",
+                    "reaction_type": "ORR",
+                    "evidence": 0
+                },
+                {
+                    "type": "Mass loading",
+                    "value": 0.127,
+                    "unit": "mg cm\u22122",
+                    "conditions": "Electrochemical workstation, Metrohm Autolab PGSTAT204, three-electrode cell, Ag/AgCl in 3 M AgCl\u2013KCl solution, platinum wire counter electrode",
+                    "reaction_type": "ORR",
+                    "evidence": 1
+                },
+                {
+                    "type": "Mass loading",
+                    "value": 0.127,
+                    "unit": "mg cm\u22122",
+                    "conditions": "electrode preparation",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                }
+            ],
+            "benchmark": true
+        },
+        {
+            "material_name": "NCG0.05",
+            "properties": [
+                {
+                    "type": "Electrical conductivity",
+                    "value": 0.05,
+                    "unit": "S m^{-1}",
+                    "conditions": "with the addition of GO",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "Size",
+                    "value": 10.0,
+                    "unit": "\u03bcm",
+                    "conditions": "SEM and TEM analysis",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "Conductivity",
+                    "value": 0.05,
+                    "unit": "S m\u22121",
+                    "conditions": "post-HTC treatment",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "BET surface area",
+                    "value": 338.0,
+                    "unit": "m2 g\u22121",
+                    "conditions": "nitrogen sorption at -196 \u00b0C, DFT method",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "Pore volume",
+                    "value": 0.9,
+                    "unit": "cm3 g\u22121",
+                    "conditions": "nitrogen sorption at -196 \u00b0C, DFT method",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "Conductivity",
+                    "value": 0.05,
+                    "unit": "S m\u22121",
+                    "conditions": "with addition of GO",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "BET surface area",
+                    "value": 338.0,
+                    "unit": "m2 g\u22121",
+                    "conditions": "after pyrolysis",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Pore volume",
+                    "value": 0.9,
+                    "unit": "cm3 g\u22121",
+                    "conditions": "after pyrolysis",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "current density",
+                    "value": 1.75,
+                    "unit": "mA cm\u22122",
+                    "conditions": "ORR activity",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "XPS",
+                    "values": [
+                        398.0,
+                        400.0,
+                        401.0
+                    ],
+                    "units": [
+                        "eV"
+                    ],
+                    "conditions": [
+                        "quaternary-N",
+                        "pyrrolic-N",
+                        "pyridinic-N"
+                    ],
+                    "evidence": 4.0
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "NCG0.25",
+            "properties": [
+                {
+                    "type": "Electrical conductivity",
+                    "value": 29.2,
+                    "unit": "S m^{-1}",
+                    "conditions": "with the addition of GO",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "Conductivity",
+                    "value": 29.2,
+                    "unit": "S m\u22121",
+                    "conditions": "post-HTC treatment",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "BET surface area",
+                    "value": 338.0,
+                    "unit": "m2 g\u22121",
+                    "conditions": "nitrogen sorption at -196 \u00b0C, DFT method",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "Pore volume",
+                    "value": 0.9,
+                    "unit": "cm3 g\u22121",
+                    "conditions": "nitrogen sorption at -196 \u00b0C, DFT method",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "Conductivity",
+                    "value": 29.2,
+                    "unit": "S m\u22121",
+                    "conditions": "with addition of GO",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "BET surface area",
+                    "value": 338.0,
+                    "unit": "m2 g\u22121",
+                    "conditions": "after pyrolysis",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Pore volume",
+                    "value": 0.9,
+                    "unit": "cm3 g\u22121",
+                    "conditions": "after pyrolysis",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "BET surface area",
+                    "value": 338.0,
+                    "unit": "m2 g\u22121",
+                    "conditions": "after annealing",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                },
+                {
+                    "type": "pore volume",
+                    "value": 0.9,
+                    "unit": "cm3 g\u22121",
+                    "conditions": "after annealing",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                },
+                {
+                    "type": "current density",
+                    "value": 1.85,
+                    "unit": "mA cm\u22122",
+                    "conditions": "ORR activity",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "Current density",
+                    "value": 1.85,
+                    "unit": "mA cm\u22122",
+                    "conditions": "LSV, RDE at 1600 rpm",
+                    "reaction_type": "ORR",
+                    "evidence": 3
+                },
+                {
+                    "type": "XPS",
+                    "values": [
+                        402.0
+                    ],
+                    "units": [
+                        "eV"
+                    ],
+                    "conditions": [
+                        "oxidized-N"
+                    ],
+                    "evidence": 4.0
+                }
+            ],
+            "benchmark": false
+        }
+    ],
+    "doi": "example_doi",
+    "factor": "Hydrogen coverage,Energy barrier,Conductivity,Surface area,Size,Defect,Dopant,Active sites,Stability,Electrode potential,Overpotential,Tafel slope,onsite potential,Current density,Mass loading,XPS,FTIR,Raman,XRD",
+    "meta": {
+        "maintext": "/Users/yangz/Documents/projects/llm4catalyst/documents/maintext/Graphenenitrogendoped_porous_carbon_sandwiches_for_maintext.txt",
+        "abstract": "/Users/yangz/Documents/projects/llm4catalyst/documents/abstract/Graphenenitrogendoped_porous_carbon_sandwiches_for_abs.txt",
+        "intro": "documents/intro/c60_intro.txt",
+        "window_size": 2,
+        "chunk_size": 1000,
+        "chunk_overlap": 100,
+        "output": "results",
+        "property": "/Users/yangz/Documents/projects/llm4catalyst/prompts/properties.txt",
+        "self_defined": true,
+        "title": "Graphenenitrogendoped_porous_carbon_sandwiches_for"
+    }
+}

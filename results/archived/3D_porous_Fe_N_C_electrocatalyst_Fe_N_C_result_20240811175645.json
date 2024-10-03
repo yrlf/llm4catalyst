@@ -1,0 +1,560 @@
+{
+    "materials": [
+        {
+            "material_name": "Pt/C",
+            "properties": [
+                {
+                    "type": "ORR activity",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "NA",
+                    "reaction_type": "ORR",
+                    "evidence": 0
+                },
+                {
+                    "type": "current density",
+                    "value": 1.15,
+                    "unit": "mA/cm\u00b2",
+                    "conditions": "at 0.85 V in O2-saturated 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 66.0,
+                    "unit": "mV/decade",
+                    "conditions": "in 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 62.0,
+                    "unit": "mV/decade",
+                    "conditions": "in O2-saturated 0.5 M H2SO4",
+                    "reaction_type": "ORR",
+                    "evidence": 9
+                },
+                {
+                    "type": "onset potential shift",
+                    "value": 65.0,
+                    "unit": "mV",
+                    "conditions": "in 0.5 M H2SO4",
+                    "reaction_type": "ORR",
+                    "evidence": 9
+                },
+                {
+                    "type": "electron transfer number",
+                    "value": 3.93,
+                    "unit": "-",
+                    "conditions": "in acidic medium",
+                    "reaction_type": "ORR",
+                    "evidence": 9
+                },
+                {
+                    "type": "H2O2 yield",
+                    "value": 4.1,
+                    "unit": "%",
+                    "conditions": "under potential range of 0.2\u20130.7 V",
+                    "reaction_type": "ORR",
+                    "evidence": 9
+                },
+                {
+                    "type": "Half-wave potential",
+                    "value": 1.2,
+                    "unit": "V vs RHE",
+                    "conditions": "in O2-saturated 0.5 M H2SO4",
+                    "reaction_type": "ORR",
+                    "evidence": 10
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Fe30NC-Ar700-NH3-45%",
+            "properties": [
+                {
+                    "type": "Pyrolysis temperature",
+                    "value": 700.0,
+                    "unit": "\u00b0C",
+                    "conditions": "in Ar",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "Pyrolysis temperature",
+                    "value": 950.0,
+                    "unit": "\u00b0C",
+                    "conditions": "in NH3",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "Weight remaining",
+                    "value": 45.0,
+                    "unit": "%",
+                    "conditions": "after NH3 pyrolysis",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "Half-wave potential",
+                    "value": 0.87,
+                    "unit": "V",
+                    "conditions": "in 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 3
+                },
+                {
+                    "type": "Current density",
+                    "value": 1.91,
+                    "unit": "mA/cm\u00b2",
+                    "conditions": "at 0.9 V with the same catalyst loading on the electrode",
+                    "reaction_type": "ORR",
+                    "evidence": 3
+                },
+                {
+                    "type": "Pyridinic N content",
+                    "value": 44.7,
+                    "unit": "%",
+                    "conditions": "XPS analysis",
+                    "reaction_type": "ORR",
+                    "evidence": 4
+                },
+                {
+                    "type": "Fe 2p peak",
+                    "value": 711.0,
+                    "unit": "eV",
+                    "conditions": "XPS analysis",
+                    "reaction_type": "ORR",
+                    "evidence": 4
+                },
+                {
+                    "type": "Fe 2p peak",
+                    "value": 725.0,
+                    "unit": "eV",
+                    "conditions": "XPS analysis",
+                    "reaction_type": "ORR",
+                    "evidence": 4
+                },
+                {
+                    "type": "BET surface area",
+                    "value": 536.3,
+                    "unit": "m\u00b2/g",
+                    "conditions": "nitrogen isothermal adsorption/desorption measurements",
+                    "reaction_type": "ORR",
+                    "evidence": 4
+                },
+                {
+                    "type": "Micropore surface area",
+                    "value": 435.7,
+                    "unit": "m\u00b2/g",
+                    "conditions": "nitrogen isothermal adsorption/desorption measurements",
+                    "reaction_type": "ORR",
+                    "evidence": 4
+                },
+                {
+                    "type": "Mesopore surface area",
+                    "value": 100.6,
+                    "unit": "m\u00b2/g",
+                    "conditions": "nitrogen isothermal adsorption/desorption measurements",
+                    "reaction_type": "ORR",
+                    "evidence": 4
+                },
+                {
+                    "type": "half-wave potential",
+                    "value": 0.87,
+                    "unit": "V",
+                    "conditions": "in 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "current density",
+                    "value": 1.91,
+                    "unit": "mA cm\u20132",
+                    "conditions": "at 0.9 V with the same catalyst loading on the electrode",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "Pyridinic N content",
+                    "value": 44.7,
+                    "unit": "%",
+                    "conditions": "XPS measurement",
+                    "reaction_type": "ORR",
+                    "evidence": 6
+                },
+                {
+                    "type": "Fe 2p peaks",
+                    "value": 711.0,
+                    "unit": "eV",
+                    "conditions": "XPS measurement",
+                    "reaction_type": "NA",
+                    "evidence": 6
+                },
+                {
+                    "type": "Fe 2p peaks",
+                    "value": 725.0,
+                    "unit": "eV",
+                    "conditions": "XPS measurement",
+                    "reaction_type": "NA",
+                    "evidence": 6
+                },
+                {
+                    "type": "Fe content by XPS",
+                    "value": 1.2,
+                    "unit": "%",
+                    "conditions": "XPS measurement",
+                    "reaction_type": "NA",
+                    "evidence": 6
+                },
+                {
+                    "type": "Fe content by XPS",
+                    "value": 2.0,
+                    "unit": "%",
+                    "conditions": "XPS measurement",
+                    "reaction_type": "NA",
+                    "evidence": 6
+                },
+                {
+                    "type": "Optimized Fe content",
+                    "value": 5.5,
+                    "unit": "wt %",
+                    "conditions": "calculated from pyrolysis parameters",
+                    "reaction_type": "NA",
+                    "evidence": 6
+                },
+                {
+                    "type": "Optimized Fe content",
+                    "value": 8.0,
+                    "unit": "wt %",
+                    "conditions": "calculated from pyrolysis parameters",
+                    "reaction_type": "NA",
+                    "evidence": 6
+                },
+                {
+                    "type": "Fe content",
+                    "value": 7.02,
+                    "unit": "wt %",
+                    "conditions": "NA",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "micropore/mesopore ratio",
+                    "value": 4.33,
+                    "unit": "NA",
+                    "conditions": "NA",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "current density",
+                    "value": 3.43,
+                    "unit": "mA/cm\u00b2",
+                    "conditions": "at 0.85 V in O2-saturated 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "H2O2 yield",
+                    "value": 1.5,
+                    "unit": "%",
+                    "conditions": "range of 0.5\u20130.85 V in 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 67.0,
+                    "unit": "mV/decade",
+                    "conditions": "in 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "Current density",
+                    "value": 3.43,
+                    "unit": "mA/cm\u00b2",
+                    "conditions": "at 0.85 V vs RHE in O2-saturated 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 8
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 62.0,
+                    "unit": "mV/decade",
+                    "conditions": "in O2-saturated 0.5 M H2SO4",
+                    "reaction_type": "ORR",
+                    "evidence": 9
+                },
+                {
+                    "type": "onset potential shift",
+                    "value": 30.0,
+                    "unit": "mV",
+                    "conditions": "in 0.5 M H2SO4",
+                    "reaction_type": "ORR",
+                    "evidence": 9
+                },
+                {
+                    "type": "electron transfer number",
+                    "value": 3.89,
+                    "unit": "-",
+                    "conditions": "in acidic medium",
+                    "reaction_type": "ORR",
+                    "evidence": 9
+                },
+                {
+                    "type": "H2O2 yield",
+                    "value": 6.5,
+                    "unit": "%",
+                    "conditions": "under potential range of 0.2\u20130.7 V",
+                    "reaction_type": "ORR",
+                    "evidence": 9
+                },
+                {
+                    "type": "Fe content",
+                    "value": 7.0,
+                    "unit": "wt %",
+                    "conditions": "optimized content for ORR performance",
+                    "reaction_type": "ORR",
+                    "evidence": 10
+                },
+                {
+                    "type": "BET surface area",
+                    "value": 536.3,
+                    "unit": "m2 g\u20131",
+                    "conditions": "including micropores and mesopores",
+                    "reaction_type": "ORR",
+                    "evidence": 10
+                },
+                {
+                    "type": "Micropore surface area",
+                    "value": 435.7,
+                    "unit": "m2 g\u20131",
+                    "conditions": "part of total BET surface area",
+                    "reaction_type": "ORR",
+                    "evidence": 10
+                },
+                {
+                    "type": "Mesopore surface area",
+                    "value": 100.6,
+                    "unit": "m2 g\u20131",
+                    "conditions": "part of total BET surface area",
+                    "reaction_type": "ORR",
+                    "evidence": 10
+                },
+                {
+                    "type": "Rmicro/meso",
+                    "value": 4.33,
+                    "unit": "ratio",
+                    "conditions": "ratio of micropore to mesopore surface area",
+                    "reaction_type": "ORR",
+                    "evidence": 10
+                },
+                {
+                    "type": "Half-wave potential",
+                    "value": 0.87,
+                    "unit": "V",
+                    "conditions": "in alkaline solution",
+                    "reaction_type": "ORR",
+                    "evidence": 10
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Fe20NC-ArT-NH3-30%",
+            "properties": [
+                {
+                    "type": "Pyrolysis temperature",
+                    "value": 700.0,
+                    "unit": "\u00b0C",
+                    "conditions": "in 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 2
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Fe/N/C",
+            "properties": [
+                {
+                    "type": "Oxygen Reduction Reaction",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "NA",
+                    "reaction_type": "ORR",
+                    "evidence": 11
+                },
+                {
+                    "type": "Active sites",
+                    "value": 12.0,
+                    "unit": "index",
+                    "conditions": "PEM Fuel Cells",
+                    "reaction_type": "ORR",
+                    "evidence": 12
+                },
+                {
+                    "type": "Oxygen Reduction Activity",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "in Polymer Electrolyte Fuel Cells",
+                    "reaction_type": "ORR",
+                    "evidence": 13
+                },
+                {
+                    "type": "Stability",
+                    "value": 0.0,
+                    "unit": "NA",
+                    "conditions": "used to reduce oxygen at the cathode of PEM Fuel Cells",
+                    "reaction_type": "ORR",
+                    "evidence": 14
+                },
+                {
+                    "type": "Active sites",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "Oxygen Reduction Reaction in Acidic Media",
+                    "reaction_type": "ORR",
+                    "evidence": 15
+                },
+                {
+                    "type": "Active sites",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "Oxygen Reduction Reaction",
+                    "reaction_type": "ORR",
+                    "evidence": 15
+                },
+                {
+                    "type": "Stability",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "used to reduce oxygen at the cathode of PEM fuel cells",
+                    "reaction_type": "ORR",
+                    "evidence": 16
+                },
+                {
+                    "type": "Surface area",
+                    "value": 1200.0,
+                    "unit": "m\u00b2/g",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 19
+                },
+                {
+                    "type": "Active Catalytic Sites",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "for the Oxygen Reduction Reaction",
+                    "reaction_type": "ORR",
+                    "evidence": 22
+                },
+                {
+                    "type": "Oxygen Reduction Reaction",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "derived from a porphyrinic coordination network",
+                    "reaction_type": "ORR",
+                    "evidence": 24
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Fe/Fe3C\u2013C Nanorods",
+            "properties": [
+                {
+                    "type": "Active sites",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "Oxygen Reduction Reaction",
+                    "reaction_type": "ORR",
+                    "evidence": 15
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "N/B Co-doped carbon",
+            "properties": [
+                {
+                    "type": "Cathode catalyst",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "asymmetric neutral-alkaline microbial fuel cell",
+                    "reaction_type": "NA",
+                    "evidence": 17
+                },
+                {
+                    "type": "Electrocatalyst",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "for oxygen reduction reaction in alkaline medium",
+                    "reaction_type": "ORR",
+                    "evidence": 18
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "bismuth silicate@nitrogen-doped graphene",
+            "properties": [
+                {
+                    "type": "catalyst efficiency",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "as catalyst",
+                    "reaction_type": "NA",
+                    "evidence": 20
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "FeCo-N-C",
+            "properties": [
+                {
+                    "type": "Active density",
+                    "value": 21.0,
+                    "unit": "index",
+                    "conditions": "ORR performance",
+                    "reaction_type": "ORR",
+                    "evidence": 21
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "FeCoNi\u2013N/C nanof",
+            "properties": [
+                {
+                    "type": "NA",
+                    "value": 0.0,
+                    "unit": "NA",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 23
+                }
+            ],
+            "benchmark": false
+        }
+    ],
+    "doi": "example_doi",
+    "factor": "Hydrogen coverage,Energy barrier,Conductivity,Surface area,Size,Defect,Dopant,Active sites,Stability,Electrode potential,Overpotential,Tafel slope,onsite potential,Current density,Mass loading,XPS,FTIR,Raman,XRD",
+    "meta": {
+        "maintext": "/Users/yangz/Documents/projects/llm4catalyst/documents/maintext/3D_Porous_FeNC_Spherical_Nanostructures_As_HighPer_maintext.txt",
+        "abstract": "/Users/yangz/Documents/projects/llm4catalyst/documents/abstract/3D_Porous_FeNC_Spherical_Nanostructures_As_HighPer_abs.txt",
+        "intro": "documents/intro/c60_intro.txt",
+        "window_size": 2,
+        "chunk_size": 1000,
+        "chunk_overlap": 100,
+        "output": "results",
+        "property": "/Users/yangz/Documents/projects/llm4catalyst/prompts/properties.txt",
+        "self_defined": true,
+        "title": "3D_Porous_FeNC_Spherical_Nanostructures_As_HighPer"
+    }
+}

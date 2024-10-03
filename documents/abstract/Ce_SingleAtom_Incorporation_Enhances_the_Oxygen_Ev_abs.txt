@@ -1,0 +1,11 @@
+Abstract
+Oxygen evolution reaction (OER) plays an important role in energy conversion processes such as water electrolysis and metal–air batteries. At present, finding a high-performance and low-cost catalyst for the OER in acidic media remains a great challenge. It is therefore important to develop efficient, robust, and inexpensive electrocatalysts by replacing noble metal-based catalysts with transition-metal electrocatalysts. Herein, we propose a facile method for incorporating Ce-metal single atoms into Co3O4 nanosheets to boost their OER activity and stability. Owing to the enhanced charge transfer and improved electronic structure resulting from Ce incorporation, the obtained Ce single-atom-doped Co3O4 nanosheet exhibits greatly enhanced OER performance. It achieves a 10 mA cm–2 current density under a low overpotential of 348 mV in a 0.5 M H2SO4 solution with excellent stability, outperforming the state-of-the-art non-noble electrocatalysts recently reported in acid.
+This publication is licensed under the terms of your institutional subscription. Request reuse permissions.
+Copyright © 2024 American Chemical Society
+Subjects
+what are subjects
+Catalysts
+Electrodes
+Oxygen
+Radiology
+X-Ray Photoelectron Spectroscopy

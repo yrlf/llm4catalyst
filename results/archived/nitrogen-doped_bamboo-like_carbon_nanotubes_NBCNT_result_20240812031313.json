@@ -1,0 +1,436 @@
+{
+    "materials": [
+        {
+            "material_name": "Co-NBCNT",
+            "properties": [
+                {
+                    "type": "diameter",
+                    "value": 0.0,
+                    "unit": "uniform",
+                    "conditions": "synthesized by annealing a powder mixture of melamine and cobalt acetate",
+                    "reaction_type": "NA",
+                    "evidence": 0
+                },
+                {
+                    "type": "length",
+                    "value": 0.0,
+                    "unit": "uniform",
+                    "conditions": "synthesized by annealing a powder mixture of melamine and cobalt acetate",
+                    "reaction_type": "NA",
+                    "evidence": 0
+                },
+                {
+                    "type": "onset potential",
+                    "value": -0.0067,
+                    "unit": "V",
+                    "conditions": "vs. Ag/AgCl",
+                    "reaction_type": "ORR",
+                    "evidence": 1
+                },
+                {
+                    "type": "diffusion-limiting current",
+                    "value": 5.48,
+                    "unit": "mA/cm\u00b2",
+                    "conditions": "in 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 1
+                },
+                {
+                    "type": "Onset potential",
+                    "value": -0.0067,
+                    "unit": "V",
+                    "conditions": "vs. Ag/AgCl",
+                    "reaction_type": "ORR",
+                    "evidence": 2
+                },
+                {
+                    "type": "Diffusion-limiting current",
+                    "value": 5.48,
+                    "unit": "mA/cm\u00b2",
+                    "conditions": "in 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 2
+                },
+                {
+                    "type": "onset potential",
+                    "value": -0.0067,
+                    "unit": "V",
+                    "conditions": "vs. Ag/AgCl, ORR",
+                    "reaction_type": "ORR",
+                    "evidence": 3
+                },
+                {
+                    "type": "diffusion-limiting current",
+                    "value": 5.48,
+                    "unit": "mA/cm\u00b2",
+                    "conditions": "ORR, 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 3
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Pt/C",
+            "properties": [
+                {
+                    "type": "onset potential",
+                    "value": -0.019,
+                    "unit": "V",
+                    "conditions": "vs. Ag/AgCl",
+                    "reaction_type": "ORR",
+                    "evidence": 1
+                },
+                {
+                    "type": "diffusion-limiting current",
+                    "value": 4.91,
+                    "unit": "mA/cm\u00b2",
+                    "conditions": "in 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 1
+                },
+                {
+                    "type": "Onset potential",
+                    "value": -0.019,
+                    "unit": "V",
+                    "conditions": "vs. Ag/AgCl",
+                    "reaction_type": "ORR",
+                    "evidence": 2
+                },
+                {
+                    "type": "Diffusion-limiting current",
+                    "value": 4.91,
+                    "unit": "mA/cm\u00b2",
+                    "conditions": "in 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 2
+                },
+                {
+                    "type": "ORR peak potential",
+                    "value": -0.19,
+                    "unit": "V",
+                    "conditions": "O2-saturated 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 4
+                },
+                {
+                    "type": "ORR current density",
+                    "value": -0.93,
+                    "unit": "mA/cm2",
+                    "conditions": "O2-saturated 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 4
+                },
+                {
+                    "type": "Diffusion-limiting current",
+                    "value": 4.91,
+                    "unit": "mA/cm2",
+                    "conditions": "O2-saturated 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 4
+                },
+                {
+                    "type": "Onset potential",
+                    "value": -0.019,
+                    "unit": "V",
+                    "conditions": "O2-saturated 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 4
+                },
+                {
+                    "type": "Reduction peak potential",
+                    "value": -0.19,
+                    "unit": "V",
+                    "conditions": "ORR in O2-saturated 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "Reaction current",
+                    "value": -0.93,
+                    "unit": "mA/cm\u00b2",
+                    "conditions": "ORR in O2-saturated 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "Diffusion-limiting current",
+                    "value": 4.91,
+                    "unit": "mA/cm\u00b2",
+                    "conditions": "ORR in O2-saturated 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "Onset potential",
+                    "value": -0.019,
+                    "unit": "V",
+                    "conditions": "ORR in O2-saturated 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "Half-wave potential",
+                    "value": 0.306,
+                    "unit": "V",
+                    "conditions": "O2-saturated 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 6
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 77.0,
+                    "unit": "mV per decade",
+                    "conditions": "in 0.1 M KOH at low overpotentials",
+                    "reaction_type": "ORR",
+                    "evidence": 8
+                },
+                {
+                    "type": "Current density",
+                    "value": 17.1,
+                    "unit": "% loss",
+                    "conditions": "after 10000 seconds at -0.80 V (vs. Ag/AgCl) in O2-saturated 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 8
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 1600.0,
+                    "unit": "rpm",
+                    "conditions": "in O2-saturated 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 9
+                },
+                {
+                    "type": "Current density",
+                    "value": -0.8,
+                    "unit": "V",
+                    "conditions": "in O2-saturated 0.1 M KOH at 1200 rpm",
+                    "reaction_type": "ORR",
+                    "evidence": 9
+                }
+            ],
+            "benchmark": true
+        },
+        {
+            "material_name": "Co-600-800",
+            "properties": [
+                {
+                    "type": "XRD peak position",
+                    "value": 26.5,
+                    "unit": "degrees",
+                    "conditions": "corresponds to the (002) planes of the graphitic carbon",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "XPS atomic percentage",
+                    "value": 95.92,
+                    "unit": "%",
+                    "conditions": "C content",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "XPS atomic percentage",
+                    "value": 1.92,
+                    "unit": "%",
+                    "conditions": "O content",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "XPS atomic percentage",
+                    "value": 1.91,
+                    "unit": "%",
+                    "conditions": "N content",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "XPS atomic percentage",
+                    "value": 0.26,
+                    "unit": "%",
+                    "conditions": "Co content",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "BET surface area",
+                    "value": 94.17,
+                    "unit": "m2/g",
+                    "conditions": "N2 adsorption/desorption isotherm",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Raman D band position",
+                    "value": 1329.0,
+                    "unit": "cm-1",
+                    "conditions": "micro-Raman spectrum",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Raman G band position",
+                    "value": 1573.0,
+                    "unit": "cm-1",
+                    "conditions": "micro-Raman spectrum",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "ID/IG ratio",
+                    "value": 0.96,
+                    "unit": "ratio",
+                    "conditions": "Raman spectrum defect density measurement",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Reduction peak potential",
+                    "value": -0.133,
+                    "unit": "V",
+                    "conditions": "ORR in O2-saturated 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "Reaction current",
+                    "value": -1.42,
+                    "unit": "mA/cm\u00b2",
+                    "conditions": "ORR in O2-saturated 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "Diffusion-limiting current",
+                    "value": 5.48,
+                    "unit": "mA/cm\u00b2",
+                    "conditions": "ORR in O2-saturated 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "Onset potential",
+                    "value": -0.0067,
+                    "unit": "V",
+                    "conditions": "ORR in O2-saturated 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "Half-wave potential",
+                    "value": 34.19,
+                    "unit": "mV",
+                    "conditions": "ORR in O2-saturated 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "Diffusion-limiting current",
+                    "value": 5.48,
+                    "unit": "mA/cm\u00b2",
+                    "conditions": "O2-saturated 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 6
+                },
+                {
+                    "type": "Onset potential",
+                    "value": -0.0067,
+                    "unit": "V",
+                    "conditions": "O2-saturated 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 6
+                },
+                {
+                    "type": "Half-wave potential",
+                    "value": 0.34,
+                    "unit": "V",
+                    "conditions": "O2-saturated 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 6
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 84.1,
+                    "unit": "mV/decade",
+                    "conditions": "in 0.1 M KOH at low overpotentials",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 77.0,
+                    "unit": "mV/decade",
+                    "conditions": "for the Pt/C catalyst in 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "Current density",
+                    "value": 9.6,
+                    "unit": "% loss",
+                    "conditions": "after 10000 seconds at -0.80 V (vs. Ag/AgCl) in O2-saturated 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 8
+                },
+                {
+                    "type": "Electrode potential",
+                    "value": 11.0,
+                    "unit": "mV",
+                    "conditions": "negative shift after 10000 continuous cycles",
+                    "reaction_type": "ORR",
+                    "evidence": 8
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 1600.0,
+                    "unit": "rpm",
+                    "conditions": "in O2-saturated 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 9
+                },
+                {
+                    "type": "Current density",
+                    "value": -0.8,
+                    "unit": "V",
+                    "conditions": "in O2-saturated 0.1 M KOH at 1200 rpm",
+                    "reaction_type": "ORR",
+                    "evidence": 9
+                },
+                {
+                    "type": "Electrode potential",
+                    "value": -0.6,
+                    "unit": "V",
+                    "conditions": "in O2-saturated 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 9
+                },
+                {
+                    "type": "Electrode potential",
+                    "value": 0.2,
+                    "unit": "V",
+                    "conditions": "in O2-saturated 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 9
+                }
+            ],
+            "benchmark": false
+        }
+    ],
+    "doi": "example_doi",
+    "factor": "Hydrogen coverage,Energy barrier,Conductivity,Surface area,Size,Defect,Dopant,Active sites,Stability,Electrode potential,Overpotential,Tafel slope,onsite potential,Current density,Mass loading,XPS,FTIR,Raman,XRD",
+    "meta": {
+        "maintext": "/Users/yangz/Documents/projects/llm4catalyst/documents/maintext/BambooLike_NitrogenDoped_Carbon_Nanotubes_with_Co__maintext.txt",
+        "abstract": "/Users/yangz/Documents/projects/llm4catalyst/documents/abstract/BambooLike_NitrogenDoped_Carbon_Nanotubes_with_Co__abs.txt",
+        "intro": "documents/intro/c60_intro.txt",
+        "window_size": 2,
+        "chunk_size": 1000,
+        "chunk_overlap": 100,
+        "output": "results",
+        "property": "/Users/yangz/Documents/projects/llm4catalyst/prompts/properties.txt",
+        "self_defined": true,
+        "title": "BambooLike_NitrogenDoped_Carbon_Nanotubes_with_Co_"
+    }
+}

@@ -1,0 +1,164 @@
+{
+    "materials": [
+        {
+            "material_name": "NCNTs",
+            "properties": [
+                {
+                    "type": "Nitrogen content",
+                    "value": 2.0,
+                    "unit": "at.%",
+                    "conditions": "using non-gaseous nitrogen precursors such as triazine and pyridine",
+                    "reaction_type": "ORR",
+                    "evidence": 0
+                },
+                {
+                    "type": "Nitrogen content",
+                    "value": 9.0,
+                    "unit": "at.%",
+                    "conditions": "using non-gaseous nitrogen precursors such as triazine and pyridine",
+                    "reaction_type": "ORR",
+                    "evidence": 0
+                },
+                {
+                    "type": "Mass loading",
+                    "value": 0.04,
+                    "unit": "mg",
+                    "conditions": "RRDE voltammetry, 20 \u03bcL of NCNT ink deposited onto the glassy carbon electrode",
+                    "reaction_type": "ORR",
+                    "evidence": 1
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Fc-NCNTs",
+            "properties": [
+                {
+                    "type": "onset potential",
+                    "value": -0.4,
+                    "unit": "V",
+                    "conditions": "RRDE voltammetry, 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 2
+                },
+                {
+                    "type": "half-wave potential",
+                    "value": -0.9,
+                    "unit": "V",
+                    "conditions": "RRDE voltammetry, 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 2
+                },
+                {
+                    "type": "kinetic current density",
+                    "value": 9.53,
+                    "unit": "mA/cm\u00b2",
+                    "conditions": "at the potential of -0.5 V",
+                    "reaction_type": "ORR",
+                    "evidence": 3
+                },
+                {
+                    "type": "Onset potential",
+                    "value": -0.12,
+                    "unit": "V",
+                    "conditions": "vs. Ag/AgCl",
+                    "reaction_type": "ORR",
+                    "evidence": 4
+                },
+                {
+                    "type": "Half-wave potential",
+                    "value": -0.33,
+                    "unit": "V",
+                    "conditions": "vs. Ag/AgCl",
+                    "reaction_type": "ORR",
+                    "evidence": 4
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": -0.065,
+                    "unit": "V dec-1",
+                    "conditions": "low current density regime",
+                    "reaction_type": "ORR",
+                    "evidence": 4
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": -0.136,
+                    "unit": "V dec-1",
+                    "conditions": "high current density regime",
+                    "reaction_type": "ORR",
+                    "evidence": 4
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "FePc-NCNTs",
+            "properties": [
+                {
+                    "type": "onset potential",
+                    "value": -0.5,
+                    "unit": "V",
+                    "conditions": "RRDE voltammetry, 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 2
+                },
+                {
+                    "type": "half-wave potential",
+                    "value": -0.9,
+                    "unit": "V",
+                    "conditions": "RRDE voltammetry, 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 2
+                },
+                {
+                    "type": "Onset potential",
+                    "value": -0.18,
+                    "unit": "V",
+                    "conditions": "vs. Ag/AgCl",
+                    "reaction_type": "ORR",
+                    "evidence": 4
+                },
+                {
+                    "type": "Half-wave potential",
+                    "value": -0.46,
+                    "unit": "V",
+                    "conditions": "vs. Ag/AgCl",
+                    "reaction_type": "ORR",
+                    "evidence": 4
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": -0.087,
+                    "unit": "V dec-1",
+                    "conditions": "low current density regime",
+                    "reaction_type": "ORR",
+                    "evidence": 4
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": -0.171,
+                    "unit": "V dec-1",
+                    "conditions": "high current density regime",
+                    "reaction_type": "ORR",
+                    "evidence": 4
+                }
+            ],
+            "benchmark": false
+        }
+    ],
+    "doi": "example_doi",
+    "factor": "Hydrogen coverage,Energy barrier,Conductivity,Surface area,Size,Defect,Dopant,Active sites,Stability,Electrode potential,Overpotential,Tafel slope,onsite potential,Current density,Mass loading,XPS,FTIR,Raman,XRD",
+    "meta": {
+        "maintext": "/Users/yangz/Documents/projects/llm4catalyst/documents/maintext/Electrocatalytic_activity_of_nitrogen_doped_carbon_maintext.txt",
+        "abstract": "/Users/yangz/Documents/projects/llm4catalyst/documents/abstract/Electrocatalytic_activity_of_nitrogen_doped_carbon_abs.txt",
+        "intro": "documents/intro/c60_intro.txt",
+        "window_size": 2,
+        "chunk_size": 1000,
+        "chunk_overlap": 100,
+        "output": "results",
+        "property": "/Users/yangz/Documents/projects/llm4catalyst/prompts/properties.txt",
+        "self_defined": true,
+        "title": "Electrocatalytic_activity_of_nitrogen_doped_carbon"
+    }
+}

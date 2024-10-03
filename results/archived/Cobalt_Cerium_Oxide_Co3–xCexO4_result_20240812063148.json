@@ -1,0 +1,451 @@
+{
+    "materials": [
+        {
+            "material_name": "CoOx(Ce)",
+            "properties": [
+                {
+                    "type": "OER activity",
+                    "value": 0.0,
+                    "unit": "NA",
+                    "conditions": "compared with commercial noble metal electrocatalyst (RuO2)",
+                    "reaction_type": "OER",
+                    "evidence": 0
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Co3\u2013xCexO4",
+            "properties": [
+                {
+                    "type": "Overpotential",
+                    "value": 307.0,
+                    "unit": "mV",
+                    "conditions": "at 100 mA cm\u20132",
+                    "reaction_type": "OER",
+                    "evidence": 1
+                },
+                {
+                    "type": "Durability",
+                    "value": 100.0,
+                    "unit": "h",
+                    "conditions": "without obvious decay",
+                    "reaction_type": "OER",
+                    "evidence": 1
+                },
+                {
+                    "type": "Current density",
+                    "value": 100.0,
+                    "unit": "mA cm\u20132",
+                    "conditions": "at 1.537 V versus RHE",
+                    "reaction_type": "OER",
+                    "evidence": 3
+                },
+                {
+                    "type": "Overpotential",
+                    "value": 364.0,
+                    "unit": "mV",
+                    "conditions": "at 100 mA cm\u20132",
+                    "reaction_type": "OER",
+                    "evidence": 3
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 48.0,
+                    "unit": "mV dec\u20131",
+                    "conditions": "from LSV curves",
+                    "reaction_type": "OER",
+                    "evidence": 3
+                },
+                {
+                    "type": "Charge transfer resistance",
+                    "value": 3.0,
+                    "unit": "\u03a9",
+                    "conditions": "from Nyquist plots at low-frequency region",
+                    "reaction_type": "OER",
+                    "evidence": 3
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 48.0,
+                    "unit": "mV dec\u20131",
+                    "conditions": "OER",
+                    "reaction_type": "OER",
+                    "evidence": 8
+                },
+                {
+                    "type": "Overpotential",
+                    "value": 0.0,
+                    "unit": "V",
+                    "conditions": "OER catalytic processes",
+                    "reaction_type": "OER",
+                    "evidence": 11
+                },
+                {
+                    "type": "XPS",
+                    "values": [
+                        796.5,
+                        781.1,
+                        795.1,
+                        779.7,
+                        0.4
+                    ],
+                    "units": [
+                        "eV"
+                    ],
+                    "conditions": [
+                        "shift in binding energy indicating electron transfer",
+                        "binding energy for Co3+",
+                        "binding energy for Co2+"
+                    ],
+                    "evidence": 4.0
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "NF/Co3\u2013xCexO4",
+            "properties": [
+                {
+                    "type": "OER current density",
+                    "value": 100.0,
+                    "unit": "mA cm2",
+                    "conditions": "at 1.537 V versus RHE",
+                    "reaction_type": "OER",
+                    "evidence": 5
+                },
+                {
+                    "type": "Overpotential",
+                    "value": 307.0,
+                    "unit": "mV",
+                    "conditions": "at 100 mA cm2",
+                    "reaction_type": "OER",
+                    "evidence": 5
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 48.0,
+                    "unit": "mV dec\u20131",
+                    "conditions": "LSV curves",
+                    "reaction_type": "OER",
+                    "evidence": 5
+                },
+                {
+                    "type": "Charge transfer resistance",
+                    "value": 3.0,
+                    "unit": "\u03a9",
+                    "conditions": "Nyquist plots at low-frequency region",
+                    "reaction_type": "OER",
+                    "evidence": 5
+                },
+                {
+                    "type": "Electrochemical active surface area",
+                    "value": 1.74,
+                    "unit": "cm2",
+                    "conditions": "estimated using electrochemical double-layer capacitance",
+                    "reaction_type": "OER",
+                    "evidence": 5
+                },
+                {
+                    "type": "Faraday efficiency",
+                    "value": 98.4,
+                    "unit": "%",
+                    "conditions": "at an overpotential of 295 mV",
+                    "reaction_type": "OER",
+                    "evidence": 5
+                },
+                {
+                    "type": "Turnover frequency",
+                    "value": 0.069,
+                    "unit": "s\u20131",
+                    "conditions": "at a certain overpotential",
+                    "reaction_type": "OER",
+                    "evidence": 5
+                },
+                {
+                    "type": "Charge transfer resistance",
+                    "value": 3.0,
+                    "unit": "\u03a9",
+                    "conditions": "Nyquist plots, low-frequency region, OER",
+                    "reaction_type": "OER",
+                    "evidence": 6
+                },
+                {
+                    "type": "Overpotential",
+                    "value": 370.0,
+                    "unit": "mV",
+                    "conditions": "Nyquist plots in O2-saturated 1 M KOH electrolyte",
+                    "reaction_type": "OER",
+                    "evidence": 6
+                },
+                {
+                    "type": "Current density",
+                    "value": 60.0,
+                    "unit": "mA",
+                    "conditions": "potentiostatic electrolysis",
+                    "reaction_type": "OER",
+                    "evidence": 6
+                },
+                {
+                    "type": "Faraday efficiency",
+                    "value": 98.4,
+                    "unit": "%",
+                    "conditions": "overpotential of 295 mV",
+                    "reaction_type": "OER",
+                    "evidence": 6
+                },
+                {
+                    "type": "Turnover frequency",
+                    "value": 0.069,
+                    "unit": "s\u20131",
+                    "conditions": "OER",
+                    "reaction_type": "OER",
+                    "evidence": 6
+                },
+                {
+                    "type": "Faraday efficiency",
+                    "value": 98.4,
+                    "unit": "%",
+                    "conditions": "with an overpotential of 295 mV",
+                    "reaction_type": "OER",
+                    "evidence": 7
+                },
+                {
+                    "type": "Overpotential",
+                    "value": 295.0,
+                    "unit": "mV",
+                    "conditions": "OER",
+                    "reaction_type": "OER",
+                    "evidence": 7
+                },
+                {
+                    "type": "Faraday efficiency",
+                    "value": 95.09,
+                    "unit": "%",
+                    "conditions": "over the test potential range",
+                    "reaction_type": "OER",
+                    "evidence": 7
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 48.0,
+                    "unit": "mV dec\u20131",
+                    "conditions": "OER",
+                    "reaction_type": "OER",
+                    "evidence": 7
+                },
+                {
+                    "type": "XPS",
+                    "values": [
+                        1.5
+                    ],
+                    "units": [
+                        "V"
+                    ],
+                    "conditions": [
+                        "polarized in 1 M KOH electrolyte"
+                    ],
+                    "evidence": 10.0
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "NF/Co3O4",
+            "properties": [
+                {
+                    "type": "OER current density",
+                    "value": 100.0,
+                    "unit": "mA cm2",
+                    "conditions": "at 1.594 V",
+                    "reaction_type": "OER",
+                    "evidence": 5
+                },
+                {
+                    "type": "Overpotential",
+                    "value": 364.0,
+                    "unit": "mV",
+                    "conditions": "at 100 mA cm2",
+                    "reaction_type": "OER",
+                    "evidence": 5
+                },
+                {
+                    "type": "Charge transfer resistance",
+                    "value": 8.0,
+                    "unit": "\u03a9",
+                    "conditions": "Nyquist plots at low-frequency region",
+                    "reaction_type": "OER",
+                    "evidence": 5
+                },
+                {
+                    "type": "Electrochemical active surface area",
+                    "value": 1.24,
+                    "unit": "cm2",
+                    "conditions": "estimated using electrochemical double-layer capacitance",
+                    "reaction_type": "OER",
+                    "evidence": 5
+                },
+                {
+                    "type": "Faraday efficiency",
+                    "value": 93.7,
+                    "unit": "%",
+                    "conditions": "at an overpotential of 295 mV",
+                    "reaction_type": "OER",
+                    "evidence": 5
+                },
+                {
+                    "type": "Turnover frequency",
+                    "value": 0.046,
+                    "unit": "s\u20131",
+                    "conditions": "at a certain overpotential",
+                    "reaction_type": "OER",
+                    "evidence": 5
+                }
+            ],
+            "benchmark": true
+        },
+        {
+            "material_name": "NF/Co3O4\u2013CeO2",
+            "properties": [
+                {
+                    "type": "Size",
+                    "value": 0.467,
+                    "unit": "nm",
+                    "conditions": "HRTEM, (111) facets",
+                    "reaction_type": "NA",
+                    "evidence": 9
+                },
+                {
+                    "type": "Size",
+                    "value": 0.259,
+                    "unit": "nm",
+                    "conditions": "HRTEM, (004) facets",
+                    "reaction_type": "NA",
+                    "evidence": 9
+                },
+                {
+                    "type": "Hydrogen coverage",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "Acidic Oxygen Evolution",
+                    "reaction_type": "OER",
+                    "evidence": 17
+                },
+                {
+                    "type": "Hydrogen coverage",
+                    "value": 0.0,
+                    "unit": "NA",
+                    "conditions": "Acidic Oxygen Evolution",
+                    "reaction_type": "OER",
+                    "evidence": 19
+                },
+                {
+                    "type": "XPS",
+                    "values": [
+                        1.5
+                    ],
+                    "units": [
+                        "V"
+                    ],
+                    "conditions": [
+                        "polarized in 1 M KOH electrolyte"
+                    ],
+                    "evidence": 10.0
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Ir\u2013Ni Oxide Catalysts",
+            "properties": [
+                {
+                    "type": "OER activity",
+                    "value": 13031.0,
+                    "unit": "NA",
+                    "conditions": "Electrochemical Water Splitting",
+                    "reaction_type": "OER",
+                    "evidence": 12
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "RuCu Nanosheets",
+            "properties": [
+                {
+                    "type": "Current density",
+                    "value": 10.0,
+                    "unit": "mA/cm\u00b2",
+                    "conditions": "pH-Universal",
+                    "reaction_type": "OER",
+                    "evidence": 13
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "CoS decorated with CeOx nanoparticles",
+            "properties": [
+                {
+                    "type": "Oxygen Evolution Reaction Electrocatalysis",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "MOF-Derived",
+                    "reaction_type": "OER",
+                    "evidence": 14
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Co3O4",
+            "properties": [
+                {
+                    "type": "Oxygen Evolution Reaction",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "during oxygen evolution",
+                    "reaction_type": "OER",
+                    "evidence": 15
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "CeO2/CoSe2",
+            "properties": [
+                {
+                    "type": "Electrocatalyst",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "for Electrochemical Water Oxidation",
+                    "reaction_type": "OER",
+                    "evidence": 16
+                },
+                {
+                    "type": "Electrochemical Water Oxidation",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "Nanobelt Composite",
+                    "reaction_type": "OER",
+                    "evidence": 18
+                }
+            ],
+            "benchmark": false
+        }
+    ],
+    "doi": "example_doi",
+    "factor": "Hydrogen coverage,Energy barrier,Conductivity,Surface area,Size,Defect,Dopant,Active sites,Stability,Electrode potential,Overpotential,Tafel slope,onsite potential,Current density,Mass loading,XPS,FTIR,Raman,XRD",
+    "meta": {
+        "maintext": "/Users/yangz/Documents/projects/llm4catalyst/documents/maintext/Efficient_Electronic_Transport_in_Partially_Disord_maintext.txt",
+        "abstract": "/Users/yangz/Documents/projects/llm4catalyst/documents/abstract/Efficient_Electronic_Transport_in_Partially_Disord_abs.txt",
+        "intro": "documents/intro/c60_intro.txt",
+        "window_size": 2,
+        "chunk_size": 1000,
+        "chunk_overlap": 100,
+        "output": "results",
+        "property": "/Users/yangz/Documents/projects/llm4catalyst/prompts/properties.txt",
+        "self_defined": true,
+        "title": "Efficient_Electronic_Transport_in_Partially_Disord"
+    }
+}

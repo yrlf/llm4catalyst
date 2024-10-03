@@ -1,0 +1,8 @@
+•
+Graphitic N dopants embedded in carbon matrix boost the intrinsic activity of single-atom FeN4 sites.
+•
+3D interconnected pores of ordered mesoporous carbon framework endow dense Fe-N-C sites accessible.
+•
+Fe-N-C/N-OMC provides a half-wave potential of 0.93 V, a kinetic current density of 57.4 mA cm-2, a turnover frequency (TOF) of 38.4 s-1 and a mass activity of 66.4 A mgFe-1 towards ORR in 0.1 M KOH.
+•
+Fe-N-C/N-OMC shows a half-wave potential of 0.73 V towards ORR in 0.5 M H2SO4, comparable to Pt/C.

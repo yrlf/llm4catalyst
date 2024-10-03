@@ -1,0 +1,232 @@
+•
+Zr-doping Co3O4 electrocatalysts were fabricated on nickel foam.
+•
+Zr-doping Co3O4 weave-like nanoarray exhibits excellent alkaline OER activity.
+•
+The free energy of potential rate-determining step is reduced.
+•
+Morphology and electronic structure of Co3O4 were optimized by Zr doping.
+•
+The design of the experiment can be guided and predicted via DFT calculations.
+Zr-doping Co3O4 electrocatalysts were fabricated on nickel foam.
+Zr-doping Co3O4 weave-like nanoarray exhibits excellent alkaline OER activity.
+The free energy of potential rate-determining step is reduced.
+Morphology and electronic structure of Co3O4 were optimized by Zr doping.
+The design of the experiment can be guided and predicted via DFT calculations.
+It is urgently crucial to design high-performance and low-cost electrocatalysis for oxygen evolution reaction (OER) toward associated renewable energy systems. Herein, we reported that a certain amount of Zirconium doping in Co3O4 can regulate the electronic structure and morphology, therefore, boost the OER electrocatalytic performance. Zr doped Co3O4 demonstrates more excellent OER activity than pure Co3O4, as confirmed by density functional theory (DFT) calculations and experimental results, where the acceleration of potential rate-determining step and the improvement of conductivity are attributed to the introduction of Zr-dopants. Specifically, the as-synthesized 3D Zr-Co3O4/NF exhibits prominent OER activity with low overpotential 307 mV to drive current density of 20 mA cm−2, modest Tafel slope of 99 mV dec−1 and robust stability in 1 M KOH electrolyte. Our work reveals a novel approach to disclose Zr as a feasible dopant to optimize electronic structure and OER catalytic performance of metal oxides, and also proves the guiding role of DFT calculations for reasonable preparation of high-efficiency OER catalysts.
+Zr-doping Co3O4 weave-like nanoarray as an efficient OER catalyst was designed under the guidance of DFT calculations. Zr doping in Co3O4 can accelerate potential rate-determining step, regulate electronic structure and morphology, therefore, boost OER activity.
+Download: Download high-res image (205KB)
+Download: Download full-size image
+Oxygen evolution reaction (OER) plays an incredibly key role in many sustainable electrochemical energy conversion systems, such as water splitting, metal-air batteries and fuel cells
+[1]
+,
+[2]
+,
+[3]
+,
+[4]
+,
+[5]
+. Unfortunately, OER shows intrinsically sluggish kinetics due to a stepwise four-electron/proton transfer, which also has driven the exploration of high-efficiency electrocatalysts
+[6]
+,
+[7]
+. At present, Ru and Ir-based noble-metal electrocatalysts are considered as the best catalysts for OER
+[8]
+. Nevertheless, the scarcity and high price of those noble-metal materials significantly impede their large-scale application
+[9]
+. Hence, it’s extremely urgent for future research to design cost-effective but eco-friendly non-noble metal electrocatalysts for OER.
+Recently, transition-metal oxides
+[10]
+,
+[11]
+, phosphides
+[12]
+,
+[13]
+, nitrides
+[14]
+and chalcogenides
+[15]
+had been extensively researched as a kind of prospective non-precious electrocatalysts for OER. Among these transition-metal materials, oxides have been proverbially studied owing to their outstanding catalytic activity and high stability
+[6]
+,
+[16]
+. In particular, since unique spinel structure, ease of processing and multivalent state, cobaltous oxide (Co3O4) have attracted unparalleled attention in electrocatalytic field. Nevertheless, the OER electrocatalytic behavior of Co3O4 is greatly restricted by its poor intrinsic activity and limited number of active sites
+[5]
+,
+[17]
+. The electronic state and surface area of Co3O4 mainly determine its OER electrocatalytic activity
+[18]
+. Thereby, various strategies are developed to effectively improve these shortcomings of Co3O4, such as forming composites
+[19]
+, doping
+[18]
+,
+[20]
+, interface engineering
+[21]
+, etc. Among above the strategies we mentioned, heteroatom doping is a constructive strategy to modify the electronic states of Co3O4, which can greatly improve its OER electrocatalytic performance. For instance, Wang et al. successfully fabricated P-doped Co3O4 nanoarray through low-temperature annealing, which displayed considerable OER activity enhancements
+[20]
+. Compared with P, Zr is also a diverting dopant candidate to modulate the electronic structure of the catalysts. Moreover, many studies have shown that the incorporation of Zr in transition metal compounds could adjust electrocatalytic activity
+[22]
+,
+[23]
+. Huang et al. reported Zr-CoFe2O4 nanosheets on NF as highly efficient OER electrocatalysts via solvothermal method, which exhibits high OER activity
+[23]
+. The results show that the incorporation of Zr can optimize adsorption energies by tuning the morphology and electronic structure, thereby effectively improving the intrinsic activity of the active site. In addition, the porous nickel foam (NF) with specific nanoarray structure can provide a larger surface area and facilitates testing
+[24]
+.
+Inspired by the abovementioned analysis, herein, through the Density functional theory (DFT) calculations, we demonstrate that Zr-Co3O4/NF can regulate electronic structure and effectively reduce the Gibbs free energy for the rate-determining step (RDS) of whole OER, and thus enhancing the OER electrocatalystic properties. Subsequently, we purposely designed and successfully fabricated Zr doped Co3O4 in-situ grown on NF as highly efficient OER electrocatalysts via simple hydrothermal and post-heat treatment strategy. As the experimentally characterized, Zr doping can convert the nanowires morphology into the weave-like nanoarray composed of nanowires and ultra-thin nanosheets, while the interlaced nanoarray can provide a larger surface area. As a result, the optimized sample Zr-Co3O4/NF exhibits the lowest overpotential of 307 mV at 20 mA cm−2, modest Tafel slope of 99 mV dec−1 and long-term durability (20 h) in 1 M KOH. These merits attest that Zr-doped is an effective pathway leading to high-performing OER electrocatalysts in transition-metal oxides of Co3O4.
+The preparation of Co3O4/NF is similar to our previous work
+[25]
+. Firstly, the deionized water (70 mL) with Co(NO3)2.6H2O (0.4075 mg) and CH4N2O (0.8408 mg) were agitated with 20 mins, which was transferred to Teflon-lined autoclave (100 mL) with a piece of cleaned NF (3 × 5 cm2). The autoclave was sealed and reacted at 90 °C for 6 h. Whereafter, the clean and drying precursor was annealed at 350 °C for 2 h in air. After naturally cooling, the Co3O4/NF can be obtained directly and named Co3O4/NF.
+All preparation conditions were the same as those of Co3O4@NF except for a certain proportion of Zr(NO3)4 were added to the reactants. In particular, the molar mass of Zr(NO3)4 is 5%, 10%, 15% and 20% of Co(NO3)2.6 H2O, respectively, and named them as Zr-5%, Zr-10%, Zr-15% and Zr-20%.
+X-ray diffraction (XRD) was presented using Malvern Panalytical EMPYREAN multipurpose X-ray diffractometer with a Cu K-alpha radiation. Field emission scanning electron microscopy (SEM) and high-resolution transmission electron microscopy (TEM) were described using Hitachi S-4800 and Tecnai™ G2 F30 instruments. X-ray photoelectron spectroscopy (XPS) were tested using Kratos AXIS UltraDLD instrument.
+All electrochemical measurements were performed using an electrochemical workstation (CHI 760E, Chen Hua, China). A standard three-electrode system was employed with 1 M KOH. The as-prepared samples (1 ×1 cm2), an Hg/HgO and a graphite rod electrode were directly used as the working, reference and counter electrode, respectively. Linear sweep voltammetry (LSV) was obtained to evaluate the OER activity of catalysts at a scan rate of 5 mV s−1. Moreover, the double-layer capacitance (Cdl) was calculated by scanning rate-dependent cyclic voltammetry (CV) measurement in a non-faradic district (0.0–0.1 V (vs. Hg/HgO)). Electrochemical impedance spectroscopy (EIS) measurements were characterized at a voltage of 1.53 V (vs. RHE) in a frequency range of 100000–0.01 Hz. Moreover, the stability of catalysts was evaluated by 20 h chronoamperometry.
+Details of theoretical calculations can be found in the
+Supplementary material
+.
+In this work, firstly, spin-polarized DFT calculations were performed to explore the electrocatalytic properties on Co3O4 to reveal the effects of Zr doping via the Vienna ab initio Simulation Package (VASP). For the bulk Co3O4 (
+Fig. 1
+a), a normal spinel structure with antiferromagnetism, is contained with two different Co sites, tetrahedral (Co2+ ions) and octahedral sites (Co3+ ions). According to previous reports
+[26]
+, octahedral sites seem to be more easily replaced by heteroatoms, so in our work, we replaced Co3+ with Zr atom (
+Fig. 1
+b), which is also consistent with the later followed XPS results. Based on those infrastructures, the band structures and density of states (DOS) of bulk before and after doped were described to disclose the influence of heteroatoms on the conductivity and electronic properties of Co3O4. As seen in
+Fig. 1
+(b) and (e), the bandgap of bulk Co3O4 is about 1.60 eV, which is similar to the bandgap reported by the PBE + U method and the experimental value
+[27]
+,
+[28]
+,
+[29]
+. While Zr-Co3O4 shows a narrower bandgap of about 1.21 eV. This is also consistent with the changes in the bandgap of Co3O4 (1.60 eV) and Zr-Co3O4 (1.49 eV) obtained by the Ultraviolet Visible Absorption Spectroscopy, as shown in
+Fig. S1
+. Combined with the corresponding DOS (
+Fig. 1
+c and f), a new electronic state contributed the Co 3d states is appeared, which narrows the bandgap and facilitates the excitation of the conduction band by charge carriers
+[16]
+. Consequently, compared to the pure Co3O4, the Zr-doped Co3O4 displays faster electron transfer and higher conductivity which is beneficial to the electrochemical process.
+Fig. 1. (a, d) Unit cell, (b, e) band structures and (c, f) density of states for Co3O4 and Zr-Co3O4, respectively, where the red, blue and green balls represent O, Co and Zr atoms in sequence.
+Besides the bulk properties of catalysts, the reaction potential of OER is employed by calculating the adsorption Gibbs free energy (ΔG) on the surface of pure Co3O4 and Zr-Co3O4.
+Fig. 2
+(c) and (d) show the theoretical structures during OER process for Co3O4 and Zr-Co3O4 (100) surfaces, respectively. According to the theoretical structures, the ΔG values of intermediates adsorbed (OH*, O*, and OOH*) were obtained to reveal the origination of electrocatalytic property. For the four-step OER process, one step with the largest ΔG value is called the rate-determining step (RDS)
+[30]
+, when U= 1.23 V, its value corresponds to the theoretical overpotential. The RDS for OER on pure Co3O4 should be defined to be the conversion of OH* to O*, corresponding to a considerably high theoretical overpotential of 1.13 V (
+Fig. 2
+a). And thus, this is the most fundamental reason why the pure Co3O4 displays a poor OER activity. Surprisingly, it is found that Zr partially replaces Co at the octahedral site in Co3O4, the RDS for OER is still the conversion of OH* to O*, but its theoretical overpotential drops to 0.67 V (
+Fig. 2
+b). Over all, the ΔG value has an obviously lower after Zr doping, which verifies the positive effect of Zr doping in Co3O4 for OER process.
+Fig. 2. Free energy diagrams for (a) Co3O4 and (b) Zr-Co3O4; theoretical structures of adsorbates on (c) Co3O4 and (d) Zr-Co3O4, where the red, blue, green and gray balls represent O, Co, Zr and H atoms in sequence.
+To give the experiment proof, the Zr doped Co3O4 nanoarray on NF were successfully synthesized by the simple hydrothermal treatment and post-annealing process. As shown in
+Fig. 3
+and
+S1
+, SEM images of samples exhibits that Co3O4 nanoarray can in-situ grow over the NF surface. In addition, we can find that the introduction of Zr can regulate the microstructure of the nanoarray. Interestingly enough, the morphology of the Co3O4 transforms from nanowires to thicker nanosheets as the content of Zr in the reactant increases from 5% to 20%, shown in
+Fig. S2
+. Specifically, compared to microstructure of pristine sample (
+Fig. 3
+a–c), the particular weave-like nanoarray composed with nanowires and ultra-thin nanosheets has a larger specific surface area when the content of Zr in the reactant is 10%, which is more conducive to electrochemical processes. In the following, the sample of Zr in the reactant is 10% was chosen as a typical catalyst for demonstration. In short, the sample of Zr-Co3O4/NF has been successfully prepared and shows the most favorable microstructure for electrocatalysis.
+Fig. 3. SEM images of samples at different amplification: (a-c) the sample of Co3O4/NF, (d-f) the sample of Zr-Co3O4/NF.
+TEM and energy-dispersive X-ray (EDX) spectroscopy mapping images were performed to gain further insight into the microstructure and composition. The TEM information of Zr-Co3O4/NF (
+Fig. 4
+a–c) further confirms that the sample exhibits unique weave-like nanoarray composed of nanowires and nanosheets. The clear interplanar distances in the HRTEM image (
+Fig. 4
+d) are 0.098, 0.242 and 0.282 nm, which can be distributed to the (440), (220) and (311) planes of Co3O4, respectively. Meanwhile, EDX spectroscopy mapping images (
+Fig. 4
+e) and corresponding EDX spectrum (
+Fig. 4
+f) analysis indicate that a homogenous distribution of Co, O and Zr elements in the whole Zr-Co3O4/NF. And the real concentration of Zr is about 2.9% calculated by EDX technology when Zr in the reactant is 10%, in line with the result of XPS (about 3.4%). Besides, XRD pattern was characterized to investigate the crystal phase structure of the obtained sample, shown in
+Fig. 4
+(g) and (h) and
+S3
+. Specifically, except for the three characteristic peaks at 44.37°, 51.72° and 78.00° correspond to NF (JCPDS card no: 45-1027), the remaining characteristic peaks of all obtained samples correspond to the face-centered spinel Co3O4 (JCPDS card no: 74-1656), as shown in
+Fig. 4
+(g). These results indicate that the Co3O4 weave-like nanoarray loaded on NF were successfully obtained. In addition, the diffraction peaks of Zr-Co3O4/NF appear a slight shift to lower angle (Δ2θ = 0.215,
+Fig. 4
+h) after Zr doping, which implys that the lattice parameter is expanded. Based on Vegard's law, this phenomenon should be attributed to the fact that the ionic radius of Zr is larger than that of Co, thus which verifies that Zr atoms are successfully doping into the Co3O4
+[31]
+,
+[32]
+. Meantime, we also found that the lattice parameter increases slightly after Zr doping in the optimization of the bulk (
+Table S1
+) from the DFT calculations, which is consistent with the XRD results.
+Fig. 4. (a–c) TEM images at different magnifications, (d) HRTEM images, (e) EDX mapping and (f) EDX spectrums of the Zr-Co3O4/NF. (g, h) XRD patterns of the Co3O4/NF and Zr-Co3O4/NF.
+Furthermore, the surface chemical and electronic states of the Zr-Co3O4/NF and Co3O4/NF were employed by XPS tests. As shown in the full spectrum XPS of catalysts (
+Fig. 5
+a) precisely display that the diffraction peaks of Co, O, Ni and Zr arise in Zr-Co3O4/NF, while the diffraction peaks of Co, O and Ni arise in Co3O4/NF. The Co 2p, O 1s and Zr 3d spectra of Zr-Co3O4/NF and Co3O4/NF are showed in
+Fig. 5
+(b)–(d), respectively. In XPS spectra of Co 2p, two spin-orbit peaks at 796.1 and 781.0 eV are ascribed to Co 2p1/2 and 2p3/2, respectively
+[33]
+. The peaks at about 780.9/796.2 eV and 779.5/794.6 eV should be distributed to the Co3+ and Co2+ cation, respectively, which indicates that Co2+ and Co3+ species coexist in standard Co3O4. Furthermore, the ionic concentration ratio of Co2+/Co3+ of the Zr-Co3O4/NF and Co3O4/NF can be approximately evaluated via calculating the relative area of fitted curves. As a result, the Co2+ ionic concentration of Zr-Co3O4/NF (2.4) is slightly higher than that of Co3O4/NF (2.2), implying that Zr atom replaces a small amount Co3+. In XPS spectra of O 1s, shown in
+Fig. 5
+(c), the three fitted peaks at 529.7, 531.2 and 531.2 eV can be assigned to lattice oxygen (O1), coordinative oxygen vacancy or oxygen in hydroxyl group (O2) and oxygen in adsorbed H2O (O3), respectively
+[34]
+,
+[35]
+,
+[36]
+. Notably, the Zr-Co3O4/NF shows a higher concentration of oxygen vacancies or hydroxyl group on the surface, exposing that the incorporation of Zr can create more oxygen vacancies and boost the adsorption/desorption of OH group
+[37]
+,
+[38]
+. This would be beneficial to regulate the ΔG of OH* adsorption/desorption, and thus accelerate the kinetic process and enhance the OER activity
+[39]
+. For Zr 3d XPS spectra of Zr-Co3O4/NF (
+Fig. 5
+d), the peaks at about 184.5 and 182.0 eV are assigned to Zr 3d3/2 and 3d5/2 of Zr4+ species, respectively, which indicates Zr exists as + 4 oxidation states in Co3O4
+[23]
+. To further investigate the interaction of the Zr with the Co3O4, the Auger parameter, α, was obtained by summing the kinetic energy (KE) of the Auger peak and the binding energy (BE) of each element, i.e., α = KE + BE
+[40]
+. Additionally, the chemical-bonding interaction between Co and O was calculated as ΔCo = O 1s - Co 2p3/2. The obtained data, presented in
+Table S2
+, show that both parameters are higher for the Zr-doped sample, indicating a stronger interaction with Co after the incorporation of Zr.
+Fig. 5. XPS spectra of the Zr-Co3O4/NF and Co3O4/NF architectures: (a) survey, (b) Co 2p, (c) O 1s, and (d) Zr 3d, respectively.
+Next, the OER electrocatalytic properties of the as-synthesized catalysts are evaluated as working electrode in 1 M KOH at environment temperature. Meanwhile, 90% internal resistance (iR) drop compensation was performed on all LSV data to eliminate the ohm influence on the intrinsic behavior of catalysts. As envisioned in the above analysis, when the content of Zr in the reactant is 10%, the LSV curves shown in
+Fig. S4a
+indicates that this sample exhibits the best electrocatalytic activity compared with the rest of samples. Note that the peak at about 1.3–1.4 V (vs. RHE) can be ascribed to the oxidation peak of Ni2+/Ni3+
+[41]
+,
+[42]
+. Furthermore, in order to reflect the modification of Co3O4 OER performance by Zr doping, the LSV curves of Zr-Co3O4/NF, Co3O4/NF and bare NF was acquired and shown in
+Fig. 6
+(a). It can be clearly observed that the Zr-Co3O4/NF displays the smallest overpotential (η) about 307 mV than the others at a current density of 20 mA cm−2. Specifically, at a higher current density of 50 mA cm−2, the Zr-Co3O4/NF catalyst exhibits a remarkably lower overpotential that is 81 mV smaller than Co3O4/NF and 203 mV smaller than NF. In addition, the OER kinetics is reflected by calculation of the Tafel slope based on the LSV data. Specifically, the corresponding Tafel slope of the Zr-Co3O4/NF in
+Fig. 6
+(c) is 99 mV dec−1, also smaller than those of Co3O4/NF (126 mV dec−1) and NF (190 mV dec−1), indicating a faster kinetic process occurring at Zr-Co3O4/NF catalyst. At the same time, this also agrees well with the DFT results and verifies that Zr doping in Co3O4 is beneficial to the improvement of OER performance. To further clarify the charge transfer kinetics and electrical conductivity, the EIS was obtained at the overpotential of 300 mV, and the Nyquist plots shows in
+Fig. 6
+(d). Clearly, the Zr-Co3O4/NF sample exhibits the smallest the semicircle diameter, confirming the smallest charge transfer resistance (Rct). Results indicate that Zr-Co3O4/NF reveals a promoting electrical conductivity after the Zr doping than that of the other samples. The decrease of Rct observed in EIS measurement also matched with the foregoing DFT results of the bulk.
+Fig. 6. (a) The polarization curves, (b) overpotential at 20 and 50 mA cm−2, (c) Tafel plots, (d) Nyquist plots, (e) Cdl measurements and (f) chronoamperometry measurement of the Zr-Co3O4/NF, the insert shows LSV curves before and after 1000 CV cycles.
+In addition, the Cdl was calculated by a scanning rate-dependent CV curves in non-Faradaic district to evaluate the electrochemically active surface area (ECSA) of sample (
+Fig. S4
+). The larger Cdl, the larger ECSA, indicated the number of active sites can be increased
+[43]
+. As shown in
+Fig. 6
+(e), the Zr-Co3O4/NF exhibits higher Cdl value (114.3 mF cm−2), which is nearly 5.4 times larger than Cdl value of Co3O4/NF (20.9 mF cm−2), demonstrating Zr-Co3O4/NF has a most exposed active sites for OER through the introduction of Zr. Besides, the durable performance was carried out by 20 h chronoamperometry measurement at an overpotential of 307 mV, and the result shows in
+Fig. 6
+(f). It shows that the current density of Zr-Co3O4/NF has a neglected attenuation after the long electrolysis of 20 h, indicating its advantageous durability. Meanwhile, the LSV curves of Zr-Co3O4/NF before and after 1000 CV cycles were obtained in the inset in
+Fig. 6
+(f) as well. Clearly, there is only 12.9 mV decline at 20 mA cm−2 after 1000 CV cycles, further demonstrating its remarkable electrochemical stability of Zr-Co3O4/NF during OER catalytic process. Furthermore, the electrocatalytic stability of Zr-Co3O4/NF is also evidenced by SEM, XRD, and XPS characterizations (
+Fig. S5–7
+) before and after continuous OER operation. The morphology, crystal phase and valence state of the Zr-Co3O4/NF did not change obviously after long-time stability testing. Overall, the outstanding OER performance was mainly attributed to unique weave-like nanoarray and changes of surface electronic states after incorporation of Zr.
+According to the above computational results and data analysis, Zr-Co3O4 demonstrates excellent OER activity due to its unique weave-like nanoarray and Zr modified surface electronic structure. Specifically, Zr regulation of Co3O4 can optimize the adsorption Gibbs free energy on the surface of catalyst. In addition, the unique morphology and binder-free NF substrate provide high conductivity and rapid charge transfer, which can expose more active sites. These can enhance intrinsic activity of the active site to promote the OER catalytic performance.
+In a nutshell, under the guidance of DFT calculations, a simple strategy to improve the OER activity of Co3O4 on NF by the incorporation of Zr has been demonstrated. The results of DFT calculations reveal that Zr-Co3O4 exhibits high conductivity and low Gibbs free energy for RDS than that of pure Co3O4, verifying the positive effect of Zr doping for OER process. Moreover, experimental verifications indicate that the Zr doping in Co3O4 led to the optimization of the morphology and electronic structure of weave-like nanoarray, consequently, OER performance. Specifically, the resulting Zr-Co3O4/NF exhibited outstanding OER activity with low overpotential of 307 mV at 20 mA cm−2, modest Tafel slope of 99 mV dec−1 and robust stability. This work provides a valuable avenue for modifying the electronic structure and OER catalytic performance of metal oxides, and proves the guiding role of DFT calculations for experimentation.
+Guijin Yang: Project administration, Funding acquisition, Supervision,Writing – review & editing. Botao Zhu: Conceptualization, Software, Writing – original draft, Methodology, Formal analysis, Investigation. Yujun Fu: Validation, Data curation, Formal analysis. Jing Zhao: Visualization, Formal analysis. Yanna Lin: Formal analysis. Daqiang Gao: Resources, Supervision. Jinyun Li: Software, Funding acquisition, Writing – review & editing.
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+This work was supported by the National Natural Science Foundation of China (Grant No.
+51562035
+), Natural Science Foundational of Gansu Province (Grant No.
+18JR3RA086
+), Gansu Province Science Foundation for Youths (Grant No.
+1606RJYA264
+) and the China Postdoctoral Science Foundation (Grant No.
+2015M572664XB
+).
+Download: Download Word document (6MB)
+Supplementary material
+.
+Supplementary material
+Cookies are used by this site.
+Cookie Settings
+All content on this site: Copyright © 2024 Elsevier B.V., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the Creative Commons licensing terms apply.

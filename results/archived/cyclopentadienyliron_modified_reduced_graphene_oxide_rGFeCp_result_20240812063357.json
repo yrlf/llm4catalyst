@@ -1,0 +1,143 @@
+{
+    "materials": [
+        {
+            "material_name": "rGFe-800a",
+            "properties": [
+                {
+                    "type": "half-wave potential",
+                    "value": -0.29,
+                    "unit": "V",
+                    "conditions": "in 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 0
+                },
+                {
+                    "type": "electron transfer mechanism",
+                    "value": 3.5,
+                    "unit": "n",
+                    "conditions": "at -1.0 V",
+                    "reaction_type": "ORR",
+                    "evidence": 0
+                },
+                {
+                    "type": "current density",
+                    "value": 4.86,
+                    "unit": "mA cm\u22122",
+                    "conditions": "diffusion-limiting",
+                    "reaction_type": "ORR",
+                    "evidence": 0
+                },
+                {
+                    "type": "electron transfer number",
+                    "value": 3.5,
+                    "unit": "none",
+                    "conditions": "at -1.0 V",
+                    "reaction_type": "ORR",
+                    "evidence": 1
+                },
+                {
+                    "type": "current density",
+                    "value": 4.86,
+                    "unit": "mA/cm\u00b2",
+                    "conditions": "maximum diffusion-limiting",
+                    "reaction_type": "ORR",
+                    "evidence": 1
+                },
+                {
+                    "type": "diffusion-limiting current density",
+                    "value": 4.86,
+                    "unit": "mA cm\u22122",
+                    "conditions": "NA",
+                    "reaction_type": "ORR",
+                    "evidence": 2
+                },
+                {
+                    "type": "nitrogen content",
+                    "value": 2.91,
+                    "unit": "at%",
+                    "conditions": "total nitrogen content",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "FT-IR peak",
+                    "value": 1407.0,
+                    "unit": "cm\u22121",
+                    "conditions": "FT-IR spectra",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "FT-IR peak",
+                    "value": 1635.0,
+                    "unit": "cm\u22121",
+                    "conditions": "FT-IR spectra",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "FT-IR peak",
+                    "value": 1100.0,
+                    "unit": "cm\u22121",
+                    "conditions": "FT-IR spectra",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "XPS",
+                    "values": [
+                        710.9,
+                        724.4,
+                        398.3,
+                        399.8,
+                        401.1,
+                        402.7,
+                        713.0,
+                        725.6
+                    ],
+                    "units": [
+                        "eV"
+                    ],
+                    "conditions": [
+                        "N1s, graphitic nitrogen",
+                        "N1s, pyridine-N-oxide",
+                        "Fe 2p1/2",
+                        "Fe2p3/2",
+                        "N1s, pyridinic nitrogen",
+                        "N1s, pyrrolic nitrogen"
+                    ],
+                    "evidence": 4.0
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "20% Pt/C",
+            "properties": [
+                {
+                    "type": "methanol tolerance",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "comparison with rGFe-800a",
+                    "reaction_type": "ORR",
+                    "evidence": 0
+                }
+            ],
+            "benchmark": true
+        }
+    ],
+    "doi": "example_doi",
+    "factor": "Hydrogen coverage,Energy barrier,Conductivity,Surface area,Size,Defect,Dopant,Active sites,Stability,Electrode potential,Overpotential,Tafel slope,onsite potential,Current density,Mass loading,XPS,FTIR,Raman,XRD",
+    "meta": {
+        "maintext": "/Users/yangz/Documents/projects/llm4catalyst/documents/maintext/Efficient_approach_to_ironnitrogen_codoped_graphen_maintext.txt",
+        "abstract": "/Users/yangz/Documents/projects/llm4catalyst/documents/abstract/Efficient_approach_to_ironnitrogen_codoped_graphen_abs.txt",
+        "intro": "documents/intro/c60_intro.txt",
+        "window_size": 2,
+        "chunk_size": 1000,
+        "chunk_overlap": 100,
+        "output": "results",
+        "property": "/Users/yangz/Documents/projects/llm4catalyst/prompts/properties.txt",
+        "self_defined": true,
+        "title": "Efficient_approach_to_ironnitrogen_codoped_graphen"
+    }
+}

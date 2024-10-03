@@ -1,0 +1,418 @@
+{
+    "materials": [
+        {
+            "material_name": "Fe\u2013CoO NTs",
+            "properties": [
+                {
+                    "type": "Overpotential",
+                    "value": 282.0,
+                    "unit": "mV",
+                    "conditions": "to obtain the current density of 10 mA/cm\u00b2",
+                    "reaction_type": "OER",
+                    "evidence": 0
+                },
+                {
+                    "type": "Overpotential",
+                    "value": 282.0,
+                    "unit": "mV",
+                    "conditions": "in alkaline medium",
+                    "reaction_type": "OER",
+                    "evidence": 1
+                },
+                {
+                    "type": "Current density",
+                    "value": 10.0,
+                    "unit": "mA/cm\u00b2",
+                    "conditions": "in alkaline medium",
+                    "reaction_type": "OER",
+                    "evidence": 1
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 78.26,
+                    "unit": "mV dec\u207b\u00b9",
+                    "conditions": "NA",
+                    "reaction_type": "OER",
+                    "evidence": 1
+                },
+                {
+                    "type": "Overpotential",
+                    "value": 282.0,
+                    "unit": "mV",
+                    "conditions": "to obtain a current density of 10 mA cm\u22122 in alkaline medium",
+                    "reaction_type": "OER",
+                    "evidence": 2
+                },
+                {
+                    "type": "Current density",
+                    "value": 10.0,
+                    "unit": "mA/cm\u00b2",
+                    "conditions": "at an overpotential of 282 mV in alkaline medium",
+                    "reaction_type": "OER",
+                    "evidence": 2
+                },
+                {
+                    "type": "Overpotential",
+                    "value": 282.0,
+                    "unit": "mV",
+                    "conditions": "at a current density of 10 mA cm\u22122 in alkaline medium",
+                    "reaction_type": "OER",
+                    "evidence": 3
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 78.26,
+                    "unit": "mV dec\u22121",
+                    "conditions": "OER",
+                    "reaction_type": "OER",
+                    "evidence": 3
+                },
+                {
+                    "type": "Rct",
+                    "value": 9.06,
+                    "unit": "\u03a9",
+                    "conditions": "EIS, Nyquist plots, low-frequency region",
+                    "reaction_type": "NA",
+                    "evidence": 6
+                },
+                {
+                    "type": "TOF",
+                    "value": 0.0965,
+                    "unit": "s-1",
+                    "conditions": "overpotential of 282 mV",
+                    "reaction_type": "OER",
+                    "evidence": 6
+                },
+                {
+                    "type": "Cdl",
+                    "value": 58.2,
+                    "unit": "mF cm-2",
+                    "conditions": "CV curves, scan rates 10-50 mV s-1",
+                    "reaction_type": "NA",
+                    "evidence": 6
+                },
+                {
+                    "type": "ECSA",
+                    "value": 1455.0,
+                    "unit": "cm2",
+                    "conditions": "CV curves, scan rates 10-50 mV s-1",
+                    "reaction_type": "NA",
+                    "evidence": 6
+                },
+                {
+                    "type": "Cdl",
+                    "value": 58.2,
+                    "unit": "mF/cm\u00b2",
+                    "conditions": "from CV curves at different scan rates",
+                    "reaction_type": null,
+                    "evidence": 7
+                },
+                {
+                    "type": "ECSA",
+                    "value": 1455.0,
+                    "unit": "cm\u00b2",
+                    "conditions": "calculated from Cdl",
+                    "reaction_type": null,
+                    "evidence": 7
+                },
+                {
+                    "type": "overpotential",
+                    "value": 282.0,
+                    "unit": "mV",
+                    "conditions": "at current density of 10 mA/cm\u00b2",
+                    "reaction_type": null,
+                    "evidence": 7
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 78.26,
+                    "unit": "mV/dec",
+                    "conditions": "from LSV test",
+                    "reaction_type": null,
+                    "evidence": 7
+                },
+                {
+                    "type": "TOF",
+                    "value": 0.0965,
+                    "unit": "s\u207b\u00b9",
+                    "conditions": "at potential of 282 mV",
+                    "reaction_type": null,
+                    "evidence": 7
+                },
+                {
+                    "type": "Mass loading",
+                    "value": 5.1,
+                    "unit": "wt%",
+                    "conditions": "measured by ICP-AES",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                },
+                {
+                    "type": "Overpotential",
+                    "value": 282.0,
+                    "unit": "mV",
+                    "conditions": "at current density of 10 mA/cm\u00b2, OER",
+                    "reaction_type": "OER",
+                    "evidence": 5
+                },
+                {
+                    "type": "Charge transfer resistance",
+                    "value": 9.06,
+                    "unit": "\u03a9",
+                    "conditions": "EIS measurement, OER",
+                    "reaction_type": "OER",
+                    "evidence": 5
+                },
+                {
+                    "type": "Turnover frequency",
+                    "value": 0.0965,
+                    "unit": "s-1",
+                    "conditions": "at overpotential of 282 mV, OER",
+                    "reaction_type": "OER",
+                    "evidence": 5
+                },
+                {
+                    "type": "Electrochemical double-layer capacitance",
+                    "value": 58.2,
+                    "unit": "mF/cm\u00b2",
+                    "conditions": "OER",
+                    "reaction_type": "OER",
+                    "evidence": 5
+                },
+                {
+                    "type": "Electrochemically active surface area",
+                    "value": 1455.0,
+                    "unit": "cm\u00b2",
+                    "conditions": "OER",
+                    "reaction_type": "OER",
+                    "evidence": 5
+                },
+                {
+                    "type": "Overpotential",
+                    "value": 282.0,
+                    "unit": "mV",
+                    "conditions": "at 10 mA/cm\u00b2",
+                    "reaction_type": "OER",
+                    "evidence": 8
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 78.26,
+                    "unit": "mV dec-1",
+                    "conditions": "OER activity",
+                    "reaction_type": "OER",
+                    "evidence": 8
+                },
+                {
+                    "type": "TOF",
+                    "value": 0.0965,
+                    "unit": "s-1",
+                    "conditions": "at the potential of 282 mV",
+                    "reaction_type": "OER",
+                    "evidence": 8
+                },
+                {
+                    "type": "Durability",
+                    "value": 24.0,
+                    "unit": "h",
+                    "conditions": "at 10 mA/cm\u00b2",
+                    "reaction_type": "OER",
+                    "evidence": 8
+                },
+                {
+                    "type": "XPS",
+                    "values": [
+                        530.1,
+                        531.8,
+                        532.7
+                    ],
+                    "units": [
+                        "eV"
+                    ],
+                    "conditions": [
+                        "O 1s peak, surface-adsorbed oxygen species (OHads)",
+                        "O 1s peak, oxygen defects/vacancies",
+                        "O 1s peak, metal\u2014O bonds"
+                    ],
+                    "evidence": 5.0
+                },
+                {
+                    "type": "XRD",
+                    "values": [
+                        36.5,
+                        42.4,
+                        61.5,
+                        73.7,
+                        77.6
+                    ],
+                    "units": [
+                        "\u00b0"
+                    ],
+                    "conditions": [
+                        "characteristic signals of (200)",
+                        "characteristic signals of (220)",
+                        "characteristic signals of (311)",
+                        "characteristic signals of (111)",
+                        "characteristic signals of (222)"
+                    ],
+                    "evidence": 4.0
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "RuO2",
+            "properties": [
+                {
+                    "type": "Overpotential",
+                    "value": 273.0,
+                    "unit": "mV",
+                    "conditions": "at current density of 10 mA/cm\u00b2, OER",
+                    "reaction_type": "OER",
+                    "evidence": 5
+                },
+                {
+                    "type": "catalyst loading",
+                    "value": 1.0,
+                    "unit": "mg/cm\u00b2",
+                    "conditions": "used for comparison in electrocatalytic tests",
+                    "reaction_type": null,
+                    "evidence": 7
+                }
+            ],
+            "benchmark": true
+        },
+        {
+            "material_name": "CoO NT",
+            "properties": [
+                {
+                    "type": "Tafel slope",
+                    "value": 94.93,
+                    "unit": "mV dec-1",
+                    "conditions": "OER",
+                    "reaction_type": "OER",
+                    "evidence": 6
+                },
+                {
+                    "type": "Rct",
+                    "value": 18.68,
+                    "unit": "\u03a9",
+                    "conditions": "EIS, Nyquist plots, low-frequency region",
+                    "reaction_type": "NA",
+                    "evidence": 6
+                },
+                {
+                    "type": "TOF",
+                    "value": 0.0381,
+                    "unit": "s-1",
+                    "conditions": "overpotential of 282 mV",
+                    "reaction_type": "OER",
+                    "evidence": 6
+                },
+                {
+                    "type": "Cdl",
+                    "value": 22.8,
+                    "unit": "mF cm-2",
+                    "conditions": "CV curves, scan rates 10-50 mV s-1",
+                    "reaction_type": "NA",
+                    "evidence": 6
+                },
+                {
+                    "type": "ECSA",
+                    "value": 570.0,
+                    "unit": "cm2",
+                    "conditions": "CV curves, scan rates 10-50 mV s-1",
+                    "reaction_type": "NA",
+                    "evidence": 6
+                },
+                {
+                    "type": "Cdl",
+                    "value": 22.8,
+                    "unit": "mF/cm\u00b2",
+                    "conditions": "from CV curves at different scan rates",
+                    "reaction_type": null,
+                    "evidence": 7
+                },
+                {
+                    "type": "ECSA",
+                    "value": 570.0,
+                    "unit": "cm\u00b2",
+                    "conditions": "calculated from Cdl",
+                    "reaction_type": null,
+                    "evidence": 7
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 112.35,
+                    "unit": "mV dec-1",
+                    "conditions": "OER",
+                    "reaction_type": "OER",
+                    "evidence": 6
+                },
+                {
+                    "type": "Rct",
+                    "value": 63.75,
+                    "unit": "\u03a9",
+                    "conditions": "EIS, Nyquist plots, low-frequency region",
+                    "reaction_type": "NA",
+                    "evidence": 6
+                },
+                {
+                    "type": "TOF",
+                    "value": 0.0171,
+                    "unit": "s-1",
+                    "conditions": "overpotential of 282 mV",
+                    "reaction_type": "OER",
+                    "evidence": 6
+                },
+                {
+                    "type": "Cdl",
+                    "value": 7.8,
+                    "unit": "mF cm-2",
+                    "conditions": "CV curves, scan rates 10-50 mV s-1",
+                    "reaction_type": "NA",
+                    "evidence": 6
+                },
+                {
+                    "type": "ECSA",
+                    "value": 195.0,
+                    "unit": "cm2",
+                    "conditions": "CV curves, scan rates 10-50 mV s-1",
+                    "reaction_type": "NA",
+                    "evidence": 6
+                },
+                {
+                    "type": "Cdl",
+                    "value": 7.8,
+                    "unit": "mF/cm\u00b2",
+                    "conditions": "from CV curves at different scan rates",
+                    "reaction_type": null,
+                    "evidence": 7
+                },
+                {
+                    "type": "ECSA",
+                    "value": 195.0,
+                    "unit": "cm\u00b2",
+                    "conditions": "calculated from Cdl",
+                    "reaction_type": null,
+                    "evidence": 7
+                }
+            ],
+            "benchmark": false
+        }
+    ],
+    "doi": "example_doi",
+    "factor": "Hydrogen coverage,Energy barrier,Conductivity,Surface area,Size,Defect,Dopant,Active sites,Stability,Electrode potential,Overpotential,Tafel slope,onsite potential,Current density,Mass loading,XPS,FTIR,Raman,XRD",
+    "meta": {
+        "maintext": "/Users/yangz/Documents/projects/llm4catalyst/documents/maintext/Facile_Synthesis_of_FeDoped_CoO_Nanotubes_as_HighE_maintext.txt",
+        "abstract": "/Users/yangz/Documents/projects/llm4catalyst/documents/abstract/Facile_Synthesis_of_FeDoped_CoO_Nanotubes_as_HighE_abs.txt",
+        "intro": "documents/intro/c60_intro.txt",
+        "window_size": 2,
+        "chunk_size": 1000,
+        "chunk_overlap": 100,
+        "output": "results",
+        "property": "/Users/yangz/Documents/projects/llm4catalyst/prompts/properties.txt",
+        "self_defined": true,
+        "title": "Facile_Synthesis_of_FeDoped_CoO_Nanotubes_as_HighE"
+    }
+}

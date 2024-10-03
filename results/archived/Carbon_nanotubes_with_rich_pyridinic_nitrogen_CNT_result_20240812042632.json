@@ -1,0 +1,205 @@
+{
+    "materials": [
+        {
+            "material_name": "Nitrogen doped carbon nanotubes (NCNTs)",
+            "properties": [
+                {
+                    "type": "Faradaic efficiency",
+                    "value": 94.5,
+                    "unit": "%",
+                    "conditions": "between -0.6 to -0.9 V vs RHE",
+                    "reaction_type": "CO2 reduction",
+                    "evidence": 0
+                },
+                {
+                    "type": "Current density",
+                    "value": 20.2,
+                    "unit": "mA cm\u22122",
+                    "conditions": "at -0.8 V vs RHE",
+                    "reaction_type": "CO2 reduction",
+                    "evidence": 0
+                },
+                {
+                    "type": "Faradaic efficiency",
+                    "value": 95.0,
+                    "unit": "%",
+                    "conditions": "during 40 h electrolysis at -0.8 V",
+                    "reaction_type": "CO2 reduction",
+                    "evidence": 0
+                },
+                {
+                    "type": "Faradaic efficiency",
+                    "value": 100.0,
+                    "unit": "%",
+                    "conditions": "gas phase CO2 electrolysis",
+                    "reaction_type": "CO2 reduction",
+                    "evidence": 0
+                },
+                {
+                    "type": "Mass loading",
+                    "value": 600.0,
+                    "unit": "mg",
+                    "conditions": "dissolved in 25 ml ethanol and 25 ml deionized water",
+                    "reaction_type": null,
+                    "evidence": 1
+                },
+                {
+                    "type": "Mass loading",
+                    "value": 200.0,
+                    "unit": "mg",
+                    "conditions": "added to the solution",
+                    "reaction_type": null,
+                    "evidence": 1
+                },
+                {
+                    "type": "onset potential",
+                    "value": -0.4,
+                    "unit": "V",
+                    "conditions": "in CO2 saturated 0.5 M NaHCO3 solution",
+                    "reaction_type": "CO2RR",
+                    "evidence": 7
+                },
+                {
+                    "type": "overpotential",
+                    "value": 0.3,
+                    "unit": "V",
+                    "conditions": "in CO2 saturated 0.5 M NaHCO3 solution",
+                    "reaction_type": "CO2RR",
+                    "evidence": 7
+                },
+                {
+                    "type": "current density",
+                    "value": 22.3,
+                    "unit": "mA/cm\u00b2",
+                    "conditions": "at -1.0 V vs RHE",
+                    "reaction_type": "CO2RR",
+                    "evidence": 7
+                },
+                {
+                    "type": "current density",
+                    "value": 9.7,
+                    "unit": "mA/cm\u00b2",
+                    "conditions": "at -0.7 V vs RHE",
+                    "reaction_type": "CO2RR",
+                    "evidence": 7
+                },
+                {
+                    "type": "charge-transfer impedance",
+                    "value": 54.0,
+                    "unit": "\u03a9",
+                    "conditions": "at -0.6 V vs RHE",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "charge-transfer impedance",
+                    "value": 62.0,
+                    "unit": "\u03a9",
+                    "conditions": "at -0.6 V vs RHE",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "Overpotential",
+                    "value": 0.26,
+                    "unit": "V",
+                    "conditions": "low overpotential for CO",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "Current density",
+                    "value": 90.0,
+                    "unit": "%",
+                    "conditions": "maximum current efficiency for CO formation at a potential of -0.9 V vs RHE",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "pyridinic N content",
+                    "value": 1.56,
+                    "unit": "%",
+                    "conditions": "at pyrolysis temperature of 700\u00b0C",
+                    "reaction_type": "NA",
+                    "evidence": 8
+                },
+                {
+                    "type": "pyridinic N content",
+                    "value": 1.2,
+                    "unit": "%",
+                    "conditions": "at pyrolysis temperature of 500\u00b0C",
+                    "reaction_type": "NA",
+                    "evidence": 8
+                },
+                {
+                    "type": "pyridinic N content",
+                    "value": 0.78,
+                    "unit": "%",
+                    "conditions": "at pyrolysis temperature of 300\u00b0C",
+                    "reaction_type": "NA",
+                    "evidence": 8
+                },
+                {
+                    "type": "XRD",
+                    "values": [
+                        27.3,
+                        43.0,
+                        53.0,
+                        27.3,
+                        43.0,
+                        53.0,
+                        27.3,
+                        43.0,
+                        53.0
+                    ],
+                    "units": [
+                        "\u00b0"
+                    ],
+                    "conditions": [
+                        "(100) plane",
+                        "assigned to the (002) plane",
+                        "assigned to the (100) plane",
+                        "Fig. 2c",
+                        "(002) plane",
+                        "assigned to the (004) plane",
+                        "(004) plane"
+                    ],
+                    "evidence": 5.0
+                },
+                {
+                    "type": "Raman",
+                    "values": [
+                        1345.0,
+                        1575.0,
+                        1345.0,
+                        1575.0
+                    ],
+                    "units": [
+                        "cm\u22121"
+                    ],
+                    "conditions": [
+                        "Fig. 2d",
+                        "D-band",
+                        "G-band"
+                    ],
+                    "evidence": 5.0
+                }
+            ],
+            "benchmark": false
+        }
+    ],
+    "doi": "example_doi",
+    "factor": "Hydrogen coverage,Energy barrier,Conductivity,Surface area,Size,Defect,Dopant,Active sites,Stability,Electrode potential,Overpotential,Tafel slope,onsite potential,Current density,Mass loading,XPS,FTIR,Raman,XRD",
+    "meta": {
+        "maintext": "/Users/yangz/Documents/projects/llm4catalyst/documents/maintext/Carbon_nanotubes_with_rich_pyridinic_nitrogen_for__maintext.txt",
+        "abstract": "/Users/yangz/Documents/projects/llm4catalyst/documents/abstract/Carbon_nanotubes_with_rich_pyridinic_nitrogen_for__abs.txt",
+        "intro": "documents/intro/c60_intro.txt",
+        "window_size": 2,
+        "chunk_size": 1000,
+        "chunk_overlap": 100,
+        "output": "results",
+        "property": "/Users/yangz/Documents/projects/llm4catalyst/prompts/properties.txt",
+        "self_defined": true,
+        "title": "Carbon_nanotubes_with_rich_pyridinic_nitrogen_for_"
+    }
+}

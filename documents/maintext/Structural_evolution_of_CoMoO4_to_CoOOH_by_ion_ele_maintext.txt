@@ -1,0 +1,311 @@
+•
+CoMo1O4@CP was synthesized via a facile pyrolysis approach.
+•
+The etching of MoO42- cause the in-situ formed oxohydroxide.
+•
+The Mo1–CoOOH@CP shows low overpotential and long-term stability for OER.
+•
+This study presents an effective approach on surface reconstruction of catalysts.
+CoMo1O4@CP was synthesized via a facile pyrolysis approach.
+The etching of MoO42- cause the in-situ formed oxohydroxide.
+The Mo1–CoOOH@CP shows low overpotential and long-term stability for OER.
+This study presents an effective approach on surface reconstruction of catalysts.
+Seeking the cost-effective and stable electrocatalysts is urgent for oxygen evolution reaction (OER). The surface reconstruction is the key to improve the OER activity of catalysts. Herein, a simple and scalable pyrolysis approach is applied to prepare a novel self-supported electrode. This electrode is consisted of cobalt molybdate (CoMo1O4) nanoparticles in-situ grow on carbon fiber paper (CP), termed as CoMo1O4@CP. And Mo-doped cobalt oxyhydroxide (Mo1–CoOOH) is generated from structural evolution occurring on the surface of CoMo1O4@CP. The Mo1–CoOOH@CP exhibits highly OER activity, which is verified by a low current overpotential of 274 mV at 10 mA cm−2, small Tafel slope (66 mV dec−1) and long-term stability (100 h) in 1 M KOH solution. In-situ Raman spectroscopy and density functional theory (DFT) calculations jointly reveal that etching of MoO42- enable the surface structure of CoMo1O4@CP electrode transformation to Mo1–CoOOH@CP, and thereby bring dramatically enhanced OER activity. This study presents an effective approach on surface self-reconstruction of catalysts, with the characteristic of favorable OER activity, simple process and low cost. Accordingly, this sort of electrocatalyst demonstrates feasible applications in the fields of energy storage and conversion.
+Electrocatalytic water splitting plays a paramount role in the renewable energy supply and storage [
+[1]
+,
+[2]
+,
+[3]
+]. However, the oxidative half reaction of water splitting, i.e., oxygen evolution reaction (OER), is a kinetically sluggish process and presents a large overpotential [
+4
+]. In this context, the high-activity catalysts is needed to reduce the large overpotential [
+5
+,
+6
+]. The noble metal oxides (e.g. IrO2 and RuO2) are still regarded as the most efficient OER catalysts, while their large-scale commercialization is restricted by scarce sources, high cost and unsatisfactory durability [
+7
+,
+8
+]. Therefore, it is urgent to develop non-noble metal-based electrode materials with high catalytic activity and stability to accelerate the reaction kinetics, and reduce the high overpotential of the OER [
+9
+,
+10
+].
+As one of effective strategies, bimetallic oxides have gained wide interests for their high catalytic and natural abundance [
+11
+,
+12
+]. The Co-based oxides present excellent catalytic activities [
+13
+,
+14
+], meanwhile Mo-based materials possess high electrical conductivity [
+15
+,
+16
+]. Therefore, the rational synergistic integration of Co and Mo into one united monolith may bring a higher OER activity [
+17
+,
+18
+]. Yu et al. [
+17
+] verified that the CoMoO4 porous micro-flowers assembled by ultrathin nanosheets exhibited higher OER activity and stability than the IrO2. Zhang et al. [
+18
+] demonstrated that Co3O4/CoMoO4 nanocages shown the significant OER performance over Co3O4 under the same testing condition. Much other efforts are devoted to investigate the advantages of these bimetallic oxides [
+[19]
+,
+[20]
+,
+[21]
+,
+[22]
+,
+[23]
+]. Unfortunately, the OER performance of these bimetallic oxides are still limited by the surface species adsorption and inactivated surface [
+22
+]. To fill up this gap, it is imperative to improve the surface structure for enhancing OER activity of bimetallic oxides electrocatalysts.
+Noteworthy, many works have been devoted to improve the OER activity by using various surface reconstruction methods [
+[24]
+,
+[25]
+,
+[26]
+,
+[27]
+,
+[28]
+,
+[29]
+,
+[30]
+,
+[31]
+,
+[32]
+,
+[33]
+]. The incorporation of Fe into CoOOH lattice led to in-situ transformation of β-Co(OH)2 to FexCo1-xOOH, which vastly enhanced the OER activity [
+30
+]. Mathankumar et al. [
+31
+] reported the significant surface reconstruction from cobalt oxides to β-CoOOH, which yielded enhancement of OER activity under chronoamperometry/chronopotentiometry activation conditions. Liu et al. [
+32
+] presented a novel method to design an efficient OER catalysts by chloride ion (Cl−)-intercalating in α-Co(OH), and the resultant α-Co(OH)2–Cl displayed a decent OER activity owing to electrochemical Cl− etching. By combining operando synchrotron radiation-based X-ray spectroscopic characterization and density functional theory (DFT) calculations, Jiang et al. [
+33
+] identified that the etching of Cl− could cause the reconstruction of catalyst and, consequently, boosting the OER activity. However, the wide application of self-reconstruction in the catalysts preparation still presents a few of limitations, such as, (i) most self-reconstructed catalysts are difficult to synthesize on a large-scale because of the complex preparation possess; (ii) normally, it is hard to keep the long-term stability of the self-reconstructed catalysts; (iii) there remain some challenges for seeking a reliable and controllable approach to design and construct a self-reconstructed electrocatalysts with more exposed active sites.
+This study presents a self-supported electrode with bimetallic oxides (CoMo1O4) nanoparticles deposited on carbon fiber paper (CP). In electrochemical activation, continuous structure evolution will occur on the surface of electrodes due to the etching of MoO42-, resulting in dramatically enhanced OER activity. Besides, DFT calculations confirm the positive effect of MoO42- on the OER activity. The structure and morphology of the reconstructed electrodes are identified by in-situ Raman, SEM, TEM and XPS techniques. The experimental results indicate that the reconstruction-derived electrodes demonstrate outstanding OER activity and long-term stability. Moreover, this preparation method of electrode is simple and suitable for large-scale production of electrocatalysts. Considering all these merits, this study provides the guideline for the exploitation of efficient non-noble metal electrocatalysts by surface self-reconstruction.
+Prior to synthesis, the carbon fiber papers were cut into pieces of 1 cm × 2 cm, and treated by concentrated HNO3 (30%) at 100 °C for 8 h, then cleaned respectively using acetone, ethanol and deionized water by sonication for 30 min. In the preparation process, 50 mg of PMo12O40·xH2O (Macklin, Shanghai, China) and Co(NO3)2·6H2O (Energy Chemical, Shanghai, China) were dissolved in 5 mL ethanol to form a clear solution. Then, the pretreated CP was immersed into the above solution and aged for 10 s prior to drying at room temperature. The mass loadings of electrodes with the immersion layers of 3, 5 and 10 were about 0.03 mg cm−2, 0.05 mg cm−2 and 0.1 mg cm−2, respectively. Then, the intermediate Co-POM/CP was heated at 700 °C for 3 h with a heating rate of 2 °C min−1 in N2 atmosphere. The electrodes calcinated at 600 °C and 800 °C were utilized to explore the temperature effect. Three mass ratios between PMo12O40·xH2O and Co(NO3)2·6H2O of 1:3, 1:1 and 3:1 were investigated herein. The resultant electrodes were abbreviated as CoMo0.3O4@CP, CoMo1O4@CP and CoMo3O4@CP, respectively. The corresponding reconstructed electrodes were denoted as Mo0.3-CoOOH@CP, Mo1–CoOOH@CP and Mo3–CoOOH@CP, respectively. Specifically, during the electrochemical activation, the structure evolution of CoMoxO4@CP to Mox-CoOOH@CP is schematically shown in
+Fig. 1
+.
+Fig. 1. Schematic illustration of the electrochemical activation induced surface self-reconstruction of the CoMoxO4@CP to Mox-CoOOH@CP (x = 0.3, 1 or 3).
+X-ray diffraction (XRD) were characterized by a Rigaku Smartlab diffractometer with Cu Kα1 (λ = 1.5406 Å) radiation. The morphology and structure of prepared electrodes were collected by scanning electron microscopy (SEM, SU8010, Hitachi, Japan), transmission electron microscopy (TEM, JEM-2100 plus, JEOL, Japan), field-emission transmission electron microscopy (FE-TEM, JEM-F200, JEOL, Japan) and an energy-dispersive X-ray spectroscopy (EDS) attached to the TEM. Raman spectra were examined using a Renishaw Invia Raman spectrometer with a 532 nm laser source. X-ray photoelectron spectra (XPS) were measured by a Thermo Scientific ECSALab 250Xi X-ray photoelectron spectrometer with an Al Kα X-ray radiation (1486 eV). Elemental analyses were obtained from an inductively coupled plasma optical emission spectrometry (ICP -OES) PQ9000.
+All the electrochemical measurements were conducted in a standard three-electrode setup on a CHI 660E electrochemical workstation (Chenhua Instruments, Shanghai, China). The fabricated self-supported electrodes were directly employed as working electrodes, while a graphite rod and an Hg/HgO (filled in 1 M KOH) electrode served as the counter electrode and the reference electrode, respectively. For comparison, 5 mg of commercial IrO2 powders and 50 μL of 5 wt% Nafion solution were dispersed in 950 μL of isopropyl alcohol by sonication for 1 h. Then the homogeneous suspension was drop-cast onto CP electrode where the total effective loading surface area of IrO2 catalyst is 1 cm2, and the mass loading is 0.05 mg cm−2. Multiple cyclic voltammetry (CV) scans were firstly performed at a scan rate of 5 mV s−1 until reached a stable state of electrodes. Then, linear sweep voltammetry (LSV) was conducted with a scan rate of 2 mV s−1 in 1 M KOH solution. Electrochemical impedance spectroscopy (EIS) was measured with conditions of the 1.6 V vs. RHE potential and frequency from 100 kHz to 0.01 Hz. The electrochemical double layered capacitance (Cdl) was calculated by cyclic voltammetry (CV) sweeping at the overpotential window of 0.2–0.3 V with various scan rates of 20, 40, 60, 80 and 100 mV s−1, respectively. The long-term stability of the catalysts under OER conditions was tested by chronopotentiometry, chronoamperometry and multiple cycles of CV scans for 100 h, 20 h and 5000 cycles, respectively. In this study, all the potentials were obtained without iR compensation, and the resistance-corrected LSV curves were presented in the supplementary information for reader comparison (
+Fig. S1
+). Potentials were referenced to the reversible hydrogen electrode (RHE): Evs. RHE = Evs. Hg/HgO +0.098 + 0.059 pH. The overpotential (η) was calculated according to the following equation: η = Evs. RHE −1.23 V.
+The X-ray diffraction (XRD) analysis is applied to investigate the crystal structures on the surface of the as-prepared electrodes. The XRD patterns (
+Fig. 2
+a) of CoMo0.3O4@CP, CoMo1O4@CP and CoMo3O4@CP display all the characteristic diffraction peaks of β-CoMoO4 (JCPDS, card No. 21–0868), suggesting the formation of β‐CoMoO4 on the surface of electrode [
+11
+]. In addition, the electrode of CoMo3O4@CP containing the higher content of Mo exhibits the mixing phase. Specifically, the peaks at 26.0°, 37.4° and 53.1° are attributed to the monoclinic MoO2 (JCPDS, card No. 32–0671), as well as the peaks at 22.2° and 33.1° are indexed to the orthorhombic Mo4O11 (JCPDS, card No. 05–0337). In order to confirm the effect of different pyrolysis temperature on the phase forming, the XRD pattern of the CoMo1O4@CP prepared at 600 and 800 °C are shown in
+Fig. S2
+. The new diffraction peaks are observed at 25.7° and 26.0° corresponding to (040) facet of MoO3 phase (JCPDS, card No. 35–0609) and (−111) plane of MoO2 phase (JCPDS, card No. 32–0671) are revealed, implying the existence of molybdenum oxide impurity [
+34
+]. Thus, 700 °C is determined as the optimum pyrolysis temperature of electrodes.
+Fig. 2. (a) XRD pattern and (b) Raman spectra of the as-prepared CoMo0.3O4@CP, CoMo1O4@CP and CoMo3O4@CP. (c) SEM and (d) HRTEM image of the CoMo1O4@CP. (e) Co 2p, (f) Mo 3d and (g) O 1s XPS spectra of the CoMo1O4@CP.
+Spectroscopic characterizations are powerful means to study the bonding environments and microstructure of the samples. As illustrated in
+Fig. 2
+b, the three groups of marked peaks in the Raman spectra are characteristic for β-CoMoO4 [
+35
+]. The peaks at ~335 and ~368 cm−1 are assigned to the Co–O–Mo bond. Besides, the O–Mo–O bond can be observed at ~818 and ~874 cm−1, while the bands at ~941 and ~949 cm−1 are associated with the MoO bond [
+36
+]. The scanning electron microscopy (SEM) image of CoMo1O4@CP in
+Fig. 2
+c shows the uniform distribution of CoMo1O4 nanoparticles on CP, and the SEM image of bare CP is shown in
+Fig. S3
+. Furthermore, from the transmission electron microscopy (TEM) results (
+Fig. S4
+), the average lateral size of CoMo1O4 nanoparticles is distributed from 50 to 140 nm. The TEM images of CoMo0.3O4@CP and CoMo3O4@CP are illustrated in
+Fig. S5
+. The high resolution TEM (HRTEM) image of CoMo1O4@CP (
+Fig. 2
+d) presents two kinds of distinct lattice fringes of 0.34 and 0.67 nm, respectively corresponding to the (002) and (001) planes of monoclinic β-CoMoO4, which is consistent with the above XRD results (
+Fig. 2
+a). The selected area electron diffraction (SAED) pattern with two ordered diffraction rings reveals the polycrystalline feature of the CoMo1O4@CP (
+Fig. S6a
+). Besides, EDS mappings under high-angle annular dark-field scanning transmission electron microscopy (HAADF−STEM) (
+Figs. S6b and S7
+) manifests that the elements of Mo, Co and O are homogeneously distributed on the surface of CoMo1O4@CP, CoMo0.3O4@CP and CoMo3O4@CP.
+The XPS survey spectra of the CoMo1O4@CP electrode confirm the presence of C, O, Co and Mo elements on the surface of electrode (
+Fig. S8
+). The Co 2p spectrum (
+Fig. 2
+e) presents two characteristic peaks of Co 2p1/2 (~797.1 eV) and Co 2p3/2 (~781.1 eV) with two shake-up satellites (~803.5 and ~786.9 eV), labeled as “Sat.“, suggesting the Co (II) oxidation state for CoMo1O4@CP [
+37
+]. It is observed from the Mo 3d spectrum in
+Fig. 2
+f that the two peaks of Mo 3d3/2 (~235.6 eV) and Mo 3d5/2 (~232.5 eV) correspond to the characteristic peak of Mo (VI) oxidation state [
+38
+]. The O 1s spectrum (
+Fig. 2
+g) has binding energies of ~530.5 and ~532 eV, which are assigned to the lattice oxygen and surface absorbed molecular water (H2Oads), respectively [
+14
+,
+16
+]. The XPS spectra of the CoMo0.3O4@CP and CoMo3O4@CP are shown in
+Fig. S9
+. The XPS peak table of the CoMo1O4@CP electrode (
+Table S1
+) displays that the atom ratio of Mo and Co is closed to 1. Particularly, the atom percent of Co is 2.82% and that of Mo is 2.87%, which is well matched with the stoichiometric composition of CoMo1O4@CP.
+In-situ Raman spectroscopy is applied to investigate the structure evolution of CoMo1O4@CP electrode during the electrochemical activation process.
+Fig. 3
+a shows the Raman spectra of the CoMo1O4@CP electrode after the 80 CV cycles and during the oxygen evolution reaction (OER) test. Distinctly, there is no observation of cobalt molybdate-related peaks at ~335, ~368, ~818, ~874, ~941 and ~949 cm−1 after the 80 CV cycles. Meanwhile, the new peaks appearing at ~499, ~603 and ~678 cm−1 are assignable to the bulk of Co(OH)2 [
+39
+]. All these observations indicate the transformation of CoMo1O4 on the surface of electrode into Co(OH)2. In the overpotential of 0.4 V vs. Hg/HgO, the peak at the location of ~499 cm−1, attributed to Co(OH)2, becomes sharper. Upon overpotential increasing to 0.6 V vs. Hg/HgO at which OER commencing, the transformation of Co(OH)2 to CoOOH is confirmed by the appearances of an intense peak at 503 cm−1 and a peak with wide feature around 603 cm−1 [
+40
+].
+Fig. 3. (a) In-situ Raman spectra of the CoMo1O4@CP. (b) In-situ Raman spectra with the increase of the chronoamperometry test time. (c) Chronoamperometry test at 1.56 V vs. RHE in 1 M KOH. (d) Change in overpotential at 10 mA cm−2 during chronoamperometry activation. (e) LSV measured before and after chronoamperometry test at 1.56 V vs. RHE for 400 min in 1 M KOH.
+The chronoamperometry process is also monitored by Raman spectroscopy. During the initial 50 min test, the Raman peaks at ~503 and ~603 cm−1 are ascribed to the CoOOH-bulk (
+Fig. 3
+b). When the test time reaches 120 min, the CoOOH-bulk is converted to the CoOOH-nanosheets. The peaks shift to ~465 and ~538 cm−1, which are attributed to Eg and A1g mode of Co–O in CoOOH, respectively [
+[41]
+,
+[42]
+,
+[43]
+,
+[44]
+]. Furthermore, the intensity of Co–O peaks becomes stronger with the increase of test periods, manifesting the increase in the content of Co–OOH species [
+45
+]. The electrochemical measurements verify that the electrocatalytic activity of the electrodes is related to the content of CoOOH on the surface of electrode. It is clearly observed from
+Fig. 3
+c that the current density increases during chronoamperometry test, and attains a steady state after 400 min. In other words, the overpotential at current density of 10 mA cm−2 gradually reduces in the test (
+Fig. 3
+d) suggesting the boost of electrochemical activity. The linear sweep voltammetry (LSV) curves (
+Fig. 3
+e) further demonstrate the enhancement of OER activity after test, as indicated by the overpotential reduction of 69 mV at current density of 10 mA cm−2. After OER tests, the piece of Mo1–CoOOH@CP electrode is removed, then reused in the new electrolyte without Mo species. LSV measurements (
+Fig. S10
+) before and after changing the fresh electrolyte show a negligible change in the current density curves. Based on the above results, the transformation of CoMo1O4 to Mo1–CoOOH via intermediate Mo1–Co(OH)2 during the electrochemical activation process. This results illustrate the OER activity increase of the prepared electrode due to the fact that the CoOOH has been proved to be the active species in the OER process [
+46
+].
+In order to study the composition and structure of the reconstructed electrode, a series of characterizations including SEM, TEM and XPS of the Mo1–CoOOH@CP are performed. The SEM images of Mo1–CoOOH@CP (
+Fig. 4
+a and b) display the hexagonal sheets with thicknesses of approximately 60 nm on the surface of electrode. The SEM (
+Fig. 4
+b) and TEM (
+Fig. 4
+c) images of Mo1–CoOOH@CP further verify that the large hexagonal sheets contains extensive ultrathin nanosheets, whereas more CoOOH-bulk exists in Mo0.3-CoOOH@CP and Mo3–CoOOH@CP (
+Fig. S11
+).
+Fig. 4
+d, i.e., the HRTEM images, shows a mixed phase including (101) and (012) planes of CoOOH and (100) plane of Co(OH)2 [
+32
+]. Numerous small pits marked by white circles are observed in HRTEM images, which is ascribed to plenteous yet nonuniform defects distributed on the surface of Mo1–CoOOH@CP. Besides, the SAED pattern (
+Fig. S12a
+) manifests the polycrystalline structures of Mo1–CoOOH@CP, and the elements of C, Mo, Co and O are uniformly distributed on the Mo1–CoOOH@CP surface (
+Fig. S12b
+). The EDX elemental analysis of CoMo1O4@CP and Mo1–CoOOH@CP are shown in
+Figs. S13 and S14
+, respectively. The atom percent of Mo on the surface of electrode reduces from 0.94 to 0.08 after structure evolution. In addition, upon completing all the electrochemical measurement, the electrolyte is tested by ICP-OES. The results indicate that the concentration of Mo in electrolyte is 1.36 mg L−1, which accounts for ~90% of the total content of Mo on the surface of electrode. In other words, about 90% of Mo is etched into the electrolyte. However, the concentration of Co is lower than detection line (10 ppm). All these results manifest that the MoO42- is partially removed rather than the whole catalyst falling off from the electrode during the electrochemical test. To further verify the effects of MoO42- in electrolyte on the intermediate Co(OH)2, the Co(OH)2@CP electrode is prepared based on the previous study [
+47
+]. In the chronoamperometry test (
+Fig. S15
+), the MoO42- of 0.136 mg is added to the 100 mL electrolyte when the current density keeping steady. The test results demonstrate that the current density of Co(OH)2@CP increases from 9.1 mA cm−2 to 9.8 mA cm−2 with the increase of 7.69%. The enhancement in the current density of Co(OH)2@CP can be ascribed to the formation of CoOOH with better OER activity obtained by the in-situ conversion of Co(OH)2, which is induced by MoO42- electrochemical etching.
+Fig. 4. (a, b) SEM images, (c) TEM image and (d) HRTEM image of the Mo1–CoOOH@CP (e) Co 2p, (f) Mo 3d and (g) O 1s XPS spectra of the Mo1–CoOOH@CP.
+The surface chemical states of reconstruction-derived electrodes are examined by XPS. The Co 2p spectrum (
+Figs. 4
+e and
+S16
+) presents two pairs of spin-orbit doublets with four shake-up satellites. The peaks at ~780.1 eV (2p3/2) and ~794.7 eV (2p1/2) are attributed to Co3+, while the peaks of ~781.3 eV (2p3/2) and ~795.8 eV (2p1/2) are assigned to Co2+ [
+48
+]. In Co 2p3/2 spectra (
+Fig. S17
+), the relative area ratio (1.23) of Co3+ and Co2+ in Mo1–CoOOH@CP is higher than those of Mo0.3-CoOOH@CP (1.17) and Mo3–CoOOH@CP (1.18). Besides, the relative area ratios of Co3+(Sat.) and Co2+(Sat.) in Mo1–CoOOH@CP, Mo0.3-CoOOH@CP and Mo3–CoOOH@CP are computed to be 0.4, 0.22 and 0.31, respectively. These results indicate that there are more exposed Co3+ sites on the surface of Mo1–CoOOH@CP [
+49
+]. The Mo 3d spectrum (
+Fig. 4
+f) exhibits two peaks at ~235.6 and ~232.5 eV, which correspond to the characteristic peak of Mo6+. However, the intensity of Mo 3d peaks decrease after electrochemical test, further demonstrating the partial removal of MoO42- as previous discussion. The O1s spectrum (
+Figs. 4
+g and
+S16
+) manifests the oxygen atom exists three different forms, excepting Co–O (~529.8 eV) bond, the other peaks at ~532.6 and ~531.2 eV are attributed to surface absorbed molecular water (H2Oads) and Co–OH, respectively [
+50
+,
+51
+]. The peak area ratio of Co–OH and Co–O bonds for Mo1–CoOOH@CP is calculated to be 6.20, which is much higher than the value (2.26) of the Mo0.3-CoOOH@CP and the value (1.22) of the Mo3–CoOOH@CP. It indicates that the Co–O bonds of Mo1–CoOOH@CP are weaker than the corresponding bonds of Mo0.3-CoOOH@CP and Mo3–CoOOH@CP. The cleavage of Co–O bonds can result in the exposure of more Co sites, which can significantly improve the OER activity. The XPS results support the existence of CoOOH on reconstruction-derived electrode. Thus, the etching of the MoO42- causes the oxidation of Co species and structure evolution of CoMoO4 to CoOOH during the electrochemical activation, which well rationalizes the boost OER activity of Mo1–CoOOH@CP.
+First-principles calculations are conducted to examine the role of the etching of the MoO42- species in the OER process. Based on the result of experiment (i.e., in-situ Raman, XPS, TEM), the structural evolution of CoMoO4 to CoOOH via Co(OH)2 intermediate occurs on the surface of electrode. Then, the models of CoOOH (101) and (012) surfaces, and Co(OH)2 (100) surface are rationally established considering the removal of MoO42- ion from the models of MoO42-@ CoOOH (
+Fig. S18
+) and MoO42-@Co(OH)2 (
+Fig. S19
+), respectively. The detailed process of DFT calculations are described in the Supporting Information. Three adsorbed intermediates (*OH, *O and *OOH) are generated in the OER process with the four-step mechanism [
+33
+], meanwhile the *OOH is the key active species [
+52
+]. As shown in
+Fig. 5
+, S20 and S21, the reaction step 4 (i.e., *OOH + OH− → O2 (g) + * + H2O (l) + e−) is the potential determining step (PDS) on the (101) and (012) surfaces of CoOOH and the (100) surface of Co(OH)2. The ΔG of PDS in MoO42-@CoOOH (101) (
+Fig. 5
+) and MoO42-@CoOOH (012) (
+Fig. S20
+) are 1.98 eV and 1.92 eV, respectively; then the relevant theoretical overpotential (η) are computed as 0.75 V and 0.69 V, respectively. After etching of MoO42-, the η values of CoOOH (101) and CoOOH (012) decrease to 0.51 V and 0.54 V, respectively, manifesting that the effect of MoO42- etching can increase Co active sites, and thus decrease the overpotential of OER. Similar trend can be observed on the intermediate of Co(OH)2 (100) (
+Fig. S21
+), i.e., the overpotentials before and after the etching of MoO42- are 1.92 V and 1.74 V, respectively.
+Fig. 5. Schematic of the OER on the CoOOH (101) surface. The inset shows the free-energy landscape of CoOOH compared to MoO42-@CoOOH at zero potential (U = 0 V, blank and red lines), equilibrium potential (U = 1.23 V, blue and purple lines). Ideal reaction process is illustrated by gray dotted line. (For interpretation of the references to colour in this figure legend, the reader is referred to the Web version of this article.)
+In addition, the adsorbed energies (Eads) of the MoO42- species on the Co(OH)2 (100) surface, and CoOOH (101) and (012) surfaces are −8.68 eV, −3.50 eV and −5.75 eV, respectively. The MoO42- species on CoOOH (101) surface displays the lowest adsorption energy, which indicates the easier desorption of MoO42- ions from CoOOH (101) surface. The (101) surface of CoOOH from structural evolution is the origin of the enhanced OER activity because of more exposed active sites induced the desorption of MoO42-.
+The OER electrocatalytic activities are measured by LSV curves in 1.0 M KOH solution. The electrochemical results demonstrate that 700 °C is the optimum pyrolysis temperature of electrodes (
+Fig. S22
+). The electrode with the loading amounts of 0.05 mg cm−2, i.e., immersion 5 layers, exhibits the best OER activity (
+Fig. S23
+). For comparison, LSV curves of Mo0.3-CoOOH@CP, Mo3–CoOOH@CP and commercial IrO2 are tested with the identical loading amounts. As shown in
+Fig. 6
+a, the Mo1–CoOOH@CP displays high OER activity with a low overpotential of ~274 mV vs. RHE at the current density of 10 mA cm−2 (η10), which is obviously lower than those of the commercial IrO2 (~316 mV), Mo0.3-CoOOH@CP (~327 mV) and Mo3–CoOOH@CP (~339 mV). The electrocatalytic activity of Mo1–CoOOH@CP is superior to the most surface reconstruction OER electrocatalysts reported previously (seen in
+Table S2
+). Besides, the reproducibility of the synthesis has been checked (
+Fig. S24
+). To discuss the reaction kinetics of the electrode, Tafel slopes are derived from the LSV curves. As can be observed from
+Fig. 6
+b that the Tafel slope of Mo1–CoOOH@CP is calculated to be 66 mV dec−1, which is much lower than those of IrO2 (92 mV dec−1), Mo0.3-CoOOH@CP (88 mV dec−1) and Mo3–CoOOH@CP (90 mV dec−1). The results demonstrate that Mo1–CoOOH@CP exhibits the fast OER catalytic kinetics [
+53
+].
+Fig. 6. OER activity tests. (a) Polarization curves, (b) Tafel plots, (c) ECSA measurements of Mo0.3-CoOOH@CP, Mo1–CoOOH@CP, Mo3–CoOOH@CP, CP and IrO2 in 1 M KOH for OER. (d) Chronoamperometry (j–t) tests of the long-term stability for Mo1–CoOOH@CP and IrO2. (e) CV curves of 1 - 5000th cycles for Mo1–CoOOH@CP. Inset: chronopotentiometry curve for the Mo1–CoOOH@CP with constant current density of 10 mA cm−2. (f) Nyquist plots obtained from EIS measurements at a potential of 1.6 V vs. RHE.
+The electrochemical active surface areas (ECSA) (
+Fig. 6
+c) are calculated by the double layer capacitance (Cdl) to confirm the intrinsic active amount of the electrodes. The Cdl is derived from the CV curves at different scan rates of 20, 40, 60, 80 and 100 mV s−1 by the linear fitting of the slopes (
+Fig. S25
+). The Cdl values of Mo0.3-CoOOH@CP, Mo1–CoOOH@CP, Mo3–CoOOH@CP and IrO2 are calculated to be 26.24, 37.32, 26.73 and 9.69 mF cm−2, corresponding to the derived ECSA values of 437.33, 622, 445.5 and 161 m2 g−1, respectively (as detailed in
+Eqs. S1 and S2
+). It is evident that the Mo1–CoOOH@CP possesses the largest value of ECSA with 3.8-fold of IrO2, 1.4-fold of Mo0.3-CoOOH@CP and 1.4-fold of Mo3–CoOOH@CP, suggesting the largest number of active sites for Mo1–CoOOH@CP [
+54
+].
+The remarkable durability of Mo1–CoOOH@CP is evaluated via chronoamperometry, chronopotentiometry and multiple cycles of CV scans. As illustrated in
+Fig. 6
+d, the chronoamperometry at the current density of 10 mA cm−2 shows a negligible decrease of current density after 20 h for Mo1–CoOOH@CP and 45.4% loss of current density after 2.5 h for IrO2. The chronopotentiometry test of the Mo1–CoOOH@CP at an overpotential of 1.50 V vs. RHE remains stable for 100 h as the inset of
+Fig. 6
+e shown. Additionally, after 5000 cycles of CV scans, the overpotential of Mo1–CoOOH@CP just increases 10 mV at 10 mA cm−2 (
+Fig. 6
+e). In general, the results indicate that Mo1–CoOOH@CP exhibits the significant long-term stability. The electrochemical impedance spectroscopy (EIS) is carried out to evaluate the electrode kinetics. As shown in
+Fig. 6
+f, the charge-transfer resistance (Rct) of Mo1–CoOOH@CP (~4.86 Ω) is lower than those of commercial IrO2 (~6.64 Ω), Mo0.3-CoOOH@CP (~24.33 Ω) and Mo3–CoOOH@CP (~20.41 Ω), which strongly manifests that the Mo1–CoOOH@CP electrode deliver a quicker charge transmission capacity than other electrodes during the OER process [
+55
+]. The difference of Rct value for Mo1–CoOOH@CP, Mo0.3-CoOOH@CP and Mo3–CoOOH@CP is due to the difference in the number of ultrathin nanosheets of CoOOH as discussion above (
+Figs. 4
+and
+S11
+) [
+56
+].
+This study presents an approach for the surface self-reconstruction on CoMoO4 induced by the etching of MoO42-. The reconstruction-derived electrode of Mo1–CoOOH@CP exhibits outstanding OER activity. The reasons for the significant OER performance of Mo1–CoOOH@CP are as follows: (i) the etching of MoO42- cause the oxidation of Co species, as well as generate more defects on the surface of electrode. (ii) the desorption of MoO42- from CoOOH surface can expose more active Co 3+ sites. Besides, the long-term stability of the reconstructed electrode is verified. Generally, our work is beneficial for the fundamental understanding of the underlying OER mechanism and provides guideline in the research on the self-reconstruction of electrocatalysts.
+The authors would like to acknowledge the financial supported by the National Science Foundation of China (
+21072221
+,
+21172252
+,
+21875247
+).
+The following is the Supplementary data to this article:
+Download: Download Word document (23MB)
+Multimedia component 1.
+Multimedia component 1.
+Cookies are used by this site.
+Cookie Settings
+All content on this site: Copyright © 2024 Elsevier B.V., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the Creative Commons licensing terms apply.

@@ -1,0 +1,605 @@
+{
+    "materials": [
+        {
+            "material_name": "hierarchical ZnxCo3\u2013xO4 nanoarrays",
+            "properties": [
+                {
+                    "type": "Overpotential",
+                    "value": 0.0,
+                    "unit": "V",
+                    "conditions": "in alkaline media",
+                    "reaction_type": "OER",
+                    "evidence": 0
+                },
+                {
+                    "type": "Stability",
+                    "value": 0.0,
+                    "unit": "NA",
+                    "conditions": "in alkaline media",
+                    "reaction_type": "OER",
+                    "evidence": 0
+                },
+                {
+                    "type": "Surface area",
+                    "value": 0.0,
+                    "unit": "NA",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 0
+                },
+                {
+                    "type": "Active sites",
+                    "value": 0.0,
+                    "unit": "NA",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 0
+                },
+                {
+                    "type": "Mass loading",
+                    "value": 1.0,
+                    "unit": "mg/cm2",
+                    "conditions": "O2-saturated 1 M KOH solution, room temperature, electrochemical measurements",
+                    "reaction_type": "OER",
+                    "evidence": 1
+                },
+                {
+                    "type": "mass loading",
+                    "value": 1.0,
+                    "unit": "mg/cm2",
+                    "conditions": "calculated from the increase in mass of the Ti foil",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "lattice parameter",
+                    "value": 0.80872,
+                    "unit": "nm",
+                    "conditions": "XRD",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "crystallite size",
+                    "value": 14.2,
+                    "unit": "nm",
+                    "conditions": "XRD",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "Zn/Co ratio",
+                    "value": 0.23,
+                    "unit": "ratio",
+                    "conditions": "ICP-OES",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "specific surface area",
+                    "value": 66.7,
+                    "unit": "m2/g",
+                    "conditions": "BET",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "roughness factor",
+                    "value": 2063.0,
+                    "unit": "dimensionless",
+                    "conditions": "Electrochemical measurement",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "lattice parameter",
+                    "value": 0.80915,
+                    "unit": "nm",
+                    "conditions": "XRD",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "crystallite size",
+                    "value": 11.8,
+                    "unit": "nm",
+                    "conditions": "XRD",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "Zn/Co ratio",
+                    "value": 0.31,
+                    "unit": "ratio",
+                    "conditions": "ICP-OES",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "specific surface area",
+                    "value": 78.5,
+                    "unit": "m2/g",
+                    "conditions": "BET",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "roughness factor",
+                    "value": 2512.0,
+                    "unit": "dimensionless",
+                    "conditions": "Electrochemical measurement",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "XRD peak position",
+                    "value": 311.0,
+                    "unit": "index",
+                    "conditions": "XRD analysis",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "lattice parameter",
+                    "value": 0.80915,
+                    "unit": "nm",
+                    "conditions": "XRD analysis",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "crystallite size",
+                    "value": 11.8,
+                    "unit": "nm",
+                    "conditions": "XRD analysis",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "specific surface area",
+                    "value": 78.5,
+                    "unit": "m2/g",
+                    "conditions": "XRD analysis",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "roughness factor",
+                    "value": 2512.0,
+                    "unit": "dimensionless",
+                    "conditions": "XRD analysis",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "XPS peak position",
+                    "value": 780.2,
+                    "unit": "eV",
+                    "conditions": "XPS analysis",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "XPS peak position",
+                    "value": 794.7,
+                    "unit": "eV",
+                    "conditions": "XPS analysis",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "XPS peak position",
+                    "value": 1045.1,
+                    "unit": "eV",
+                    "conditions": "XPS analysis",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "XPS peak position",
+                    "value": 1021.6,
+                    "unit": "eV",
+                    "conditions": "XPS analysis",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "XPS peak shift",
+                    "value": 0.7,
+                    "unit": "eV",
+                    "conditions": "XPS analysis",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Overpotential",
+                    "value": 0.32,
+                    "unit": "V",
+                    "conditions": "1 M KOH, 1.55 V vs RHE",
+                    "reaction_type": "OER",
+                    "evidence": 6
+                },
+                {
+                    "type": "Current density",
+                    "value": 16.85,
+                    "unit": "mA/cm2",
+                    "conditions": "1.57 V vs RHE",
+                    "reaction_type": "OER",
+                    "evidence": 6
+                },
+                {
+                    "type": "Overpotential",
+                    "value": 0.32,
+                    "unit": "V",
+                    "conditions": "at 1.55 V vs RHE, 10 mA/cm2",
+                    "reaction_type": "OER",
+                    "evidence": 7
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 51.0,
+                    "unit": "mV/decade",
+                    "conditions": "OER",
+                    "reaction_type": "OER",
+                    "evidence": 7
+                },
+                {
+                    "type": "Current density",
+                    "value": 16.85,
+                    "unit": "mA/cm2",
+                    "conditions": "at 1.57 V vs RHE",
+                    "reaction_type": "OER",
+                    "evidence": 7
+                },
+                {
+                    "type": "overpotential",
+                    "value": 0.32,
+                    "unit": "V",
+                    "conditions": "at a current density of 10 mA/cm2",
+                    "reaction_type": "OER",
+                    "evidence": 8
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 51.0,
+                    "unit": "mV/decade",
+                    "conditions": "NA",
+                    "reaction_type": "OER",
+                    "evidence": 8
+                },
+                {
+                    "type": "lattice parameter",
+                    "value": 0.81123,
+                    "unit": "nm",
+                    "conditions": "XRD",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "crystallite size",
+                    "value": 12.4,
+                    "unit": "nm",
+                    "conditions": "XRD",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "Zn/Co ratio",
+                    "value": 0.48,
+                    "unit": "ratio",
+                    "conditions": "ICP-OES",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "specific surface area",
+                    "value": 52.3,
+                    "unit": "m2/g",
+                    "conditions": "BET",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "roughness factor",
+                    "value": 1956.0,
+                    "unit": "dimensionless",
+                    "conditions": "Electrochemical measurement",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 60.0,
+                    "unit": "mV/decade",
+                    "conditions": "OER",
+                    "reaction_type": "OER",
+                    "evidence": 7
+                },
+                {
+                    "type": "Overpotential",
+                    "value": 0.32,
+                    "unit": "V",
+                    "conditions": "1 M KOH",
+                    "reaction_type": "OER",
+                    "evidence": 6
+                },
+                {
+                    "type": "Mass loading",
+                    "value": 1.0,
+                    "unit": "mg/cm2",
+                    "conditions": "1 M KOH",
+                    "reaction_type": "OER",
+                    "evidence": 6
+                },
+                {
+                    "type": "Morphological Variation",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "for Supercapacitor and OER Applications",
+                    "reaction_type": "OER",
+                    "evidence": 21
+                },
+                {
+                    "type": "Surface area",
+                    "value": 120.0,
+                    "unit": "m\u00b2/g",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 22
+                },
+                {
+                    "type": "XPS",
+                    "values": [
+                        780.2,
+                        794.7,
+                        1045.1,
+                        1021.6
+                    ],
+                    "units": [
+                        "eV"
+                    ],
+                    "conditions": [
+                        "Co 2p3/2 spin\u2013orbit line",
+                        "Zn 2p1/2 of Zn2+",
+                        "Co 2p1/2 spin\u2013orbit line",
+                        "Zn 2p3/2 of Zn2+"
+                    ],
+                    "evidence": 5.0
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Co3O4",
+            "properties": [
+                {
+                    "type": "lattice parameter",
+                    "value": 0.80857,
+                    "unit": "nm",
+                    "conditions": "XRD",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "crystallite size",
+                    "value": 26.6,
+                    "unit": "nm",
+                    "conditions": "XRD",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "specific surface area",
+                    "value": 36.6,
+                    "unit": "m2/g",
+                    "conditions": "BET",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "roughness factor",
+                    "value": 1292.0,
+                    "unit": "dimensionless",
+                    "conditions": "Electrochemical measurement",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "Overpotential",
+                    "value": 0.44,
+                    "unit": "V",
+                    "conditions": "10 mA/cm2",
+                    "reaction_type": "OER",
+                    "evidence": 7
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 60.0,
+                    "unit": "mV/decade",
+                    "conditions": "OER",
+                    "reaction_type": "OER",
+                    "evidence": 7
+                }
+            ],
+            "benchmark": true
+        },
+        {
+            "material_name": "Ir/C",
+            "properties": [
+                {
+                    "type": "Current density",
+                    "value": 1.78,
+                    "unit": "mA/cm2",
+                    "conditions": "1.57 V vs RHE",
+                    "reaction_type": "OER",
+                    "evidence": 6
+                },
+                {
+                    "type": "Overpotential",
+                    "value": 0.44,
+                    "unit": "V",
+                    "conditions": "initial value for Co3O4, 10 mA/cm2",
+                    "reaction_type": "OER",
+                    "evidence": 7
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 43.0,
+                    "unit": "mV/decade",
+                    "conditions": "OER",
+                    "reaction_type": "OER",
+                    "evidence": 7
+                },
+                {
+                    "type": "Current density",
+                    "value": 1.78,
+                    "unit": "mA/cm2",
+                    "conditions": "at 1.57 V vs RHE",
+                    "reaction_type": "OER",
+                    "evidence": 7
+                }
+            ],
+            "benchmark": true
+        },
+        {
+            "material_name": "IrO2\u2013ZnO Composite Nanorod Array",
+            "properties": [
+                {
+                    "type": "Electrocatalyst activity",
+                    "value": 0.0,
+                    "unit": "NA",
+                    "conditions": "Acid-Stable",
+                    "reaction_type": "OER",
+                    "evidence": 12
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "ZnO/Co3O4",
+            "properties": [
+                {
+                    "type": "Electrocatalyst",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "for the Oxygen Evolution Reaction",
+                    "reaction_type": "OER",
+                    "evidence": 13
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "NixCo3-xO4",
+            "properties": [
+                {
+                    "type": "Oxygen Evolution Reaction Activity",
+                    "value": 7618.0,
+                    "unit": "none",
+                    "conditions": "none",
+                    "reaction_type": "OER",
+                    "evidence": 14
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Hierarchical Porous Double-Shelled Electrocatalyst",
+            "properties": [
+                {
+                    "type": "Lattice Alkalinity",
+                    "value": 15.0,
+                    "unit": "index",
+                    "conditions": "Bifunctional Oxygen Reactions for Metal\u2013Air Batteries",
+                    "reaction_type": "NA",
+                    "evidence": 15
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Zn/Co Hydroxy Sulfate",
+            "properties": [
+                {
+                    "type": "Electrocatalytic Oxygen Evolution Reaction",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "Efficient",
+                    "reaction_type": "OER",
+                    "evidence": 16
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Three-Dimensional Carbon Paper/Carbon Tubes/Cobalt-Sulfide Sheets",
+            "properties": [
+                {
+                    "type": "Electrode efficiency",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "for Overall Water Splitting",
+                    "reaction_type": "NA",
+                    "evidence": 17
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "MnCo2O4",
+            "properties": [
+                {
+                    "type": "Stability",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "Photocatalytic CO2 Reduction with Visible Light",
+                    "reaction_type": "NA",
+                    "evidence": 18
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "NiFe2O4//CoFe2O4 nanosheets",
+            "properties": [
+                {
+                    "type": "compound dynamism",
+                    "value": 19.0,
+                    "unit": "index",
+                    "conditions": "for supercharged supercapacitors",
+                    "reaction_type": "NA",
+                    "evidence": 19
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "FTO/CuO",
+            "properties": [
+                {
+                    "type": "structural properties",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "electrochemical performance",
+                    "reaction_type": "NA",
+                    "evidence": 20
+                }
+            ],
+            "benchmark": false
+        }
+    ],
+    "doi": "example_doi",
+    "factor": "Hydrogen coverage,Energy barrier,Conductivity,Surface area,Size,Defect,Dopant,Active sites,Stability,Electrode potential,Overpotential,Tafel slope,onsite potential,Current density,Mass loading,XPS,FTIR,Raman,XRD",
+    "meta": {
+        "maintext": "/Users/yangz/Documents/projects/llm4catalyst/documents/maintext/Hierarchical_ZnxCo3xO4_Nanoarrays_with_High_Activi_maintext.txt",
+        "abstract": "/Users/yangz/Documents/projects/llm4catalyst/documents/abstract/Hierarchical_ZnxCo3xO4_Nanoarrays_with_High_Activi_abs.txt",
+        "intro": "documents/intro/c60_intro.txt",
+        "window_size": 2,
+        "chunk_size": 1000,
+        "chunk_overlap": 100,
+        "output": "results",
+        "property": "/Users/yangz/Documents/projects/llm4catalyst/prompts/properties.txt",
+        "self_defined": true,
+        "title": "Hierarchical_ZnxCo3xO4_Nanoarrays_with_High_Activi"
+    }
+}

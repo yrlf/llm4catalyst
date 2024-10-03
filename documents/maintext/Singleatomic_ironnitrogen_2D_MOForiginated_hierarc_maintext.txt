@@ -1,0 +1,377 @@
+•
+Hierarchically porous carbon is synthesized via topological changing strategy.
+•
+Single Fe atom catalyst was successfully synthesized by pore confined method.
+•
+The Fe-SA/HPC showed superior catalytic activity toward ORR.
+•
+The excellent performance is clarified by the DFT theory.
+•
+The active site is optimized by the synergistic effect of defects and graphite-N.
+Hierarchically porous carbon is synthesized via topological changing strategy.
+Single Fe atom catalyst was successfully synthesized by pore confined method.
+The Fe-SA/HPC showed superior catalytic activity toward ORR.
+The excellent performance is clarified by the DFT theory.
+The active site is optimized by the synergistic effect of defects and graphite-N.
+The requirement of sustainable energy is of great significance for easing the energy shortage crisis, in which the oxygen reduction reaction (ORR) in metal-air batteries and fuel cells plays a crucial role in efficient energy conversion. The development of noble-metal-free, efficient, and stable ORR electrocatalysts is highly desirable but remains a significant challenge. Herein, we report an atomically dispersed Fe and N co-doped hierarchically porous carbon (Fe-SA/HPC) catalyst derived from two-dimensional leaf-like ZIF-L with preeminent ORR activity. The Fe-SA/HPC catalyst, benefitting from hierarchically porous structure and rich highly-dispersed active sites of FeNx, put up ORR performance with a half-wave potential (E1/2) of 0.91 V vs. the reversible hydrogen electrode (RHE) in 0.1 M KOH electrolyte. The current density with a 0.382 mg cm−2 loading of catalyst in a rotating disk electrode (RDE) test can reach 24.65 mA cm−2 at 0.8 V, which is nearly twice that of commercial 20 wt% Pt/C. Density functional theory calculations demonstrate that the co-regulation of defects and graphitic nitrogen can optimize the local electronic redistribution for active sites and endow them with a lower free-energy barrier towards the ORR. This work provides certain inspiration for the development of highly reactive atomic metal catalysts through rational topology structure engineering and nitrogen moiety regulation.
+Download: Download high-res image (90KB)
+Download: Download full-size image
+The oxygen reduction reaction (ORR) is of great significance owing to its applications in proton exchange membrane (PEM) fuel cells for highly efficient and clean energy conversion
+[1]
+,
+[2]
+. At the present stage, Pt-based catalysts with excellent ORR performance are used as cathode catalysts in PEM fuel cells. However, the extravagant price and undesirable durability preclude their large-scale commercial application
+[3]
+,
+[4]
+,
+[5]
+. Recently, transition metal-doped nitrogenated carbon (Fe, Co, Mn, etc. as M in M−N−C) catalysts emerged as the most promising candidates for Pt-based catalysts
+[6]
+,
+[7]
+,
+[8]
+. Furthermore, single-atom catalysts (SACs) are expected to be alternative catalysts to gain considerably high activity on par with noble-metal-free catalysts
+[9]
+,
+[10]
+,
+[11]
+.
+Metal-organic frameworks (MOFs) with well-defined porous structures and the most distinct characteristic designability have been considered as a potential bridge to connect M−N−C catalysts and SACs
+[12]
+,
+[13]
+. Zeolitic imidazole frameworks (ZIFs) could present as desired precursors due to their capability of forming MNx sites and porous structures during pyrolysis. Among various ZIFs, two-dimensional (2D) foliated ZIF-L with abundant uncoordinated metal/ligand sites on its surface may facilitate the utilization of atoms by virtue of the designability of its two-dimensional morphology
+[14]
+,
+[15]
+. Nevertheless, the metal node Zn of ZIF-L evaporates at high temperature, resulting in the uncontrollable loss of the two-dimensional morphology of ZIF-L. Therefore, it is difficult to precisely synthesize the catalysts with controllable active sites, which hinders the application of ZIF-L in electrocatalysis
+[16]
+.
+Herein, we report a unique construction strategy for a single-atom hierarchically porous carbon catalyst (Fe-SA/HPC) derived from two-dimensional leaf-like ZIF-L. The synthesis process consists of two pore-forming processes and a cage-encapsulation process. First, the layer structure of ZIF-L is induced to rapidly convert into the same stable sodalite (SOD) cage structure as that of ZIF-8 in methanol, resulting in the rearrangement and breakup of the lamellar crystal structures to form micropores and macropores
+[17]
+. The newly added 2-methylimidazole (HMeIm) and Zn2+ can coordinate with metal/ligand sites on the ZIF-L surface to form thermostable ZIF-8 frameworks. Then, the frameworks of ZIFs act as molecular-scale cages to capture individual Fe(acac)3. Finally, the precursor gained from the previous process is pyrolyzed to obtain the final Fe-SA/HPC catalyst. In the pyrolysis process, Zn in ZIF-L evaporates at high temperatures, causing the collapse of local structures to form mesopores. Cage-confined Fe(acac)3 is reduced and anchored on nitrogen species by carbonization to form FeNx sites. Because of such special structural and compositional characteristics, Fe-SA/HPC shows impressive ORR performance with a half-wave potential (E1/2) of 0.91 V versus the reversible hydrogen electrode (RHE). The catalyst gains a current density of 24.65 mA cm−2 at 0.8 V with a 0.375 mg cm−2 loading in a rotating disk electrode (RDE) test, which is almost double that of commercial 20 wt% Pt/C.
+2-Methylimidazole (2627 mg, 32 mmol) was dissolved in 80 mL deionized water to form solution A. Zn(NO3)2·6H2O (1190 mg, 4 mmol) was dissolved in 80 mL deionized water to form solution B. Then, solution A and solution B were subsequently mixed in a beaker with vigorous stirring for 4 h at room temperature. The resulting product was separated via centrifugation washed with water several times and finally dried in an oven at 60 °C.
+The ZIF-L sample (250 mg) was dissolved in 50 mL methanol with vigorous stirring for 10 min at room temperature. Then 2-methylimidazole (328 mg, 4 mmol) was added and stirred for 10 min. After that, Fe(acac)3 (70.6 mg, 0.2 mmol) was added and stirred for 10 min. Next, Zn(NO3)2·6H2O (297.5 mg, 1 mmol) was added and stirred for another 10 min. Then, the mixed solution was transferred into a 100 mL Teflon-lined autoclave and heated at 120 °C for 4 h. The resulting product was separated via centrifugation washed with methanol several times and finally dried in an oven at 60 °C. ZIF-L-8 was obtained only by solvent thermal treatment as above without the addition of Fe(acac)3.
+The ZIF-L sample (250 mg) was dissolved in 50 mL methanol with vigorous stirring for 10 min at room temperature. Then Fe(acac)3 (70.6 mg, 0.2 mmol) was added and stirred for 10 min. Then, the mixed solution was transferred into a 100 mL Teflon-lined autoclave and heated at 120 °C for 4 h. The resulting product was separated via centrifugation washed with methanol several times and finally dried in an oven at 60 °C.
+The 2-methylimidazole (1314 mg, 16 mmol) was dissolved in 20 mL methanol in flask A under ultrasound. Zn(NO3)2·6H2O (1190 mg, 4 mmol) and Fe(acac)3 (70.6 mg, 0.2 mmol) was dissolved in 30 mL methanol in flask B under ultrasound. Next, the mixture in flask A and flask B was subsequently added into flask C subsequently with vigorous stirring for 10 min at room temperature. Then, the mixed solution was transferred into a 100 mL Teflon-lined autoclave and heated at 120 °C for 4 h. The resulting product was separated via centrifugation washed with methanol several times and finally dried in an oven at 60 °C.
+The ZIF-L@Fe@ZIF-8 powder was transferred into a ceramic boat and placed in a tube furnace. The sample was heated to 900 °C with a temperature rate of 5 °C min−1 and kept at 900 °C for 3 h under flowing nitrogen environment and naturally cooled down to room temperature. The obtained product was directly used without any further treatment. Fe-SA/HPC-2 h was obtained by only changing the pyrolysis time to 2 h. The calefaction temperature of ZIF-L, ZIF-L-8, ZIF-L@Fe and ZIF-8@Fe was 900 °C with a temperature rate of 5 °C min−1 and maintained for 3 h under flowing nitrogen gas and then naturally cooled to room temperature to obtain N-C-L, N-C-8, Fe-N-C/ZIF-L and Fe-N-C/ZIF-8.
+The XRD patterns were obtained using a Bruker-Nonius D8 Focus diffractometer with Cu-Kα radiation (λ = 1.5418 Å). The XPS experiments were implemented by a Thermo Scientific ESCALAB 250Xi equipped with a monochromatic Al Kα source operated at 15 keV. All the peaks were calibrated by setting the C 1 s peak at 284.5 eV. The iron content of the catalyst measured by ICP-OES analysis was performed using an Agilent 5110 ICP/OES instrument. The surface area and pore distribution of the samples were studied using a BJBulider SSA-7000, and the pore size distributions were analyzed by Barrett-Joyner-Halenda (BJH) and Horvath-Kawazoe (HK) methods. SEM images were captured with a Hitachi S-4800 electron microscope. TEM images and energy dispersive spectroscopy (EDS) mapping spectra were obtained on a JEOL JEM-2100F microscope at 200 kV. Raman data were collected by a HORIBA LabRAM HR Evolution spectrometer using an excitation wavelength of 633 nm. HAADF-STEM images were imaged by using a JEM-ARM200F operated at 60 keV. The X-ray absorption spectra (XAS) measurements for the Fe-edge were carried out in transmission mode (fluorescence mode) on beamline 12-BM in the Advanced Photon Source at Argonne National Laboratory.
+The calculations were conducted by density functional theory (DFT) with the Vienna ab-initio simulation package (VASP)
+[18]
+. The projector augmented wave (PAW) method was used for the coactions of ion cores and valence electrons
+[19]
+. The Perdew-Burke-Ernzerhof function was adopted for the exchange and correlation energies
+[20]
+. The cut-off energy for the whole calculation was set to 520 eV. Due to the large structure cell, the Brillouin zone is conducted using a 1 × 1 × 1 Monkhorst-Pack grid. The energy and the force were converged to 1.0 × 10−5 eV/atom and 0.02 eV/Å with a force-based conjugate-gradient method. Spin polarization and vdW (van der Waals) with DFT-D2 were considered for our research.
+We adopted FeN4 doped on graphene layers with holes as the basic structure from previous work
+[21]
+. Synergetic N atoms are placed in different sites for matching experiments. A large size of 6 × 6 graphene and a vacuum layer of 20 Å along the c direction perpendicular to the surface were used to avoid interactions between layers. All the atoms were allowed to relax for the structure optimization. The detailed calculation methods are based on the theory presented by Nørskov et al.
+[22]
+. XANES and EXAFS data reduction and analysis were analyzed by Athena and Artemis software
+[23]
+.
+Electrochemical measurements were carried out in a three-electrode system controlled by a CHI 760e electrochemical workstation (Shanghai Chenhua, China). a gauze Pt was used as the counter electrode and Ag/AgCl (3.5 M KCl) as a reference electrode. To prepare the working electrode, 5 mg of catalyst was dispersed in l mL of solution containing 950 µL of 50% isopropanol solution and 50 µL of 5 wt% Nafion solution by sonication for 30 min. Subsequently, 15 µL of the ink was pipetted onto the glassy carbon rotating disk electrode (RDE) to cover an area of 0.1963 cm2 and dried slowly in the ambient environment (0.382 mg cm−2). The RDE/RRDE tests were carried out in O2– and N2-saturated 0.1 M KOH aqueous solution. The commercial 20 wt% Pt/C catalyst was tested using a similar method as mentioned above with a loading of 0.255 mg cm−2.
+The potentials corresponding to the reversible hydrogen electrode (RHE) electrode were calculated with the following equation:
+The electron transfer numbers (n) were calculated based on the Koutecky-Levich (K-L) equation:
+where
+,
+,
+and
+are the measured current density, diffusion current density, kinetic current density and rotation speed in rpm, respectively.
+can be determined by the Koutecky-Levich (K-L) equation:
+where
+is the electron transfer number;
+is the Faraday constant (96485C mol−1);
+is the saturation concentration of O2 in 0.1 M KOH (1.2 × 10−6 mol cm−3);
+is the diffusion coefficient of O2 in 0.1 M KOH (1.9 × 10−5 cm2 s−1);
+is the viscosity of 0.1 M KOH (0.1 cm2 s−1).
+The electron transfer number and the hydrogen peroxide yields can be confirmed by the following equations:
+where
+and
+are the disk current and ring current, respectively, and
+is the capture coefficient and N = 0.37.
+The preparation procedure of Fe-SA/HPC is schematically shown in
+Fig. 1
+a. First, leaf-shaped ZIF-L particles were prepared by the reported method
+[24]
+. Subsequently, a thermal treatment was conducted after leaf-shaped ZIF-L template, Fe(acac)3, Zn(NO3)2·6H2O, and HMeIm were mixed in methanol to form a clip-shaped hybrid MOF of ZIF-L@Fe@ZIF-8. Then, the ZIF-L@Fe@ZIF-8 precursor was pyrolyzed at 900 °C for 3 h in a N2 atmosphere to obtain Fe-SA/HPC.
+Fig. 1. (a) Schematic diagram for the preparation of Fe-SA/HPC. (b) SEM image, (c) HAADF-STEM image, (d) corresponding EDS mapping revealing the distribution of C (red), N (blue) and Fe (violet), and (e) TEM image of Fe-SA/HPC.
+The scanning electron microscopy (SEM) images reveal that the morphology of the Fe-SA/HPC is sheet structure with a hexagonal ring shape (
+Fig. 1
+b). Fe-SA/HPC obtained through high temperature pyrolysis of ZIF-L@Fe@ZIF-8 maintains the same sheet-like morphology as ZIF-L@Fe@ZIF-8 and is similar to that of primary ZIF-L (
+Figs. S1 and S2
+). Nevertheless, it is still different from the original leaf-like ZIF-L in three ways: the conversion of edge-shape changes from rounded to angled, the formation of the hole in the center of the Fe-SA/HPC, and the thickness increase of Fe-SA/HPC compared with that of the original ZIF-L. Such changes in the edge correlate with the transition of ZIF-L frameworks to ZIF-8 frameworks (dodecahedral shape with angular edges)
+[25]
+,
+[26]
+. Under the impact of solvothermal in methanol, the unstable layered structures ([Zn(MeIm)2(HMeIm)1/2(H2O)3/2]n) convert to constitutionally stable sodalite (SOD) cage structures ([Zn(MeIm)2]n)
+[27]
+,
+[28]
+. To demonstrate the role of the SOD framework, ZIF-L@Fe (without new further addition of HMeIm and Zn2+) and ZIF-8@Fe (without ZIF-L) template were synthesized. Powder X-ray diffraction (PXRD) patterns show that ZIF-L maintains well-defined crystal structures with the peaks of 14.61° (1 0 0), 15.73° (0 0 2), 16.53° (1 0 1), 21.12° (1 0 2), 25.71° (1 1 0), 27.41° (1 0 3), 29.61° (2 0 0), 30.46° (2 0 1), 35.61° (1 0 4), 37.27° (2 0 3), 41.19° (1 1 4) and 43.21° (1 0 4), which are consistent with the simulation of ZIF-L
+[24]
+. While ZIF-L@Fe@ZIF-8 different from ZIF-L shows characteristic peaks of 7.24° (1 1 0), 10.29° (2 0 0), 12.64° (2 1 1), 14.61° (2 2 2), 16.37° (3 1 0), 17.95° (2 2 2), 19.38° (3 2 1), 22.05° (4 1 1), 23.01° (4 2 0), 24.43° (3 3 2), and 25.53° (4 2 2) corresponding to ZIF-8 (
+Fig. S3
+a)
+[29]
+. PXRD patterns of ZIF-L@Fe and ZIF-8@Fe also show the same peaks as simulation of ZIF-8 (
+Fig. S3
+b). But the intensities of the peaks of ZIF-L@Fe are remarkably low due to the influence of large amount of Fe(acac)3 coordinated on the surface of ZIF-L. Without the restriction of newly formed SOD molecular cages, Fe(acac)3 can only coordinate with unsaturated sites on the surface of the ZIF-L. The structural transformation may also be verified by the surface area changes. Surface area analysis shows that the Brunauer-Emmett-Teller (BET) surface area of ZIF-L is only 13.1105 m2 g−1 (
+Fig. S4
+). In addition, the adsorption–desorption isotherms of ZIF-L suggest a typical nonporous structure. ZIF-L@Fe@ZIF-8 obtained by solvothermal treatment of ZIF-L in methanol shows a high BET surface area of 1320.69 m2 g−1 and ZIF-8@Fe show a BET surface area of 1307.3673 m2 g−1 (
+Fig. S4
+), which are quite different from the counterpart of ZIF-L but similar to ZIF-8 synthesized in methanol in previous reports
+[30]
+,
+[31]
+. The enormous increase in the surface area stems from the rearrangement of the layered crystal structures, which produces more accessible pores. Additionally, oriented from the rapid rearrangement of the layered crystal structures, parts of the layered crystal structures break up and collapse to form macropores. ZIF-L has abundant uncoordinated metal/ligand sites on its surface; therefore, HMeIm and Zn2+ can coordinate with those unsaturated sites to construct ZIF-8 frameworks in methanol. The newly grown ZIF-8 frameworks, with a cavity diameter (dc) of 11.6 Å and pore diameter (dp) of 3.4 Å on the surface of the template not only increase the thickness but also act as cages to encapsulate individual Fe(acac)3 molecule. The metal precursor Fe(acac)3 (molecular diameter, 9.7 Å) can be encapsulated and stabilized by the pore structure (ZIF-8 with a cavity diameter (dc) of 11.6 Å and pore diameter (dp) of 3.4 Å)
+[32]
+,
+[33]
+,
+[34]
+. After pyrolysis, the individual Fe(acac)3 stabilized by pore space is anchored on nitrogen species to form isolated FeNx site. Large amounts of highly dispersed bright dots (circled in red) can be observed in the high-angle annular dark-field scanning transmission electron microscope (HAADF-STEM) image of Fe-SA/HPC (
+Fig. 1
+c), which indicates that Fe-SA/HPC is rich in atomic Fe sites. Notably, quantitative elemental analysis by inductively coupled plasma optical emission spectrometry (ICP-OES) demonstrates that the Fe content in the Fe-SA/HPC is 1.36 wt%. However, the PXRD patterns of Fe-SA/HPC show no diffraction peaks attributed to iron species (
+Fig. S5
+)
+[32]
+,
+[35]
+,
+[36]
+. The PXRD patterns of Fe-SA/HPC only show two peaks at 22° and 43° (2θ) corresponding to the (0 0 2) and (1 0 0) planes of graphitic carbon. The broad shoulder in the range of 20–30° relates to highly disordered carbon. Furthermore, no visible nanoparticles or nanoclusters throughout the entire carbon matrix are observed in the TEM images, and the corresponding element maps show that Fe, C, and N are distributed uniformly over the whole architecture (
+Fig. 1
+d-e and
+Fig. S6
+). The above all results indicate that iron species exist in single-atom form in Fe-SA/HPC. Moreover, Zn evaporates from the stable SOD frameworks of ZIF-L@Fe@ZIF-8 at 900 °C, resulting in local structure collapse and the introduction of mesopores. Therefore, Fe-SA/HPC has a high BET surface area of 1034.24 m2 g−1 (
+Fig. S4
+). These results are confirmed by the nitrogen sorption measurements of ZIF-L@Fe@ZIF-8 and Fe-SA/HPC. They both show type-IV adsorption–desorption isotherms, which demonstrate the porous structures in ZIF-L@Fe@ZIF-8 and Fe-SA/HPC. Beyond that, there is an additional hysteresis loop in the P/P0 range of 0.5 to 0.8 belonging to the isotherms of Fe-SA/HPC. This difference suggests that the evaporation of Zn endows Fe-SA/HPC with a typical mesoporous characteristic (
+Fig. S4
+)
+[2]
+,
+[21]
+. Herein, the pore distribution results further prove that Fe-SA/HPC is hierarchically porous carbon with a gradient pore structure (
+Fig. S7
+). Randomly oriented highly disordered carbon and rich pores are observed in the bright-field transmission electron microscopy (BF-TEM) image of Fe-SA/HPC, which further proves the high degree of defect of the catalyst (
+Fig. 1
+e and S6). The vesicular structure of Fe-SA/HPC significantly improves its specific surface area. The high specific surface and large pore volume of the hierarchically porous carbon Fe-SA/HPC endow the catalyst with high mass transfer efficiency and more accessible active sites
+[21]
+,
+[37]
+. Similarly, Fe-N-C/ZIF-8 produced by the pyrolysis of ZIF-8@Fe exhibits almost the same properties. No diffraction peaks attributed to iron species are detected in the XRD pattern of the Fe-N-C/ZIF-8 and only two peaks at 22° and 43° (2θ) are detected in the XRD pattern corresponding to the (0 0 2) and (1 0 0) planes of graphitic carbon. (
+Fig. S8
+a). No visible nanoparticles or nanoclusters throughout the entire carbon matrix are observed in the TEM images, and the corresponding element maps show that Fe, C, and N are distributed uniformly over the whole architecture (
+Fig. S9
+c, d and
+Fig. S10
+). However, Fe-N-C/ZIF-L produced by the pyrolysis of ZIF-L@Fe shows some different properties. Expect the 26° graphite peak, the XRD pattern of the Fe-N-C/ZIF-L also shows obvious peaks of Fe3C (PDF #35-0772) (37.74° (2 1 0), 42.88° (2 1 1), 43.74° (1 0 2), 44.57° (2 2 0), 45.00° (0 3 1), 45.87° (1 1 2), 48.40° (0 2 2), 48.59 ° (1 3 1)) (
+Fig. S8
+b). Furthermore, obvious metal aggregation is observed in the HAADF-TEM imagines of Fe-N-C/ZIF-L and corresponding energy dispersive spectroscopy (EDS) mapping reveal that particles of iron species exist in the Fe-N-C/ZIF-L (
+Fig. S11
+). Fe(acac)3 can be capture by uncoordinated ligand sites on the surface of original ZIF-L, but original ZIF-L cannot provide steric hindrance to prevent iron atoms from aggregation at high temperatures. All the above results demonstrated that the newly formed SOD molecular cage plays an important role in dispersing individual Fe(acac)3 and preventing iron atoms from aggregation during pyrolysis.
+The ORR activity of the obtained catalysts was estimated by RDE in an O2-saturated 0.1 M KOH solution. The ORR polarization curves in
+Fig. 2
+a show that Fe-SA/HPC exhibits an onset potential (Eonset) of 1.08 V and a half-wave potential an (E1/2) of 0.91 V, which are much more positive than those of Pt/C (Eonset at 0.99 V and E1/2 at 0.86 V). Meanwhile, the superior ORR activity of Fe-SA/HPC was further verified by a smaller Tafel slope and higher current density. The calculated ORR Tafel slope for Fe-SA/HPC is 68.7 mV dec−1, which is smaller than that of Pt/C (84.4 mV dec−1) (
+Fig. 2
+b). The kinetic current density of Fe-SA/HPC calculated by the Koutecky-Levich (K-L) equation reaches 24.66 mA cm−2 at 0.80 V superior to the counterpart of commercial Pt/C (14.47 mA cm−2) (
+Fig. 2
+c). The electrochemical double-layer capacitance (Cdl) and electrochemical active surface area (ECSA) derived from the cyclic voltammetry (CV) curve in the non-Faraday potential range at different scan rates are measured to further illustrate the advantages of Fe-SA/HPC in exposing more active sites and faster mass transfer (
+Fig. S12 and S13
+). The Cdl value (21.79 mF cm−2) of Fe-SA/HPC is much higher than that of commercial Pt/C (3.1 mF cm−2), indicating its higher ECSA (
+Fig. S13
+). All above results show that the Fe-SA/HPC catalyst has excellent catalytic activity for oxygen reduction reaction.
+Fig. 2. (a) ORR polarization curves, (b) Tafel plots and (c) kinetic current density (jk) at 0.8 V and half-wave potential (E1/2) of N-C-L, N-C-8, Fe-SA/HPC-2 h, Fe-N-C/ZIF-8, Fe-SA/HPC and commercial Pt/C in an oxygen-saturated 0.1 M KOH electrolyte, respectively. (d) ORR polarization curves at different rotating rates of Fe-SA/HPC (insert plot of K-L plots and electron transfer numbers). (e) ORR polarization curves of the Fe-SA/HPC tested by RRDE (insets) and the derived H2O2 yield and electron transfer number plots. (f) ORR polarization curves of Fe-SA/HPC catalyst before and after 5000 potential cycles as well as durability tests of the Fe-SA/HPC and (insets) commercial Pt/C catalysts in an oxygen-saturated 0.1 M KOH electrolyte at a constant voltage of 0.8 V for 10 h.
+To further gain insights into the reaction mechanism of Fe-SA/HPC, the RDE tests were performed by varying rotation speeds from 400 to 2500 rpm (
+Fig. 2
+d). The current density increases with the acceleration of the rotational speed, while the onset potential and half-wave potential remain unchanged. The K-L plots of Fe-SA/HPC show good linearity under different potentials, suggesting that the number of transferred electrons of each oxygen molecule is equal to that in the ORR process. The average electron transfer number (n) of Fe-SA/HPC calculated from the K-L plot is approximately 4.00, indicating a four-electron oxygen reduction process catalyzed by Fe-SA/HPC in alkaline media (inset image of
+Fig. 2
+d). The ORR polarization curves of Fe-SA/HPC tested by the rotating ring disk electrode (RRDE) test show a fairly weak ring current indicating that there is almost no generation of H2O2 in the oxygen reduction process catalyzed by Fe-SA/HPC (inset image of
+Fig. 2
+e). The H2O2 yield result overall potentials remain below 5%, and the electron transfer number acquired by calculation is more than 3.90 over the whole potential range (
+Fig. 2
+e). The RRDE test results along with the K-L plots illustrate that the Fe-SA/HPC catalyst possesses good selectivity towards the four-electron (4e−) ORR pathway.
+In addition, stability, as one of the important indicators to evaluate the application prospects of an electrocatalyst, was investigated by accelerated durability test (ADT) and chronoamperometry. The durability of Fe-SA/HPC was tested by cycling the catalyst between 0.6 and 1.0 V at a sweep rate of 100 mV s−1 in oxygen-saturated 0.1 M KOH solution. The E1/2 of Fe-SA/HPC only shows a 7 mV shift after 5000 cycles (
+Fig. 2
+f). Moreover, the long-term stability test of Fe-SA/HPC was performed in an O2 saturated 0.1 M KOH solution by using the chronoamperometric measurement under the potential of 0.8 V and a rotational speed of 400 rpm. The current can remain 89.9% after 10 h, preceding that of Pt/C (84.3%) (inset image of
+Fig. 2
+f). All the above results show that Fe-SA/HPC possesses excellent stability in the alkaline electrolytes. The Fe-SA/HPC also has a comparable and even better performance with the previously reported ORR catalysts in alkaline media (
+Table S1
+).
+The ORR activity of the Fe-SA/HPC catalysts in acid medium was measured by RDE in an O2-saturated 0.1 M HClO4 solution. The ORR polarization curves in
+Fig. 1
+a show that Fe-SA/HPC exhibits an onset potential (Eonset) of 0.92 V and a half-wave potential (E1/2) of 0.81 V, which are comparable to those of Pt/C (Eonset at 0.94 V and E1/2 at 0.79 V) (
+Fig. S14
+a). Meanwhile, the superior ORR activity of Fe-SA/HPC was further verified by a smaller Tafel slope and higher current density. The calculated ORR Tafel slope for Fe-SA/HPC is 62.7 mV dec−1, which is smaller than that of Pt/C (81.9 mV dec−1) (
+Fig. S14
+b). The kinetic current density of Fe-SA/HPC calculated by the Koutecky-Levich (K-L) equation reaches 37.35 mA cm−2 at 0.70 V, which is slightly higher than the counterpart of commercial Pt/C (36.88 mA cm−2). The RDE tests were performed by varying rotation speeds from 400 to 2500 rpm (
+Fig. S14
+c). The K-L plots of Fe-SA/HPC show good linearity under different potentials, suggesting that the number of transferred electrons of each oxygen molecule is equal in the ORR process. The average electron transfer number (n) of Fe-SA/HPC calculated from the K-L plot is approximately 4.00, indicating a four-electron oxygen reduction process catalyzed by Fe-SA/HPC in acid media (inset image of
+Fig. S14
+c). Moreover, the long-term stability test of the ORR was performed in an O2-saturated 0.1 M HClO4 solution by using chronoamperometric measurements at a potential of 0.4 V and a rotational speed of 400 rpm. The current of Fe-SA/HPC can remain 92.57 % after 10 h operation, which is much superior to that of Pt/C (64.60 %) (
+Fig. S14
+d), indicating that Fe-SA/HPC possesses excellent stability in acid electrolyte.
+To study the role of the precursor solvothermal method in catalyst synthesis, the ORR performances of N-C-L and N-C-8 obtained by pyrolysis of ZIF-L and ZIF-L-8 (ZIF-L after solvothermal treatment), respectively, were investigated. N-C-L exhibits poor performance with a half-wave potential (E1/2) of 0.72 V, a tiny kinetic current density at 0.8 V (0.25 mA cm−2) and a Tafel slope up to 146.1 mV dec−1 (
+Fig. 2
+a-c). The results indicate that the ORR catalyzed by N-C-L has a slow kinetic process, which may be related to the undesired structural characteristics of N-C-L. While the N-C-8 catalyst shows a better onset potential (0.90 V) and half-wave potential (0.79 V) (
+Fig. 2
+a). Impressively, the Tafel slope of N-C-8 is 71.6 mV dec−1, which is much superior to that of N-C-L and slightly worse than that of Fe-SA/HPC (68.7 mV dec−1) (
+Fig. 2
+c). The results suggest that N-C-8 has better mass transfer performance than N-C-L. The scanning electron microscopy (SEM) images reveal that N-C-L directly carbonized by ZIF-L shows an irregular and distorted morphology (
+Fig. 3
+a). N-C-L is unable to maintain the sheet-like morphology of its precursor because Zn escaped from the thermolabile frameworks of ZIF-L during pyrolysis leading to severe structural collapse. Therefore, the two-dimensional morphology of ZIF, which is beneficial for mass transfer in the electrocatalytic process, becomes irregular and distorted. As a consequence, N-C-L has a low surface area of 677.14 m2 g−1 (
+Fig. S4
+). However, the evaporation of Zn evaporates at 900 °C form stable SOD frameworks resulted in only local structure collapse without posing damages to the overall morphology. Therefore, the morphology of N-L-8 retains its sheet-like morphology topographic characteristics confirmed by SEM (
+Fig. 3
+b). Benefiting from the thermostable precursor with a large surface area of 1287.60 m2 g−1, N-C-8 maintains a high surface area of 1110.82 m2 g−1 (
+Fig. S4
+). To study more details of the catalyst structure, all the catalysts were characterized by powder XRD and Raman spectroscopy (
+Fig. S5
+and 3c). PXRD patterns show that the main peak of N-C-L displays a shift to lower angles compared with N-C-8, indicating an increase in the interplanar distance of the graphitic layered structure (
+Fig. S5
+)
+[38]
+. Raman spectra illustrate that the derived ID/IG values of all samples are in the range of 1.0–1.2, accounting for the high degree of graphitization
+[39]
+,
+[40]
+. The derived ID/IG for N-C-8, Fe-SA/HPC-2 and Fe-SA/HPC are in the range of 1.1–1.2, while the derived ID/IG for N-C-L is only 1.00 (
+Fig. 3
+c). This indicates that the catalyst prepared by the precursor which have been solvothermal treated possesses a higher degree of defects. Herein, N-C-8 obtained by pyrolysis of ZIF-L-8 showed better catalytic activity than N-C-L, which may orient from the optimization of mass and electronic transfer by the solvothermal treatment for structure regulation.
+Fig. 3. (a) SEM image of N-C-L and (b) N-C-8. (b) Raman spectra of N-C-L, N-C-8, Fe-SA/HPC-2 h and Fe-SA/HPC.
+Moreover, in order to illustrate the advantages of the sheet-like morphology, Fe-SA/HPC and Fe-N-C/ZIF-8 were included for comparison. The scanning electron microscopy (SEM) images reveal that the morphology of the ZIF-8@Fe presents a typical dodecahedron shape (
+Fig. S9
+a). After pyrolysis, SEM images reveal that the morphology of the Fe-N-C/ZIF-8 is identical to ZIF-8@Fe but the surface is a little rougher (
+Fig. S9
+b). However, the BET surface area of Fe-N-C/ZIF-8 is 880.62 m2 g−1 much lower than that of ZIF-8@Fe, which may be due to the slight deformation of ZIF-8@Fe caused by thermal stress (
+Fig. S4
+). Therefore, the iron supported on the Fe-N-C/ZIF-8 surface (0.57 at% by XPS) is also lower than that of Fe-SA/HPC (0.63 at% by XPS)). The ORR activity of the Fe-N-C/ZIF-8 was measured by RDE in an O2-saturated 0.1 M KOH solution. The ORR polarization curves in
+Fig. 2
+a show that Fe-SA/HPC exhibits an onset potential (Eonset) of 1.08 V and a half-wave potential an (E1/2) of 0.92 V, slightly more positive than the counterparts of Fe-SA/HPC (Eonset at 1.08 V and E1/2 at 0.91 V) (
+Fig. 2
+a). However, Fe-N-C/ZIF-8 processes a higher Tafel slope (82.7 mV dec−1) and lower current density (15.50 mA cm−2 at 0.80 V) compared with those of Fe-SA/HPC (
+Fig. 2
+b, c). Moreover, the Cdl value (21.79 mF cm−2) of Fe-SA/HPC was more than twice that of Fe-N-C/ZIF-8 (8.28 mF cm−2) and N-C-L (9.62 mF cm−2) (
+Fig. S13
+). It is worth noting that Fe-SA/HPC, Fe-SA/HPC-2 h and N-C-8 with similar morphological characteristics all process excellent electrochemical active surface area (
+Fig. S13
+). The higher ECSA indicates a large contact area between the electrocatalysts surface and electrolyte and more accessible surface-active sites for electrocatalysis. All the above results imply that Fe-N-C/ZIF-8 shows similar excellent catalytic activity for oxygen reduction reaction, but exhibits relatively poor mass transfer performance than Fe-SA/HPC. Large specific surface area, sheet-like morphology, more exposed active sites and hierarchically porous carbon, which are conducive to the diffusion process, endow Fe-SA/HPC a superiority in mass transfer process.
+Apart from the mass transfer preferred structure, the precise active site construction is another prominent factor influencing the catalytic activity. Various characterizations were applied to further investigate the elemental composition and chemical state of Fe species in the Fe-SA/HPC catalyst. The coordination environment of Fe in the Fe-SA/HPC catalyst was investigated by X-ray photoelectron spectroscopy (XPS). The peaks at 710.7 eV and 724.2 eV in the high-resolution XPS spectrum of Fe 2p, belonging to the Fe-N configuration as well as the other two peaks at 715.8 and 728.8 eV are attributed to the satellite peaks of Fe-N, respectively (
+Fig. 4
+a)
+[21]
+,
+[41]
+. No peaks assigned to other iron species, especially for metallic iron, are detected in the spectrum, suggesting that all Fe species in the Fe-SA/HPC catalyst exist in a dispersed and consistent state. The XPS results of Fe-N-C/ZIF-8 are similar to Fe-SA/HPC. No peaks assigned to other iron species, especially for metallic iron, are detected in the Fe 2p spectrum of Fe-N-C/ZIF-8. The peaks at 710.7 eV and 724.2 eV in the high-resolution XPS spectrum of Fe 2p belong to the Fe-N configuration and the other two peaks at 715.8 and 728.8 eV are attributed to the satellite peaks of Fe-N (
+Fig. S15
+a)
+[21]
+,
+[41]
+. However, the XPS results of Fe-N-C/ZIF-L are different to Fe-SA/HPC. Besides the peaks at binding energy of 710.7 eV, 724.2 eV, 715 eV and 728.9 eV
+[21]
+,
+[41]
+, two new peaks at binding energy of 708.5 eV and 721.2 eV belonging to the Fe-C configuration were observed in the high-resolution XPS Fe 2p spectrum of Fe-N-C/ZIF-L due to the formation of Fe3C
+[42]
+,
+[43]
+(
+Fig. S15
+b). The results of XPS confirm the conclusions obtained by XRD and TEM, which demonstrated the importance of newly formed SOD structure to form highly dispersed iron atoms.
+Fig. 4. (a) XPS spectrum of Fe 2p in Fe-SA/HPC. (b) XANES spectra, (c) highlight the near-edge absorption energy and (d) Fourier transform (FT) of the Fe K-edge. (e) Wavelet transform (WT) of Fe-SA/HPC, FePc, Fe foil, and Fe2O3 samples.
+Synchrotron-based X-ray absorption near-edge structure (XANES) and extended X-ray absorption fine structure (EXAFS) were carried out to obtain the atomic coordination environment and valence state information of Fe-SA/HPC
+[23]
+. The Fe K-edge XANES spectrum edge energy (∼7120 eV) of Fe-SA/HPC is between the counterparts of Fe foil and Fe2O3, indicating that the valence state of the isolated Fe atoms in Fe-SA/HPC is higher than that of metallic Fe0 but lower than that of Fe3+ (
+Fig. 4
+b-c). This confirms that the dispersed Fe atoms in Fe-SA/HPC with positive valence are only oriented from the coordination of Fe with adjacent N atoms, which corresponds to the XPS results
+[44]
+,
+[45]
+,
+[46]
+. The Fourier transform (FT) of the extended X-ray absorption fine structure (EXAFS) spectrum of Fe-SA/HPC exhibits a prominent peak at 1.5 Å, which can be attributed to the first coordination shell of FeNx. Meanwhile, no peak at 2.22 Å assigned to the Fe-Fe is detected, demonstrating that Fe species in the Fe-SA/HPC catalyst preponderantly exist as highly dispersed single-atoms (
+Fig. 4
+d)
+[47]
+,
+[48]
+,
+[49]
+. To obtain more detailed information on the atomic dispersion of iron over the entire Fe-SA/HPC, wavelet transform (WT) of Fe K-edge EXAFS oscillations was performed according to k and R spaces. According to the WT contour plots of the Fe foil, FePc and Fe2O3 standards, the maximum intensities at 5 Å−1 and 8 Å−1 are assigned to the Fe-N and Fe–Fe paths, respectively. The WT contour plot of Fe-SA/HPC only shows one intensity maximum at 5 Å−1 and no intensity maximum at 8 Å−1 is detected (
+Fig. 4
+e). Therefore, the FT- and WT-EXAFS analyzes not only confirm that Fe atoms exist without the presence of metallic Fe0 but also validate the purity of the obtained catalyst with only Fe-N moieties
+[50]
+,
+[51]
+. With single-atom Fe sites embedded, the Fe-SA/HPC catalyst shows a huge catalytic performance boost in Eonset, E1/2, Tafel slope and kinetic current density compared with N-C-8 (
+Fig. 2
+a-c), which confirms that FeNx active sites play a critical role in ORR and greatly enhanced the activity of catalysts.
+According to previous reports, the introduction of nitrogen species into catalysts is another key factor influencing catalytic activity. As a comparison sample, Fe-SA/HPC-2 h was synthesized by pyrolysis of ZIF-L@Fe@ZIF-8 with a shortened pyrolysis duration of 2 h. The chemical states of N in Fe-SA/HPC and Fe-SA/HPC-2 h were both verified by XPS. The high-resolution XPS spectrum of N 1 s in both hybrids can be deconvoluted into four peaks: pyridinic N (398.5 eV), Fe-N (N atoms coordinating with Fe atoms) (399.9–400.1 eV), graphitic N (401.0 eV) and oxidized N (403.5 eV) (
+Fig. 5
+a-b)
+[21]
+. Furthermore, the peak at 285.6 eV in the C 1 s XPS spectrum is associated with the C-N contributions, which further confirms the N-doped carbon frameworks (
+Fig. S16
+). However, the graphitic N of Fe-SA/HPC-2 h decreased compared with that of Fe-SA/HPC (
+Fig. 5
+c). The difference exists in the content of graphitic N in the two hybrids resulting from the reduction of pyrolysis time. Fe-SA/HPC-2 h possesses a high content of pyridinic N (58.45%), but the graphitic N content is relatively low (22.61%). As the pyrolysis time prolongs, parts of other N species are reduced to graphitic N. Thus, the graphitic N content increases from 22.61% to 36.1% with increasing pyrolysis duration. The Fe-SA/HPC possessed high content of pyridinic N (44.34%) and graphitic N (36.09%) (
+Fig. 5
+c)
+[21]
+,
+[45]
+. The performance of Fe-SA/HPC-2 h is better than that of Pt/C but slightly worse than that of Fe-SA/HPC with an onset potential (Eonset) of 1.03 V and a half-wave potential (E1/2) at 0.89 V (
+Fig. 2
+a). Fe-SA/HPC-2 h also has a good kinetic current density at 0.8 V (24.63 mA cm−2) and a Tafel slope (73.1 mV dec−1) (
+Fig. 2
+a-c). The high content pyridinic N contributes to the formation of FeNx active sites, and the graphitic N species help optimize the local electronic environment to enhance the 4-electron transfer possess during the ORR
+[52]
+. Consequently, the experimental results suggest that Fe-SA/HPC with superior ORR performances may come from the high content of pyridinic N and graphitic N.
+Fig. 5. (a) XPS spectra of N 1 s in Fe-SA/HPC and (b) Fe-SA/HPC-2 h. (c) Nitrogen species content in the Fe-SA/HPC-2 h and Fe-SA/HPC.
+Density functional theory (DFT) calculations were conducted to investigate the precise active sites construction and the catalytic mechanism of Fe-SA/HPC in alkaline electrolyte. As shown in
+Fig. 6
+a, four optimized configurations labeled as Fecenter, Feedge, Feedge-Pyridinic N and Feedge-Graphitic N are constructed. A FeN4 center is embedded in the graphitic matrix center labeled as Fecenter. A FeN4 located at the edge of the pores in the graphitic matrix without N doping is marked as Feedge. For Feedge-Pyridinic N, a FeN4 is located at the edge of the pores in the graphitic matrix with a pyridinic N nearby. Feedge-Graphitic N refers to the structure of a FeN4 located at the edge of the pores in the graphitic matrix with a graphitic N nearby. The proposed 4e− ORR mechanism in alkaline environments can be divided into five steps as follows:
+O2(g)+*→O2*(Ⅰ)
+O2*+H2O(l)+e−→OOH*+OH−(Ⅱ)
+OOH*+e−→O*+OH−(III)
+O*+H2O(l)+e−→OH*+OH−(Ⅳ)
+OH*+e−→OH−+*(Ⅴ)
+Fig. 6. (a) Optimized configuration for Fecenter, Feedge, Feedge-Pyridinic N and Feedge-Graphitic N, iron (yellow), nitrogen (blue) and carbon (brown). (b) and (c) Free-energy paths of the four-electron ORR on Fecenter, Feedge, Feedge-Pyridinic N and Feedge-Graphitic N in alkaline media at U = 0 V and 1.23 V, respectively. (d) The calculated d-band density of state of Fe on both Feedge-Pyridinic N and Feedge-Graphitic N sites. (e) A schematic illustration of the relationship between the energy levels and d-band centers.
+The free energy of the four-electron oxygen reduction pathway in the alkaline electrolyte on Fecenter, Feedge, Feedge-Pyridinic N and Feedge-Graphitic N were calculated (
+Fig. 6
+b-c). For Fecenter, the (Ⅳ) step dominates the ORR overpotential (from *O to *OH) with the largest absolute value of free energy barrier at U = 1.23 V (|△GⅣ| = 0.89 eV). Compared with Fecenter, Feedge, Feedge-Pyridinic N and Feedge-Graphitic N all possess lower free energy barriers as the (Ⅴ) step dominated the ORR overpotential (from *OH to OH−). It could be speculated that the pores in the catalyst structure endow it with more edge sites that possess superior catalytic activity compared with the center sites. These results further elucidate the importance of pore-constructing engineering in the synthesis of ORR catalysts. The calculation results show that the limiting potentials of Feedge, Feedge-Pyridinic N and Feedge-Graphitic N are 0.76 eV, 0.78 eV, 0.82 eV, respectively. This means that the free energy barrier wanes after N doping. Furthermore, the graphitic N-modified edge FeN4 site enhances the ORR activity more significantly than pyridinic N. To gain more detailed information, the partial density of states (DOS) on the Fe-3d electronic configuration of Fe was calculated. The d-band center on the Feedge-Graphitic N site presents a negative shift compared with Feedge-Pyridinic N (−1.47 eV vs − 1.12 eV) (
+Fig. 6
+d). The d-band center shift demonstrated that the Feedge-Graphitic N site possesses a lower energy level, which could elevate the occupancy rate of the antibonding states, help regulate the metal-adsorbate interaction, and weaken absorption energy of *O intermediates for Feedge-Graphitic N site (
+Fig. 6
+e)
+[53]
+. Consistent with the above analysis, the adsorption energies between *OH and Feedge, Feedge-Pyridinic N and Feedge-Graphitic N are 0.453 eV, 0.437 eV and 0.386 eV, respectively. The doping of graphitic N weakens the adsorption of *OH to the Fe atom more significantly than the pyridinic N. According to previous reports, the intrinsic activity of the FeN4 site is restricted by the unduly strong Fe–O binding
+[54]
+. Therefore, the graphitic N adjusts the electronic environment of the FeN4 site, which contributes to weakened Fe–O bond strength, resulting in increased ORR activity. Different from the catalytic activity of a single type of nitrogen-enhanced ORR reaction reported in previous literature, the calculation results also clarify the synergistic effect between pyridinic N and graphitic N
+[55]
+,
+[56]
+,
+[57]
+. Pyridinic N provides the loading site for single-atom iron, while graphitic N optimizes the electronic state around the active site of FeNx. Therefore, the synergistic effect endows the as-prepared catalyst with a lower energy barrier. The calculation corresponds well to experiments.
+In summary, a high-performance atomically dispersed single-atomic hierarchically porous carbon (Fe-SA/HPC) derived from two-dimensional ZIF-L has been synthesized via a topological changing strategy with the iron atoms dispersed and stabilized by the pore structure. This approach significantly introduces rich hierarchical pores and therefore boosts catalytic ORR activity. The Fe-SA/HPC catalyst possesses eminent performance and exhibits considerable durability compared with commercial Pt/C catalyst. The DFT calculation studies indicate that the edge sites generated by pore construction can enhance the catalytic activity of the reaction. Moreover, different from the catalytic activity of the single type of nitrogen-enhanced ORR reaction reported previously, the calculations also clarify the synergistic effect between pyridinic N and graphitic N. This work provides perspectives on topological management and precise active site construction.
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+This study was supported by the Specialized Research Funds for National Natural Science Foundation of China (nos.
+22078242
+,
+U20A20153
+)
+The following are the Supplementary data to this article:
+Download: Download Word document (4MB)
+Supplementary data 1.
+Supplementary data 1.
+Shun Wu and Huibin Liu contributed equally to this paper.
+Cookies are used by this site.
+Cookie Settings
+All content on this site: Copyright © 2024 Elsevier B.V., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the Creative Commons licensing terms apply.
+How do you perceive AI in engineering? Your feedback matters in shaping AI integration within Knovel. Take our quick 10-minute survey to share your thoughts on AI trust, adoption, and its impact on your experience.

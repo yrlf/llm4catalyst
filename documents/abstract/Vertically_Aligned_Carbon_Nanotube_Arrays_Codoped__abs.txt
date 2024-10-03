@@ -1,0 +1,18 @@
+Abstract
+Using a mixture of ferrocene, pyridine, and triphenylphosphine as precursors for injection-assisted chemical vapor deposition (CVD), we prepared the first vertically aligned multiwalled carbon nanotube array co-doped with phosphorus (P) and nitrogen (N) with a relatively high P-doping level (designated as PN-ACNT). We have also demonstrated the potential applications of the resultant PN-ACNTs as high-performance electrocatalysts for the oxygen reduction reaction (ORR). PN-ACNT arrays were shown to exhibit a high ORR electrocatalytic activity, superb long-term durability, and good tolerance to methanol and carbon monoxide, significantly outperforming their counterparts doped with P (P-ACNT) or N (N-ACNT) only and even comparable to the commercially available Pt–C catalyst (45 wt % Pt on Vulcan XC-72R; E-TEK) due to a demonstrated synergetic effect arising from the co-doping of CNTs with both P and N.
+This publication is licensed under the terms of your institutional subscription. Request reuse permissions.
+Copyright © 2012 American Chemical Society
+Subjects
+what are subjects
+Carbon Nanotubes
+Catalysts
+Electrodes
+Nanotubes
+Redox Reactions
+Keywords
+what are keywords
+Carbon Nanotubes
+Electrocatalysts
+Doping
+Oxygen Reduction
+Fuel Cells

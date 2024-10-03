@@ -1,0 +1,19 @@
+Abstract
+The electronic and chemical properties of graphene can be modulated by chemical doping foreign atoms and functional moieties. The general approach to the synthesis of nitrogen-doped graphene (NG), such as chemical vapor deposition (CVD) performed in gas phases, requires transitional metal catalysts which could contaminate the resultant products and thus affect their properties. In this paper, we propose a facile, catalyst-free thermal annealing approach for large-scale synthesis of NG using low-cost industrial material melamine as the nitrogen source. This approach can completely avoid the contamination of transition metal catalysts, and thus the intrinsic catalytic performance of pure NGs can be investigated. Detailed X-ray photoelectron spectrum analysis of the resultant products shows that the atomic percentage of nitrogen in doped graphene samples can be adjusted up to 10.1%. Such a high doping level has not been reported previously. High-resolution N1s spectra reveal that the as-made NG mainly contains pyridine-like nitrogen atoms. Electrochemical characterizations clearly demonstrate excellent electrocatalytic activity of NG toward the oxygen reduction reaction (ORR) in alkaline electrolytes, which is independent of nitrogen doping level. The present catalyst-free approach opens up the possibility for the synthesis of NG in gram-scale for electronic devices and cathodic materials for fuel cells and biosensors.
+This publication is licensed under the terms of your institutional subscription. Request reuse permissions.
+Copyright © 2011 American Chemical Society
+Subjects
+what are subjects
+Melamine
+Nitrogen
+Redox Reactions
+Thermal Annealing
+Two Dimensional Materials
+Keywords
+what are keywords
+Nitrogen-Doped Graphene
+Catalyst-Free Approach
+Thermal Annealing
+Melamine
+Oxygen Reduction Reaction
+Electrocatalysis

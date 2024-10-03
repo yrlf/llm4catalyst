@@ -1,0 +1,11 @@
+Abstract
+Nitrogen-doped carbon nanotubes (NCNTs) are highly active electrocatalysts in the oxygen reduction reaction (ORR) at alkaline conditions. However, the initial activation and stabilization of NCNTs have rarely been investigated at industrially relevant conditions. Three types of NCNTs were synthesized by catalytic growth (NCNT-growth) or posttreatment of oxygen-functionalized CNTs with NH3 (NCNT-NH3) or aniline (NCNT-aniline). The obtained NCNTs were treated in 10 M KOH at 80 °C for 5 h, and the formation of oxygen groups by alkaline treatment and their interaction with existing nitrogen groups was analyzed. X-ray photoelectron spectroscopy showed that the concentrations of pyridinic and quaternary nitrogen increased in NCNT-growth due to the KOH treatment accompanied by the decrease of pyrrolic nitrogen, whereas the nitrogen groups changed differently in NCNT-NH3 and NCNT-aniline. NCNT-NH3 showed the highest ORR activity before alkaline treatment. After the treatment, the activity of NCNT-growth was higher, whereas those of NCNT-NH3 and NCNT-aniline were lower. These results were found to be correlated with changes in the nitrogen groups caused by alkaline treatment. Furthermore, NCNTs showed different C═O/C–O ratios after alkaline treatment as compared to a strong increase of C–O in CNTs, indicating that the presence of nitrogen in NCNTs influences the formation of oxygen groups on carbon and surface oxidation.
+This publication is licensed under the terms of your institutional subscription. Request reuse permissions.
+Copyright © 2013 American Chemical Society
+Subjects
+what are subjects
+Carbon Nanotubes
+Catalysts
+Nitrogen
+Oxygen
+Redox Reactions

@@ -1,0 +1,209 @@
+A non-precious metal electrocatalyst based on nitrogen-doped graphene (NG) was synthesized through a single step heat-treatment of a precursor mixture containing graphene oxide, urea, carbon black (CB) and small amount of iron species. The structure, morphology and composition of the prepared materials were characterized with a variety of techniques. XRD and Raman measurements showed the presence of distorted graphene layers. BET, TEM and cyclic voltammagram results indicated that CB served as spacer to prevent NG sheets from agglomerating, leading to enhanced dispersion of NG sheets. XPS analysis gave a total surface nitrogen concentration of ∼4 at.%, with the pyridinic nitrogen being the main component. Rotating electrode measurements revealed that the NG electrocatalyst can efficiently catalyze the oxygen reduction reaction (ORR), with activities equivalent to Pt/C in alkaline medium and approaching to Pt/C in acid medium, and with nearly 4-electron pathway selectivity.
+► N-doped graphene/carbon composite electrocatalyst synthesized through a single-step heat-treatment. ► Solid urea is more suitable than gaseous ammonia as nitrogen source for preparing N-doped graphene electrocatalyst. ► Carbon black as spacer and support inhibits the restacking of the graphene sheets. ► The ORR activity of the composite rival that of Pt/C in alkaline and approach that of Pt/C in acid.
+The prohibitive cost of Pt together with its rare reserves in nature precludes the technical implementation of polymer electrolyte membrane fuel cells (PEM fuel cells), which are expected to play a key role in the green and renewable hydrogen energy landscape. Though massive research was carried out to minimize the requirement of Pt
+[1]
+,
+[2]
+, it would be highly incentive to exploit efficient, durable, and inexpensive alternatives to substitute Pt and Pt-based catalysts, especially in the cathode side of PEM fuel cells due to the sluggish kinetics of ORR even on Pt. Among the numerous strategies pursued, non-precious metal catalysts (NPMCs) obtained by the pyrolysis of transition metal, nitrogen and carbon precursors have emerged as a potential alternative. The last decade has been witness to significant progress in reducing the ORR performance gap between this type of NPMCs and Pt-based systems
+[3]
+,
+[4]
+,
+[5]
+,
+[6]
+,
+[7]
+,
+[8]
+. However, further improvement of their ORR activity is limited by the relatively low surface density of the catalytic sites. Nanostructured carbons seem to be a potential solution to this issue by providing high specific surface areas
+[9]
+,
+[10]
+,
+[11]
+.
+Graphene, a unique two-dimensional carbon nanostructure, has attracted increasing interests from both the experimental and theoretical scientists, due to its extraordinary physical properties such as ultra-high specific surface area, excellent electrical conductivity as well as thermal and chemical stability
+[12]
+,
+[13]
+. Chemical or thermal reduction of graphene oxide (GO), principally generated through solution exfoliation of graphite oxide, represents the most practical and efficient pathway to generate individual graphene sheets in bulk quantities
+[14]
+. As a result of severe oxidization, abundant oxygen-containing functional groups as well as the vacancy defects are imparted to the basal and edge plane of the exfoliated GO
+[15]
+, which would afford a large number of reactive sites for various chemical modifications, such as nitrogen-doping to generate CN bonds that are vital for the formation of ORR catalytic sites. To this end, it is possible that nitrogen-doped graphenes (NG) derived from GO would possess relatively high surface density of ORR catalytic sites. Several groups have recently reported that NG exhibited excellent catalytic activity toward oxygen reduction in alkaline medium
+[16]
+,
+[17]
+,
+[18]
+,
+[19]
+. However, to the best of our knowledge, only a limited number of ORR applications of NG-based materials have been reported in acid medium and the reported activities remain much less competitive to the state-of-the-art Pt/C catalyst
+[20]
+,
+[21]
+.
+A major challenge in using graphene derivates as active electrode materials in electrochemical devices is to overcome the strong π–π stacking interaction between the graphene sheets, which would result in irreversible agglomerates with significantly reduced surface area
+[22]
+, so that significant amounts of active sites generated upon N-doping process would be compromised. In addition, the hydrophobic nature make the graphene derivates have evidently decreased dispersibility in water or other organic solvents
+[23]
+, which is undesirable for electrocatalytic applications in the preparation of catalyst inks, making further processing difficult. To tackle these problems, we integrate NG with the XC-72R carbon black (CB), one of the commonly used supports in commercial Pt/C catalysts, to form a NG/C composite, in which CB acts as support for NG sheets to avoid their agglomeration and to increase their dispersion in high polar solvent. Besides, urea, one of the solid nitrogen-contained compounds featuring easy availability and low corrosivity and toxicity, is used as the nitrogen doping agent for NG formation. Earlier attempts in preparing NG usually employed aerial NH3 as nitrogen precursor
+[19]
+, which is known to cause severe etching of carbon materials, leading to decreased graphitization of the resulted catalysts and less homogeneous distribution of nitrogen content
+[7]
+. Through a simple high-temperature (HT) treatment of a precursor mixture containing GO, urea, CB and small amounts of Fe species, we prepared a composite of Fe/NG/C which exhibited ORR activities equivalent to Pt/C in alkaline medium and approaching to Pt/C in acid medium. In contrast, the composite prepared by substituting urea with gaseous NH3 as nitrogen source showed ORR performance much inferior to the Fe/NG/C.
+The synthetic graphite powder with diameter less than 20 μm was purchased from Sigma–Aldrich. The Vulcan XC-72R carbon black powder was supplied by Cabot Corporation. All the other chemicals were of analytic reagent grade and used as received without any further purification unless otherwise stated.
+GO was prepared by harsh oxidation of the graphite powder according to the modified Hummers method
+[24]
+. Briefly, graphite, NaNO3 and conc. H2SO4 were added successively with mechanical stirrer. KMnO4 was slowly added to the mixture under vigorous agitation, followed by heating up the reaction flask to 40 °C. On completion of the reaction for ca. 40 h, the slurry was diluted with 250 ml deionized water to terminate the reaction. The color of the mixture immediately turned to bright yellow following the treatment with 10 ml of 30 wt.% H2O2 to reduce the insoluble manganese species to Mn2+ ions. The suspension was allowed to stand overnight for settlement and then centrifuged to decant the supernatant. After the precipitate was repeatedly rinsed with deionized water in order to remove metal ions, the formation of a viscous brown dispersion was eventually observed. After graphite oxide dispersion was concentrated and lyophilized to yield fluffy powders. Finally, the homogeneous and stable GO colloids were obtained by ultrasonic exfoliation of diluted graphite oxide hydrogel with known concentration.
+The composite catalyst of Fe/NG/C was prepared by the following procedure: 2 g urea and 25 mg CB were first mixed with 75 ml GO aqueous suspension (1 mg/ml). The pH of the suspension was adjusted to 7–8 by few drops of 0.1 M ammonia solution, and then 0.5 ml ferric ammonium sulfate solution (1 mgFe/ml) was added dropwise to the mixture. After the mixture was thoroughly dispersed by ultrasonication for 30 min, most of water was removed by using a rotary evaporator at 60 °C under reduced pressure. The resultant slurry was completely dried by the lyophilization to form the precursor mixture. The dried powder was finely grounded and then heated at 1000 °C under Ar atmosphere for a period of 30 min, followed by cooling off to room temperature under flowing Ar. To demonstrating the important role of CB in the material, Fe/NG sample catalyst was also synthesized by the procedure described above except for the removal of carbon black from the recipe. To examine the effect of nitrogen precursor on the ORR activity of the prepared catalyst, solid urea was absent from precursor mixture and the pyrolysis atmosphere was changed to ammonia. This as-prepared catalyst was denoted as Fe/NG/C-NH3. In addition, we also performed high-temperature treatment of GO, urea and CB in the absence of Fe. The resultant catalyst is denoted as NG/C.
+Powder X-ray diffraction (XRD) patterns were obtained on a Bruker D8 Advance X-ray diffractometer using a Cu Kα radiation source operating at 40 kV and 30 mA. The Raman spectra were collected by using a Renishaw-RM1000 Laser Raman spectroscopy with an Ar+ ion laser (514 nm). Transmission electron microscopy (TEM) images were recorded on a JEOL JEM-2100 transmission electron microscope operating at 200 kV. N2 adsorption/desorption isotherms were recorded at 77 K with a Micromeritics ASAP 2020 BET analyzer. X-ray photoelectron spectroscopy (XPS) measurements were performed using a Kratos Ltd. XSAM-800 spectrometer with a monochromatic Mg Kα X-ray source (1253.6 eV). The metal content was determined by induced coupled plasma atomic emission spectrometry (ICP-AES) using an Iris Intrepid II XSP spectrometer (Thermo Electron Co.).
+Cyclic voltammetry (CV), rotating disk electrode (RDE) and rotating ring-disk electrode (RRDE) measurements were performed at 25 °C using a computer-controlled potentiostat (CHI 660c, CH instruments, Inc.) equipped with a Pine AFMSRCE electrode rotator in a standard there-compartment electrochemical cell containing 0.1 M HClO4 or KOH solution. Saturated calomel electrode (SCE) and Mercury/Mercury oxide electrode (Hg/HgO, 0.1 M KOH) served as the reference electrode in acid and alkaline electrolyte, respectively, while the platinum foil was used as the counter electrode. The SCE reference electrode was calibrated against the reversible hydrogen electrode (RHE). An ink of the catalyst was prepared by mixing 10 mg of finely ground catalyst powder, 40 μL of 5 wt.% Nafion solutions (Aldrich) and 960 μL of ethanol. 10 μL of this suspension was pipetted onto a glass carbon RDE or RRDE (5 mm diameter) and air-dried at 80 °C, which resulted in a catalyst loading of ca. 500 μg cm−2. For comparison, ORR activity of 20 wt.% Johnson Matthey (JM) Pt/C catalyst with a loading of 150 μg cm−2 (30 μg cm−2 for Pt) was also recorded.
+During the electrochemical measurements, the electrolyte solution was purged with pure nitrogen or oxygen for 30 min, and then the freshly prepared working electrode was immersed in the electrolyte. The electrode surface was electrochemically cleaned by repeatedly cycling the potential applied to the working electrode for 20 cycles at a scan rate of 500 mV/s. Surface cyclic voltammetry measurement was conducted with potential sweeping between −0.7 and 0.3 V vs. SCE at 50 mV/s in the presence of constant N2 bubbling. In the case of RDE measurement, linear sweep voltammetry (LSV) was first conducted between −0.3 and 0.7 V vs. SCE at 5 mV/s in O2-saturated 0.1 M HClO4 solution at various rotating speeds. The potential scan range of −0.7 to 0.3 V vs. Hg/HgO was applied, when the electrolyte was changed to O2-saturated 0.1 M KOH solution. RRDE measurement was performed under the same experiment conditions as for the RDE in O2-saturated 0.1 M HClO4 except that the Pt ring potential was hold at 1.1 V vs RHE where the oxidation of hydrogen peroxide was under pure diffusion control.
+Fig. 1
+depicts the proposed architecture of the precursor mixture for the Fe/NG/C after the lyophilization. We suppose that the CB and GO can co-assembled in water through π–π interaction. To verify our assumption,
+Fig. 2
+shows the digital photographs, respectively, for aqueous suspensions of CB, GO and CB/GO taken 24 h after ultrasonication. It was found that the CB particles that were suspended in water without GO eventually settle down after a period time, but the addition of GO resulted in a black colloidal dispersions with no visible precipitation occurring after several days, implying that there indeed exists appreciable interaction between GO and CB. The formation of CB/GO assembly should be able to prevent the graphene sheets from agglomerating in the course of HT treatment due to the spacing and supporting effects of CB. The formation of a stable colloidal dispersion by synergistic assembly between different graphitic nanostructures, including fullerenes, carbon nanotubes and graphene-based sheets has been recently reported
+[25]
+. It has been shown that carbon nanotube or fullerene microcrystals can adhere to GO sheets due to the existence of large interacting areas between them, while GO sheets can act as dispersing agents to stabilize these carbon materials. On the other hand, it has been reported that metal oxides particles attached to the surface of graphene layers can serve as spacers to separate and support the neighboring graphene sheets, which can increase the interplanar spacing and making both sides of the graphene sheets accessible to the electrolyte
+[26]
+.
+Fig. 1. Schematic illustration of the proposed architecture for the Fe/NG/C precursor mixture.
+Fig. 2. Digital photographs for suspensions of CB, GO and CB/GO, respectively. The picture was taken 24 h after ultrasonication.
+Oxidation of the carbon typically render carbon surface more acidic and thus negatively charged over a wide range of pH, which would favor electrostatic attraction of cations
+[27]
+. Thus, the oxygen-containing functionalities present at the surface of the GO sheets would allow the Fe-contained cations adsorbed on GO. A consensus has been reached that transition metal species must be present during heat treatment to yield efficient multi-electron transfer ORR active sites and the optimal Fe-doping level range from 0.2 to 1.0 wt.% depending on the iron precursor
+[7]
+. In our study, the heat-treated Fe/NG/C precursor mixture with a nominal 0.5 wt.% metal loading were found to yield the best catalytic activity. The high nitrogen content and water-solubility of urea would ensure large quantity of nitrogen sources mixed homogeneously into precursor material, which can react with oxygen-containing group on the surface of GO sheets adequately in the subsequent HT pyrolysis.
+Fig. 3
+displays the XRD patterns of the XC-72R, Fe/NG and Fe/NG/C materials. Broad hump lines with maxima at 2θ of 25–26° were observed for all samples, which can be attributed to the (002) diffraction signal from graphite crystal. It is known that XC-72R carbon is mainly an amorphous carbon material with small regions of crystallinity
+[28]
+. The graphene-derived samples featured lower peak intensities than Vulcan XC-72R, which are indicative of the relative amorphous structure of the exfoliated graphene nanosheets. But the diffraction peak at 2θ of ca. 26.5° did not disappear entirely, which suggests that graphene layer have some tendency to restore crystalline graphite structure after heat-treatment. The enhanced intensity of (002) peak of Fe/NG/C catalyst was most likely due to the contribution of crystalline component of CB in the sample. The XRD patterns reveal no sign of nano-sized metallic iron in Fe/NG and Fe/NG/C, possibly due to the quite low Fe-doping contents (∼0.5 nominal wt.%), which fall below the detection limits.
+Fig. 3. XRD patterns for different samples: (a) as-received carbon black; (b) Fe/NG/C; (c) Fe/NG.
+Raman scattering studies can offer valuable information about the lattice symmetry of graphene layer on the atomic level. The Raman spectra shown in
+Fig. 4
+reveal typical characteristics of the catalyst materials with an intense peak at ca. 1360 cm−1 and a more pronounced peak at ca. 1600 cm−1, known as the D (disorder) and G (graphite) bands, respectively. The G band corresponds to in-plane vibration mode with Raman active E2g symmetry for ordered sp2 bonded carbon atom in an ideal graphene lattice; the D band is ascribed to edges, other defects and disordered carbon
+[29]
+. Two additional peaks, concealed by the G and D bands, were introduced to obtain proper fittings, which have been ascribed to amorphous carbon (peak Am at ca. 1500 cm−1) and characteristic of sp3-bonded carbon atoms (peak P at ca. 1200 cm−1)
+[30]
+. The intensity ratio between D and G bands has found to be an approximate indicator of the extent of structural disorder in the graphene layer (e.g., ID/IG = 0 for a perfect, infinite graphene layer)
+[31]
+. The ID/IG values for the Fe/NG/C and Fe/NG samples (ca. 1.00 and 1.06, respectively) were even higher than that of XC-72R (0.93). This might be a consequence of the heteroatom doping within the graphene layer, which has been shown to be able to disturb the symmetry in graphene lattice systems on the micro/nanoscale
+[32]
+,
+[33]
+. The ID/IG value of Fe/NG/C was located in between that of CB and Fe/NG, which should be due to the same reason described in XRD analysis.
+Fig. 4. Raman spectra of different samples: (a) as-received CB; (b) Fe/NG/C; (c) Fe/NG. Overall fitting (red, solid line) and decomposition (grey, dotted lines) into peaks for the graphitic (G), disorder (D), amorphous (Am) and sp3 (P) carbons. (For interpretation of the references to color in this figure legend, the reader is referred to the web version of the article.)
+The N2 adsorption–desorption isotherms of the Fe/NG/C and Fe/NG samples are shown in
+Fig. 5
+, according to which the Brunauer–Emmett–Teller (BET) specific surface areas were estimated to be about 356 and 226 m2 g−1, respectively. Despite that the XC-72R CB has relatively lower BRT specific surface area (235 m2 g−1), the CB-contained Fe/NG/C have significantly higher specific surface area than its Fe/NG counterpart. This suggests that the presence of CB particles in Fe/NG/C sample prevented the overlap and coalescence of graphene sheets during the high-temperature annealing. Though the BET surface areas of the samples are much lower than the theoretical limit (2630 m2 g−1) of graphene, they match the experimentally measured values reported by others
+[34]
+. In addition, the nitrogen adsorption/desorption isotherms exhibited a hysteresis loop of type H3 (IUPAC), which indicates the existence of slit-shaped pores between parallel layers
+[35]
+.
+Fig. 5. Nitrogen adsorption/desorption isotherms of Fe/NG/C and Fe/NG.
+Fig. 6
+shows the representative TEM images of the prepared catalyst materials. The crumpled morphology of the graphene sheets was observed for all the samples
+[36]
+. In the case of Fe/NG catalyst sample, N-graphene sheets irreversibly aggregate into an interconnected network with dense and compact appearance. The Fe/NG/C catalyst sample showed morphology of few-layer graphene sheets with lateral dimensions of a few hundred nanometres supported by fused chain-like aggregates of CB particles, which indicated that CB acted as spacers and supports to prevent the agglomeration of GO which would be likely to occur during the thermal reduction process
+[37]
+.
+Fig. 6. Representative TEM images for the prepared N-graphene based catalyst materials: (a) Fe/NG/C and (b) Fe/NG.
+In consistent with XRD analysis, our TEM observation did not detect any visible metallic particles in the two metal-based catalysts. In order to gather further intuitive understanding, quantitative analyses were done with ICP-AES. The obtained iron contents (1.16 wt.% for Fe/NG/C and 1.91 wt.% for Fe/NG, respectively) in the final product were several times higher than the nominal values (0.5 wt.%), which can be interpreted as the significant loss in the total mass of the sample due to the removal of oxygen-containing functional groups from GO and the sublimation of urea during the HT treatment.
+Since nitrogen is a prerequisite for ORR catalytic sites, XPS characterization was employed to identify the surface nitrogen-containing species. According to XPS surface atomic concentration results (
+Table 1
+), the CB-contained samples (Fe/NG/C) have relative lower nitrogen content and higher carbon content than their CB-free counterpart (Fe/NG). It is known that carbonaceous materials only under pre-treatment with strong oxidizing agents can obtain significant nitrogen content by reacting with nitrogen-containing chemicals. Therefore, CBs under the present condition should undergo little nitrogen doping and contribute negligibly to the ORR active sites in the resulted catalyst. They should merely serve as inert supports in our case.
+Fig. 7
+depicts the N1s narrow-scan spectra of the prepared sample catalysts and its decomposition into five individual N-functionalities
+[6]
+. Pyridinic-N was found to be the most abundant species in the samples. Pyridinic-N is known to be located at the edge or vacancy defects of a graphene layer and bonded to two carbon atoms, donating the aromatic system with one p-electron and leaving behind the lone pair electrons in a sp2 orbital. Therefore, pyridinic-N has been thought by some researchers to be involved in the ORR active sites by coordinating with iron ion
+[38]
+. According to the XPS results, the CB-contained sample (Fe/NG/C) has relatively lower pyridinic-N nitrogen content (1.30 at.%) than the CB-free Fe/NG (1.95 at.%). As will be shown later on, however, Fe/NG/C catalyzes ORR more efficiently than Fe/NG, suggesting that there might be other factors, for example, catalyst morphologies, affecting the activities of these materials. A discussion on this will be given in the next section.
+Table 1. Surface composition determined with XPS (at.%).
+Fig. 7. Decomposed N1s narrow-scan XPS spectra and the nitrogen contents for (a) Fe/NG/C and (b) Fe/NG catalysts.
+We have also tried to estimate the surface Fe contents for these materials but they seemed falling below the detection limits.
+As displayed in
+Fig. 8
+, the Fe/NG/C sample catalyst exhibited a significant higher electrochemical specific double layer capacitance than it's the CB-free Fe/NG sample, indicating the increased specific surface area and its accessibility to the electrolyte
+[39]
+. The well-developed redox peaks at around 0.7 V may be attributed to the change in the oxidative state of the Fe species in the electrocatalyst
+[5]
+.
+Fig. 8. CV curves for different samples obtained in an Ar-saturated 0.1 M HClO4 (50 mV/s).
+Fig. 9
+displays the ORR polarization curves of various sample catalysts in acid solutions. The introduction of NH3 as nitrogen sources reacting with GO in the presence of Fe salt led to pyrolized materials with mediocre catalytic activities. But a significant boost to the ORR activity was observed with the material upon employing urea as nitrogen sources, as manifested by the significantly positive shift of the ORR onset potential and the much deepened current rising. Despite the significant enhancement in activity, the Fe/NG catalyst gave a relatively ill-defined ORR limiting current plateau. Similar behaviors seemingly also occurred on nitrogen-doped graphene reported by other researchers
+[20]
+,
+[21]
+. A diffusion-limited current density of ∼6 mA cm−2 is expected for a 4e reduction of oxygen at 1600 rpm. But their values (3–5 mA cm−2) all fall below the theoretical value without exception.
+Fig. 9. ORR polarization curves for different catalysts in an O2-saturated 0.1 M HClO4 (5 mV/s, 1600 rpm).
+For RDE loaded with a thin catalyst film, the limiting current (iL) is governed by the mass transport of reactants in both the solution and the catalyst film
+[40]
+. If the diffusion within the catalyst film is much faster than that outside it, which is usually satisfied when the catalyst film is very thin and porous, the catalyst-loaded RDEs would behave very similarly to a normal flat RDE, at which the limiting current depends only on the electrode rotation rate and changes little with the type of the catalyst. In the cases that the diffusion resistance is large in the catalyst film, one would observe a limiting current lower than that expected for a normal flat RDE due to the additional diffusion polarization in the catalyst film
+[40]
+. As indicated by various characterization results shown earlier, the graphene sheets in the Fe/NG sample catalyst might have some agglomeration, which would inhibit the diffusion of molecular oxygen in the catalyst film, therefore leading to lowered limiting current. The electrode loaded with Fe/NG-C gave very similar limiting current to the Pt/C-loaded electrode (
+Fig. 9
+), which is also close to that expected for the normal RDE limiting current for the 4-electron ORR at 1600 rpm.
+In comparison with the Fe/NG catalyst, the Fe/NG/C catalyst had relatively lower total and pyridinic nitrogen contents but exhibited better ORR activity. This suggests that the ORR activities of the NG-based materials do not have a direct correlation with their total nitrogen contents or the contents of each type of nitrogen. Recently, Wu et al. conducted a systematic survey on the possible ORR active sites on N-doped carbon materials
+[41]
+. The authors also suggested that no straightforward relationship existed between ORR activity and nitrogen content of all types (pyridinic, pyrrolic, and quaternary), although introduction of nitrogen is essential for carbon materials to be ORR activity. Other factors may affect the ORR activities of N-doped carbons, for examples, the presence/absence of transition metals
+[5]
+and the catalyst morphologies
+[41]
+. Since Fe/NG/C and Fe/NG both contain Fe, we speculate that the differed morphologies might be responsible for the activity difference between the two catalysts. The presence of CB in Fe/NG/C catalyst would prevent the restacking of graphene sheets, which renders the active sites residing on the graphene sheets to be more easily accessible to O2 than the Fe/NG catalyst, especially at high overpotential.
+To account for hugely varied ORR activities between sample catalysts prepared by using urea and ammonia as nitrogen sources, we suppose that the attack of excessive NH3 may cause those pre-existing active sites incomplete or even destroyed, due to the strong etching effect of the gaseous ammonia on carbons during heat-treatment process. This argument was based on the assumption that metal-contained catalytic sites are embedded in graphene sheets, where nitrogen atoms around the edges of pore-like defects are coordinated to metal centers
+[42]
+,
+[43]
+. Such detrimental effects on active sites can be avoided by employing solid urea as mild nitrogen precursor and heat-treatment under inert atmosphere.
+We also performed high-temperature treatment of GO, urea and CB in the absence of Fe. The resultant sample catalyst (NG/C) exhibited ORR performance significantly inferior to the Fe/NG/C and Fe/NG samples, but close to the Fe/NG/C-NH3 sample (
+Fig. 9
+). This observation was in good agreement with those obtained by the other group
+[5]
+, and indicated that N-doping in carbons can boost considerable ORR activity, while introduction of metal species is necessary for further activity enhancement. Nitrogen as an n-type dopant can donate electrons to the conjugated π orbital in carbon, which may increase its ability to feedback electron to the π* orbital in O2 molecule, therefore facilitating the OO bond splitting. To the best of our knowledge, the exact origin of the ORR activity promotion by introduction of Fe is still a controversial subject due to the lack of the information about the structures of the active sites. We speculate that some of the surface CNx sites might not be able to catalyze ORR in acid media by their own. Instead, they should be coordinated with transition metals such as Fe and Co to act as catalytic centers. The presence of FeNx-type structures in transition metal-contained materials has been suggested by XAFS spectra
+[5]
+and electron energy loss spectroscopy
+[44]
+.
+The so-called Koutecky–Levich (K–L) plots
+[45]
+for ORR were constructed by measuring the steady-state polarization curves at various rotation rates of the electrode (ω) to access ORR kinetics for Fe/NG/C. In this approach, the reciprocal of the current density (j−1) is plotted as a function versus the reciprocal rotating rate (ω−1). A progressive rise in the diffusion-limiting current densities was expected as ω is increased (
+Fig. 10
+). As shown in the insert of
+Fig. 10
+, the K–L plots for Fe/NG/C at various potentials exhibited very similar slopes to that for Pt/C, suggesting that the metal-contained active sites catalyzed ORR in a similar 4-electron pathway to Pt.
+Fig. 10. ORR polarization curves for Fe/NG/C catalyst obtained in an O2-saturated 0.1 M HClO4 at various electrode rotation rates and a potential scanning rate of 5 mV/s, inset: Koutecky–Levich plots for Fe/NG/C and Pt/C catalyst.
+To confirm the conclusion obtained from the K–L plots, RRDE measurements were also carried out for the sake of quantitative evaluation. The H2O2 percentage released during ORR and the apparent electrons transferred numbers were calculated as follows:
+[46]
+where ID and IR represent the Faradic currents at the disk and the ring electrodes, respectively, and N is the ring collection efficiency constant. The H2O2 collection coefficients at the ring were 0.25 in our system. As shown in
+Fig. 11
+, the electron transfer number for ORR was above 3.97 and the corresponding H2O2 production was below 1.5% in whole potential range, which indicated a high selectivity for the four-electron reduction of oxygen.
+Fig. 11. The electron-transfer number and H2O2 yield for Fe/NG/C catalyst.
+The half-wave potential (E1/2) of the most active Fe/NG/C catalyst in this work was typically around 0.72 V (vs. RHE), which is among the best reported non-precious metal ORR catalysts in acid media, although a performance gap of more than 100 mV to the state-of-the-art commercial Pt/C catalyst remained
+[6]
+. These observations are reflective of the high density and uniform distribution of the active sites on the surface of the prepared Fe/NG/C materials.
+The ORR activity of the Fe/NG/C catalyst was also tested in alkaline medium. In agreement with previous reports
+[16]
+,
+[17]
+,
+[18]
+,
+[19]
+, the ORR plot of the N-graphene based catalysts resemble that of Pt/C (
+Fig. 12
+), suggesting that N-doped carbon nanomaterials could be appealing ORR electrocatalysts in alkaline electrolyte.
+Fig. 12. ORR polarization curves for Fe/NG/C and Pt/C catalysts in O2-saturated 0.1 M KOH (5 mV/s, 1600 rpm).
+To conclude, a single step heat treatment of precursor mixture consisting of GO, urea, carbon black and Fe species can lead to an efficient non-precious metal electrocatalyst for ORR. The activity of the obtained catalyst is equivalent to Pt/C in alkaline medium and approaching to Pt/C in acid medium. The introduction of CB as support can inhibit the agglomeration of the NG sheets, ensuring the extensive use of catalytic active sites located in the surface of graphene sheets and improving mass transport of O2 to reactive sites in the catalyst. The solid urea is considered as a suitable nitrogen source for NG formation over gaseous ammonia.
+This work was supported by Ministry of Science and Technology of China under the National Basic Research Program (grant no.
+2012CB215500
+,
+2012CB932800
+) and the National Natural Science Foundation of China (grant no.
+20973131
+).
+Two distinctive characteristic peaks appear on the way, the D-band formed by disordered carbon atoms at 1355 cm-1 and the G-band formed by ordered graphitic carbon atoms at 1585 cm-1. The relative intensity ratio (ID/IG) of the D-peak to the G-peak determines the degree of defects and graphitization of the carbon material[45,46]. The ID/IG value of Fe@Co-NMC-900 is 0.74 smaller than the Fe@Co-NMC-800 of 0.75, indicating a higher degree of graphitization and better electrical conductivity[47,48].
+Cookies are used by this site.
+Cookie Settings
+All content on this site: Copyright © 2024 Elsevier B.V., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the Creative Commons licensing terms apply.

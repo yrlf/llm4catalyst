@@ -1,0 +1,11 @@
+Abstract
+One of the main challenges in the commercialization of low temperature fuel cells is the slow oxygen reduction reaction (ORR) kinetics and the high cost and scarcity of platinum (Pt)-based catalysts. As a result, alternative non-noble electrocatalysts to Pt materials for ORR is needed to realize the practical application of fuel cells. In this study, nitrogen-doped carbon nanotubes (NCNTs) were synthesized as a non-noble electrocatalyst for the ORR using ethylenediamine (EDA-NCNT) and pyridine (Py-NCNT) as different nitrogen precursors by a single-step chemical vapor deposition (CVD) process. The resulting EDA-NCNT has shown similar ORR performance compared to platinum on carbon support in terms of onset and half-wave potentials. Moreover, EDA-NCNT showed superior ORR performance in terms of limiting current density, number of electrons transferred, and H2O selectivity. The effects of nitrogen content on ORR performance of NCNT were investigated by comparing EDA-NCNT with Py-NCNT. The ORR performance of Py-NCNT was inferior compared to EDA-NCNT in terms of onset and half-wave potentials, limiting current density, number of electrons transferred, and H2O selectivity. Further material characterizations by X-ray photoelectron spectroscopy (XPS) and Raman spectroscopy illustrated a higher nitrogen content and more defects in EDA-NCNT compared to that of Py-NCNT which indicates the important role of the nitrogen precursor on nitrogen content and structure of NCNT. By combining the results of ORR activity and material characterization, it is concluded that higher nitrogen content and more defects of NCNT lead to high ORR performance.
+This publication is licensed under the terms of your institutional subscription. Request reuse permissions.
+Copyright © 2009 American Chemical Society
+Subjects
+what are subjects
+Carbon Nanotubes
+Electrical Properties
+Nitrogen
+Redox Reactions
+X-Ray Photoelectron Spectroscopy

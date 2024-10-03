@@ -1,0 +1,175 @@
+1. Introduction
+In recent years, rechargeable metal–air batteries have attracted widespread attention as a type of renewable energy storage device due to their advantages of high specific capacity, low cost, simple structure, safety, and environmental protection. (1,2) For the selection of anode materials, metal zinc (Zn) is widely available and easy to recover, so it has a broad commercialization prospect.
+For Zn–air batteries, the key oxygen evolution reaction (OER) has multistep electron transfer and complex intermediate states, which leads to the high overpotential and slow reaction rate, (3−5) limiting the practical application of Zn–air batteries. At present, noble metal oxides RuO2 and IrO2 (6) are still the most promising materials for OER catalysts. However, their scarcity and high prices hinder the broad application. Therefore, it is particularly important to look for inexpensive replacement catalysts with desirable high OER catalytic performance. Transition-metal oxides exhibit stable and efficient catalytic performance for oxygen evolution reaction, and, at the same time, they also have the advantages of abundant resources, low cost, and environment friendliness. (3,7−9) Especially, the cobalt (Co)-based spinel oxides have received more and more attention. Co3O4, (9,10) NiCo2O4, (10,11) ZnCo2O4, (12) LiCo2O4, (13) MnCo2O4, (14) etc., all show excellent OER catalytic performance. However, the intrinsic conductivity of cobalt-based spinel oxide is poor, which makes it still difficult to achieve optimal catalytic performance. In order to further enhance their OER performance, the intrinsic conductivity of these cobalt-based spinel oxide electrocatalysts could be improved by means of structural design, morphology control, electronic structure regulation, etc., (15) thereby improving the electrocatalytic performance of spinel oxides.
+Introduction of oxygen vacancies is a simple and efficient method to improve the catalytic performance of transition-metal oxides, which is mainly achieved by adjusting the electronic structure. (16−18) On the one hand, the existence of oxygen vacancies provides a transport channel, which is beneficial to the transport of oxygen ions inside the catalyst and the adsorption and desorption of the intermediate product −OH during the reaction process. (19) On the other hand, the appropriate content of oxygen vacancies in metal oxides can help the diffusion for charge carriers, (20−23) thus improving the conductivity of oxide catalysts. These two improvements provide new opportunities for obtaining highly efficient spinel-type transition-metal oxide catalysts. Sun et al. (24) reported a method to improve the performance of NiCo2O4 by generating oxygen vacancies through the reductive nature of hydrogen. Although OER performance improvement could be achieved using this method, there is certain uncontrollability for the structure of these catalysts with hydrogen reduction as well as potential safety hazards in the hydrogen environment.
+In this work, we synthesize Co3O4 using a conventional solvothermal method and exploit the reducibility of NaBH4 to introduce oxygen vacancies on its surface. As an oxygen scavenger, NaBH4 has strong reducibility, which is beneficial to the removal of oxygen atoms on the surface of the oxide material. (25) Meanwhile, the content of oxygen vacancies can also be easily tailored by controlling the reduction time and changing the concentration of NaBH4. As expected, the treated catalysts show much improved OER performance. In a 0.1 M alkaline KOH solution, the Co3O4 electrocatalyst treated by 2 M NaBH4 exhibits the lowest overpotential of 378 mV, while the untreated Co3O4 reaches 477 mV at a current density of 10 mA cm–2. Meanwhile, the Tafel slope of the Co3O4 electrocatalyst treated by 2 M NaBH4 is 58.18 mV dec–1 for OER, which is also much lower than the pristine Co3O4 with 79.73 mV dec–1. All of these can indicate that the use of NaBH4 solution to introduce oxygen vacancies can effectively improve the OER performance of the catalyst. In addition, the treated sample also shows excellent stability; after 20 h of scanning time, its potential increases by only 0.5%.
+2. Experimental Section
+2.1. Preparation of Co3O4 Powder
+Co3O4 catalyst powder is synthesized by solvothermal method. Considering the presence of mineralizer urea that can accelerate nucleation and crystal formation growth, we add Co(NO3)3·6H2O (5.22 g) and urea (4.32 g) in a 1:1 mixed solution of ethanol (240 mL) and distilled water (240 mL), continuously stirring to form a homogeneous solution. Then, as shown in Figure 1, the solution was sealed in a hydrothermal synthesis reactor and then held at 120 °C for 12 h. After the reaction was completed, the precursor powder was collected by centrifugation, washed with DI water and ethanol several times, and then dried in the air. Finally, the dry precursor powder was calcined at 400 °C for 2 h to obtain the spinel oxide Co3O4. This temperature is the optimal one obtained after repeated attempts; too low temperature cannot form the phase of Co3O4 and too high temperature may damage the structure.
+Figure 1
+Figure 1. Synthetic route of reduction by sodium borohydride solution and hydrogen.
+2.2. Reduction Treatment of Co3O4 Powder
+We use the reducibility of sodium borohydride to reduce the Co3O4 powder. First, five portions of 100 mg Co3O4 powder are weighed and immersed in sodium borohydride solution for 0.5 h at concentrations of 0.5, 1, 1.5, 2, and 2.5 M (the corresponding catalysts are labeled as Co3O4–B-x (x = 0.5, 1, 1.5, 2, and 2.5)). After the reaction is finished, the powder was collected by centrifugation, washed with DI water and ethanol several times, and then dried in the air to obtain a catalyst powder with oxygen vacancies.
+Then, we prepare Co3O4–H using H2 reduction (as comparison samples). 100 mg of Co3O4 powder is weighed and placed uniformly in an alumina crucible. To ensure accurate temperature, the alumina crucible should be placed in the center of the tube furnace. Before the temperature is increased, the air in the quartz tube was exhausted by passing hydrogen gas for 30 min, and then the temperature was increased to 200 °C and kept for 30 min, during which hydrogen is continuously introduced as well. When the reduction reaction is completed, the reaction is terminated by passing nitrogen gas into the quartz tube. The same procedure was followed for the preparation of two more sets of samples at 150 and 250 °C (the corresponding catalysts are labeled as Co3O4–H-y (y = 150, 200, and 250)). The synthesis route for Co3O4–B-x and Co3O4–H-y is shown in Figure 1.
+2.3. Preparation of Rotating Disc Working Electrode
+The working electrode surfaces are prepared as follows: (1) 20 mg of catalyst powder, 20 mg of conductive carbon, 1 mL of isopropyl alcohol, 1 mL of DI water, and 50 μL of Nafion binder were placed into a glass vial, and a uniform catalyst suspension was prepared by ultrasonic dispersion method. (2) 5 μL of the catalyst suspension was pitted onto the glassy carbon electrode surface (0.07 cm–2) and dried in natural air.
+2.4. Physical Characterization
+The crystal structure of the samples was examined by X-ray diffraction on an X-ray diffractometer (XRD-6100, 40 kV, 40 mA) with radiation of Cu Kα from 20 to 80° with a step size of 0.02°. The morphology and structure of the samples were observed by scanning electron microscopy (SEM, JEOLSM-6380LV, Japan) and transmission electron microscopy (TEM, JOEL, JEM-2010). The valence state of the samples was analyzed by X-ray photoelectron spectroscopy (XPS, VG ESCALAB MKII).
+2.5. Electrochemical Measurement
+The electrochemical performance testing of spinel transition-metal oxide catalysts in this paper is mainly done on a rotating disc electrode. A three-electrode system was used in the test; these three electrodes are the working electrode (glassy carbon electrode, GC), the counter electrode (platinum wire electrode), and the reference electrode (silver chloride electrode). During the test, the working electrode was immersed in a 0.1 M KOH electrolyte throughout the whole process.
+3. Results and Discussion
+3.1. Characterization of Catalysts
+Figure 2a shows the XRD patterns of the Co3O4 samples after sodium borohydride (NaBH4) treatment with different concentrations. The two PDF cards mentioned in the patterns correspond to materials Co3O4 (PDF#43-1003) and Co (PDF#05-0727). It can be seen from the diffraction peaks that the samples treated with sodium borohydride still maintain the original spinel structure, which indicates that the reduction with sodium borohydride will not destroy the structure of the sample. (26)Figure 2b shows the XRD patterns of the catalysts after hydrogen (H2) reduction at different temperatures. When the reduction temperature reaches 250 °C, the material structure changes due to the strong reducibility of hydrogen, and the new diffraction peaks correspond to metal cobalt (Co). In addition, since the reduction is more thorough in a higher temperature environment, the sample after hydrogen reduction at 200 °C is selected for comparison in the follow-up experiment.
+Figure 2
+Figure 2. XRD patterns of Co3O4 samples treated with (a) sodium borohydride and (b) hydrogen.
+Figure 3 shows the SEM morphology of the pristine, NaBH4-reduced, and H2-treated Co3O4 powders. Figures 3a and S1a show that the pristine sample Co3O4 has a well-distributed nanorod structure, and the average diameter of these nanorods is about 20 nm. This structure of nanorods provides a one-dimensional (1D) channel for charge transfer, giving the material a faster charge-transfer rate. The formation of this structure is due to the addition of the mineralizer urea, which inhibits the growth rate of a certain crystal surface after nucleation, thus effectively controlling the material to form a nanorod structure. (27) As shown in Figure 3b–f, the structure of nanorods is basically retained in the samples reduced by sodium borohydride, which can be more clearly seen in the high-power TEM image (Figure S1b). On the contrary, due to the strong reduction of hydrogen, when the temperature reaches 200 °C, the structure of Co3O4–H-200 is destroyed, and particle agglomeration occurs (Figures 3g and S1c). Comparing the morphology, it can be found that sodium borohydride treatment can better retain the one-dimensional nanorod structure of Co3O4, and this one-dimensional nanorod structure can provide a larger reaction area and more reaction sites and accelerate the process of reactant −OH to product O2.
+Figure 3
+Figure 3. SEM images of (a) Co3O4, (b) Co3O4–B-0.5, (c) Co3O4–B-1, (d) Co3O4–B-1.5, (e) Co3O4–B-2, (f) Co3O4–B-2.5, and (g) Co3O4–H-200.
+X-ray photoelectron spectroscopy (XPS) was used to investigate the oxidation states and coordination environments of Co and O elements in Co3O4, Co3O4–B-2, and Co3O4–H-200. The O 1s spectra of the three samples (Figure 4d,e,f) can be fitted to three primary peaks of constituting lattice oxygen (O1), defect oxygen (O2), and surface absorbed oxygen (O3), which are located at 529.2, 531.5, and 533.3 eV, respectively. (28,29) The fitting results reveal that Co3O4–B-2 has the highest ratio of oxygen defects, indicating that reducing the samples with sodium borohydride can effectively introduce more oxygen vacancies, which is beneficial to the transport of ions and electrons during the catalytic reaction. (30−32) To further confirm the introduction of oxygen vacancies, we also analyze the Co 2p spectrum. As shown in Figure 4a,b,c, the XPS spectra of Co 2p can be well divided into two spin–orbit, which locates at around 796.8 and 781.2 eV, respectively. (33) To further understand the electronic states of Co atoms with different valences, two Co spin orbitals of the samples were fitted. The two peaks at 797.2 and 781.7 eV correspond to Co2+, while the peaks at 796.1 and 780.1 eV correspond to Co3+. (34) As shown in Table 1, the relative area ratio Co2+/Co3+ in Co3O4–B-2 is 1.29, which is much higher than that of the original sample Co3O4 (0.77), indicating that after reduction treatment, more Co2+ ions are formed in the sample, that is, partial Co3+ is reduced to Co2+, generating oxygen vacancies.
+Figure 4
+Figure 4. XPS Co 2p spectra for (a) Co3O4, (b) Co3O4–B-2, and (c) Co3O4–H-200; XPS O 1s spectra for (d) Co3O4, (e) Co3O4–B-2, and (f) Co3O4–H-200.
+Table 1. Relative Areas of Co2+ Peaks and Co3+ Peaks
+electrocatalyst Co2+ (%) Co3+ (%) Co2+/Co3+
+Co3O4 43. 60 56.40 0.77
+Co3O4–H-200 49.00 51.00 0.96
+Co3O4–B-2 56.52 43.48 1.29
+3.2. Electrocatalytic Activities of Catalyst
+To investigate the electrocatalytic performance of OER, linear sweep voltammetry (LSV) is performed on the different catalysts. In the test, the voltage range is 0–1 V, and the scan rate is 0.005 V/s. All of the samples were evaluated using an RDE at 1600 rpm in a 0.1 M KOH electrolyte (reference electrode Ag/AgCl). All potentials shown were referenced to the RHE. As shown in Figure 5a, the onset potential of OER on Co3O4–B-2 is 1.45 V (vs RHE), which is lower than that of pristine Co3O4 (1.56 V vs RHE). It means that in the actual working conditions, the reduced Co3O4 catalyst is easier to reach the potential value required for the start of the reaction. Furthermore, the overpotential of pristine Co3O4 is 477 mV at a current density of 10 mA cm–2, much higher than that of all of the reduced samples, and among them, Co3O4–B-2 has the smallest overpotential, which is only 378 mV. In addition, Co3O4–B-2 can deliver 18.9 mA cm–2 at a potential of 1.68 V (vs RHE), which is about 2.5 times that of pristine Co3O4 (7.9 mA cm–2) (Figure 5b). It can also be seen from Table S1 that the overpotential of Co3O4–B-2 is much lower than that of other similar materials. (19,35−39) These data can prove that Co3O4 after sodium borohydride reduction treatment has better OER performance. It may be because the appearance of oxygen vacancies in reduced Co3O4–B-2 contributes to the diffusion of charge carriers. Figure 5c,d compares the performance of the catalysts after reduction with sodium borohydride and hydrogen. Co3O4–H-200 has an onset potential of about 1.5 V and an overpotential of 423 mV. Comparing the data with Co3O4-B-2, it can be found that the OER catalytic performance of Co3O4–B-2 is better. As mentioned above, the reason may be that the one-dimensional nanorod structure of Co3O4–B-2 provides a larger reaction area and more active sites, whereas the structure of Co3O4–H-200 is changed and no longer has these advantages.
+Figure 5
+Figure 5. LSV curves of Co3O4 samples treated with (a) sodium borohydride and (c) hydrogen; (b) and (d) corresponding overpotentials at 10 mA cm–2 and current densities at 1.68 V vs RHE.
+To study the OER kinetics of the as-prepared catalysts, the Tafel plots (Figure 6) are derived from the polarization curves in Figure 5, where the Tafel equation is applied (η = a + b log j, where b is the Tafel slope). The slope of the curve in the plot is inversely proportional to charge transfer, and it is normally used to evaluate catalyst kinetics. A catalyst with excellent charge-transfer ability should have a low Tafel slope. (19) As shown in Figure 6a, among all oxide catalysts, Co3O4–B-2 has the smallest slope, which is 58.18 mV dec–1. This is consistent with the results obtained from the LSV curve, indicating that oxygen vacancies can enhance the catalytic performance of OER. Moreover, the reduction effect of sodium borohydride is better than that of hydrogen.
+Figure 6
+Figure 6. Tafel plots of Co3O4 samples treated with (a) sodium borohydride and (b) hydrogen.
+Figure 7 uses electrochemical impedance spectroscopy (EIS) recorded at 0.7 V (vs Ag/AgCl) to analyze the charge-transfer characteristics of the samples. The size of the resistance in the EIS spectra is determined by the semicircle diameter. In the corresponding equivalent circuit (inset of Figure 7), Rs stands for the resistance of the electrolyte solution, R1 represents the resistance of the mixture of catalyst and conductive carbon, and R2 is the charge-transfer resistance of OER process and CPE is constant phase element. (40) Among all of the samples, Co3O4–B-2 shows the smallest charge-transfer resistance (30 Ω), which is only one-third of the pristine Co3O4 (92 Ω), and it is also smaller than Co3O4–H-200 (62 Ω). This indicates that Co3O4–B-2 has a lower charge-transfer resistance for OER, which may be attributed to the existence of oxygen vacancies, which enhances the charge-transfer kinetics of the catalyst, (41,42) and this improvement is more obvious in the reduction of sodium borohydride.
+Figure 7
+Figure 7. Nyquist curves of (a) Co3O4–B-x; (b) Co3O4, Co3O4–H-200, and Co3O4–B-2.
+Electrochemical active surface area (ECSA) refers to the effective area participating in the electrochemical reaction, which is very important for the calculation of the kinetic parameters of the electrochemical reaction. (43) In order to further explore the effect of reduction treatment on the ECSA of spinel oxide catalysts, the spinel oxide catalysts were tested by variable-speed cyclic voltammogram. The ECSA of the catalyst is proportional to the double-layer capacitance of the material, so in the case where the ECSA cannot be directly measured, the result can be obtained qualitatively by comparing the double-layer capacitance of the material.
+The double-layer capacitance can be calculated by the formula
+𝑖
+C
+=
+𝐶
+dl
+𝑑
+𝐸
+𝑑
+𝑡
+d
+where iC is the faradaic current, Cdl is the double-layer capacitance, E is the voltage, and t is the time.
+Taking the data when the voltage is 0.3 V in Figures S2 and8 can be drawn. The abscissa of the plot is the scan speed, and the ordinate is the difference of the current density when the potential value is 0.3 V. Therefore, in this plot, the physical meaning of the slope is the size of the double-layer capacitance. As shown in Figure 8, the catalysts Co3O4, Co3O4–B-0.5, Co3O4–B-1, Co3O4–B-1.5, Co3O4–B-2, Co3O4–B-2.5, and Co3O4–H-200 possessed Cdl values of 6.89, 11.46, 15.89, 23.28, 25.62, 11.45, and 16.16 mF cm–2, respectively. It can be seen that Co3O4–B-2 has the largest Cdl value (25.62 mF cm–2), which is much larger than the pristine Co3O4 (6.89 mF cm–2). Since Cdl can reflect the size of ECSA, after sodium borohydride reduction, the ECSA of the sample is increased and the OER performance is also improved. In addition, Co3O4–B-2 has a larger ECSA than Co3O4–H-200, which also corresponds to the above conclusion (Figure 8b).
+Figure 8
+Figure 8. Curve of the relationship between the current density and the scan rate at a voltage of 0.3 V of (a) Co3O4–B-x; (b) Co3O4, Co3O4–H-200, and Co3O4–B-2.
+Stability test is also a key factor to evaluate the catalyst performance and application value. In order to explore the effect of oxygen vacancies on the electrocatalytic performance of spinel oxides, a chronopotentiometry test is carried out at a constant current density of 10 mA cm–2 for 20 h to compare the potential changes during the test. As shown in Figure 9a, after 20 h, the potential of Co3O4–B-2 increases by only 0.5%, showing extremely high stability. Comparing the samples treated with hydrogen, it can be seen that the potential of Co3O4–H-200 increases by about 6.5% after 20 h, which may be because, as mentioned above, the original structure of the sample is altered due to the strong reducing nature of hydrogen.
+Figure 9
+Figure 9. Variation curve of voltage with time under constant current density.
+4. Conclusions
+In summary, oxygen vacancies have been introduced into spinel oxide Co3O4 prepared by solvothermal method using different concentrations of sodium borohydride. The as-prepared reduction products can be directly adopted as an efficient OER catalyst with high activity and stability. The electrochemical results show that Co3O4–B-2 exhibited a low overpotential of 378 mV at a current density of 10 mA cm–2 and a small Tafel slope of 58.18 mV dec–1; meanwhile, the double-layer capacitance value of Co3O4–B-2 reaches 25.62 mF cm–2, compared with that of pristine Co3O4; the electrocatalytic activity of OER is significantly enhanced. After 20 h of chronopotentiometry, the potential of Co3O4–B-2 increased by only 0.5%, showing extremely high stability. This study improves the method of introducing oxygen ion vacancies into spinel oxide, providing a promising way for the design and fabrication of efficient electrocatalysts for the oxygen evolution reaction.
+Supporting Information
+The Supporting Information is available free of charge at https://pubs.acs.org/doi/10.1021/acs.energyfuels.3c00034.
+CV curves of Co3O4-B-x (x = 0, 0.5, 1, 1.5, 2, 2.5) at different scanning speeds in the voltage range of 0.25–0.35 V; and table summarizes the OER performance of some Co-based oxide materials (PDF)
+ef3c00034_si_001.pdf (330.57 kb)
+Terms & Conditions
+Most electronic Supporting Information files are available without a subscription to ACS Web Editions. Such files may be downloaded by article for research use (if there is a public use license linked to the relevant article, that license may permit other uses). Permission may be obtained from ACS for other uses through requests via the RightsLink permission system: http://pubs.acs.org/page/copyright/permissions.html.
+Author Information
+Corresponding Author
+Xifeng Ding - School of Materials Science and Engineering, Nanjing University of Science and Technology, Nanjing 210094, China;  https://orcid.org/0000-0003-4033-3881;  Email: dingxifeng@njust.edu.cn
+Authors
+Suxian Guo - School of Materials Science and Engineering, Nanjing University of Science and Technology, Nanjing 210094, China
+Xiaoyu Wang - School of Materials Science and Engineering, Nanjing University of Science and Technology, Nanjing 210094, China
+Xinghong Zhou - School of Materials Science and Engineering, Nanjing University of Science and Technology, Nanjing 210094, China
+Haowei Li - School of Materials Science and Engineering, Nanjing University of Science and Technology, Nanjing 210094, China
+Notes
+The authors declare no competing financial interest.
+Acknowledgments
+This work was financially supported by the National Natural Science Foundation of China (51872143, 51790492) and the Fundamental Research Funds for the Central Universities of China (30920021157, 30916011104).
+References
+This article references 43 other publications.
+1Lee, J. S.; Kim, S. T.; Cao, R.; Choi, N. S.; Liu, M.; Lee, K. T.; Cho, J. Metal–Air Batteries with High Energy Density: Li–Air versus Zn–Air. Adv. Energy Mater. 2011, 1, 34– 50,  DOI: 10.1002/aenm.201000010
+Google Scholar
+2Sapkota, P.; Kim, H. Zinc–air fuel cell, a potential candidate for alternative energy. J. Ind. Eng. Chem. 2009, 15, 445– 450,  DOI: 10.1016/j.jiec.2009.01.002
+Google Scholar
+3Wang, X.; Ge, L.; Lu, Q.; Dai, J.; Guan, D.; Ran, R.; Weng, S.-C.; Hu, Z.; Zhou, W.; Shao, Z. High-performance metal-organic framework-perovskite hybrid as an important component of the air-electrode for rechargeable Zn-Air battery. J. Power Sources 2020, 468, 228377  DOI: 10.1016/j.jpowsour.2020.228377
+Google Scholar
+4Zhu, Y.; Tahini, H. A.; Hu, Z.; Chen, Z.-G.; Zhou, W.; Komarek, A. C.; Lin, Q.; Lin, H.-J.; Chen, C.-T.; Zhong, Y.; Fernández-Díaz, M. T.; Smith, S. C.; Wang, H.; Liu, M.; Shao, Z. Boosting oxygen evolution reaction by creating both metal Ion and lattice-oxygen active sites in a complex oxide. Adv. Mater. 2020, 32, 1905025  DOI: 10.1002/adma.201905025
+Google Scholar
+5Wu, J.; Subramaniam, J.; Liu, Y.; Geng, D.; Meng, X. Facile assembly of Ni(OH)2 nanosheets on nitrogen-doped carbon nanotubes network as high-performance electrocatalyst for oxygen evolution reaction. J. Alloys Compd. 2018, 731, 766– 773,  DOI: 10.1016/j.jallcom.2017.10.096
+Google Scholar
+6Lee, Y.; Suntivich, J.; May, K. J.; Perry, E. E.; Shao-Horn, Y. Synthesis and Activities of Rutile IrO2 and RuO2 Nanoparticles for Oxygen Evolution in Acid and Alkaline Solutions. J. Phys. Chem. Lett. 2012, 3, 399– 404,  DOI: 10.1021/jz2016507
+Google Scholar
+7Majee, R.; Das, T.; Chakraborty, S.; Bhattacharyya, S. Shaping a Doped Perovskite Oxide with Measured Grain Boundary Defects to Catalyze Bifunctional Oxygen Activation for a Rechargeable Zn-Air Battery. ACS Appl. Mater. Interfaces 2020, 12, 40355– 40363,  DOI: 10.1021/acsami.0c11606
+Google Scholar
+8Bian, W.; Yang, Z.; Strasser, P.; Yang, R. A CoFe2O4/graphene nanohybrid as an efficient bi-functional electrocatalyst for oxygen reduction and oxygen evolution. J. Power Sources 2014, 250, 196– 203,  DOI: 10.1016/j.jpowsour.2013.11.024
+Google Scholar
+9He, X.; Yin, F.; Li, Y.; Wang, H.; Chen, J.; Wang, Y.; Chen, B. H. NiMnO3/NiMn2O4 Oxides Synthesized via the Aid of Pollen: Ilmenite/Spinel Hybrid Nanoparticles for Highly Efficient Bifunctional Oxygen Electrocatalysis. ACS Appl. Mater. Interfaces 2016, 8, 26740– 26757,  DOI: 10.1021/acsami.6b08101
+Google Scholar
+10Pletcher, D.; Li, X.; Price, S. W. T.; Russell, A. E.; Sönmez, T.; Thompson, S. J. Comparison of the spinels Co3O4 and NiCo2O4 as bifunctional oxygen catalysts in alkaline media. Electrochim. Acta 2016, 188, 286– 293,  DOI: 10.1016/j.electacta.2015.10.020
+Google Scholar
+11Li, Z.; Li, B.; Chen, J.; Pang, Q.; Shen, P. Spinel NiCo2O4 3-D nanoflowers supported on graphene nanosheets as efficient electrocatalyst for oxygen evolution reaction. Int. J. Hydrogen Energy 2019, 44, 16120– 16131,  DOI: 10.1016/j.ijhydene.2019.04.219
+Google Scholar
+12Zhang, J.; Zhang, D.; Yang, Y.; Ma, J.; Cui, S.; Lia, Y.; Yuan, B. Facile synthesis of ZnCo2O4 mesoporous structures with enhanced electrocatalytic oxygen evolution reaction properties. RSC Adv. 2016, 6, 92699– 92704,  DOI: 10.1039/C6RA14191A
+Google Scholar
+13Maiyalagan, T.; Jarvis, K. A.; Therese, S.; Ferreira, P. J.; Manthiram, A. Spinel-type lithium cobalt oxide as a bifunctional electrocatalyst for the oxygen evolution and oxygen reduction reactions. Nat. Commun. 2014, 5, 3949  DOI: 10.1038/ncomms4949
+Google Scholar
+14Rebekah, A.; Kumar, E. A.; Viswanathan, C.; Ponpandian, N. Effect of cation substitution in MnCo2O4 spinel anchored over rGO for enhancing the electrocatalytic activity towards oxygen evolution reaction (OER). Int. J. Hydrogen Energy 2020, 45, 6391– 6403,  DOI: 10.1016/j.ijhydene.2019.12.164
+Google Scholar
+15Wang, Y.; Tong, Z.; Jiang, K.; Da, P.; Peng, Z.; Tang, J.; Kong, B.; Cai, W.-B.; Yang, Z.; Zheng, G. Reduced mesoporous Co3O4 nanowires as efficient water oxidation electrocatalysts and supercapacitor electrodes. Adv. Energy Mater. 2014, 4, 1400696  DOI: 10.1002/aenm.201470082
+Google Scholar
+16Ortiz-Medina, J.; Wang, Z.; Cruz-Silva, R.; Morelos-Gomez, A.; Wang, F.; Yao, X.; Terrones, M.; Endo, M. Defect engineering and surface functionalization of nanocarbons for metal-free catalysis. Adv. Mater. 2019, 31, 1805717  DOI: 10.1002/adma.201805717
+Google Scholar
+17Ma, L.; Chen, S.; Pei, Z.; Li, H.; Wang, Z.; Liu, Z.; Tang, Z.; Antonio, Z. J.; Zhi, C. Flexible waterproof rechargeable hybrid zinc batteries initiated by multifunctional oxygen vacancies-rich cobalt oxide. ACS Nano 2018, 12, 8597– 8605,  DOI: 10.1021/acsnano.8b04317
+Google Scholar
+18Sun, Y.; Wang, H.; Xing, Q.; Cui, W.; Li, J.; Wu, S.; Sun, L. The pivotal effects of oxygen vacancy on Bi2MoO6: Promoted visible light photocatalytic activity and reaction mechanism. Chin. J. Catal. 2019, 40, 647– 655,  DOI: 10.1016/S1872-2067(19)63277-8
+Google Scholar
+19Zeng, K.; Li, W.; Zhou, Y.; Sun, Z.; Lu, C.; Yan, J.; Choi, J.-H.; Yang, R. Multilayer hollow MnCo2O4 microsphere with oxygen vacancies as efficient electrocatalyst for oxygen evolution reaction. Chem. Eng. J. 2021, 421, 127831  DOI: 10.1016/j.cej.2020.127831
+Google Scholar
+20Balogun, M.-S.; Zhu, Y.; Qiu, W.; Luo, Y.; Huang, Y.; Liang, C.; Lu, X.; Tong, Y. Chemically lithiated TiO2 heterostructured nanosheet anode with excellent rate capability and long cycle life for high-performance lithium-ion batteries. ACS Appl. Mater. Interfaces 2015, 7, 25991– 26003,  DOI: 10.1021/acsami.5b09610
+Google Scholar
+21Chi, K.; Zhang, Z.; Lv, Q.; Xie, C.; Xiao, J.; Xiao, F.; Wang, S. Well-ordered oxygen-deficient CoMoO4 and Fe2O3 nanoplate arrays on 3D graphene foam: toward flexible asymmetric supercapacitors with enhanced capacitive properties. ACS Appl. Mater. Interfaces 2017, 9, 6044– 6053,  DOI: 10.1021/acsami.6b14810
+Google Scholar
+22Fan, X.; Balogun, M. S.; Huang, Y.; Tong, Y. Oxygen-Deficient Three-Dimensional Porous Co3O4 Nanowires as an Electrode Material for Water Oxidation and Energy Storage. ChemElectroChem 2017, 4, 2453– 2459,  DOI: 10.1002/celc.201700607
+Google Scholar
+23Zhuang, L.; Jia, Y.; He, T.; Du, A.; Yan, X.; Ge, L.; Zhu, Z.; Yao, X. Tuning oxygen vacancies in two-dimensional iron-cobalt oxide nanosheets through hydrogenation for enhanced oxygen evolution activity. Nano Res. 2018, 11, 3509– 3518,  DOI: 10.1007/s12274-018-2050-8
+Google Scholar
+24Sun, D. S.; Li, Y. H.; Wang, Z. Y.; Cheng, X. P.; Saddique, J.; Jaffer, S.; Zhang, Y. F. Understanding the mechanism of hydrogenated NiCo2O4 nanograss supported on Ni foam for enhanced-performance supercapacitors. J. Mater. Chem. A 2016, 4, 5198– 5204,  DOI: 10.1039/C6TA00928J
+Google Scholar
+25Tan, H.; Zhao, Z.; Zhu, W. B.; Coker, E. N.; Li, B.; Zheng, M.; Yu, W.; Fan, H.; Sun, Z. Oxygen vacancy enhanced photocatalytic activity of pervoskite SrTiO3. ACS Appl. Mater. Interfaces 2014, 6, 19184– 19190,  DOI: 10.1021/am5051907
+Google Scholar
+26Yan, D.; Wang, W.; Luo, X.; Chen, C.; Zeng, Y.; Zhu, Z. NiCo2O4 with oxygen vacancies as better performance electrode material for supercapacitor. Chem. Eng. J. 2018, 334, 864– 872,  DOI: 10.1016/j.cej.2017.10.128
+Google Scholar
+27Zhu, G.; Liu, P. Low-temperature urea-assisted hydrothermal synthesis of Bi2S3 nanostructures with different morphologies. Cryst. Res. Technol. 2009, 44, 713– 720,  DOI: 10.1002/crat.200900137
+Google Scholar
+28Ran, J.; Wang, T.; Zhang, J.; Liu, Y.; Xu, C.; Xi, S.; Gao, D. Modulation of Electronics of Oxide Perovskites by Sulfur Doping for Electrocatalysis in Rechargeable Zn–Air Batteries. Chem. Mater. 2020, 32, 3439– 3446,  DOI: 10.1021/acs.chemmater.9b05148
+Google Scholar
+29Ou, G.; Wu, F.; Huang, K.; Hussain, N.; Zu, D.; Wei, H.; Ge, B.; Yao, H.; Liu, L.; Li, H.; Shi, Y.; Wu, H. Boosting the electrocatalytic water oxidation performance of CoFe2O4 nanoparticles by surface defect engineering. ACS Appl. Mater. Interfaces 2019, 11, 3978– 3983,  DOI: 10.1021/acsami.8b19265
+Google Scholar
+30Xie, J.; Zhang, X.; Zhang, H.; Zhang, J.; Li, S.; Wang, R.; Pan, B.; Xie, Y. Intralayered Ostwald ripening to ultrathin nanomesh catalyst with robust oxygen-evolving performance. Adv. Mater. 2017, 29, 1604765  DOI: 10.1002/adma.201604765
+Google Scholar
+31Bao, J.; Zhang, D.; Fan, B.; Zhang, J.; Zhou, M.; Yang, W.; Hu, X.; Wang, H.; Pan, B.; Xie, Y. Ultrathin spinel-structured nanosheets rich in oxygen deficiencies for enhanced electrocatalytic water oxidation. Angew. Chem. 2015, 127, 7507– 7512,  DOI: 10.1002/ange.201502226
+Google Scholar
+32Mcateer, D.; Godwin, I. J.; Ling, Z.; Harvey, A.; He, L.; Boland, C. S.; Vega-Mayoral, V.; Szydlowska, B.; Rovetta, A. A.; Backes, C.; Boland, J. B.; Chen, X.; Lyons, M. E. G.; Coleman, J. N. Liquid Exfoliated Co(OH)2 Nanosheets as Low-Cost, Yet High-Performance, Catalysts for the Oxygen Evolution Reaction. Adv. Energy Mater. 2018, 8, 1702965  DOI: 10.1002/aenm.201702965
+Google Scholar
+33Burriel, M.; Garcia, G.; Santiso, J.; Abrutis, A.; Saltyte, Z.; Figueras, A. Growth Kinetics, Composition, and Morphology of Co3O4 Thin Films Prepared by Pulsed Liquid-Injection MOCVD. Chem. Vap. Deposition 2005, 11, 106– 111,  DOI: 10.1002/cvde.200406320
+Google Scholar
+34Restovic, A.; Ríos, E.; Barbato, S.; Ortiz, J.; Gautier, J. L. Oxygen reduction in alkaline medium at thin MnxCo3–xO4 (0≤x≤1) spinel films prepared by spray pyrolysis. Effect of oxide cation composition on the reaction kinetics. J. Electroanal. Chem. 2002, 522, 141– 151,  DOI: 10.1016/S0022-0728(02)00639-3
+Google Scholar
+35Kumar, K.; Canaff, C.; Rousseau, J.; Arrii-Clacens, S.; Napporn, T. W.; Habrioux, A.; Kokoh, K. B. Effect of the Oxide–Carbon Heterointerface on the Activity of Co3O4/NRGO Nanocomposites toward ORR and OER. J. Phys. Chem. C 2016, 120, 7949– 7958,  DOI: 10.1021/acs.jpcc.6b00313
+Google Scholar
+36Lim, D.; Kong, H.; Kim, N.; Lim, C.; Ahn, W. S.; Baeck, S. H. Oxygen-Deficient NiFe2O4 Spinel Nanoparticles as an Enhanced Electrocatalyst for the Oxygen Evolution Reaction. ChemNanoMat 2019, 5, 1296– 1302,  DOI: 10.1002/cnma.201900231
+Google Scholar
+37Su, Y.; Liu, H.; Li, C.; Liu, J.; Song, Y.; Wang, F. Hydrothermal-assisted defect engineering in spinel Co3O4 nanostructures as bifunctional catalysts for oxygen electrode. J. Alloys Compd. 2019, 799, 160– 168,  DOI: 10.1016/j.jallcom.2019.05.331
+Google Scholar
+38Zhong, Y.; Dai, J.; Xu, X.; Su, C.; Shao, Z. Facilitating Oxygen Redox on Manganese Oxide Nanosheets by Tuning Active Species and Oxygen Defects for Zinc-Air Batteries. ChemElectroChem 2020, 7, 4949– 4955,  DOI: 10.1002/celc.202001419
+Google Scholar
+39Zhu, Z.; Zhang, J.; Peng, X.; Liu, Y.; Cen, T.; Ye, Z.; Yuan, D. Co3O4–NiCo2O4 Hybrid Nanoparticles Anchored on N-Doped Reduced Graphene Oxide Nanosheets as an Efficient Catalyst for Zn–Air Batteries. Energy Fuels 2021, 35, 4550– 4558,  DOI: 10.1021/acs.energyfuels.0c04079
+Google Scholar
+40Fu, Y.; Wang, J.; Yu, H.-Y.; Li, X.; Wang, H.; Tian, J.-H.; Yang, R. Enhanced electrocatalytic performances of α-Fe2O3 pseudo-nanocubes for oxygen reduction reaction in alkaline solution with conductive coating. Int. J. Hydrogen Energy 2017, 42, 20711– 20719,  DOI: 10.1016/j.ijhydene.2017.07.057
+Google Scholar
+41Zhuang, L.; Ge, L.; Yang, Y.; Li, M.; Jia, Y.; Yao, X.; Zhu, Z. Ultrathin iron-cobalt oxide nanosheets with abundant oxygen vacancies for the oxygen evolution reaction. Adv. Mater. 2017, 29, 1606793  DOI: 10.1002/adma.201606793
+Google Scholar
+42Xu, L.; Jiang, Q.; Xiao, Z.; Li, X.; Huo, J.; Wang, S.; Dai, L. Plasma-engraved Co3O4 nanosheets with oxygen vacancies and high surface area for the oxygen evolution reaction. Angew. Chem. 2016, 128, 5363– 5367,  DOI: 10.1002/ange.201600687
+Google Scholar
+43Li, W.; Lane, A. M. Resolving the HUPD and HOPD by DEMS to determine the ECSA of Pt electrodes in PEM fuel cells. Electrochem. Commun. 2011, 13, 913– 916,  DOI: 10.1016/j.elecom.2011.05.028
+Google Scholar
+Cited By
+This article has not yet been cited by other publications.
+Download PDF

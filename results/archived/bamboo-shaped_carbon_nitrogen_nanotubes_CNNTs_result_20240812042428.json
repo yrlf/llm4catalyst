@@ -1,0 +1,875 @@
+{
+    "materials": [
+        {
+            "material_name": "High-Quality Multi-Walled Carbon Nanotube Bundles",
+            "properties": [
+                {
+                    "type": "Diameter",
+                    "value": 0.0,
+                    "unit": "NA",
+                    "conditions": "varied by precursors and growth conditions",
+                    "reaction_type": "NA",
+                    "evidence": 0
+                },
+                {
+                    "type": "Temperature range for synthesis",
+                    "value": 750.0,
+                    "unit": "\u00b0C",
+                    "conditions": "in Ar/H2 atmosphere, using nitrogen containing hydrocarbons with ferrocene",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "Temperature range for synthesis",
+                    "value": 950.0,
+                    "unit": "\u00b0C",
+                    "conditions": "in Ar/H2 atmosphere, using nitrogen containing hydrocarbons with ferrocene",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "Diameter of quartz tube",
+                    "value": 5.0,
+                    "unit": "cm",
+                    "conditions": "used in synthesis",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "Length of quartz tube",
+                    "value": 1.0,
+                    "unit": "m",
+                    "conditions": "used in synthesis",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "Heating rate",
+                    "value": 40.0,
+                    "unit": "\u00b0C/min",
+                    "conditions": "from room temperature to desired temperature",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "Flow rate of precursors",
+                    "value": 12.0,
+                    "unit": "mL/h",
+                    "conditions": "in Ar/H2 atmosphere",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "Flow rate of Ar/H2",
+                    "value": 1000.0,
+                    "unit": "sccm",
+                    "conditions": "with argon to hydrogen ratio of 80:20",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "Heat treatment temperature",
+                    "value": 360.0,
+                    "unit": "\u00b0C",
+                    "conditions": "in air for 3 h",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "Diameter",
+                    "value": 20.0,
+                    "unit": "nm",
+                    "conditions": "with TEA precursor",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "Diameter",
+                    "value": 31.0,
+                    "unit": "nm",
+                    "conditions": "with HMTA precursor",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "Diameter",
+                    "value": 45.0,
+                    "unit": "nm",
+                    "conditions": "with DMF precursor",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "Diameter",
+                    "value": 66.0,
+                    "unit": "nm",
+                    "conditions": "with ACN precursor",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "Raman peak position",
+                    "value": 1355.0,
+                    "unit": "cm-1",
+                    "conditions": "D-band, defects in curved graphene sheets, tube ends, doping of heteroatoms",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                },
+                {
+                    "type": "Intensity ratio",
+                    "value": null,
+                    "unit": "Id/Ig",
+                    "conditions": "Intensity ratio of D to G modes, related to defect fraction from nitrogen incorporation",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                },
+                {
+                    "type": "Raman peak bandwidth",
+                    "value": null,
+                    "unit": "fwhmD/fwhmG",
+                    "conditions": "Sensitive to strain effects, varies with CNNTs diameter",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                },
+                {
+                    "type": "XPS peak position",
+                    "value": 284.5,
+                    "unit": "eV",
+                    "conditions": "C 1s peak",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                },
+                {
+                    "type": "XPS peak position",
+                    "value": 398.5,
+                    "unit": "eV",
+                    "conditions": "N 1s peak, pyridinic nitrogen",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                },
+                {
+                    "type": "XPS peak position",
+                    "value": 400.8,
+                    "unit": "eV",
+                    "conditions": "N 1s peak, pyrrolic nitrogen",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                },
+                {
+                    "type": "XPS peak position",
+                    "value": 401.5,
+                    "unit": "eV",
+                    "conditions": "N 1s peak, graphitic nitrogen",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                },
+                {
+                    "type": "Onset potential",
+                    "value": 0.93,
+                    "unit": "V vs RHE",
+                    "conditions": "ORR, in O2 saturated 0.1 M KOH solution, CNNT-ACN",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "Onset potential",
+                    "value": 0.89,
+                    "unit": "V vs RHE",
+                    "conditions": "ORR, in O2 saturated 0.1 M KOH solution, CNNT-DMF",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "Onset potential",
+                    "value": 0.83,
+                    "unit": "V vs RHE",
+                    "conditions": "ORR, in O2 saturated 0.1 M KOH solution, CNNT-TEA",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "Onset potential",
+                    "value": 0.78,
+                    "unit": "V vs RHE",
+                    "conditions": "ORR, in O2 saturated 0.1 M KOH solution, CNNT-HMTA",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "onset potential",
+                    "value": 0.93,
+                    "unit": "V vs RHE",
+                    "conditions": "in 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 4
+                },
+                {
+                    "type": "diffusion-limiting current density",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "in 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 4
+                },
+                {
+                    "type": "onset potential",
+                    "value": 0.93,
+                    "unit": "V",
+                    "conditions": "in O2 saturated 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 6
+                },
+                {
+                    "type": "diffusion-limiting current density",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "in O2 saturated 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 6
+                },
+                {
+                    "type": "onset potential",
+                    "value": 0.93,
+                    "unit": "V",
+                    "conditions": "in 0.1 M KOH, O2 saturated, RRDE polarization curves",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "half-wave potential",
+                    "value": 0.74,
+                    "unit": "V",
+                    "conditions": "in 0.1 M KOH, O2 saturated, RRDE polarization curves",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "onset potential",
+                    "value": 0.93,
+                    "unit": "V",
+                    "conditions": "in 0.1 M KOH, saturated with O2",
+                    "reaction_type": "ORR",
+                    "evidence": 8
+                },
+                {
+                    "type": "half-wave potential",
+                    "value": 0.74,
+                    "unit": "V",
+                    "conditions": "in 0.1 M KOH, saturated with O2",
+                    "reaction_type": "ORR",
+                    "evidence": 8
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 110.0,
+                    "unit": "mV/dec",
+                    "conditions": "low overpotential region, mass-transport correction",
+                    "reaction_type": "ORR",
+                    "evidence": 8
+                },
+                {
+                    "type": "potential at 10 mA cm\u20132",
+                    "value": 1.68,
+                    "unit": "V",
+                    "conditions": "in 0.1 M KOH",
+                    "reaction_type": "OER",
+                    "evidence": 8
+                },
+                {
+                    "type": "Potential window",
+                    "value": 0.6,
+                    "unit": "V",
+                    "conditions": "O2 atmosphere, 50 mV s\u20131, 5000 cycles",
+                    "reaction_type": "NA",
+                    "evidence": 9
+                },
+                {
+                    "type": "Potential window",
+                    "value": 1.0,
+                    "unit": "V",
+                    "conditions": "O2 atmosphere, 50 mV s\u20131, 5000 cycles",
+                    "reaction_type": "NA",
+                    "evidence": 9
+                },
+                {
+                    "type": "Overpotential",
+                    "value": 20.0,
+                    "unit": "mV",
+                    "conditions": "after accelerated potential cycling test",
+                    "reaction_type": "NA",
+                    "evidence": 9
+                },
+                {
+                    "type": "Potential at current density",
+                    "value": 1.68,
+                    "unit": "V",
+                    "conditions": "10 mA cm\u20132, OER, in 0.1 M KOH",
+                    "reaction_type": "OER",
+                    "evidence": 9
+                },
+                {
+                    "type": "Current density",
+                    "value": 10.0,
+                    "unit": "mA cm\u20132",
+                    "conditions": "at a potential of 1.68 V, OER",
+                    "reaction_type": "OER",
+                    "evidence": 9
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 330.0,
+                    "unit": "mV/dec",
+                    "conditions": "OER",
+                    "reaction_type": "OER",
+                    "evidence": 9
+                },
+                {
+                    "type": "Performance",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "for both ORR and OER",
+                    "reaction_type": "ORR/OER",
+                    "evidence": 10
+                },
+                {
+                    "type": "onset potential",
+                    "value": 0.69,
+                    "unit": "V",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 8
+                },
+                {
+                    "type": "onset potential",
+                    "value": 0.78,
+                    "unit": "V",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 8
+                },
+                {
+                    "type": "potential at 10 mA cm\u20132",
+                    "value": 1.7,
+                    "unit": "V",
+                    "conditions": "in 0.1 M KOH",
+                    "reaction_type": "OER",
+                    "evidence": 8
+                },
+                {
+                    "type": "Potential at current density",
+                    "value": 1.7,
+                    "unit": "V",
+                    "conditions": "10 mA cm\u20132, OER, in 0.1 M KOH",
+                    "reaction_type": "OER",
+                    "evidence": 9
+                },
+                {
+                    "type": "potential at 10 mA cm\u20132",
+                    "value": 1.8,
+                    "unit": "V",
+                    "conditions": "in 0.1 M KOH",
+                    "reaction_type": "OER",
+                    "evidence": 8
+                },
+                {
+                    "type": "Potential at current density",
+                    "value": 1.8,
+                    "unit": "V",
+                    "conditions": "10 mA cm\u20132, OER, in 0.1 M KOH",
+                    "reaction_type": "OER",
+                    "evidence": 9
+                },
+                {
+                    "type": "potential at 10 mA cm\u20132",
+                    "value": 1.89,
+                    "unit": "V",
+                    "conditions": "in 0.1 M KOH",
+                    "reaction_type": "OER",
+                    "evidence": 8
+                },
+                {
+                    "type": "Potential at current density",
+                    "value": 1.89,
+                    "unit": "V",
+                    "conditions": "10 mA cm\u20132, OER, in 0.1 M KOH",
+                    "reaction_type": "OER",
+                    "evidence": 9
+                },
+                {
+                    "type": "Electrocatalytic Activity",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "with Graphene Structure for Oxygen Reduction",
+                    "reaction_type": "ORR",
+                    "evidence": 11
+                },
+                {
+                    "type": "Electrocatalytic Activity",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "for Superior Oxygen Reduction and Evolution Reactivity",
+                    "reaction_type": "OER/ORR",
+                    "evidence": 11
+                },
+                {
+                    "type": "Electrocatalytic Activity",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "for Water Oxidation",
+                    "reaction_type": "OER",
+                    "evidence": 11
+                },
+                {
+                    "type": "Growth Temperature",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "Synthesized Using Ferrocene Acetonitrile Precursor",
+                    "reaction_type": "NA",
+                    "evidence": 11
+                },
+                {
+                    "type": "Electrocatalytic Activity",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "in the Oxygen Reduction Reaction",
+                    "reaction_type": "ORR",
+                    "evidence": 11
+                },
+                {
+                    "type": "Electrocatalytic Activity",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "for the Oxygen Reduction Reaction",
+                    "reaction_type": "ORR",
+                    "evidence": 11
+                },
+                {
+                    "type": "Electrocatalytic Activity",
+                    "value": 338.0,
+                    "unit": "mA/cm\u00b2",
+                    "conditions": "in Alkaline Medium",
+                    "reaction_type": "ORR",
+                    "evidence": 12
+                },
+                {
+                    "type": "Oxygen Reduction Reaction activity",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "in Alkaline Medium",
+                    "reaction_type": "ORR",
+                    "evidence": 14
+                },
+                {
+                    "type": "Ferrocene Concentration",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "Effect on the Synthesis",
+                    "reaction_type": "NA",
+                    "evidence": 11
+                },
+                {
+                    "type": "Mass Production",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "on a Ni/Mo/Mgo Catalyst",
+                    "reaction_type": "NA",
+                    "evidence": 11
+                },
+                {
+                    "type": "Reduction",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "of Solubilized",
+                    "reaction_type": "NA",
+                    "evidence": 11
+                },
+                {
+                    "type": "Raman Spectroscopy",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "Perspectives on",
+                    "reaction_type": "NA",
+                    "evidence": 11
+                },
+                {
+                    "type": "Raman",
+                    "values": [
+                        1584.0,
+                        1355.0
+                    ],
+                    "units": [
+                        "cm-1"
+                    ],
+                    "conditions": [
+                        "D-band",
+                        "G-band"
+                    ],
+                    "evidence": 2.0
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Pt/C",
+            "properties": [
+                {
+                    "type": "Pt loading",
+                    "value": 36.0,
+                    "unit": "\u03bcg/cm\u00b2",
+                    "conditions": "on glassy carbon electrode",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 79.0,
+                    "unit": "mV/dec",
+                    "conditions": "low overpotential region, mass-transport correction",
+                    "reaction_type": "ORR",
+                    "evidence": 8
+                },
+                {
+                    "type": "potential at 10 mA cm\u20132",
+                    "value": 1.78,
+                    "unit": "V",
+                    "conditions": "in 0.1 M KOH",
+                    "reaction_type": "OER",
+                    "evidence": 8
+                },
+                {
+                    "type": "Overpotential",
+                    "value": 20.0,
+                    "unit": "mV",
+                    "conditions": "after accelerated potential cycling test",
+                    "reaction_type": "NA",
+                    "evidence": 9
+                },
+                {
+                    "type": "Potential at current density",
+                    "value": 1.78,
+                    "unit": "V",
+                    "conditions": "10 mA cm\u20132, OER, in 0.1 M KOH",
+                    "reaction_type": "OER",
+                    "evidence": 9
+                },
+                {
+                    "type": "Electrocatalytic activity",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "electrochemical tests",
+                    "reaction_type": "NA",
+                    "evidence": 10
+                }
+            ],
+            "benchmark": true
+        },
+        {
+            "material_name": "Nitrogen-Doped Graphene/Carbon Nanotube Hybrids",
+            "properties": [
+                {
+                    "type": "Electrocatalytic Activity",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "for Oxygen Evolution/Reduction Reaction",
+                    "reaction_type": "OER/ORR",
+                    "evidence": 11
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "NiCo2O4 Spinel Nanowire Arrays",
+            "properties": [
+                {
+                    "type": "Electrocatalytic Activity",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "as a Bifunctional Catalyst for the Oxygen Reduction and Evolution Reaction",
+                    "reaction_type": "OER/ORR",
+                    "evidence": 11
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Metal\u2013Organic Framework Derived Hybrid Co3O4\u2013Carbon Porous Nanowire Arrays",
+            "properties": [
+                {
+                    "type": "Electrocatalytic Activity",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "as Reversible Oxygen Evolution Electrodes",
+                    "reaction_type": "OER",
+                    "evidence": 11
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Nitrogen-Doped Graphene",
+            "properties": [
+                {
+                    "type": "Electrocatalytic Activity",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "towards Oxygen Reduction Reaction",
+                    "reaction_type": "ORR",
+                    "evidence": 11
+                },
+                {
+                    "type": "Oxygen Reduction Activity",
+                    "value": 760.0,
+                    "unit": "mV",
+                    "conditions": "in alkaline medium",
+                    "reaction_type": "ORR",
+                    "evidence": 15
+                },
+                {
+                    "type": "Electrocatalytic Activity",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "for High Performance Oxygen Reduction Reaction",
+                    "reaction_type": "ORR",
+                    "evidence": 11
+                },
+                {
+                    "type": "Electrocatalytic Activity",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "for Oxygen Reduction Reactions",
+                    "reaction_type": "ORR",
+                    "evidence": 11
+                },
+                {
+                    "type": "XPS",
+                    "values": [
+                        26.0
+                    ],
+                    "units": [
+                        "\u00b0"
+                    ],
+                    "conditions": [
+                        "characteristic of C-graphene"
+                    ],
+                    "evidence": 24.0
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Phosphorus-Doped Ordered Mesoporous Carbons",
+            "properties": [
+                {
+                    "type": "Electrocatalytic Activity",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "for Oxygen Reduction Reaction in Alkaline Media",
+                    "reaction_type": "ORR",
+                    "evidence": 11
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Sulfur and Nitrogen Doped Carbon Aerogels",
+            "properties": [
+                {
+                    "type": "Electrocatalytic Activity",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "in the Oxygen Reduction Reaction",
+                    "reaction_type": "ORR",
+                    "evidence": 11
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Nitrogen-Doped Few-Layer Graphene/Carbon Nanotube Composite",
+            "properties": [
+                {
+                    "type": "Electrocatalytic Activity",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "for Oxygen Reduction Reaction in Alkaline Media",
+                    "reaction_type": "ORR",
+                    "evidence": 11
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Graphite",
+            "properties": [
+                {
+                    "type": "Phonon Dispersion Relations",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "from the Double-Resonance Process of Stokes and Anti-Stokes Raman Scatterings in Multiwalled Carbon Nanotubes",
+                    "reaction_type": "NA",
+                    "evidence": 11
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Carbon-Nanotube-Based Composites",
+            "properties": [
+                {
+                    "type": "Raman Spectroscopy",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "Raman Spectroscopy of",
+                    "reaction_type": "NA",
+                    "evidence": 11
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Co3O4 nanocrystals on graphene",
+            "properties": [
+                {
+                    "type": "Oxygen Reduction Reaction",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "as a synergistic catalyst",
+                    "reaction_type": "ORR",
+                    "evidence": 13
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Pt/IrO2",
+            "properties": [
+                {
+                    "type": "Oxygen Evolution/Reduction Reactions",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "NA",
+                    "reaction_type": "OER/ ORR",
+                    "evidence": 16
+                }
+            ],
+            "benchmark": true
+        },
+        {
+            "material_name": "Ternary (N, B, F)-Doped Biocarbon",
+            "properties": [
+                {
+                    "type": "Note",
+                    "value": 17.0,
+                    "unit": "index",
+                    "conditions": "Text index for tracing original sentence",
+                    "reaction_type": "NA",
+                    "evidence": 17
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "graphitic carbon-nitride doped with black-red phosphorus",
+            "properties": [
+                {
+                    "type": "bifunctional catalyst",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "electrochemical",
+                    "reaction_type": "NA",
+                    "evidence": 18
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Bamboo derived N-doped carbon",
+            "properties": [
+                {
+                    "type": "Electrode potential",
+                    "value": 19.0,
+                    "unit": "index",
+                    "conditions": "as a bifunctional electrode for high-performance zinc\u2013air batteries",
+                    "reaction_type": "NA",
+                    "evidence": 19
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Co\u2013Co3O4 hybrid nanoparticles on N-doped carbon nanosheets",
+            "properties": [
+                {
+                    "type": "Electrocatalyst",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "for oxygen evolution and reduction reactions",
+                    "reaction_type": "OER",
+                    "evidence": 20
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "MOF-derived Co nanoparticles",
+            "properties": [
+                {
+                    "type": "XPS",
+                    "values": [
+                        0.0
+                    ],
+                    "units": [
+                        "NA"
+                    ],
+                    "conditions": [
+                        "NA"
+                    ],
+                    "evidence": 21.0
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "N-doped graphene supported W C composite",
+            "properties": [
+                {
+                    "type": "Electrocatalyst activity",
+                    "value": 660.0,
+                    "unit": "mA/cm\u00b2",
+                    "conditions": "for hydrogen evolution reaction",
+                    "reaction_type": "HER",
+                    "evidence": 23
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Nitrogen-doped mesoporous network-like carbon",
+            "properties": [
+                {
+                    "type": "Current density",
+                    "value": 5.1,
+                    "unit": "mA/cm\u00b2",
+                    "conditions": "at 0.8 V vs. RHE",
+                    "reaction_type": "ORR",
+                    "evidence": 25
+                }
+            ],
+            "benchmark": false
+        }
+    ],
+    "doi": "example_doi",
+    "factor": "Hydrogen coverage,Energy barrier,Conductivity,Surface area,Size,Defect,Dopant,Active sites,Stability,Electrode potential,Overpotential,Tafel slope,onsite potential,Current density,Mass loading,XPS,FTIR,Raman,XRD",
+    "meta": {
+        "maintext": "/Users/yangz/Documents/projects/llm4catalyst/documents/maintext/Carbon_Nitrogen_Nanotubes_as_Efficient_Bifunctiona_maintext.txt",
+        "abstract": "/Users/yangz/Documents/projects/llm4catalyst/documents/abstract/Carbon_Nitrogen_Nanotubes_as_Efficient_Bifunctiona_abs.txt",
+        "intro": "documents/intro/c60_intro.txt",
+        "window_size": 2,
+        "chunk_size": 1000,
+        "chunk_overlap": 100,
+        "output": "results",
+        "property": "/Users/yangz/Documents/projects/llm4catalyst/prompts/properties.txt",
+        "self_defined": true,
+        "title": "Carbon_Nitrogen_Nanotubes_as_Efficient_Bifunctiona"
+    }
+}

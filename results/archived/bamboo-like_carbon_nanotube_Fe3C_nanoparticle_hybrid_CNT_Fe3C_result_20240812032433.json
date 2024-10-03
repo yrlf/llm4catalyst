@@ -1,0 +1,409 @@
+{
+    "materials": [
+        {
+            "material_name": "BCNFNHs",
+            "properties": [
+                {
+                    "type": "Half-wave potential",
+                    "value": 0.861,
+                    "unit": "V",
+                    "conditions": "in 0.10 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 0
+                },
+                {
+                    "type": "Half-wave potential",
+                    "value": 0.812,
+                    "unit": "V",
+                    "conditions": "on 20 wt% Pt/C",
+                    "reaction_type": "ORR",
+                    "evidence": 0
+                },
+                {
+                    "type": "Onset potential",
+                    "value": 0.812,
+                    "unit": "V",
+                    "conditions": "in 0.50 M H2SO4, after 3000 cycles",
+                    "reaction_type": "ORR",
+                    "evidence": 0
+                },
+                {
+                    "type": "Half-wave potential",
+                    "value": 0.812,
+                    "unit": "V",
+                    "conditions": "20 wt% Pt/C",
+                    "reaction_type": "ORR",
+                    "evidence": 1
+                },
+                {
+                    "type": "Onset potential",
+                    "value": 0.812,
+                    "unit": "V",
+                    "conditions": "in 0.50 M H2SO4, 3000 cycles",
+                    "reaction_type": "ORR",
+                    "evidence": 1
+                },
+                {
+                    "type": "Onset potential",
+                    "value": 0.212,
+                    "unit": "V",
+                    "conditions": "in 0.50 M H2SO4, 3000 cycles",
+                    "reaction_type": "ORR",
+                    "evidence": 1
+                },
+                {
+                    "type": "Overpotential",
+                    "value": 0.812,
+                    "unit": "V",
+                    "conditions": "in 0.50 M H2SO4, 3000 cycles",
+                    "reaction_type": "ORR",
+                    "evidence": 2
+                },
+                {
+                    "type": "Overpotential",
+                    "value": 0.212,
+                    "unit": "V",
+                    "conditions": "in 0.50 M H2SO4, 3000 cycles",
+                    "reaction_type": "ORR",
+                    "evidence": 2
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Pt/C",
+            "properties": [
+                {
+                    "type": "Half-wave potential",
+                    "value": 0.812,
+                    "unit": "V",
+                    "conditions": "benchmark material",
+                    "reaction_type": "ORR",
+                    "evidence": 1
+                },
+                {
+                    "type": "Half-wave potential",
+                    "value": 0.812,
+                    "unit": "V",
+                    "conditions": "benchmark comparison",
+                    "reaction_type": "ORR",
+                    "evidence": 2
+                },
+                {
+                    "type": "half-wave potential",
+                    "value": 23.0,
+                    "unit": "mV",
+                    "conditions": "in 0.10 M KOH, RRDE",
+                    "reaction_type": "ORR",
+                    "evidence": 4
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 84.8,
+                    "unit": "mV/decade",
+                    "conditions": "in 0.10 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 4
+                },
+                {
+                    "type": "stability",
+                    "value": 3000.0,
+                    "unit": "cycles",
+                    "conditions": "in 0.10 M KOH, ORR polarization curve shift from 0.364 to 0.964 V",
+                    "reaction_type": "ORR",
+                    "evidence": 4
+                },
+                {
+                    "type": "half-wave potential",
+                    "value": 23.0,
+                    "unit": "mV",
+                    "conditions": "in 0.10 M KOH, after 3000 cycles",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 108.5,
+                    "unit": "mV/decade",
+                    "conditions": "in acidic solution",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                }
+            ],
+            "benchmark": true
+        },
+        {
+            "material_name": "PMF-800",
+            "properties": [
+                {
+                    "type": "Diameter",
+                    "value": 50.0,
+                    "unit": "nm",
+                    "conditions": "b-CNTs",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "Diameter",
+                    "value": 110.0,
+                    "unit": "nm",
+                    "conditions": "b-CNTs",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "Lattice distance",
+                    "value": 0.21,
+                    "unit": "nm",
+                    "conditions": "(211) crystal planes of the Fe3C phase",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "Crystal plane angle",
+                    "value": 68.4,
+                    "unit": "\u00b0",
+                    "conditions": "(\u2212211) and (211) planes of the Fe3C phase",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "Fe content",
+                    "value": 38.1,
+                    "unit": "wt%",
+                    "conditions": "TGA result",
+                    "reaction_type": null,
+                    "evidence": 3
+                },
+                {
+                    "type": "BET surface area",
+                    "value": 151.2,
+                    "unit": "m2/g",
+                    "conditions": "N2 adsorption/desorption isotherm",
+                    "reaction_type": null,
+                    "evidence": 3
+                },
+                {
+                    "type": "half-wave potential",
+                    "value": 49.0,
+                    "unit": "mV",
+                    "conditions": "in 0.10 M KOH, RRDE",
+                    "reaction_type": "ORR",
+                    "evidence": 4
+                },
+                {
+                    "type": "H2O2 yield",
+                    "value": 7.7,
+                    "unit": "%",
+                    "conditions": "in 0.10 M KOH, RRDE",
+                    "reaction_type": "ORR",
+                    "evidence": 4
+                },
+                {
+                    "type": "electron-transfer number",
+                    "value": 3.99,
+                    "unit": "n/a",
+                    "conditions": "in 0.10 M KOH, RRDE",
+                    "reaction_type": "ORR",
+                    "evidence": 4
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 91.2,
+                    "unit": "mV/decade",
+                    "conditions": "in 0.10 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 4
+                },
+                {
+                    "type": "stability",
+                    "value": 3000.0,
+                    "unit": "cycles",
+                    "conditions": "in 0.10 M KOH, ORR polarization curve shift from 0.364 to 0.964 V",
+                    "reaction_type": "ORR",
+                    "evidence": 4
+                },
+                {
+                    "type": "half-wave potential",
+                    "value": 49.0,
+                    "unit": "mV",
+                    "conditions": "in 0.10 M KOH, RRDE, room temperature",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "stability",
+                    "value": 3000.0,
+                    "unit": "cycles",
+                    "conditions": "between 0.364 to 0.964 V in 0.10 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "XPS",
+                    "values": [
+                        89.6,
+                        3.74,
+                        6.22,
+                        0.46,
+                        33.3
+                    ],
+                    "units": [
+                        "%",
+                        "at.%"
+                    ],
+                    "conditions": [
+                        "pyridinic N content",
+                        "N content",
+                        "Fe content",
+                        "O content",
+                        "C content"
+                    ],
+                    "evidence": 3.0
+                },
+                {
+                    "type": "XRD",
+                    "values": [
+                        26.0,
+                        37.8,
+                        43.9,
+                        45.0,
+                        46.0,
+                        49.2,
+                        54.5,
+                        37.8,
+                        43.9,
+                        45.0,
+                        46.0,
+                        49.2,
+                        54.5
+                    ],
+                    "units": [
+                        "\u00b0"
+                    ],
+                    "conditions": [
+                        "Fe3C phase",
+                        "(002) facets of graphite carbon",
+                        "Fe3C (JCPDS file no. 892867)"
+                    ],
+                    "evidence": 1.9230769230769231
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Nitrogen-Doped Carbon Nanotube Array",
+            "properties": [
+                {
+                    "type": "Electrocatalytically Active Components",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "Well-Aligned",
+                    "reaction_type": "NA",
+                    "evidence": 8
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Fe/Fe3C-Decorated Metal\u2013Nitrogen\u2013Carbon",
+            "properties": [
+                {
+                    "type": "Microstructure Engineering",
+                    "value": 9.0,
+                    "unit": "index",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 9
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Bamboo-like Carbon Nanotubes/Co Nanoparticles",
+            "properties": [
+                {
+                    "type": "Electrocatalytic activity",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "for Oxygen Reduction",
+                    "reaction_type": "ORR",
+                    "evidence": 10
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Bamboo-like Carbon Nanotube/Fe3C Nanoparticle Hybrid CNT/Fe3C",
+            "properties": [
+                {
+                    "type": "Oxygen Reduction Reaction",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "Electrocatalysis",
+                    "reaction_type": "ORR",
+                    "evidence": 11
+                },
+                {
+                    "type": "Oxygen Reduction Activity",
+                    "value": 0.0,
+                    "unit": "NA",
+                    "conditions": "NA",
+                    "reaction_type": "ORR",
+                    "evidence": 13
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Fe3C-Encapsulated and N-Doped Carbon Nanotube Hybrids",
+            "properties": [
+                {
+                    "type": "Triiodide reduction efficiency",
+                    "value": 31208.0,
+                    "unit": "-",
+                    "conditions": "in dye-sensitized solar cells",
+                    "reaction_type": "NA",
+                    "evidence": 14
+                },
+                {
+                    "type": "Surface area",
+                    "value": 31208.0,
+                    "unit": "m\u00b2/g",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 15
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Fe\u2013N-Doped Mesoporous Carbon",
+            "properties": [
+                {
+                    "type": "Surface area",
+                    "value": 1620.0,
+                    "unit": "m\u00b2/g",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 17
+                }
+            ],
+            "benchmark": false
+        }
+    ],
+    "doi": "example_doi",
+    "factor": "Hydrogen coverage,Energy barrier,Conductivity,Surface area,Size,Defect,Dopant,Active sites,Stability,Electrode potential,Overpotential,Tafel slope,onsite potential,Current density,Mass loading,XPS,FTIR,Raman,XRD",
+    "meta": {
+        "maintext": "/Users/yangz/Documents/projects/llm4catalyst/documents/maintext/Bamboolike_Carbon_NanotubeFe3C_Nanoparticle_Hybrid_maintext.txt",
+        "abstract": "/Users/yangz/Documents/projects/llm4catalyst/documents/abstract/Bamboolike_Carbon_NanotubeFe3C_Nanoparticle_Hybrid_abs.txt",
+        "intro": "documents/intro/c60_intro.txt",
+        "window_size": 2,
+        "chunk_size": 1000,
+        "chunk_overlap": 100,
+        "output": "results",
+        "property": "/Users/yangz/Documents/projects/llm4catalyst/prompts/properties.txt",
+        "self_defined": true,
+        "title": "Bamboolike_Carbon_NanotubeFe3C_Nanoparticle_Hybrid"
+    }
+}

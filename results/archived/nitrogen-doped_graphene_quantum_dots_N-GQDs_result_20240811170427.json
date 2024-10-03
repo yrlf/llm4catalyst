@@ -1,0 +1,191 @@
+{
+    "materials": [
+        {
+            "material_name": "N-GQDs",
+            "properties": [
+                {
+                    "type": "Size",
+                    "value": 2.0,
+                    "unit": "nm",
+                    "conditions": "observed by TEM",
+                    "reaction_type": "NA",
+                    "evidence": 0
+                },
+                {
+                    "type": "Size",
+                    "value": 5.0,
+                    "unit": "nm",
+                    "conditions": "observed by TEM",
+                    "reaction_type": "NA",
+                    "evidence": 0
+                },
+                {
+                    "type": "Size",
+                    "value": 2.0,
+                    "unit": "nm",
+                    "conditions": "TEM imaging",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "Size",
+                    "value": 5.0,
+                    "unit": "nm",
+                    "conditions": "TEM imaging",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "Topographic height",
+                    "value": 1.0,
+                    "unit": "nm",
+                    "conditions": "AFM imaging",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "Topographic height",
+                    "value": 2.5,
+                    "unit": "nm",
+                    "conditions": "AFM imaging",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "Interlayer spacing",
+                    "value": 0.34,
+                    "unit": "nm",
+                    "conditions": "High-resolution TEM",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "Size",
+                    "value": 2.0,
+                    "unit": "nm",
+                    "conditions": "Transmission electron microscopy (TEM)",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "Size",
+                    "value": 5.0,
+                    "unit": "nm",
+                    "conditions": "Transmission electron microscopy (TEM)",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "Topographic height",
+                    "value": 1.0,
+                    "unit": "nm",
+                    "conditions": "Atomic force microscopy (AFM)",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "Topographic height",
+                    "value": 2.5,
+                    "unit": "nm",
+                    "conditions": "Atomic force microscopy (AFM)",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "O/C atomic ratio",
+                    "value": 27.0,
+                    "unit": "%",
+                    "conditions": "X-ray photoelectron spectroscopy (XPS)",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "N/C atomic ratio",
+                    "value": 4.28,
+                    "unit": "%",
+                    "conditions": "X-ray photoelectron spectroscopy (XPS)",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "Diameter",
+                    "value": 2.0,
+                    "unit": "nm",
+                    "conditions": "TEM images",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "Diameter",
+                    "value": 5.0,
+                    "unit": "nm",
+                    "conditions": "TEM images",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "Topographic height",
+                    "value": 1.0,
+                    "unit": "nm",
+                    "conditions": "AFM image",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "Topographic height",
+                    "value": 2.5,
+                    "unit": "nm",
+                    "conditions": "AFM image",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "XPS",
+                    "values": [
+                        284.0,
+                        532.0,
+                        398.5,
+                        401.0,
+                        285.2,
+                        286.6,
+                        288.3,
+                        289.0,
+                        398.5,
+                        401.0
+                    ],
+                    "units": [
+                        "eV"
+                    ],
+                    "conditions": [
+                        "N 1s peak, pyrrolic N",
+                        "O\u2013C\u2550O groups",
+                        "C\u2013O groups",
+                        "N 1s peak, pyrrolic N atoms",
+                        "C\u2013N bond",
+                        "C\u2550O groups",
+                        "O 1s peak",
+                        "N 1s peak, pyridine-like N atoms",
+                        "C 1s peak",
+                        "N 1s peak, pyridine-like N"
+                    ],
+                    "evidence": 1.2
+                }
+            ],
+            "benchmark": false
+        }
+    ],
+    "doi": "example_doi",
+    "factor": "Hydrogen coverage,Energy barrier,Conductivity,Surface area,Size,Defect,Dopant,Active sites,Stability,Electrode potential,Overpotential,Tafel slope,onsite potential,Current density,Mass loading,XPS,FTIR,Raman,XRD",
+    "meta": {
+        "maintext": "/Users/yangz/Documents/projects/llm4catalyst/documents/maintext/gqd_maintext.txt",
+        "abstract": "/Users/yangz/Documents/projects/llm4catalyst/documents/abstract/gqd_abs.txt",
+        "intro": "/Users/yangz/Documents/projects/llm4catalyst/documents/intro/gqd_intro.txt",
+        "window_size": 2,
+        "chunk_size": 1000,
+        "chunk_overlap": 100,
+        "output": "results",
+        "property": "/Users/yangz/Documents/projects/llm4catalyst/prompts/properties.txt",
+        "self_defined": true,
+        "title": "gqd"
+    }
+}

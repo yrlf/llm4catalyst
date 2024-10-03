@@ -1,0 +1,338 @@
+{
+    "materials": [
+        {
+            "material_name": "NCNHP-1-500",
+            "properties": [
+                {
+                    "type": "Overpotential",
+                    "value": 310.0,
+                    "unit": "mV",
+                    "conditions": "to reach the current density of 10 mA cm\u22122",
+                    "reaction_type": "OER",
+                    "evidence": 0
+                },
+                {
+                    "type": "Current density",
+                    "value": 10.0,
+                    "unit": "mA cm\u22122",
+                    "conditions": "at an overpotential of 310 mV",
+                    "reaction_type": "OER",
+                    "evidence": 0
+                },
+                {
+                    "type": "Half-wave potential",
+                    "value": 0.828,
+                    "unit": "V vs. RHE",
+                    "conditions": "ORR activity",
+                    "reaction_type": "ORR",
+                    "evidence": 0
+                },
+                {
+                    "type": "Outer diameter",
+                    "value": 20.0,
+                    "unit": "nm",
+                    "conditions": "TEM imaging",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "Inner diameter",
+                    "value": 5.0,
+                    "unit": "nm",
+                    "conditions": "TEM imaging",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "Interplanar spacing",
+                    "value": 0.34,
+                    "unit": "nm",
+                    "conditions": "HR-TEM imaging, assigned to C (002) plane",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "Interplanar spacing",
+                    "value": 0.2,
+                    "unit": "nm",
+                    "conditions": "HR-TEM imaging, assigned to (111) plane of fcc metallic Co",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "Surface area",
+                    "value": 152.0,
+                    "unit": "m2 g\u22121",
+                    "conditions": "BET",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "BET surface area",
+                    "value": 152.0,
+                    "unit": "m2/g",
+                    "conditions": "Brunauer\u2013Emmett\u2013Teller method",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 70.0,
+                    "unit": "mV dec-1",
+                    "conditions": "OER kinetics",
+                    "reaction_type": "OER",
+                    "evidence": 3
+                },
+                {
+                    "type": "BET surface area",
+                    "value": 152.0,
+                    "unit": "m2 g\u22121",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "nitrogen content",
+                    "value": 3.27,
+                    "unit": "wt%",
+                    "conditions": "elemental analysis",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 70.1,
+                    "unit": "mV dec\u22121",
+                    "conditions": "OER",
+                    "reaction_type": "OER",
+                    "evidence": 5
+                },
+                {
+                    "type": "Overpotential",
+                    "value": 340.0,
+                    "unit": "mV",
+                    "conditions": "OER",
+                    "reaction_type": "OER",
+                    "evidence": 5
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 118.8,
+                    "unit": "mV dec\u22121",
+                    "conditions": "OER",
+                    "reaction_type": "OER",
+                    "evidence": 5
+                },
+                {
+                    "type": "Electrochemical double-layer capacitances (Cdl)",
+                    "value": 30.73,
+                    "unit": "mF cm\u22122",
+                    "conditions": "CV measurements in non-faradaic region from 1.03 V to 1.14 V",
+                    "reaction_type": "OER",
+                    "evidence": 5
+                },
+                {
+                    "type": "Current retention",
+                    "value": 91.0,
+                    "unit": "%",
+                    "conditions": "after 10000 s of operation",
+                    "reaction_type": "OER",
+                    "evidence": 5
+                },
+                {
+                    "type": "Onset potential",
+                    "value": 0.91,
+                    "unit": "V",
+                    "conditions": "ORR",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "Half-wave potential",
+                    "value": 0.828,
+                    "unit": "V",
+                    "conditions": "ORR",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "Diffusion-limited current density",
+                    "value": 5.44,
+                    "unit": "mA cm\u22122",
+                    "conditions": "ORR",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "Current retention",
+                    "value": 90.0,
+                    "unit": "%",
+                    "conditions": "after 20000 s of operation",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "Peroxide yield",
+                    "value": 8.0,
+                    "unit": "%",
+                    "conditions": "potential range from 0.2 to 0.8 V",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "Electron-transfer number",
+                    "value": 3.85,
+                    "unit": "",
+                    "conditions": "RRDE measurements",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "Bifunctional performance parameter (\u0394E)",
+                    "value": 0.712,
+                    "unit": "V",
+                    "conditions": "difference between OER potentials at 10 mA cm\u22122 and ORR half-wave potential",
+                    "reaction_type": "OER/ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "XRD",
+                    "values": [
+                        44.0,
+                        51.0,
+                        75.0,
+                        44.0,
+                        51.0,
+                        75.0
+                    ],
+                    "units": [
+                        "\u00b0"
+                    ],
+                    "conditions": [
+                        "(111) plane",
+                        "corresponding to the (220) plane of fcc metallic Co",
+                        "corresponding to the (111) plane of fcc metallic Co",
+                        "corresponding to the (200) plane of fcc metallic Co",
+                        "(200) plane",
+                        "(220) plane"
+                    ],
+                    "evidence": 3.5
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "IrO2",
+            "properties": [
+                {
+                    "type": "Overpotential",
+                    "value": 310.0,
+                    "unit": "mV",
+                    "conditions": "to reach the current density of 10 mA cm\u22122",
+                    "reaction_type": "OER",
+                    "evidence": 0
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 118.2,
+                    "unit": "mV dec\u22121",
+                    "conditions": "OER",
+                    "reaction_type": "OER",
+                    "evidence": 5
+                },
+                {
+                    "type": "Half-wave potential",
+                    "value": 0.707,
+                    "unit": "V",
+                    "conditions": "ORR",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                }
+            ],
+            "benchmark": true
+        },
+        {
+            "material_name": "Pt/C",
+            "properties": [
+                {
+                    "type": "Half-wave potential",
+                    "value": 0.828,
+                    "unit": "V vs. RHE",
+                    "conditions": "ORR activity",
+                    "reaction_type": "ORR",
+                    "evidence": 0
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 147.4,
+                    "unit": "mV dec\u22121",
+                    "conditions": "OER",
+                    "reaction_type": "OER",
+                    "evidence": 5
+                },
+                {
+                    "type": "Half-wave potential",
+                    "value": 0.834,
+                    "unit": "V",
+                    "conditions": "ORR",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "Diffusion-limited current density",
+                    "value": 5.2,
+                    "unit": "mA cm\u22122",
+                    "conditions": "ORR",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "Current retention",
+                    "value": 77.0,
+                    "unit": "%",
+                    "conditions": "after 10000 s of operation",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                }
+            ],
+            "benchmark": true
+        },
+        {
+            "material_name": "Metallic Co",
+            "properties": [
+                {
+                    "type": "XRD",
+                    "values": [
+                        44.0,
+                        51.0,
+                        75.0
+                    ],
+                    "units": [
+                        "\u00b0"
+                    ],
+                    "conditions": [
+                        "XRD pattern, corresponds to (200) plane",
+                        "XRD pattern, corresponds to (111) plane",
+                        "XRD pattern, corresponds to (220) plane"
+                    ],
+                    "evidence": 1.0
+                }
+            ],
+            "benchmark": false
+        }
+    ],
+    "doi": "example_doi",
+    "factor": "Hydrogen coverage,Energy barrier,Conductivity,Surface area,Size,Defect,Dopant,Active sites,Stability,Electrode potential,Overpotential,Tafel slope,onsite potential,Current density,Mass loading,XPS,FTIR,Raman,XRD",
+    "meta": {
+        "maintext": "/Users/yangz/Documents/projects/llm4catalyst/documents/maintext/A_KClassisted_pyrolysis_strategy_to_fabricate_nitr_maintext.txt",
+        "abstract": "/Users/yangz/Documents/projects/llm4catalyst/documents/abstract/A_KClassisted_pyrolysis_strategy_to_fabricate_nitr_abs.txt",
+        "intro": "documents/intro/c60_intro.txt",
+        "window_size": 2,
+        "chunk_size": 1000,
+        "chunk_overlap": 100,
+        "output": "results",
+        "property": "/Users/yangz/Documents/projects/llm4catalyst/prompts/properties.txt",
+        "self_defined": true,
+        "title": "A_KClassisted_pyrolysis_strategy_to_fabricate_nitr"
+    }
+}

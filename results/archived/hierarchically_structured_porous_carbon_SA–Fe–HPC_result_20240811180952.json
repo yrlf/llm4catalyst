@@ -1,0 +1,440 @@
+{
+    "materials": [
+        {
+            "material_name": "Fe-SA/PC",
+            "properties": [
+                {
+                    "type": "Half-wave potential",
+                    "value": 0.89,
+                    "unit": "V",
+                    "conditions": "in alkaline solution",
+                    "reaction_type": "ORR",
+                    "evidence": 0
+                },
+                {
+                    "type": "Specific surface area",
+                    "value": 606.9,
+                    "unit": "m2 g\u22121",
+                    "conditions": "after calcination",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "Pore volume",
+                    "value": 0.544,
+                    "unit": "cm3 g\u22121",
+                    "conditions": "after calcination",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "Specific surface area",
+                    "value": 606.9,
+                    "unit": "m2 g\u22121",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "Pore volume",
+                    "value": 0.544,
+                    "unit": "cm3 g\u22121",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "specific surface area",
+                    "value": 606.9,
+                    "unit": "m2 g\u22121",
+                    "conditions": "BET measurements",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "pore volume",
+                    "value": 0.544,
+                    "unit": "cm3 g\u22121",
+                    "conditions": "BET measurements",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "half-wave potential",
+                    "value": 0.91,
+                    "unit": "V",
+                    "conditions": "in O2-saturated 0.1 M KOH electrolyte",
+                    "reaction_type": "ORR",
+                    "evidence": 4
+                },
+                {
+                    "type": "diffusion-limited current density",
+                    "value": 5.4,
+                    "unit": "mA cm\u22122",
+                    "conditions": "at -0.4 V vs. RHE",
+                    "reaction_type": "ORR",
+                    "evidence": 4
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 66.0,
+                    "unit": "mV dec\u22121",
+                    "conditions": "ORR performance",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "diffusion-limited current density",
+                    "value": 5.4,
+                    "unit": "mA cm\u22122",
+                    "conditions": "at -0.4 V (vs. RHE)",
+                    "reaction_type": "ORR",
+                    "evidence": 6
+                },
+                {
+                    "type": "half-wave potential",
+                    "value": 0.72,
+                    "unit": "V",
+                    "conditions": "in O2-saturated 0.1 M H2SO4 solution",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "current density",
+                    "value": 5.0,
+                    "unit": "mA cm\u22122",
+                    "conditions": "diffusion-limited",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 66.0,
+                    "unit": "mV dec\u22121",
+                    "conditions": "Tafel plots",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "half-wave potential",
+                    "value": 0.88,
+                    "unit": "V",
+                    "conditions": "in O2-saturated 0.1 M KOH electrolyte",
+                    "reaction_type": "ORR",
+                    "evidence": 4
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 68.0,
+                    "unit": "mV dec\u22121",
+                    "conditions": "Tafel plots",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "half-wave potential",
+                    "value": 0.8,
+                    "unit": "V",
+                    "conditions": "in O2-saturated 0.1 M KOH electrolyte",
+                    "reaction_type": "ORR",
+                    "evidence": 4
+                },
+                {
+                    "type": "diffusion-limited current density",
+                    "value": 4.75,
+                    "unit": "mA cm\u22122",
+                    "conditions": "at -0.4 V vs. RHE",
+                    "reaction_type": "ORR",
+                    "evidence": 4
+                },
+                {
+                    "type": "diffusion-limited current density",
+                    "value": 4.75,
+                    "unit": "mA cm\u22122",
+                    "conditions": "at -0.4 V (vs. RHE)",
+                    "reaction_type": "ORR",
+                    "evidence": 6
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 77.0,
+                    "unit": "mV dec\u22121",
+                    "conditions": "Tafel plots",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "actual weight ratio",
+                    "value": 6.6,
+                    "unit": "wt%",
+                    "conditions": "from XPS analysis",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "half-wave potential",
+                    "value": 0.83,
+                    "unit": "V",
+                    "conditions": "in O2-saturated 0.1 M KOH solution",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "current density",
+                    "value": 6.1,
+                    "unit": "mA cm\u22122",
+                    "conditions": "in O2-saturated 0.1 M KOH solution",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 69.0,
+                    "unit": "mV dec\u22121",
+                    "conditions": "Tafel plots",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "half-wave potential",
+                    "value": 0.77,
+                    "unit": "V",
+                    "conditions": "in O2-saturated 0.1 M KOH solution",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "current density",
+                    "value": 5.2,
+                    "unit": "mA cm\u22122",
+                    "conditions": "in O2-saturated 0.1 M KOH solution",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 73.0,
+                    "unit": "mV dec\u22121",
+                    "conditions": "Tafel plots",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "pristine porous carbon",
+            "properties": [
+                {
+                    "type": "specific surface area",
+                    "value": 1903.0,
+                    "unit": "m2 g\u22121",
+                    "conditions": "BET measurements",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "pore volume",
+                    "value": 1.23,
+                    "unit": "cm3 g\u22121",
+                    "conditions": "BET measurements",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Fe(phen)3/PC",
+            "properties": [
+                {
+                    "type": "specific surface area",
+                    "value": 406.7,
+                    "unit": "m2 g\u22121",
+                    "conditions": "BET measurements",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "pore volume",
+                    "value": 0.285,
+                    "unit": "cm3 g\u22121",
+                    "conditions": "BET measurements",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "N-doped porous carbon (NPC)",
+            "properties": [
+                {
+                    "type": "half-wave potential",
+                    "value": 0.75,
+                    "unit": "V",
+                    "conditions": "in O2-saturated 0.1 M KOH electrolyte",
+                    "reaction_type": "ORR",
+                    "evidence": 4
+                },
+                {
+                    "type": "current density",
+                    "value": 3.78,
+                    "unit": "mA cm\u22122",
+                    "conditions": "at -0.4 V vs. RHE",
+                    "reaction_type": "ORR",
+                    "evidence": 4
+                },
+                {
+                    "type": "half-wave potential",
+                    "value": 0.75,
+                    "unit": "V",
+                    "conditions": "at -0.4 V (vs. RHE)",
+                    "reaction_type": "ORR",
+                    "evidence": 6
+                },
+                {
+                    "type": "current density",
+                    "value": 3.78,
+                    "unit": "mA cm\u22122",
+                    "conditions": "at -0.4 V (vs. RHE)",
+                    "reaction_type": "ORR",
+                    "evidence": 6
+                },
+                {
+                    "type": "half-wave potential",
+                    "value": 0.75,
+                    "unit": "V",
+                    "conditions": "vs. RHE",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Pt/C",
+            "properties": [
+                {
+                    "type": "half-wave potential",
+                    "value": 0.84,
+                    "unit": "V",
+                    "conditions": "commercial catalyst",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 75.0,
+                    "unit": "mV dec\u22121",
+                    "conditions": "Tafel plots",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Mn-SA/PC",
+            "properties": [
+                {
+                    "type": "half-wave potential",
+                    "value": 0.89,
+                    "unit": "V",
+                    "conditions": "in O2-saturated 0.1 M KOH solution",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "current density",
+                    "value": 5.35,
+                    "unit": "mA cm\u22122",
+                    "conditions": "in O2-saturated 0.1 M KOH solution",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Co-SA/PC",
+            "properties": [
+                {
+                    "type": "half-wave potential",
+                    "value": 0.87,
+                    "unit": "V",
+                    "conditions": "in O2-saturated 0.1 M KOH solution",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "current density",
+                    "value": 5.4,
+                    "unit": "mA cm\u22122",
+                    "conditions": "in O2-saturated 0.1 M KOH solution",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Cu-SA/PC",
+            "properties": [
+                {
+                    "type": "half-wave potential",
+                    "value": 0.85,
+                    "unit": "V",
+                    "conditions": "in O2-saturated 0.1 M KOH solution",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "current density",
+                    "value": 4.75,
+                    "unit": "mA cm\u22122",
+                    "conditions": "in O2-saturated 0.1 M KOH solution",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Zn-SA/PC",
+            "properties": [
+                {
+                    "type": "half-wave potential",
+                    "value": 0.82,
+                    "unit": "V",
+                    "conditions": "in O2-saturated 0.1 M KOH solution",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "current density",
+                    "value": 4.25,
+                    "unit": "mA cm\u22122",
+                    "conditions": "in O2-saturated 0.1 M KOH solution",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                }
+            ],
+            "benchmark": false
+        }
+    ],
+    "doi": "example_doi",
+    "factor": "Hydrogen coverage,Energy barrier,Conductivity,Surface area,Size,Defect,Dopant,Active sites,Stability,Electrode potential,Overpotential,Tafel slope,onsite potential,Current density,Mass loading,XPS,FTIR,Raman,XRD",
+    "meta": {
+        "maintext": "/Users/yangz/Documents/projects/llm4catalyst/documents/maintext/A_rational_synthesis_of_singleatom_ironnitrogen_el_maintext.txt",
+        "abstract": "/Users/yangz/Documents/projects/llm4catalyst/documents/abstract/A_rational_synthesis_of_singleatom_ironnitrogen_el_abs.txt",
+        "intro": "documents/intro/c60_intro.txt",
+        "window_size": 2,
+        "chunk_size": 1000,
+        "chunk_overlap": 100,
+        "output": "results",
+        "property": "/Users/yangz/Documents/projects/llm4catalyst/prompts/properties.txt",
+        "self_defined": true,
+        "title": "A_rational_synthesis_of_singleatom_ironnitrogen_el"
+    }
+}

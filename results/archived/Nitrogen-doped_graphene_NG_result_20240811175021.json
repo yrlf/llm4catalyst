@@ -1,0 +1,198 @@
+{
+    "materials": [
+        {
+            "material_name": "Nitrogen-doped graphene",
+            "properties": [
+                {
+                    "type": "N doping level",
+                    "value": 2.0,
+                    "unit": "at%",
+                    "conditions": "synthesized via pyrolysis of graphene oxide with polypyrrole",
+                    "reaction_type": "NA",
+                    "evidence": 0
+                },
+                {
+                    "type": "N doping level",
+                    "value": 3.0,
+                    "unit": "at%",
+                    "conditions": "synthesized via pyrolysis of graphene oxide with polypyrrole",
+                    "reaction_type": "NA",
+                    "evidence": 0
+                },
+                {
+                    "type": "Graphitic N content",
+                    "value": 44.0,
+                    "unit": "%",
+                    "conditions": "in Nitrogen-doped graphene",
+                    "reaction_type": "NA",
+                    "evidence": 0
+                },
+                {
+                    "type": "Mass loading",
+                    "value": 141.0,
+                    "unit": "\u03bcg/cm2",
+                    "conditions": "on glassy carbon electrode, 0.1 M KOH, three-electrode system",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "Mass loading",
+                    "value": 141.0,
+                    "unit": "\u03bcg/cm2",
+                    "conditions": "on glassy carbon electrode, dried at 80 \u00b0C",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Surface area",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "nitrogen adsorption/desorption isotherm shows a type-IV curve with an H2-type of hysteresis loop",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "BET surface area",
+                    "value": 370.0,
+                    "unit": "m2/g",
+                    "conditions": "Brunauer\u2013Emmett\u2013Teller method",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "Average pore diameter",
+                    "value": 5.3,
+                    "unit": "nm",
+                    "conditions": "Barrett\u2013Joyner\u2013Halenda (BJH) model",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "Surface area",
+                    "value": 370.0,
+                    "unit": "m2/g",
+                    "conditions": "Brunauer\u2013Emmett\u2013Teller (BET) method",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                },
+                {
+                    "type": "Pore diameter",
+                    "value": 5.3,
+                    "unit": "nm",
+                    "conditions": "average, Barrett\u2013Joyner\u2013Halenda (BJH) model",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                },
+                {
+                    "type": "XRD peak position",
+                    "value": 26.0,
+                    "unit": "\u00b0",
+                    "conditions": "broad peak indicating partially ordered stacking",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                },
+                {
+                    "type": "Interlayer spacing",
+                    "value": 0.342,
+                    "unit": "nm",
+                    "conditions": "close to 0.335 nm for graphite",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                },
+                {
+                    "type": "N content",
+                    "value": 2.0,
+                    "unit": "at%",
+                    "conditions": "X-ray photoelectron spectroscopy (XPS)",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                },
+                {
+                    "type": "N content",
+                    "value": 3.0,
+                    "unit": "at%",
+                    "conditions": "X-ray photoelectron spectroscopy (XPS)",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                },
+                {
+                    "type": "N functionalities",
+                    "value": 44.0,
+                    "unit": "%",
+                    "conditions": "graphitic N content",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                },
+                {
+                    "type": "ORR onset potential",
+                    "value": -0.22,
+                    "unit": "V",
+                    "conditions": "in oxygen saturated 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 6
+                },
+                {
+                    "type": "Number of electron transfer",
+                    "value": 3.8,
+                    "unit": "-",
+                    "conditions": "between -0.3 and -0.6 V in oxygen saturated 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 6
+                },
+                {
+                    "type": "Number of electron transfer",
+                    "value": 3.9,
+                    "unit": "-",
+                    "conditions": "between -0.3 and -0.6 V in oxygen saturated 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 6
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Pt/C",
+            "properties": [
+                {
+                    "type": "Pt content",
+                    "value": 20.0,
+                    "unit": "wt.%",
+                    "conditions": "commercial catalyst, Alpha Aesar",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Catalytic activity comparison",
+                    "value": 0.0,
+                    "unit": "NA",
+                    "conditions": "2000 CV cycles in oxygen saturated 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "ORR onset potential",
+                    "value": -0.22,
+                    "unit": "V",
+                    "conditions": "in oxygen saturated 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 6
+                }
+            ],
+            "benchmark": true
+        }
+    ],
+    "doi": "example_doi",
+    "factor": "Hydrogen coverage,Energy barrier,Conductivity,Surface area,Size,Defect,Dopant,Active sites,Stability,Electrode potential,Overpotential,Tafel slope,onsite potential,Current density,Mass loading,XPS,FTIR,Raman,XRD",
+    "meta": {
+        "maintext": "/Users/yangz/Documents/projects/llm4catalyst/documents/maintext/3D_Nitrogendoped_graphene_prepared_by_pyrolysis_of_maintext.txt",
+        "abstract": "/Users/yangz/Documents/projects/llm4catalyst/documents/abstract/3D_Nitrogendoped_graphene_prepared_by_pyrolysis_of_abs.txt",
+        "intro": "documents/intro/c60_intro.txt",
+        "window_size": 2,
+        "chunk_size": 1000,
+        "chunk_overlap": 100,
+        "output": "results",
+        "property": "/Users/yangz/Documents/projects/llm4catalyst/prompts/properties.txt",
+        "self_defined": true,
+        "title": "3D_Nitrogendoped_graphene_prepared_by_pyrolysis_of"
+    }
+}

@@ -1,0 +1,180 @@
+Nitrogen-doped carbon nanotubes (CNx) were prepared via a floating catalyst chemical vapor deposition method using precursors consisting of ferrocene and melamine to control the nitrogen content. Structure, morphology and composition of all CNx catalysts were characterized by SEM, TEM, and XPS. These results indicated that the surface nitrogen content (up to 7.7 at.%) increases with the increase of melamine used. Electrochemical methods were used to study the correlation between surface structure and the activity of oxygen reduction reaction (ORR) in acid and alkaline solutions. Electrochemical data indicated that the higher the nitrogen content is, the higher the oxygen reduction activity. Especially, the results from the rotating ring disk electrode technique demonstrated that CNx (7.7%) has similar ORR activity and selectivity with commercial Pt/C in alkaline solution.
+Proton exchange membrane fuel cells (PEMFCs) are being considered as a potential alternative energy conversion device for stationary and automotive applications, which use platinum supported on carbon black as electrocatalysts in both the anode and the cathode
+[1]
+. Pt is a highly expensive material and has a geopolitical and availability shortcoming. Most importantly, Pt is still not an ideal material for use in a PEMFCs cathode because of poor performance compared to what may theoretically be attainable. Therefore, many efforts have been made to develop the alternative cathode catalysts to Pt
+[2]
+,
+[3]
+,
+[4]
+,
+[5]
+,
+[6]
+,
+[7]
+,
+[8]
+,
+[9]
+,
+[10]
+,
+[11]
+. Among various non-Pt catalysts, a class is nitrogen-doped carbon nanostructures with and without metals, which could potentially replace platinum in PEMFCs cathodes
+[12]
+,
+[13]
+,
+[14]
+,
+[15]
+,
+[16]
+,
+[17]
+,
+[18]
+,
+[19]
+,
+[20]
+,
+[21]
+,
+[22]
+,
+[23]
+,
+[24]
+. Although the nature of the active sites remains elusive, nitrogen has been generally identified as an essential element for catalytic sites. Ozkan and co-workers have prepared the active catalysts for ORR in the different forms of nitrogen-doped carbon nanostructures, such as stacked cups, solid fibers, multi-wall carbon nanotubes (MWNTs), and broken MWNTs
+[25]
+. Dodelet and co-workers developed the nitrogen coordinated iron in a carbon matrix, with optimal performance equal to a platinum-based cathode with a loading of 0.4 mg cm−2 at a cell voltage of ≥0.9 V for PEMFCs
+[22]
+. Recently, Dai and co-workers reported that nitrogen-doped carbon nanotube arrays (6 at.% N) have high electrocatalytic activity for ORR in alkaline solution
+[23]
+. Furthermore, Star and co-workers demonstrated that the stacked nitrogen-doped carbon nanotube cups (2–7 at.% N) have similar catalytic ability in ORR as Pt/carbon nanotubes in alkaline solution
+[24]
+. Among the above catalysts, the nitrogen-doped carbon nanotubes show promising results; however, the promoting effect of nitrogen on the ORR activity has not been studied in detail with various nitrogen contents
+[26]
+,
+[27]
+.
+In this work, we conducted a systematic study on CNx system by preparing a series of catalysts with various nitrogen contents and studied their ORR activity in not only acid solution but also alkaline solution. In addition, the activities were compared with that of the commercial Pt/C catalyst. We will show here that CNx (7.7%) has the similar ORR activity and selectivity with commercial Pt/C in alkaline solution.
+The floating catalyst chemical vapor deposition method was applied to synthesize CNx
+[28]
+. Typically, ferrocene (Fe(C5H5)2) (100 mg, 98%, Aldrich) was placed at the entrance of the furnace in the quartz tube. Different amount of melamine (50, 200, 400, 800, and 2000 mg, 99+%, Aldrich) was placed beneath ferrocene as the nitrogen additive. A small piece of silicon wafer (1 cm × 3 cm) with a 30 nm-thick aluminum buffer layer was located in the center of the oven. After the system was heated to 850 °C under Ar gas with a rate of 60 °C min−1, ethylene gas was introduced (
+Fig. 1
+). After 5 min, the furnace was heated to 950 °C. The melamine vapor was brought into the reaction chamber by the gas flow and it was pyrolyzed in the middle of the reaction chamber as the nitrogen additive. After 15 min, the ethylene gas was turned off and the system was cooled down to room temperature in the flowing Ar gas. The synthesized catalysts were marked as CNx (0%), CNx (1.4%), CNx (3.0%), CNx (5.1%), CNx (7.7%) based on the different nitrogen contents, respectively.
+Fig. 1. The schematic drawing of our synthesis stratagem of nitrogen doped carbon nanotubes.
+The samples were characterized by Hitachi S-4800 field-emission scanning electron microscopy (SEM) operated at 5.0 kV, Philips CM10 transmission electron microscopy (TEM) operated at 80 kV. The nitrogen contents on the surface of all catalysts were also determined by Kratos Axis Ultra Al (alpha) X-ray photoelectron spectroscopy (XPS) operated at 14 kV. The XPS data was collected with a dual anode X-ray source using Mg K irradiation with the energy of 1253.6 eV. Binding energies were measured using a hemispherical energy analyzer with fixed pass energy of 50 eV that gave an energy resolution of approximately 1.1 eV. The data was analyzed using an XPS data analysis software, Advantage, version 3.99 developed by Thermo VG Scientific. Fittings of the peaks were performed using Gaussian–Lorentzian product function and Shirley background algorithm. The sensitivity factors were also taken into account when we did the quantitative analysis.
+Autolab potentiostat/galvanostat (model PGSTAT-30 Ecochemie Brinkman Instruments) and a three-compartment cell were employed for the electrochemical measurements. The electrocatalytic activity of CNx was studied using the rotating ring disk electrode (RRDE) technique. Briefly, a rotating ring disk electrode from Pine Instruments employing a glassy carbon (GC) disk (d = 5 mm) and Au ring (6.5 mm i.d., 7.5 mm o.d.) was used as the working electrode. Platinum wire and Ag/AgCl electrode were used as the counter and the reference electrode, respectively. The potentials presented in this study are referred with respect to standard hydrogen electrode (SHE). A typical catalytic film was produced at the disk electrode according to the following procedure: 5 mg of CNx was suspended in the solution (1080 μL ethanol and 180 μL of 5 wt% Nafion) and ultrasonically blended for 30 min. 10 μL of this suspension was dropped on the disk electrode. Cyclic voltammograms (CVs) were recorded by scanning the disk potential from 1.20 to 0.05 V (0.5 M H2SO4 solution) and from 0.4 to −1.0 V (0.1 M KOH solution) vs SHE at a scan rate of 5 mV s−1. And the ring potential was maintained at 1.2 and 0.7 V vs SHE, respectively, for acid and alkaline solutions in order to oxidize any hydrogen peroxide produced. First, CVs were recorded at 5 mV s−1 using nitrogen atmosphere to obtain the background capacitive currents. Next, CVs were recorded using the oxygen-saturated electrolyte. The electrolyte solution was purged with oxygen for 30 min before commencing oxygen reduction on the disk electrode.
+The morphology and structure of CNx are presented in
+Fig. 2
+.
+Fig. 2
+a shows the representative SEM image of the CNx (1.4%). It can be seen that CNx with high density were formed and totally covered the silicon wafer. Typical TEM images of the catalysts (CNx (0%) CNx (1.4%), CNx (3.0%), and CNx (7.7%)) are also presented in
+Fig. 2
+b–e. From these figures, it can be seen that with the increase of melamine used, inner structure of the CNx displays a regular morphology transition from a straight and smooth wall (melamine of 50 mg) to cone-stacked shaped or bamboo-like structure (melamine of 200 mg), then to corrugated structure (melamine of 400 mg and above). To characterize the surface composition of the samples, all of CNx catalysts prepared were analyzed by XPS. In XPS measurement, the N concentration present in the nanotubes, defined as atomic percent of nitrogen with respect to all atoms, is estimated by the area ratio of the nitrogen and other atomic peaks.
+Table 1
+shows the results of XPS analysis. An important trend is apparent in these results. The surface nitrogen content increases with increasing melamine amount used for preparing CNx. It indicates that nitrogen with high content (up to 7.7%) has been stably doped on the catalyst surface under the reaction temperature of 950 °C. The more detailed structure analysis has been reported in our previous work
+[28]
+.
+Fig. 2. Typical SEM image of CNx (1.4%) prepared with 200 mg of melamine having magnified images inserted inside (a); TEM images of CNx prepared with various amount of melamine: (b) CNx (0%), (c) CNx (1.4%), (d) CNx (3.0%), and (e) CNx (7.7%).
+Table 1. Surface composition (at.%) determined with XPS experiments.
+(–) Below detection limit.
+(–) Below detection limit.
+Fig. 3
+a shows the cyclic voltammograms of CNx (7.7%) catalyst with the loading of 160 μg cm−2 in N2-saturated 0.5 M H2SO4 (black line) and in O2-saturated 0.5 M H2SO4 (red line). During both anodic and cathodic potential sweeps, an enhanced cathodic current was observed for the CV with the O2-saturated solution than for the N2-saturated solution. The enhanced cathodic current is due to the ORR on CNx. To study the influence of various nitrogen contents in CNx on the ORR activity, the polarization curves at a rotation speed of 900 rpm were recorded (
+Fig. 3
+b). We can see that the curves did not reach any diffusion limited current plateau within the whole potential range. The onset potential (EORR), a key factor for evaluating the catalyst activity, is defined as the potential where the enhanced cathodic current begins to be observed on the CV. For all CNx, the values are quite different, spanning a potential range of about 300 mV. It indicates a large variation in the electrocatalytic activity among these materials. The positive shift of EORR with increasing nitrogen content in CNx implies an improved catalytically activity (kinetically more facile) for O2 reduction. In an attempt to correlate the iron, nitrogen surface concentration and the onset potential, some interesting phenomena are obtained. There is no clear correlation of the onset potential with the iron content. Many researchers consider that graphene-coordinated FeN4 or FeN2 moieties are the active sites
+[16]
+,
+[22]
+,
+[29]
+. However, the role of iron has been doubted recently. Ozkan and co-workers stated that iron acts as a catalysts for building the active site but is not a part of it itself
+[30]
+. Nevertheless, iron and nitrogen are very important to achieve electrocatalytic activity. Actually all catalysts containing Fe and nitrogen (CNx (1.4%), CNx (3.0%), CNx (5.1%), CNx (7.7%)) are more active than the catalyst without Fe and nitrogen (CNx (0%)), as shown in
+Table 1
+. Furthermore, a dependence of ORR activity on nitrogen content in CNx was obtained. Obviously, we can see that the onset potential of ORR increases with the increase of nitrogen content from
+Table 2
+. We can thus believe that the N-content should play a dominant role. The enhanced activity of the CNx catalysts toward oxygen reduction is a direct result of nitrogen doping. Some special C–N structure of CNx catalysts may be responsible for the enhancement of ORR activity. Ozkan and co-workers think that the higher activity of N-doped carbon fibers should be related to edge plane exposure, and not necessarily to the presence of metal residues
+[15]
+. In addition, an experimental and theoretical study of oxygen reduction on nitrogen-doped graphite has been presented by Anderson's group
+[20]
+. Their results showed that substitutional nitrogen atoms that are far from graphite sheet edges will be active, and those that are close to the edge will be less active.
+Fig. 3. (a) Typical CV curves of CNx (7.7%) in 0.5 M H2SO4. Scan rate: 5 mV s−1; rotation speed: 900 rpm. (b) ORR polarization curves at a rotation speed of 900 rpm for the different CNx with the loading of 160 μg cm−2.
+Table 2. The onset electrode potentials for the ORR on various CNx electrodes.
+In view of the higher catalytic activity of CNx (7.7%), the kinetic behavior of ORR on CNx (7.7%) electrode with the loading of 80 μg cm−2 was further investigated using RRDE (
+Fig. 4
+,
+Fig. 5
+)
+[31]
+,
+[32]
+. The voltammograms of CNx (7.7%) (
+Fig. 4
+) show a large current increase when the disk electrode rotates at 400 and 900 rpm. The large cathodic current results from an increase of the surface oxygen concentration available at the electrode surface due to the rotation. However, there is no well-defined limiting current plateau at any rotation rate. With the increase of rotation rate from 0 to 400 and 900 rpm, the line is more inclined. All these demonstrate that the reaction is under mixed kinetic control
+[17]
+. Simultaneously, these results also indicated that CNx is still a poorer electrocatalyst than Pt/C catalyst in acidic solution. Some of the electrocatalytic active sites inside the electrode might be in contact with O2 even at high overpotentials
+[33]
+. In addition, Anson and co-workers have proposed a model explaining that the distribution of electrocatalytic sites on the electrode surface is responsible for such behavior
+[34]
+. When distribution of active sites is less uniform and reaction is slower, the plateau is more inclined. Based on this model, the distribution of active sites in CNx catalysts should not be uniform.
+Fig. 4. Oxygen reduction currents for CNx (7.7%) with the loading of 80 μg cm−2 in 0.5 M H2SO4 with saturated O2. Scan rate: 5 mV s−1.
+Fig. 5. jDisk, jRing, n (the apparent number of electrons transferred during ORR), and %H2O2 measured by RRDE in O2 saturated H2SO4 at room temperature for CNx (7.7%), catalyst loading: 80 μg cm−2.
+To obtain selectivity data, both ring and disk currents at 900 rpm were recorded by RRDE measurements. For CNx (7.7%) catalyst,
+Fig. 5
+presented the reduction currents on the disk and the oxidation current on the ring, vs the potential applied on the disk. The apparent number of electrons transferred during ORR, n, and the percentage of H2O2 released during ORR, %H2O2 were shown as well. The following equations are used to calculate n and %H2O2
+[32]
+:
+(1)
+(2)
+where ID is the Faradic current on the disk, IR is the Faradic current on the ring and N is the ring collection efficiency (reported by the manufacturer to be 0.37). It can be seen that both IR and ID onset at about the same potential; and IR increases with increasing ID. The maximum of the ring current is not reached at the potential window applied. However, very little peroxide was formed on the CNx (7.7%) sample, demonstrating its ability to completely reduce oxygen to water. Also from this figure, we can see that the apparent numbers of electrons transferred during ORR are close to 4 at the potentials lower than 0.5 V for CNx (7.7%) (while n = 3.4 for CNx (5.1%), and n < 1 for CNx (3.0%, 1.4%, 0%) at 0.5 V), which further demonstrated its selectivity is high. Although CNx catalysts have the lower activity than Pt/C catalyst for ORR mentioned above, the CNx with high nitrogen content has high selectivity. Apparently, there is a loose correlation between activity and selectivity for the ORR, which has been reported by Ozkan and co-workers
+[15]
+.
+The CNx towards ORR was also studied in alkaline solution. The effect of the electrode rotating rate on the ORR current over CNx (7.7%) catalyst with the loading of 800 μg cm−2 is shown in
+Fig. 6
+a. The recorded ORR currents increase with increasing the electrode rotating rate. This is consistent with the general understanding that the ORR is under mixed kinetic-diffusion control.
+Fig. 6
+b shows the disk current densities for CNx (7.7%) catalyst measured at different loadings. The data for bare GC disk electrode (no catalyst applied) is also included in this figure to show that the GC-itself is negligible. At lower loading (≤20 μg cm−2) no limiting current plateau is observed here. At the loading from 40 to 800 μg cm−2, not only can be the limiting current plateau obtained, but the limiting currents first increase and then have a decrease. It suggested that besides the external diffusion limitation of oxygen from the bulk electrolyte to the electrode surface, a second mass transfer limitation within the catalyst layer is involved. As for the mass transfer within the catalyst layer, its hindrance effect is higher with the increase of catalyst loading, that is, with increasing thickness of the catalyst layer. In addition, one can find that EORR and the half-wave potentials (Ehw) of oxygen reduction increase with the increase of catalyst loading. All these activity data are summarized in
+Table 3
+. By combined analysis of EORR, Ehw, and current density (jdisk Faradiac), the loading of 160 μg cm−2 was considered to be the optimized loading. The importance of the catalyst loading to study the ORR activity is well recognized
+[35]
+.
+Fig. 6. Measured ORR currents of CNx (7.7%) catalyst with the loading of 800 μg cm−2 at different electrode rotation speed (a) and different catalyst loading (b). Scan rate: 5 mV s−1, electrolyte: 0.1 M KOH.
+Table 3. The catalytic activity data for GC and CNx (7.7%) with different loading. Data were obtained from
+Fig. 6
+b.
+The polarization curves of oxygen reduction on CNx catalysts with different nitrogen contents are shown in
+Fig. 7
+(catalyst loading: 160 μg cm−2). The perfect limiting current plateau can only be observed on the catalysts with high nitrogen content (5.1% and 7.7%). Also, there is no clear dependence of current density on the nitrogen content. However, it was observed that the EORR shifts positively with increasing the nitrogen content. These values are also given in
+Table 2
+.
+Fig. 7. The polarization curves of oxygen reduction on CNx catalysts with different nitrogen content. Electrolyte: 0.1 M KOH, scan rate: 5 mV s−1, rotation speed: 1600 rpm, and catalyst loading: 160 μg cm−2.
+Based on the above results, CNx (7.7%) with the loading of 160 μg cm−2 was selected as a control sample. Its ORR activity was compared with that of commercial Pt/C catalyst. RRDE voltammograms for CNx (7.7%) and Pt/C with different loading are depicted in
+Fig. 8
+. For Pt/C catalysts, the value of the limiting disk current decreases with decreasing loading; and the ring current is low at high loading because the fraction of H2O2 released is low. The detailed catalytic activity data are given in
+Table 4
+. Herein the transport-corrected kinetic current (ikinetic) is obtained using the well-known Levich-Koutecky expression:
+(3)
+From these catalytic activity data, one can believe that CNx (7.7%, loading: 160 μg cm−2) have similar catalytic ability towards ORR, in comparison to the commercial Pt/C catalyst (loading: 1.94 μgPt cm−2). Further, we calculated their apparent number of electrons (n) transferred during ORR according to the disk and ring current to compare the selectivity. The result indicated that they have comparable n values, which is 3.8 and 3.7 for CNx (7.7%, loading: 160 μg cm−2) and Pt/C (loading: 1.94 μgPt cm−2) at −0.20 V, respectively.
+Fig. 8. RRDE voltammograms of CNx (7.7%) and Pt/C with different loading in 0.1 M KOH solution saturated with O2. The ring-disk electrode rotation rate was 1600 rpm, and the Au ring electrode was held at 0.7 V.
+Table 4. The catalytic activity data for CNx (7.7%) with the loading of 160 μg cm−2 and Pt/C (E-TEK) with different loading. Data were obtained from
+Fig. 8
+.
+As discussed above, the detailed structure of the active site of CNx is not clear at present. It might be a Fe/N/C-type structure similar to those described in the literature proposed by Dodelet and co-workers
+[22]
+. They believe that four factors are responsible to the ORR activity on Fe/N/C: (i) disordered carbon content in the catalyst precursor, (ii) iron, (iii) surface nitrogen, and (iv) micropores in the catalyst. Using quantum mechanics calculations, Dai and co-workers
+[23]
+suggested that the strong electronic affinity of the nitrogen atoms and the substantially high positive charge density on the adjacent carbon atoms should contribute to the catalytic activity. We do not yet clearly understand why CNx have the comparable ORR activity with the Pt/C in alkaline solution, but much lower than that of Pt/C in acid solution. It may be due to quinine systems being capable of reducing oxygen catalytically only in a strong base
+[36]
+. The detailed mechanism needs further investigation.
+CNx catalysts for ORR have been prepared. TEM and XPS results showed the nitrogen surface content and morphology of CNx can be controlled by adjusting the content of melamine used. In this work, the emphasis was mainly placed on the study of structure-activity relationship. It has been showed that the ORR activity increased with the increase of surface nitrogen content in both acid and alkaline solutions according to the EORR values. There was not apparent correlation between the current density and the nitrogen surface content. However, the catalyst loading has an obvious impact on the ORR current density. Most importantly, the onset potential and current density of CNx (7.7%) electrocatalyst reported in this work is equal to a platinum-based catalyst with a loading of 1.94 μg of platinum per square centimeter at the electrochemical window tested in alkaline solution, showing that CNx has the potential to replace the costly Pt/C catalyst in alkaline fuel cells.
+This research was supported by Natural Sciences and Engineering Research Council of Canada (NSERC), Ballard Power System Inc., Canada Research Chair (CRC) Program, Canada Foundation for Innovation (CFI), Ontario Research Fund (ORF), Ontario Early Researcher Award (ERA) and the University of Western Ontario.
+Some authors directly attribute the high catalytic activity of N-doped carbon materials to the nitrogen content, which is considered as the key in understanding the catalysis of ORR [96–98]. However, more recent studies are in disagreement with that conclusion [99–101] since specific functionalities seem to be the responsible for the highest activities. Thus, an extended analysis and discussion about the nature of the active sites is necessary to get a better understanding of N-doped carbon materials as electrocatalysts towards ORR.
+Cookies are used by this site.
+Cookie Settings
+All content on this site: Copyright © 2024 Elsevier B.V., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the Creative Commons licensing terms apply.

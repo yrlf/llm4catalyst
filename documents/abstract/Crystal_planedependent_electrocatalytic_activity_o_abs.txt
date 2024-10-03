@@ -1,0 +1,6 @@
+•
+First report of crystal plane effect of Co3O4 on electrocatalytic water oxidation
+•
+The {110} plane of Co3O4 is more active for OER catalysis than {100}.
+•
+In alkaline electrolytes, Co3 + is the active sites of Co3O4 for OER.

@@ -1,0 +1,215 @@
+{
+    "materials": [
+        {
+            "material_name": "N-GQDs",
+            "properties": [
+                {
+                    "type": "diameter",
+                    "associated_factor": "dimension or size",
+                    "value": 2.0,
+                    "unit": "nm",
+                    "conditions": "observed by TEM",
+                    "reaction_type": "NA",
+                    "evidence": 0
+                },
+                {
+                    "type": "diameter",
+                    "associated_factor": "dimension or size",
+                    "value": 5.0,
+                    "unit": "nm",
+                    "conditions": "observed by TEM",
+                    "reaction_type": "NA",
+                    "evidence": 0
+                },
+                {
+                    "type": "diameter",
+                    "associated_factor": "particle size",
+                    "value": 2.0,
+                    "unit": "nm",
+                    "conditions": "TEM images",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "diameter",
+                    "associated_factor": "particle size",
+                    "value": 5.0,
+                    "unit": "nm",
+                    "conditions": "TEM images",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "topographic height",
+                    "associated_factor": "particle size",
+                    "value": 1.0,
+                    "unit": "nm",
+                    "conditions": "AFM image",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "topographic height",
+                    "associated_factor": "particle size",
+                    "value": 2.5,
+                    "unit": "nm",
+                    "conditions": "AFM image",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "interlayer spacing",
+                    "associated_factor": "structural property",
+                    "value": 0.34,
+                    "unit": "nm",
+                    "conditions": "High-resolution TEM",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "N/C atomic ratio",
+                    "associated_factor": "chemical composition",
+                    "value": 4.28,
+                    "unit": "%",
+                    "conditions": "XPS measurements",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "O/C atomic ratio",
+                    "associated_factor": "chemical composition",
+                    "value": 27.0,
+                    "unit": "%",
+                    "conditions": "XPS measurements",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "absorption band",
+                    "associated_factor": "optical property",
+                    "value": 270.0,
+                    "unit": "nm",
+                    "conditions": "UV\u2013vis absorption spectrum",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "blue luminescence",
+                    "associated_factor": "optical property",
+                    "value": 365.0,
+                    "unit": "nm",
+                    "conditions": "Under irradiation by a 365 nm lamp",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "diameter",
+                    "associated_factor": "dimension or size",
+                    "value": 2.0,
+                    "unit": "nm",
+                    "conditions": "TEM images",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "diameter",
+                    "associated_factor": "dimension or size",
+                    "value": 5.0,
+                    "unit": "nm",
+                    "conditions": "TEM images",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "topographic height",
+                    "associated_factor": "dimension or size",
+                    "value": 1.0,
+                    "unit": "nm",
+                    "conditions": "AFM image",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "topographic height",
+                    "associated_factor": "dimension or size",
+                    "value": 2.5,
+                    "unit": "nm",
+                    "conditions": "AFM image",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "interlayer spacing",
+                    "associated_factor": "dimension or size",
+                    "value": 0.34,
+                    "unit": "nm",
+                    "conditions": "High-resolution TEM",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "N-GQD/graphene",
+            "properties": [
+                {
+                    "type": "conductivity",
+                    "associated_factor": "enhanced intrinsic properties",
+                    "value": 40.0,
+                    "unit": "S/cm",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "onset potential",
+                    "associated_factor": "electrocatalyst performance",
+                    "value": -0.16,
+                    "unit": "V",
+                    "conditions": "in O2-saturated KOH solution",
+                    "reaction_type": "ORR",
+                    "evidence": 2
+                },
+                {
+                    "type": "reduction peak",
+                    "associated_factor": "electrocatalyst performance",
+                    "value": -0.27,
+                    "unit": "V",
+                    "conditions": "in O2-saturated KOH solution",
+                    "reaction_type": "ORR",
+                    "evidence": 2
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Pt/C",
+            "properties": [
+                {
+                    "type": "onset potential",
+                    "associated_factor": "electrocatalyst performance",
+                    "value": -0.16,
+                    "unit": "V",
+                    "conditions": "in O2-saturated KOH solution",
+                    "reaction_type": "ORR",
+                    "evidence": 2
+                }
+            ],
+            "benchmark": true
+        }
+    ],
+    "doi": "example_doi",
+    "factor": " enhanced intrinsic properties,doping GQDs with heteroatoms,electrocatalyst performance,mass loading,specific surface area,dimension or size",
+    "meta": {
+        "maintext": "/Users/yangz/Documents/projects/llm4catalyst/documents/maintext/gqd_maintext.txt",
+        "abstract": "/Users/yangz/Documents/projects/llm4catalyst/documents/abstract/gqd_abs.txt",
+        "intro": "/Users/yangz/Documents/projects/llm4catalyst/documents/intro/gqd_intro.txt",
+        "window_size": 2,
+        "chunk_size": 1000,
+        "chunk_overlap": 100,
+        "output": "results",
+        "property": "prompts/factors.txt",
+        "self_defined": true
+    }
+}

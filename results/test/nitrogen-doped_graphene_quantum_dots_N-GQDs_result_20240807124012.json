@@ -1,0 +1,435 @@
+{
+    "materials": [
+        {
+            "material_name": "N-doped graphene quantum dots (N-GQDs)",
+            "properties": [
+                {
+                    "type": "Size",
+                    "associated_factor": "Size",
+                    "value": 2.0,
+                    "unit": "nm",
+                    "conditions": "N-free counterparts",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "Size",
+                    "associated_factor": "Size",
+                    "value": 5.0,
+                    "unit": "nm",
+                    "conditions": "N-free counterparts",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "N/C atomic ratio",
+                    "associated_factor": "Dopant",
+                    "value": 4.3,
+                    "unit": "%",
+                    "conditions": "N-GQDs emit blue luminescence",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "Diameter",
+                    "associated_factor": "Size",
+                    "value": 2.0,
+                    "unit": "nm",
+                    "conditions": "TEM imaging",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "Diameter",
+                    "associated_factor": "Size",
+                    "value": 5.0,
+                    "unit": "nm",
+                    "conditions": "TEM imaging",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "Topographic height",
+                    "associated_factor": "Size",
+                    "value": 1.0,
+                    "unit": "nm",
+                    "conditions": "AFM imaging",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "Topographic height",
+                    "associated_factor": "Size",
+                    "value": 2.5,
+                    "unit": "nm",
+                    "conditions": "AFM imaging",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "Interlayer spacing",
+                    "associated_factor": "Size",
+                    "value": 0.34,
+                    "unit": "nm",
+                    "conditions": "High-resolution TEM",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "O/C atomic ratio",
+                    "associated_factor": "Dopant",
+                    "value": 27.0,
+                    "unit": "%",
+                    "conditions": "XPS survey spectra",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "N/C atomic ratio",
+                    "associated_factor": "Dopant",
+                    "value": 4.28,
+                    "unit": "%",
+                    "conditions": "XPS survey spectra",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "Diameter",
+                    "associated_factor": "Size",
+                    "value": 2.0,
+                    "unit": "nm",
+                    "conditions": "TEM images",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Diameter",
+                    "associated_factor": "Size",
+                    "value": 5.0,
+                    "unit": "nm",
+                    "conditions": "TEM images",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Topographic height",
+                    "associated_factor": "Size",
+                    "value": 1.0,
+                    "unit": "nm",
+                    "conditions": "AFM image",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Topographic height",
+                    "associated_factor": "Size",
+                    "value": 2.5,
+                    "unit": "nm",
+                    "conditions": "AFM image",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "XPS peak",
+                    "associated_factor": "XPS",
+                    "value": 284.0,
+                    "unit": "eV",
+                    "conditions": "XPS survey spectra",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "XPS peak",
+                    "associated_factor": "XPS",
+                    "value": 532.0,
+                    "unit": "eV",
+                    "conditions": "XPS survey spectra",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "XPS peak",
+                    "associated_factor": "XPS",
+                    "value": 398.5,
+                    "unit": "eV",
+                    "conditions": "High-resolution N 1s spectrum",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "XPS peak",
+                    "associated_factor": "XPS",
+                    "value": 401.0,
+                    "unit": "eV",
+                    "conditions": "High-resolution N 1s spectrum",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "XPS peak",
+                    "associated_factor": "XPS",
+                    "value": 285.2,
+                    "unit": "eV",
+                    "conditions": "High-resolution C 1s spectrum",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "XPS peak",
+                    "associated_factor": "XPS",
+                    "value": 286.6,
+                    "unit": "eV",
+                    "conditions": "High-resolution C 1s spectrum",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "XPS peak",
+                    "associated_factor": "XPS",
+                    "value": 288.3,
+                    "unit": "eV",
+                    "conditions": "High-resolution C 1s spectrum",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "XPS peak",
+                    "associated_factor": "XPS",
+                    "value": 289.0,
+                    "unit": "eV",
+                    "conditions": "High-resolution C 1s spectrum",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "UV-vis absorption peak",
+                    "associated_factor": "UV-vis",
+                    "value": 270.0,
+                    "unit": "nm",
+                    "conditions": "UV-vis absorption spectrum",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Raman peak",
+                    "associated_factor": "Raman",
+                    "value": 1365.0,
+                    "unit": "cm-1",
+                    "conditions": "Raman spectra",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Raman peak",
+                    "associated_factor": "Raman",
+                    "value": 1596.0,
+                    "unit": "cm-1",
+                    "conditions": "Raman spectra",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "XRD peak",
+                    "associated_factor": "XRD",
+                    "value": 25.0,
+                    "unit": "\u00b0",
+                    "conditions": "XRD profiles",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Interlayer spacing",
+                    "associated_factor": "Size",
+                    "value": 0.34,
+                    "unit": "nm",
+                    "conditions": "XRD profiles",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "UV-vis absorption",
+                    "associated_factor": "peak position",
+                    "value": 270.0,
+                    "unit": "nm",
+                    "conditions": "absorption band",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                },
+                {
+                    "type": "Conductivity",
+                    "associated_factor": "conductivity",
+                    "value": 40.0,
+                    "unit": "S/cm",
+                    "conditions": "N-GQD/graphene film",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                },
+                {
+                    "type": "XPS",
+                    "values": [
+                        284.0,
+                        532.0,
+                        398.5,
+                        401.0,
+                        284.0,
+                        532.0,
+                        398.5,
+                        401.0,
+                        285.2,
+                        286.6,
+                        288.3,
+                        289.0,
+                        398.5,
+                        401.0,
+                        285.2,
+                        286.6,
+                        288.3,
+                        289.0
+                    ],
+                    "units": [
+                        "eV"
+                    ],
+                    "conditions": [
+                        "C\u2013O groups",
+                        "High-resolution N 1s spectrum",
+                        "N 1s peak, pyrrolic N",
+                        "XPS survey spectra",
+                        "N 1s peak, pyridine-like N",
+                        "C\u2013N bond",
+                        "N 1s spectrum, pyrrolic N atoms",
+                        "C 1s spectrum, C\u2013N bond",
+                        "C 1s spectrum, O\u2013C\u2550O groups",
+                        "C 1s peak",
+                        "O\u2013C\u2550O groups",
+                        "C\u2550O groups",
+                        "C 1s spectrum, C\u2013O groups",
+                        "O 1s peak",
+                        "C 1s spectrum, C\u2550O groups",
+                        "N 1s spectrum, pyridine-like N atoms"
+                    ],
+                    "evidence": 3.4444444444444446
+                },
+                {
+                    "type": "XRD",
+                    "values": [
+                        25.0,
+                        0.34
+                    ],
+                    "units": [
+                        "nm",
+                        "\u00b0"
+                    ],
+                    "conditions": [
+                        "diffraction peak",
+                        "interlayer spacing"
+                    ],
+                    "evidence": 5.0
+                },
+                {
+                    "type": "Raman",
+                    "values": [
+                        1365.0,
+                        1596.0
+                    ],
+                    "units": [
+                        "cm-1"
+                    ],
+                    "conditions": [
+                        "peaks centered, D band",
+                        "peaks centered, G band"
+                    ],
+                    "evidence": 5.0
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Pt/C",
+            "properties": [
+                {
+                    "type": "CV",
+                    "associated_factor": "O2 reduction",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "O2-saturated KOH solution",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                }
+            ],
+            "benchmark": true
+        },
+        {
+            "material_name": "N-GQD/graphene",
+            "properties": [
+                {
+                    "type": "Conductivity",
+                    "associated_factor": "Electrocatalytic performance",
+                    "value": 40.0,
+                    "unit": "S/cm",
+                    "conditions": "Measured on N-GQD/graphene film",
+                    "reaction_type": "NA",
+                    "evidence": 6
+                },
+                {
+                    "type": "Onset potential",
+                    "associated_factor": "ORR activity",
+                    "value": -0.16,
+                    "unit": "V",
+                    "conditions": "Measured in O2-saturated 0.1 M KOH solution using a rotating disk electrode",
+                    "reaction_type": "ORR",
+                    "evidence": 6
+                },
+                {
+                    "type": "Reduction peak",
+                    "associated_factor": "ORR activity",
+                    "value": -0.27,
+                    "unit": "V",
+                    "conditions": "Measured in O2-saturated 0.1 M KOH solution using a rotating disk electrode",
+                    "reaction_type": "ORR",
+                    "evidence": 6
+                },
+                {
+                    "type": "Conductivity",
+                    "associated_factor": "Electrocatalytic performance",
+                    "value": 40.0,
+                    "unit": "S/cm",
+                    "conditions": "Measured on the formed film",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "Onset potential",
+                    "associated_factor": "ORR activity",
+                    "value": -0.16,
+                    "unit": "V",
+                    "conditions": "Measured in O2-saturated 0.1 M KOH solution using cyclic voltammetry",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "Reduction peak potential",
+                    "associated_factor": "ORR activity",
+                    "value": -0.27,
+                    "unit": "V",
+                    "conditions": "Measured in O2-saturated 0.1 M KOH solution using cyclic voltametry",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                }
+            ],
+            "benchmark": false
+        }
+    ],
+    "doi": "example_doi",
+    "factor": "Hydrogen coverage,Energy barrier,Conductivity,Surface area,Size,Defect,Dopant,Active sites,Stability,Electrode potential,Overpotential,Tafel slope,onsite potential,Current density,Mass loading,XPS,FTIR,Raman,XRD",
+    "meta": {
+        "maintext": "/Users/yangz/Documents/projects/llm4catalyst/documents/maintext/gqd_maintext.txt",
+        "abstract": "/Users/yangz/Documents/projects/llm4catalyst/documents/abstract/gqd_abs.txt",
+        "intro": "/Users/yangz/Documents/projects/llm4catalyst/documents/intro/gqd_intro.txt",
+        "window_size": 2,
+        "chunk_size": 500,
+        "chunk_overlap": 50,
+        "output": "results",
+        "property": "/Users/yangz/Documents/projects/llm4catalyst/prompts/properties.txt",
+        "self_defined": true
+    }
+}

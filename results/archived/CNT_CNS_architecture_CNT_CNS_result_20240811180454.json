@@ -1,0 +1,241 @@
+{
+    "materials": [
+        {
+            "material_name": "NFe-CNT/CNS",
+            "properties": [
+                {
+                    "type": "Faradaic efficiency",
+                    "value": 69.0,
+                    "unit": "%",
+                    "conditions": "CO2RR",
+                    "reaction_type": "CO2RR",
+                    "evidence": 0
+                },
+                {
+                    "type": "Overpotential",
+                    "value": 0.48,
+                    "unit": "V",
+                    "conditions": "CO2RR",
+                    "reaction_type": "CO2RR",
+                    "evidence": 0
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 89.0,
+                    "unit": "mV dec-1",
+                    "conditions": "CO2RR",
+                    "reaction_type": "CO2RR",
+                    "evidence": 0
+                },
+                {
+                    "type": "Stability",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "CO2RR",
+                    "reaction_type": "CO2RR",
+                    "evidence": 0
+                },
+                {
+                    "type": "onset overpotential",
+                    "value": 0.19,
+                    "unit": "V",
+                    "conditions": "CO2RR",
+                    "reaction_type": "CO2RR",
+                    "evidence": 1
+                },
+                {
+                    "type": "overpotential",
+                    "value": 0.48,
+                    "unit": "V",
+                    "conditions": "CO2RR",
+                    "reaction_type": "CO2RR",
+                    "evidence": 1
+                },
+                {
+                    "type": "onset overpotential",
+                    "value": 0.19,
+                    "unit": "V",
+                    "conditions": "in 0.1 M CO2-saturated KHCO3 electrolyte, pH = 6.8",
+                    "reaction_type": "CO2RR",
+                    "evidence": 2
+                },
+                {
+                    "type": "Faradaic efficiency",
+                    "value": 69.0,
+                    "unit": "%",
+                    "conditions": "at an overpotential of 0.48 V",
+                    "reaction_type": "CO2RR",
+                    "evidence": 2
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 89.0,
+                    "unit": "mV dec-1",
+                    "conditions": "in 0.1 M CO2-saturated KHCO3 electrolyte, pH = 6.8",
+                    "reaction_type": "CO2RR",
+                    "evidence": 2
+                },
+                {
+                    "type": "mass loading",
+                    "value": 0.3,
+                    "unit": "mg cm2",
+                    "conditions": "on carbon paper electrode",
+                    "reaction_type": "CO2RR",
+                    "evidence": 2
+                },
+                {
+                    "type": "maximum FE",
+                    "value": 69.0,
+                    "unit": "%",
+                    "conditions": "CO2RR at an overpotential of 0.48 V",
+                    "reaction_type": "CO2RR",
+                    "evidence": 3
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 89.0,
+                    "unit": "mV dec-1",
+                    "conditions": "CO2-saturated 0.1 M KHCO3 solution",
+                    "reaction_type": "CO2RR",
+                    "evidence": 7
+                },
+                {
+                    "type": "overpotential",
+                    "value": 0.19,
+                    "unit": "V",
+                    "conditions": "CO2-saturated 0.1 M KHCO3 solution",
+                    "reaction_type": "CO2RR",
+                    "evidence": 7
+                },
+                {
+                    "type": "overpotential",
+                    "value": 0.39,
+                    "unit": "V",
+                    "conditions": "CO2-saturated 0.1 M KHCO3 solution",
+                    "reaction_type": "CO2RR",
+                    "evidence": 7
+                },
+                {
+                    "type": "onset potential",
+                    "value": -0.3,
+                    "unit": "V",
+                    "conditions": "in CO2-saturated 0.1 M KHCO3",
+                    "reaction_type": "CO2RR",
+                    "evidence": 8
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 120.0,
+                    "unit": "mV dec-1",
+                    "conditions": "CO2-saturated 0.1 M KHCO3 solution",
+                    "reaction_type": "CO2RR",
+                    "evidence": 7
+                },
+                {
+                    "type": "overpotential",
+                    "value": 0.29,
+                    "unit": "V",
+                    "conditions": "CO2-saturated 0.1 M KHCO3 solution",
+                    "reaction_type": "CO2RR",
+                    "evidence": 7
+                },
+                {
+                    "type": "overpotential",
+                    "value": 0.49,
+                    "unit": "V",
+                    "conditions": "CO2-saturated 0.1 M KHCO3 solution",
+                    "reaction_type": "CO2RR",
+                    "evidence": 7
+                },
+                {
+                    "type": "XPS",
+                    "values": [
+                        710.1,
+                        712.2,
+                        398.3,
+                        399.4,
+                        400.5,
+                        401.3,
+                        402.9,
+                        710.1,
+                        712.2,
+                        398.3,
+                        399.4,
+                        400.5,
+                        401.3,
+                        402.9,
+                        706.2,
+                        706.2
+                    ],
+                    "units": [
+                        "eV"
+                    ],
+                    "conditions": [
+                        "N 1s, Fe\u2212NX complex",
+                        "Fe3+",
+                        "Fe 2p, Fe2+",
+                        "pyridinic N",
+                        "Fe\u2212NX complex",
+                        "metallic Fe",
+                        "N 1s, pyridinic N",
+                        "Fe 2p, metallic Fe",
+                        "N 1s, graphitic N",
+                        "graphitic N",
+                        "pyrrolic N",
+                        "Fe 2p, Fe3+",
+                        "N 1s, pyrrolic N",
+                        "oxidized N",
+                        "Fe2+",
+                        "N 1s, oxidized N"
+                    ],
+                    "evidence": 4.5625
+                },
+                {
+                    "type": "XRD",
+                    "values": [
+                        25.9,
+                        42.9
+                    ],
+                    "units": [
+                        "\u00b0"
+                    ],
+                    "conditions": [
+                        "(002) plane of graphitic carbon",
+                        "(100) plane of graphitic carbon"
+                    ],
+                    "evidence": 4.0
+                },
+                {
+                    "type": "Raman",
+                    "values": [
+                        1357.0,
+                        1595.0
+                    ],
+                    "units": [
+                        "cm\u22121"
+                    ],
+                    "conditions": [
+                        "D band",
+                        "G band"
+                    ],
+                    "evidence": 4.0
+                }
+            ],
+            "benchmark": false
+        }
+    ],
+    "doi": "example_doi",
+    "factor": "Hydrogen coverage,Energy barrier,Conductivity,Surface area,Size,Defect,Dopant,Active sites,Stability,Electrode potential,Overpotential,Tafel slope,onsite potential,Current density,Mass loading,XPS,FTIR,Raman,XRD",
+    "meta": {
+        "maintext": "/Users/yangz/Documents/projects/llm4catalyst/documents/maintext/A_novel_NFeDecorated_carbon_nanotubecarbon_nanoshe_maintext.txt",
+        "abstract": "/Users/yangz/Documents/projects/llm4catalyst/documents/abstract/A_novel_NFeDecorated_carbon_nanotubecarbon_nanoshe_abs.txt",
+        "intro": "documents/intro/c60_intro.txt",
+        "window_size": 2,
+        "chunk_size": 1000,
+        "chunk_overlap": 100,
+        "output": "results",
+        "property": "/Users/yangz/Documents/projects/llm4catalyst/prompts/properties.txt",
+        "self_defined": true,
+        "title": "A_novel_NFeDecorated_carbon_nanotubecarbon_nanoshe"
+    }
+}

@@ -1,0 +1,459 @@
+{
+    "materials": [
+        {
+            "material_name": "Co@NSCNT",
+            "properties": [
+                {
+                    "type": "annealing temperature",
+                    "value": 900.0,
+                    "unit": "\u00b0C",
+                    "conditions": "pyrolytic treatment",
+                    "reaction_type": "NA",
+                    "evidence": 0
+                },
+                {
+                    "type": "durability",
+                    "value": 0.0,
+                    "unit": "NA",
+                    "conditions": "compared to commercial platinum catalysts",
+                    "reaction_type": "NA",
+                    "evidence": 0
+                },
+                {
+                    "type": "onset potential",
+                    "value": 0.0,
+                    "unit": "NA",
+                    "conditions": "comparable to ruthenium oxide",
+                    "reaction_type": "NA",
+                    "evidence": 0
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 0.0,
+                    "unit": "NA",
+                    "conditions": "comparable to ruthenium oxide",
+                    "reaction_type": "NA",
+                    "evidence": 0
+                },
+                {
+                    "type": "Annealing temperature",
+                    "value": 900.0,
+                    "unit": "\u00b0C",
+                    "conditions": "annealed for catalytic performance",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "Morphology",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "FE-SEM",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "Size",
+                    "value": 90.0,
+                    "unit": "nm",
+                    "conditions": "FE-SEM analysis",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "Interlayer distance",
+                    "value": 0.34,
+                    "unit": "nm",
+                    "conditions": "HR-TEM analysis, corresponding to the (0 0 2) plane of carbon graphite",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "Lattice distance",
+                    "value": 0.204,
+                    "unit": "nm",
+                    "conditions": "HR-TEM analysis, corresponding to the (1 1 1) cubic crystal plane of metallic cobalt",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "Specific surface area",
+                    "value": 251.0,
+                    "unit": "m2/g",
+                    "conditions": "BET measurements",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "Pore size",
+                    "value": 20.0,
+                    "unit": "nm",
+                    "conditions": "BET measurements, mesoporous pore size distribution",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "Pore size",
+                    "value": 30.0,
+                    "unit": "nm",
+                    "conditions": "BET measurements, mesoporous pore size distribution",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "Size",
+                    "value": 90.0,
+                    "unit": "nm",
+                    "conditions": "FE-SEM",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Interlayer distance",
+                    "value": 0.34,
+                    "unit": "nm",
+                    "conditions": "HR-TEM, corresponds to (0 0 2) plane of carbon graphite",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Lattice distance",
+                    "value": 0.204,
+                    "unit": "nm",
+                    "conditions": "HR-TEM, corresponds to (1 1 1) cubic crystal plane",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Surface area",
+                    "value": 251.0,
+                    "unit": "m2/g",
+                    "conditions": "BET",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Pore size",
+                    "value": 20.0,
+                    "unit": "nm",
+                    "conditions": "BET, mesoporous",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Pore size",
+                    "value": 30.0,
+                    "unit": "nm",
+                    "conditions": "BET, mesoporous",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "thiophene S content",
+                    "value": 68.8,
+                    "unit": "%",
+                    "conditions": "annealing temperature 900 \u00b0C",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "oxidized S content",
+                    "value": 31.2,
+                    "unit": "%",
+                    "conditions": "annealing temperature 900 \u00b0C",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "onset potential",
+                    "value": 0.833,
+                    "unit": "V",
+                    "conditions": "ORR",
+                    "reaction_type": "ORR",
+                    "evidence": 8
+                },
+                {
+                    "type": "half wave potential",
+                    "value": 0.906,
+                    "unit": "V",
+                    "conditions": "ORR",
+                    "reaction_type": "ORR",
+                    "evidence": 8
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 153.0,
+                    "unit": "mV decade-1",
+                    "conditions": "OER",
+                    "reaction_type": "OER",
+                    "evidence": 8
+                },
+                {
+                    "type": "Size",
+                    "value": 90.0,
+                    "unit": "nm",
+                    "conditions": "FE-SEM image",
+                    "reaction_type": null,
+                    "evidence": 5
+                },
+                {
+                    "type": "Surface area",
+                    "value": 251.0,
+                    "unit": "m\u00b2/g",
+                    "conditions": "BET measurement",
+                    "reaction_type": null,
+                    "evidence": 5
+                },
+                {
+                    "type": "Pore size",
+                    "value": 20.0,
+                    "unit": "nm",
+                    "conditions": "BET measurement, mesoporous",
+                    "reaction_type": null,
+                    "evidence": 5
+                },
+                {
+                    "type": "Pore size",
+                    "value": 30.0,
+                    "unit": "nm",
+                    "conditions": "BET measurement, mesoporous",
+                    "reaction_type": null,
+                    "evidence": 5
+                },
+                {
+                    "type": "N/C ratio",
+                    "value": 6.69,
+                    "unit": "%",
+                    "conditions": "XPS analysis",
+                    "reaction_type": null,
+                    "evidence": 5
+                },
+                {
+                    "type": "N/C ratio",
+                    "value": 3.35,
+                    "unit": "%",
+                    "conditions": "XPS analysis",
+                    "reaction_type": null,
+                    "evidence": 5
+                },
+                {
+                    "type": "S/C ratio",
+                    "value": 2.33,
+                    "unit": "%",
+                    "conditions": "XPS analysis",
+                    "reaction_type": null,
+                    "evidence": 5
+                },
+                {
+                    "type": "S/C ratio",
+                    "value": 0.96,
+                    "unit": "%",
+                    "conditions": "XPS analysis",
+                    "reaction_type": null,
+                    "evidence": 5
+                },
+                {
+                    "type": "O/C ratio",
+                    "value": 8.1,
+                    "unit": "%",
+                    "conditions": "XPS analysis",
+                    "reaction_type": null,
+                    "evidence": 5
+                },
+                {
+                    "type": "O/C ratio",
+                    "value": 3.2,
+                    "unit": "%",
+                    "conditions": "XPS analysis",
+                    "reaction_type": null,
+                    "evidence": 5
+                },
+                {
+                    "type": "Onset potential",
+                    "value": 0.781,
+                    "unit": "V",
+                    "conditions": "RDE measurement, 0.1 M KOH, O2 saturated",
+                    "reaction_type": null,
+                    "evidence": 5
+                },
+                {
+                    "type": "Half wave potential",
+                    "value": 0.852,
+                    "unit": "V",
+                    "conditions": "RDE measurement, 0.1 M KOH, O2 saturated",
+                    "reaction_type": null,
+                    "evidence": 5
+                },
+                {
+                    "type": "thiophene S content",
+                    "value": 72.2,
+                    "unit": "%",
+                    "conditions": "annealing temperature 800 \u00b0C",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "oxidized S content",
+                    "value": 27.8,
+                    "unit": "%",
+                    "conditions": "annealing temperature 800 \u00b0C",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "thiophene S content",
+                    "value": 68.8,
+                    "unit": "%",
+                    "conditions": "annealing temperature 1000 \u00b0C",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "oxidized S content",
+                    "value": 31.2,
+                    "unit": "%",
+                    "conditions": "annealing temperature 1000 \u00b0C",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "XPS",
+                    "values": [
+                        164.0,
+                        285.0,
+                        398.0,
+                        533.0,
+                        780.0,
+                        164.0,
+                        285.0,
+                        398.0,
+                        533.0,
+                        780.0,
+                        164.1,
+                        165.2,
+                        164.1,
+                        165.2
+                    ],
+                    "units": [
+                        "eV"
+                    ],
+                    "conditions": [
+                        "S 2p peak",
+                        "XPS deconvolution",
+                        "oxidized S bonding energy",
+                        "thiophene S bonding energy",
+                        "C 1s peak",
+                        "O 1s peak",
+                        "N 1s peak",
+                        "XPS spectra",
+                        "Co 2p peak"
+                    ],
+                    "evidence": 5.642857142857143
+                },
+                {
+                    "type": "XRD",
+                    "values": [
+                        26.5,
+                        44.2,
+                        51.6,
+                        75.9,
+                        26.5,
+                        44.2,
+                        51.6,
+                        75.9,
+                        26.5,
+                        44.2,
+                        51.6,
+                        75.9
+                    ],
+                    "units": [
+                        "\u00b0"
+                    ],
+                    "conditions": [
+                        "corresponds to (2 0 0) plane",
+                        "XRD analysis",
+                        "corresponds to (0 0 2) plane of graphitic carbon lattice",
+                        "XRD analysis, corresponding to the (0 0 2) plane of the graphitic carbon lattice",
+                        "2\u03b8 range 20\u00b0 to 80\u00b0",
+                        "corresponds to (1 1 1) plane",
+                        "XRD analysis, corresponding to the (1 1 1) plane of metallic cobalt",
+                        "corresponds to (2 2 0) plane"
+                    ],
+                    "evidence": 4.0
+                },
+                {
+                    "type": "Raman",
+                    "values": [
+                        1349.0,
+                        1581.0
+                    ],
+                    "units": [
+                        "cm\u22121"
+                    ],
+                    "conditions": [
+                        "Raman spectroscopy"
+                    ],
+                    "evidence": 5.0
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Pt/C",
+            "properties": [
+                {
+                    "type": "onset potential",
+                    "value": 0.84,
+                    "unit": "V",
+                    "conditions": "ORR",
+                    "reaction_type": "ORR",
+                    "evidence": 8
+                },
+                {
+                    "type": "half wave potential",
+                    "value": 0.931,
+                    "unit": "V",
+                    "conditions": "ORR",
+                    "reaction_type": "ORR",
+                    "evidence": 8
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 192.0,
+                    "unit": "mV decade-1",
+                    "conditions": "OER",
+                    "reaction_type": "OER",
+                    "evidence": 8
+                }
+            ],
+            "benchmark": true
+        },
+        {
+            "material_name": "RuO2",
+            "properties": [
+                {
+                    "type": "Tafel slope",
+                    "value": 115.0,
+                    "unit": "mV decade-1",
+                    "conditions": "OER",
+                    "reaction_type": "OER",
+                    "evidence": 8
+                }
+            ],
+            "benchmark": true
+        }
+    ],
+    "doi": "example_doi",
+    "factor": "Hydrogen coverage,Energy barrier,Conductivity,Surface area,Size,Defect,Dopant,Active sites,Stability,Electrode potential,Overpotential,Tafel slope,onsite potential,Current density,Mass loading,XPS,FTIR,Raman,XRD",
+    "meta": {
+        "maintext": "/Users/yangz/Documents/projects/llm4catalyst/documents/maintext/Controllable_active_sites_and_facile_synthesis_of__maintext.txt",
+        "abstract": "/Users/yangz/Documents/projects/llm4catalyst/documents/abstract/Controllable_active_sites_and_facile_synthesis_of__abs.txt",
+        "intro": "documents/intro/c60_intro.txt",
+        "window_size": 2,
+        "chunk_size": 1000,
+        "chunk_overlap": 100,
+        "output": "results",
+        "property": "/Users/yangz/Documents/projects/llm4catalyst/prompts/properties.txt",
+        "self_defined": true,
+        "title": "Controllable_active_sites_and_facile_synthesis_of_"
+    }
+}

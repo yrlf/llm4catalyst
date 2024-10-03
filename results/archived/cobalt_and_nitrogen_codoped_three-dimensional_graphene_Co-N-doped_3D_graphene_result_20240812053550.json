@@ -1,0 +1,701 @@
+{
+    "materials": [
+        {
+            "material_name": "Co-N-GCI",
+            "properties": [
+                {
+                    "type": "Mass loading",
+                    "value": 0.5,
+                    "unit": "mg",
+                    "conditions": "in terms of cobalt",
+                    "reaction_type": "NA",
+                    "evidence": 0
+                },
+                {
+                    "type": "Catalyst loading",
+                    "value": 0.5,
+                    "unit": "mg cm\u20132",
+                    "conditions": "0.1 M KOH, polished glassy carbon electrode, dried under an infrared lamp",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "Surface area",
+                    "value": 365.2,
+                    "unit": "m\u00b2/g",
+                    "conditions": "from N2 adsorption\u2013desorption isotherms",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "Pore volume",
+                    "value": 1.6,
+                    "unit": "cm\u00b3/g",
+                    "conditions": "from N2 adsorption\u2013desorption isotherms",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "Cobalt content",
+                    "value": 1.65,
+                    "unit": "wt%",
+                    "conditions": "ICP-MS analysis",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "Surface area",
+                    "value": 365.2,
+                    "unit": "m\u00b2/g",
+                    "conditions": "BET method",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "Pore volume",
+                    "value": 1.6,
+                    "unit": "cm\u00b3/g",
+                    "conditions": "BJH method",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "Cobalt content",
+                    "value": 1.65,
+                    "unit": "wt%",
+                    "conditions": "Inductively coupled plasma mass spectroscopic (ICP-MS) analysis",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                },
+                {
+                    "type": "ORR peak potential",
+                    "value": 0.857,
+                    "unit": "V",
+                    "conditions": "LSV in O2-saturated 0.1 M KOH solution",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "Diffusion-limiting current density",
+                    "value": 34.0,
+                    "unit": "%",
+                    "conditions": "LSV in O2-saturated 0.1 M KOH solution",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 58.0,
+                    "unit": "mV dec\u20131",
+                    "conditions": "Derived from LSV data",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "Electron transfer number",
+                    "value": 4.0,
+                    "unit": "n",
+                    "conditions": "LSV tests at different rotating speeds in O2-saturated 0.1 M KOH solution",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "Stability",
+                    "value": 91.4,
+                    "unit": "%",
+                    "conditions": "Chronoamperometric measurement at 0.682 V vs RHE after 20,000 s",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "OER overpotential",
+                    "value": 426.0,
+                    "unit": "mV",
+                    "conditions": "OER LSV curve in O2-saturated 0.1 M KOH at 1600 rpm",
+                    "reaction_type": "OER",
+                    "evidence": 5
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 69.0,
+                    "unit": "mV dec\u20131",
+                    "conditions": "OER Tafel plots",
+                    "reaction_type": "OER",
+                    "evidence": 5
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 58.0,
+                    "unit": "mV dec\u20131",
+                    "conditions": "derived from LSV data",
+                    "reaction_type": "ORR",
+                    "evidence": 6
+                },
+                {
+                    "type": "electron transfer number",
+                    "value": 4.0,
+                    "unit": "none",
+                    "conditions": "in 0.1 M KOH, LSV tests at different rotating speeds from 900 to 2500 rpm",
+                    "reaction_type": "ORR",
+                    "evidence": 6
+                },
+                {
+                    "type": "H2O2 yield",
+                    "value": 5.0,
+                    "unit": "%",
+                    "conditions": "RRDE measurements, potential range of 0.3\u20130.6 V vs RHE",
+                    "reaction_type": "ORR",
+                    "evidence": 6
+                },
+                {
+                    "type": "electron transfer number",
+                    "value": 3.9,
+                    "unit": "none",
+                    "conditions": "RRDE measurements, potential range of 0.3\u20130.6 V vs RHE",
+                    "reaction_type": "ORR",
+                    "evidence": 6
+                },
+                {
+                    "type": "current density retention",
+                    "value": 91.4,
+                    "unit": "%",
+                    "conditions": "chronoamperometric measurement at 0.682 V vs RHE after 20000 s",
+                    "reaction_type": "ORR",
+                    "evidence": 6
+                },
+                {
+                    "type": "half wave potential loss",
+                    "value": 8.0,
+                    "unit": "mV",
+                    "conditions": "after 1000 continuous CV cycles",
+                    "reaction_type": "ORR",
+                    "evidence": 6
+                },
+                {
+                    "type": "overpotential",
+                    "value": 426.0,
+                    "unit": "mV",
+                    "conditions": "OER LSV measurement at 10 mA cm\u20132 in 0.1 M KOH at 1600 rpm",
+                    "reaction_type": "OER",
+                    "evidence": 6
+                },
+                {
+                    "type": "overpotential increase",
+                    "value": 12.0,
+                    "unit": "mV",
+                    "conditions": "after 200 continuous potential cycles to achieve a current density of 10 mA cm\u20132",
+                    "reaction_type": "OER",
+                    "evidence": 6
+                },
+                {
+                    "type": "\u0394E value",
+                    "value": 0.807,
+                    "unit": "V",
+                    "conditions": "difference of OER potential to ORR potential",
+                    "reaction_type": "NA",
+                    "evidence": 6
+                },
+                {
+                    "type": "Overpotential",
+                    "value": 426.0,
+                    "unit": "mV",
+                    "conditions": "at 10 mA cm\u20132 in O2-saturated 0.1 M KOH",
+                    "reaction_type": "OER",
+                    "evidence": 7
+                },
+                {
+                    "type": "Current density",
+                    "value": 10.0,
+                    "unit": "mA cm\u20132",
+                    "conditions": "in O2-saturated 0.1 M KOH",
+                    "reaction_type": "OER",
+                    "evidence": 7
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 69.0,
+                    "unit": "mV dec\u20131",
+                    "conditions": "in O2-saturated 0.1 M KOH",
+                    "reaction_type": "OER",
+                    "evidence": 7
+                },
+                {
+                    "type": "Stability",
+                    "value": 12.0,
+                    "unit": "mV",
+                    "conditions": "increase in overpotential after 200 cycles in O2-saturated 0.1 M KOH at room temperature",
+                    "reaction_type": "OER",
+                    "evidence": 7
+                },
+                {
+                    "type": "Electrode potential difference",
+                    "value": 0.807,
+                    "unit": "V",
+                    "conditions": "difference of OER potential to ORR potential at respective current densities of 10 mA cm\u20132 and -3 mA cm\u20132",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "Conductivity",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "acting as 'shortcuts' for interplanar electron transport",
+                    "reaction_type": "NA",
+                    "evidence": 8
+                },
+                {
+                    "type": "Surface area",
+                    "value": 195.6,
+                    "unit": "m\u00b2/g",
+                    "conditions": "from N2 adsorption\u2013desorption isotherms",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "Pore volume",
+                    "value": 0.55,
+                    "unit": "cm\u00b3/g",
+                    "conditions": "from N2 adsorption\u2013desorption isotherms",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "Cobalt content",
+                    "value": 0.62,
+                    "unit": "at%",
+                    "conditions": "ICP-MS analysis",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "Nitrogen content",
+                    "value": 5.58,
+                    "unit": "at%",
+                    "conditions": "ICP-MS analysis",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 72.0,
+                    "unit": "mV dec\u20131",
+                    "conditions": "derived from LSV data",
+                    "reaction_type": "ORR",
+                    "evidence": 6
+                },
+                {
+                    "type": "electron transfer number",
+                    "value": 3.79,
+                    "unit": "none",
+                    "conditions": "in 0.1 M KOH, LSV tests at different rotating speeds from 900 to 2500 rpm",
+                    "reaction_type": "ORR",
+                    "evidence": 6
+                },
+                {
+                    "type": "H2O2 yield",
+                    "value": 11.0,
+                    "unit": "%",
+                    "conditions": "RRDE measurements, potential range of 0.3\u20130.6 V vs RHE",
+                    "reaction_type": "ORR",
+                    "evidence": 6
+                },
+                {
+                    "type": "electron transfer number",
+                    "value": 3.8,
+                    "unit": "none",
+                    "conditions": "RRDE measurements, potential range of 0.3\u20130.6 V vs RHE",
+                    "reaction_type": "ORR",
+                    "evidence": 6
+                },
+                {
+                    "type": "current density retention",
+                    "value": 85.0,
+                    "unit": "%",
+                    "conditions": "chronoamperometric measurement at 0.682 V vs RHE after 20000 s",
+                    "reaction_type": "ORR",
+                    "evidence": 6
+                },
+                {
+                    "type": "half wave potential loss",
+                    "value": 12.0,
+                    "unit": "mV",
+                    "conditions": "after 1000 continuous CV cycles",
+                    "reaction_type": "ORR",
+                    "evidence": 6
+                },
+                {
+                    "type": "overpotential",
+                    "value": 472.0,
+                    "unit": "mV",
+                    "conditions": "OER LSV measurement at 10 mA cm\u20132 in 0.1 M KOH at 1600 rpm",
+                    "reaction_type": "OER",
+                    "evidence": 6
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 78.0,
+                    "unit": "mV dec\u20131",
+                    "conditions": "OER Tafel plots",
+                    "reaction_type": "OER",
+                    "evidence": 6
+                },
+                {
+                    "type": "overpotential increase",
+                    "value": 30.0,
+                    "unit": "mV",
+                    "conditions": "after 200 continuous potential cycles to achieve a current density of 10 mA cm\u20132",
+                    "reaction_type": "OER",
+                    "evidence": 6
+                },
+                {
+                    "type": "\u0394E value",
+                    "value": 0.892,
+                    "unit": "V",
+                    "conditions": "difference of OER potential to ORR potential",
+                    "reaction_type": "NA",
+                    "evidence": 6
+                },
+                {
+                    "type": "Overpotential",
+                    "value": 472.0,
+                    "unit": "mV",
+                    "conditions": "at 10 mA cm\u20132 in O2-saturated 0.1 M KOH",
+                    "reaction_type": "OER",
+                    "evidence": 7
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 78.0,
+                    "unit": "mV dec\u20131",
+                    "conditions": "in O2-saturated 0.1 M KOH",
+                    "reaction_type": "OER",
+                    "evidence": 7
+                },
+                {
+                    "type": "Stability",
+                    "value": 30.0,
+                    "unit": "mV",
+                    "conditions": "increase in overpotential after 200 cycles in O2-saturated 0.1 M KOH at room temperature",
+                    "reaction_type": "OER",
+                    "evidence": 7
+                },
+                {
+                    "type": "Electrode potential difference",
+                    "value": 0.892,
+                    "unit": "V",
+                    "conditions": "difference of OER potential to ORR potential at respective current densities of 10 mA cm\u20132 and -3 mA cm\u20132",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "Surface area",
+                    "value": 253.0,
+                    "unit": "m\u00b2/g",
+                    "conditions": "high surface area and hierarchical porous structure",
+                    "reaction_type": "ORR",
+                    "evidence": 10
+                },
+                {
+                    "type": "Oxygen Evolution",
+                    "value": 13567.0,
+                    "unit": "DOI",
+                    "conditions": "Highly Efficient",
+                    "reaction_type": "OER",
+                    "evidence": 12
+                },
+                {
+                    "type": "Surface area",
+                    "value": 7234.0,
+                    "unit": "m\u00b2/g",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 15
+                },
+                {
+                    "type": "Active sites",
+                    "value": 3.0,
+                    "unit": "sites",
+                    "conditions": "dispersed on N-doped carbon nanosheets",
+                    "reaction_type": "NA",
+                    "evidence": 16
+                },
+                {
+                    "type": "Surface area",
+                    "value": 622.0,
+                    "unit": "m\u00b2/g",
+                    "conditions": "derived from MOF",
+                    "reaction_type": "NA",
+                    "evidence": 18
+                },
+                {
+                    "type": "Surface area",
+                    "value": 1200.0,
+                    "unit": "m\u00b2/g",
+                    "conditions": "derived from ZIF-67",
+                    "reaction_type": "NA",
+                    "evidence": 19
+                },
+                {
+                    "type": "Oxygen Reduction and Evolution Reactions",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "Bifunctional Electrocatalyst",
+                    "reaction_type": "NA",
+                    "evidence": 20
+                },
+                {
+                    "type": "Oxygen reduction reaction",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "embedded Co/CoOx nanoparticles",
+                    "reaction_type": "ORR",
+                    "evidence": 21
+                },
+                {
+                    "type": "XPS",
+                    "values": [
+                        284.5,
+                        401.0,
+                        531.6,
+                        780.0,
+                        397.6,
+                        399.1,
+                        400.7
+                    ],
+                    "units": [
+                        "eV"
+                    ],
+                    "conditions": [
+                        "High-resolution N 1s spectrum",
+                        "C 1s peak",
+                        "O 1s peak",
+                        "N 1s peak",
+                        "Co 2p peak"
+                    ],
+                    "evidence": 3.2857142857142856
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Pt/C",
+            "properties": [
+                {
+                    "type": "Diffusion-limiting current density",
+                    "value": 34.0,
+                    "unit": "%",
+                    "conditions": "LSV in O2-saturated 0.1 M KOH solution",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "OER overpotential",
+                    "value": 621.0,
+                    "unit": "mV",
+                    "conditions": "OER LSV curve in O2-saturated 0.1 M KOH at 1600 rpm",
+                    "reaction_type": "OER",
+                    "evidence": 5
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 168.0,
+                    "unit": "mV dec\u20131",
+                    "conditions": "OER Tafel plots",
+                    "reaction_type": "OER",
+                    "evidence": 5
+                },
+                {
+                    "type": "overpotential",
+                    "value": 621.0,
+                    "unit": "mV",
+                    "conditions": "OER LSV measurement at 10 mA cm\u20132 in 0.1 M KOH at 1600 rpm",
+                    "reaction_type": "OER",
+                    "evidence": 6
+                },
+                {
+                    "type": "\u0394E value",
+                    "value": 1.04,
+                    "unit": "V",
+                    "conditions": "difference of OER potential to ORR potential",
+                    "reaction_type": "NA",
+                    "evidence": 6
+                },
+                {
+                    "type": "Overpotential",
+                    "value": 621.0,
+                    "unit": "mV",
+                    "conditions": "at 10 mA cm\u20132 in O2-saturated 0.1 M KOH",
+                    "reaction_type": "OER",
+                    "evidence": 7
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 168.0,
+                    "unit": "mV dec\u20131",
+                    "conditions": "in O2-saturated 0.1 M KOH",
+                    "reaction_type": "OER",
+                    "evidence": 7
+                },
+                {
+                    "type": "Electrode potential difference",
+                    "value": 1.04,
+                    "unit": "V",
+                    "conditions": "difference of OER potential to ORR potential at respective current densities of 10 mA cm\u20132 and -3 mA cm\u20132",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                }
+            ],
+            "benchmark": true
+        },
+        {
+            "material_name": "IrO2/C",
+            "properties": [
+                {
+                    "type": "OER overpotential",
+                    "value": 370.0,
+                    "unit": "mV",
+                    "conditions": "OER LSV curve in O2-saturated 0.1 M KOH at 1600 rpm",
+                    "reaction_type": "OER",
+                    "evidence": 5
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 83.0,
+                    "unit": "mV dec\u20131",
+                    "conditions": "OER Tafel plots",
+                    "reaction_type": "OER",
+                    "evidence": 5
+                },
+                {
+                    "type": "Overpotential",
+                    "value": 370.0,
+                    "unit": "mV",
+                    "conditions": "at 10 mA cm\u20132 in O2-saturated 0.1 M KOH",
+                    "reaction_type": "OER",
+                    "evidence": 7
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 83.0,
+                    "unit": "mV dec\u20131",
+                    "conditions": "in O2-saturated 0.1 M KOH",
+                    "reaction_type": "OER",
+                    "evidence": 7
+                }
+            ],
+            "benchmark": true
+        },
+        {
+            "material_name": "Pt3Ni(111)",
+            "properties": [
+                {
+                    "type": "Surface site availability",
+                    "value": 0.0,
+                    "unit": "NA",
+                    "conditions": "Increased surface site availability improves oxygen reduction activity",
+                    "reaction_type": "ORR",
+                    "evidence": 9
+                }
+            ],
+            "benchmark": true
+        },
+        {
+            "material_name": "Co/CoO nanoparticles immobilized on Co-N-doped carbon",
+            "properties": [
+                {
+                    "type": "Electrocatalyst",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "for oxygen reduction, oxygen evolution and hydrogen evolution reactions",
+                    "reaction_type": "NA",
+                    "evidence": 11
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Pt",
+            "properties": [
+                {
+                    "type": "Oxygen Evolution",
+                    "value": 13567.0,
+                    "unit": "DOI",
+                    "conditions": "Highly Efficient",
+                    "reaction_type": "OER",
+                    "evidence": 12
+                }
+            ],
+            "benchmark": true
+        },
+        {
+            "material_name": "CoN3 active sites on N-doped graphitic carbon nanosheets",
+            "properties": [
+                {
+                    "type": "Bifunctional electrocatalyst",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "for ultr",
+                    "reaction_type": "NA",
+                    "evidence": 13
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "CoN3",
+            "properties": [
+                {
+                    "type": "Active sites",
+                    "value": 3.0,
+                    "unit": "sites",
+                    "conditions": "dispersed on N-doped graphitic carbon nanosheets",
+                    "reaction_type": "NA",
+                    "evidence": 14
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "CoFe-LDH/MWCNT/rGO",
+            "properties": [
+                {
+                    "type": "bifunctional electrocatalysts",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "for oxygen evolution and reduction",
+                    "reaction_type": "OER",
+                    "evidence": 17
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Co nanoparticles inlayed on N-doped macroporous carbon",
+            "properties": [
+                {
+                    "type": "Surface area",
+                    "value": 14763.0,
+                    "unit": "m\u00b2/g",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 22
+                }
+            ],
+            "benchmark": false
+        }
+    ],
+    "doi": "example_doi",
+    "factor": "Hydrogen coverage,Energy barrier,Conductivity,Surface area,Size,Defect,Dopant,Active sites,Stability,Electrode potential,Overpotential,Tafel slope,onsite potential,Current density,Mass loading,XPS,FTIR,Raman,XRD",
+    "meta": {
+        "maintext": "/Users/yangz/Documents/projects/llm4catalyst/documents/maintext/Cobalt_and_Nitrogen_Codoped_Graphene_with_Inserted_maintext.txt",
+        "abstract": "/Users/yangz/Documents/projects/llm4catalyst/documents/abstract/Cobalt_and_Nitrogen_Codoped_Graphene_with_Inserted_abs.txt",
+        "intro": "documents/intro/c60_intro.txt",
+        "window_size": 2,
+        "chunk_size": 1000,
+        "chunk_overlap": 100,
+        "output": "results",
+        "property": "/Users/yangz/Documents/projects/llm4catalyst/prompts/properties.txt",
+        "self_defined": true,
+        "title": "Cobalt_and_Nitrogen_Codoped_Graphene_with_Inserted"
+    }
+}

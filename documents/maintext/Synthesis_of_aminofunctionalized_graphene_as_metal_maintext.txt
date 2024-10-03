@@ -1,0 +1,332 @@
+Nitrogen-containing graphene is a promising candidate for oxygen reduction reaction (ORR) in fuel cells. However, there are still some challenges in further application and modification of N-graphene and in understanding the roles of various nitrogen states on electrocatalysis. Herein, we design a simple and effective solvothermal method to synthesize amino-functionalized graphene (AG) from graphite oxide (GO) only in the presence of ammonia solution. Having a significant amount of amino species with the total nitrogen content of up to 10.6% (atom%), the resultant product can act as an efficient metal-free catalyst, exhibiting enhanced electrocatalytic properties for ORR. Furthermore, a combination of X-ray photoelectron spectroscopy (XPS) and electrochemical measurements was used to investigate the roles of various nitrogen states in ORR, and the contribution of amino group has been demonstrated for the first time. Our experiments show that the graphitic- and amino-type of nitrogen components determine the onset potential and electron transfer number, while the total content of graphitic and pyridinic nitrogen atoms is the key factor to enhance the current density in the electrocatalytic activity for ORR. This work could lead to economical synthesis of AG as efficient ORR electrocatalyst in fuel cells, and help to understand the catalytic mechanism of various nitrogen states towards ORR.
+Amino-functionalized graphene (AG) is successfully synthesized through solvothermal process in the presence of graphite oxide (GO) and ammonia solution. The resultant product can act as an efficient metal-free catalyst for oxygen reduction reaction (ORR), and the amino species in graphene structure has a proven enhanced electrocatalytic activity towards ORR.
+Download: Download full-size image
+► We design a simple solvothermal method to synthesize amino-functionalized graphene (AG) as metal-free catalyst for oxygen reduction reaction (ORR). ► The amino group in AG makes a great contribution to ORR performance. ► The graphitic and amino N atoms determine the onset potential and electron transfer number in ORR. ► The graphitic and pyridinic N atoms are the key factor to enhance the current density in ORR.
+Fuel cell is being considered as a promising renewable energy using hydrogen as source in recent years. Before fuel cells can be widely used as new products in the market, however, some issues need to be addressed, including the optimal choice of fuel, the development of alternative materials in the fuel-cell stack, as well as the efficient and inexpensive electrocatalyst triggered for cathodic oxygen reduction reaction (ORR)
+[1]
+,
+[2]
+. So far, Platinum (Pt)-based nanomaterials have been widely studied as active ORR catalysts, but suffer from multiple issues, e.g., poor durability, crossover, and poisoning effects, as well as the limited resource of Pt, which are hampering the wide commercialization of Pt-based catalysts for fuel cells
+[3]
+,
+[4]
+. Recently, intensive studies on metal-free catalysts have been aimed at reducing the cost and improving the performance towards ORR. However, there are still two tremendous challenges, including the inferior onset potential compared to Pt/C catalyst and unclear functions of various nitrogen states towards ORR
+[5]
+,
+[6]
+,
+[7]
+,
+[8]
+,
+[9]
+.
+Graphene, a single layer of sp2-bonded carbon in a hexagonal lattice, has attracted more and more attention due to its fascinating properties and great promise in the fields of electronics, mechanics, and nanocatalysts
+[10]
+,
+[11]
+,
+[12]
+,
+[13]
+,
+[14]
+,
+[15]
+. One possible route to achieve more applications of graphene is to modulate its properties by chemical doping and modification
+[16]
+. For example, nitrogen-doped graphene (NG) was found to have enhanced electronic and catalytic properties than the intrinsic graphene, which can be used for nanodevices and fuel cells
+[17]
+,
+[18]
+,
+[19]
+. However, most of the N-doping approaches were complex and performed under harsh conditions, such as high temperature in gas phase, plasma state, arc discharge, and microwave treatment
+[20]
+,
+[21]
+,
+[22]
+. Recently, several solution-phase processes have been designed to scale up the production of NG
+[23]
+,
+[24]
+,
+[25]
+. In our previous work, we employed supercritical liquid-phase exfoliation to produce NG to modulate the electric properties of graphene
+[26]
+. The reduction of graphite oxide (GO) by hydrazine was also developed and widely used
+[27]
+,
+[28]
+,
+[29]
+. However, as a highly toxic and potentially explosive chemical, the use of hydrazine should be avoided in large-scale implementation
+[30]
+. Very recently, a wet chemical method was proposed to synthesize NG using dicyandiamide as nitrogen source, but more than 20% of oxygen content may significantly hinder its electrochemical performance
+[31]
+. A general and safe solution-phase synthesis of NG with high efficiency in ORR is still highly desirable. Moreover, amino-functionalized carbon materials are reported to have good catalytic activities very recently
+[32]
+. It is therefore interesting to combine the amino-modification and N-doping on the graphene structure, and the designed amino-functionalized NG (AG) may hopefully be a good metal-free catalyst for ORR in fuel cells.
+Herein, we report three different kinds of graphene samples (AG, deaminated NG, and annealed NG) as metal-free catalysts for ORR. The successful introduction of amino species on graphene structure leads to the best performance in ORR, which indicates that amino N plays an important role in ORR. The effects of pyridinic, pyrrolic, and graphitic nitrogen functionalities have also been investigated systematically. We expect that our work would be useful to see the electrocatalytic process of nitrogen-containing carbon catalysts towards ORR.
+All reagents are of analytical grade and used without further purification. GO was prepared from graphite powder by a modified Hummers method
+[33]
+. 1 g of graphite, 0.5 g of NaNO3, and 23 mL of concentrated sulfuric acid were stirred together in an ice bath for 24 h. Under vigorous agitation, 3 g of KMnO4 was slowly added. Subsequently, the solution was transferred to a 35–40  °C water bath and kept there for 30 min. Next, 46 mL of water was gradually added, and the solution was stirred for 15 min while the temperature was raised to 90±5 °C. Finally, the solution was diluted with 140 mL of water and treated with 5 mL of H2O2 (30%), turning the color from dark brown to yellow. The warm solution was filtered and washed with 5% HCl solution and then washed with water. The resultant solid was dried in a vacuum oven at 70 °C overnight.
+Synthesis of AG: AG was synthesized through a one-pot solvothermal process. In a typical procedure, 80 mg of GO was added to 10 mL of water and sonicated for 0.5 h. Next, 70 mL of ammonia solution (25 wt% in water) was added, and the mixture was transferred into a 100 mL Teflon-lined autoclave and maintained at 200 °C for 12 h. The black solid was washed with 0.1 M HCl solution to remove the remaining ammonia solution and then washed repeatedly with water and ethanol. The final product was collected by centrifugation and dried at 60 °C overnight under vacuum to remove the physisorbed NH3, and kept for further characterization.
+Synthesis of chemically converted graphene (CCG): CCG was prepared by a common reduction approach with hydrazine as follows
+[34]
+. 160 mL of GO dispersion (1 mg mL−1) was mixed with 0.8 mL of hydrazine (98% in water), and 80 mg of NaOH was added to adjust the pH value of the solution to 10. The mixture was stirred in an oil bath at 80 °C under a water-cooled condenser for 24 h. After reduction, the product was filtered and washed with 0.1 M HCl solution, water and ethanol, and finally dried in a vacuum oven at 60 °C overnight.
+Synthesis of deaminated NG: Deaminated NG was prepared via a common chemical deamination process containing two steps: diazotization and hydrolysis. In a typical procedure, 20 mg of as-made AG was added to 10 mL of sulfuric acid (0.272 mmol) and sonicated for 30 min, yielding a black dispersion. Next, 5 mL of sodium nitrite solution (0.545 mmol) was gradually added, and the mixture was stirred in an ice bath for 15 min under vigorous agitation. 5 mL of urea solution (0.272 mmol) was then poured to remove the residual sodium nitrite, and the diazotized NG was transferred to sulfuric acid (3 M) for hydrolysis. For comparison, a part of pristine AG was treated with sulfuric acid (3 M), but without any other reagents. Finally, the products were washed repeatedly with water to remove the acid, and dried in a vacuum oven at 60 °C for 6 h.
+Synthesis of annealed NG: Annealed NG samples were prepared by a simple annealing method under different temperatures (400, 600, 800, and 1000 °C). The resultant materials are referred as NG-400, NG-600, NG-800, and NG-1000, respectively. The detailed procedure is as follows: AG was put in a quartz boat in the center of a tube furnace. After flowing argon for 15 min, the furnace was heated to the designed temperature (e.g., 400 °C) at a constant heating rate of 10 °C min−1 and then maintained for 1 h under argon. The products were collected when the furnace temperature was below 50 °C.
+X-ray diffraction (XRD) patterns were performed on a Philips X'Pert Pro diffractometer with Cu Kα (λ=1.5405 Å) radiation. Scanning electron microscopy (SEM) images were recorded on a Hitachi S-4800 SEM. Transmission electron microscopy (TEM) images and selected area electron diffraction (SAED) pattern were recorded on a FEI Tecnai F20. Raman spectra measurements were recorded on a Renishaw 1000 Raman imaging microscope system with an excitation wavelength of 632.8 nm. Atomic force microscopy (AFM) measurements were carried out with Veeco Nanoman II AFM in tapping mode (Dimension 3100, with close looped hybrid XYZ scanning probe microscope head) in the air. TEM elemental mapping measurement was performed on a JEM-2100 electron microscope. Fourier transform infrared (FTIR) spectra were recorded using a Nicolet ECTOR22 FTIR spectrometer. X-ray photoelectron spectroscopy (XPS) measurements were carried out on an Axis Ultra (Kratos Analytical Ltd.) imaging photoelectron spectrometer using a monochromatized Al Kα anode, and the C1s peak at 284.8 eV was taken as an internal standard.
+Electrochemical measurements were carried out on a CHI 760C electrochemical workstation with a three-electrode system. The glassy-carbon (GC) rotating disk electrode (RDE) (diameter 5 mm) was used as working electrode, a Pt foil electrode and an Ag/AgCl with saturated KCl solution electrode as counter and reference electrode, respectively. For the electrode preparation, AG together with other catalyst material suspension in ethanol (1 mg mL−1) was prepared by introduction of a predetermined amount of the corresponding catalyst sample in ethanol under sonication. A 10 μL portion of AG or other catalyst suspension was then dropped onto the electrode using a microsyringe, followed by dropping 5 μL of Nafion solution in ethanol (0.1 wt%) as a binder. Koutechy–Levich (K–L) plots were analyzed at various electrode potentials. The slopes of their linear fit lines are used to calculate the number of electrons transferred per oxygen molecule (n) on the basis of the K–L equation
+[7]
+:
+where J denotes the measured current density, JK represents the kinetic-limiting current densities, and ω is the electrode rotating rate. B can be determined from the slope of K–L plots based on K–L equation as follows:
+where n represents the number of electrons transferred per O2, F is the Faraday constant (F=96485 C mol−1), C0 is the bulk concentration of O2 (C0=1.2×10−6 mol cm−3), D0 is the diffusion coefficient of O2 in 0.1 M KOH (D0=1.9×10−5 cm2 s−1), and υ is the kinetic viscosity (υ=0.01 cm2 s−1). The constant 0.2 is adopted when the rotation rate is expressed in rpm.
+A facile solvothermal process was designed to synthesize AG using GO and ammonia solution only. Instead of some common reductant (e.g., hydrazine and sodium borohydride)
+[35]
+, it is worth noting that ammonia solution is used here as both reducing agent and nitrogen source rather than regulator to adjust the pH value of the solution
+[27]
+,
+[34]
+, thus the method developed here is more convenient, safe, and economical.
+XRD analysis was employed to characterize the chemical structures of GO and AG. As shown in
+Figure 1
+a, the sharp (002) peak of pristine graphite at 26.6° can be assigned to the characteristic value of graphite, corresponding to a lattice spacing of 0.335 nm. After oxidation, this characteristic peak disappeared and was replaced by a well-defined peak at a lower diffraction angle of 2θ=10.6°, which corresponded to an increased layer-to-layer distance of 0.83 nm related to the introduction of various oxygen-containing groups and water molecules
+[36]
+. Interestingly, the solvothermal process in ammonia solution led to the reduction of GO, confirmed by the reappearance of a broad peak around 26.1° and disappearance of the diffraction peak at 10.6°. An SEM image of as-made AG showed a flake-like surface (
+Figure S1
+). More detailed information about its morphology was obtained from TEM. As can be seen in
+Figure 1
+b, graphene nanosheets had a typical crumpled surface with random stacking, which might be attributed to the defective structure formed upon exfoliation and the presence of foreign nitrogen atoms
+[37]
+. The well-defined SAED spots and rings (inset of
+Figure 1
+b) showed a distinct hexagonal lattice, confirming the crystalline structure of AG, but were slightly different from those of the individual graphene sheets as a result of doping and overlapping
+[38]
+. Furthermore, the high-resolution TEM (HRTEM) image revealed the thickness of AG. As observed from
+Figure 1
+c, the suspended edge of AG film consists of four layers, which is consistent with the Raman spectra and AFM results (
+,
+). Moreover, the TEM elemental mapping (
+Figure S4
+) exhibited a highly homogeneous distribution of nitrogen and oxygen elements in both the plane and edge of AG nanosheets.
+Figure 1. (a) XRD patterns of graphite, GO, and AG. (b) TEM image of AG and the corresponding SAED pattern (inset). (c) HRTEM image of AG, showing the suspended edge of graphene film consists of four layers.
+FTIR spectra were then used to analyze the chemical compositions of GO and AG (
+Figure 2
+). The main peaks in FTIR spectrum of GO centered at 1045, 1219, 1415, 1631, 1728, and 3400 cm−1 can be ascribed to alkoxy C–O, epoxy C–O and C–OH, carboxyl O=C–O, aromatic C=C, C=O (carboxylic acid and carbonyl moieties), and O–H stretches, respectively, confirming the successful oxidation of graphite
+[7]
+,
+[39]
+. After solvothermal treatment, the content of these oxygen-containing groups in GO significantly decreased, while two new nitrogen-related peaks appeared at 1458 and 1543 cm−1 in the FTIR spectrum of AG, which can be preliminarily assigned to C–N stretching and N–H bending bonds of amide, respectively
+[29]
+,
+[40]
+,
+[41]
+.
+Figure 2. FTIR spectra of GO and AG.
+To further investigate the elemental composition and nitrogen bonding configurations in AG, XPS measurements were carried out.
+Figure 3
+a shows the C 1s XPS spectra of GO and AG. The full width at half maximum (FWHM) of AG became narrower after reduction, indicating an improved graphitic degree. A considerable degree of oxidation was observed in GO, corresponding to the carbon atoms in different functional groups: C–C (284.8), C–O (286.8), C=O (287.8), and COOH (289.0 eV)
+[42]
+. Significantly, the peak intensities of oxygen-containing groups became much weaker in AG while it is worth noting that an additional component appeared at 285.8 eV, which can be attributed to the C–N bonds
+[42]
+. These results are consistent with the low-resolution XPS spectra (
+Figure S5
+) and XPS elemental analysis (
+Table S1
+). As can be seen from
+Figure 3
+b, after solvothermal process, the oxygen content decreased from 32% to 4.9% and the nitrogen content significantly increased to 10.6%. It is worth noting that the O content in the AG is lower than that in NG synthesized by other solution-phase approaches
+[24]
+,
+[25]
+,
+[27]
+,
+[28]
+,
+[29]
+, and at the same time, the N content in AG is higher than that in the NG prepared at high temperatures
+[43]
+,
+[44]
+. The lower O and higher N content would be beneficial to the electrocatalytic process
+[37]
+. Furthermore, no metal peak was found in the XPS spectrum of AG, suggesting the product synthesized in current study is completely metal-free. The high-resolution N 1s XPS spectrum of AG was then collected in
+Figure 3
+c. Generally, the peaks located at 398.3, 400.1, and 401.4 eV are assigned to pyridinic-, pyrrolic-, and graphitic-type of nitrogen atoms doped in the graphene structure, respectively (
+Figure 3
+d)
+[45]
+. The high energy peak at 403.7 eV is known to be the oxidized nitrogen, but this type of nitrogen does not contribute to ORR performance significantly
+[46]
+. It can be generally accepted that the covalent functionalization with amino groups can occur at the edge or defect sites of GO through the preparation process with ammonia
+[47]
+, thus the peak centered at 399.2 eV can be attributed to amino nitrogen atom
+[47]
+,
+[48]
+,
+[49]
+, which is consistent with the previous FTIR result. The content of various nitrogen species is quantitatively depicted in
+Table S2
+based on XPS elemental analysis, showing a significant amount of all pyridinic, pyrrolic, graphitic, and amino nitrogen atoms existed in the graphene structure. The FTIR and XPS spectra could unambiguously support that the pristine GO was adequately reduced and efficiently doped/modified with nitrogen atoms/amino group through low-temperature solvothermal process, producing AG successfully.
+Figure 3. (a) The C 1s XPS spectra of GO and AG. (b) Chart showing the percentages of nitrogen and oxygen in the GO and AG measured by XPS. (c) The N 1s XPS spectrum of AG. (d) Schematic illustration of AG. The various ‘N’ atoms represent the pyridinic N, pyrrolic N, graphitic N, and amino group in graphene structure.
+Recently, more and more nonprecious-metal catalysts have been designed for the cathodic ORR in fuel cells, including several metal-free N-carbon materials
+[2]
+,
+[50]
+,
+[51]
+,
+[52]
+. However, the use of N-containing graphene – prepared in solution-phase at low temperature – as electrocatalyst towards ORR is rarely reported
+[31]
+, probably because such a solvothermal procedure leads to graphene with higher oxygen content and poorer crystallinity compared to that prepared at high temperature, which hampered its catalytic activity. In this work, as-made AG has little oxygen and good graphitic degree as evidenced by XPS spectra above. To evaluate its electrocatalytic performance, cyclic voltammetry (CV) measurements were performed for a GC electrode coated with AG, and those for electrodes within commercial Pt/C (20 wt% Pt supported on carbon black) and CCG (having similar O content to AG, see
+Figure S6
+) were also measured under the same conditions for comparison. The same amount of each catalyst by mass (51.0 μg cm−2) was loaded onto electrode.
+Figure 4
+a shows the CV curve of as-made AG. A well-defined cathodic peak was observed at about −0.35 V in the presence of O2, while the reduction current remained featureless at the same potential range under N2, suggesting a pronounced electrocatalytic activity of AG towards ORR. A comparison of CVs in AG, CCG, and Pt/C electrodes (
+Figure S7
+) exhibited that the oxygen reduction current density of AG was close to Pt/C and twice higher than that of CCG due to the incorporation of nitrogen atoms. To further investigate the ORR performance, we carried out linear sweep voltammetry (LSV) measurements for each of the electrode materials. As shown in
+Figure 4
+b, it is worth noting that the onset potential at AG electrode was measured to be at ca. −0.04 V, which is more positive than that of CCG electrode (ca. −0.19 V) and close to that of Pt/C (ca. −0.01 V). Metal-free catalyst with such a high onset potential is rarely reported before
+[6]
+,
+[7]
+,
+[44]
+,
+[53]
+. Although the current density of AG was lower compared to Pt/C, it was much higher than CCG, being about 2.5 times at −1.2 V. These results could reflect that the incorporation of nitrogen atom significantly enhanced the electrocatalytic activity of graphene in ORR, and the performance of AG is comparable to that of commercial Pt/C. The specific role of each nitrogen state will be discussed below. Similar with the case of N-doped carbon nanotubes, the improved catalytic performance can be attributed to the electron-accepting ability of nitrogen atoms that creates a net positive charge on adjacent carbon atoms in the graphene structure to readily attract electrons from the anode, and also the nitrogen-induced charge delocalization changes the chemisorption mode of O2 from the usual end-on adsorption to a side-on adsorption, which effectively weakens the O–O bond, thus facilitates the oxygen reduction process
+[2]
+.
+Figure 4. (a) CV curves of AG in a N2- and O2-saturated 0.1 M KOH solution at a scanning rate of 100 mV s−1. (b) LSV curves of CCG, Pt/C, and AG electrodes in an O2-saturated 0.1 M KOH solution at a scanning rate of 10 mV s−1 and a rotation speed of 1600 rpm. (c) RDE curves of AG electrode in an O2-saturated 0.1 M KOH solution with different rotation speeds at a scanning rate of 10 mV s−1. Inset shows the K–L plots of J−1 versus ω−1/2 at different electrode potentials derived from RDE measurements. (d) Current–time response of AG and Pt/C electrodes at −0.28 V in an O2-saturated 0.1 M KOH at a rotation speed of 1600 rpm.
+RDE voltammetry measurements were then performed for AG electrode with different rotation speeds as shown in
+Figure 4
+c, and the corresponding K–L plots at different electrode potentials exhibited good linearity (inset of
+Figure 4
+c). The number of electrons transferred per oxygen molecule (n) at AG electrode was calculated to be 3.3–4 on the basis of the K–L equation, indicating that the ORR at AG is a combination of two-electron and four-electron reactions (
+Figure S8
+).
+The AG electrode was further exposed to fuel molecules to examine the possible crossover and poison effects. We measured the current–time response for ORR at the AG and commercial Pt/C electrodes against the electrooxidation of methanol, one of the commonly used fuel molecules. It can be seen from
+Figure S9
+that a 35% decrease in the current occurred at the Pt/C electrode upon the addition of 1 M methanol, while a strong and stable amperometric response remained at the AG electrode, indicating its excellent tolerance to the crossover effect of methanol. To investigate the electrochemical stability of AG, especially the amino group, the catalytic performance of as-made AG and Pt/C electrodes was measured at a constant voltage for 20,000 s. As seen in
+Figure 4
+d, the current from both electrodes decreased with the increase of time. Obviously, the AG electrode exhibited better stability and a high relative current of 83% after 20,000 s, whereas Pt/C showed a greater decrease (60% remaining). Moreover, the continuous potential cycling of AG electrode was also performed in
+Figure S10
+a, from which we can see no significant loss of the catalytic activity occurred during a continuous potentiodynamic sweep for 1 day. The corresponding LSV measurement (
+Figure S10
+b) further proved an invariable onset potential after repeated cycling. Thus, it can be concluded that the catalytic sites of AG are stable, and the durability of AG is superior to that of Pt/C catalyst.
+So far, the roles of various nitrogen states on electrocatalytic properties have not been completely understood yet. Generally, the enhanced catalytic activity towards ORR is mainly attributed to the pyridinic and/or graphitic nitrogen
+[5]
+,
+[37]
+,
+[53]
+,
+[54]
+. It is worth noting that the unique solution-phase process, which is quite different from the high-temperature methods
+[55]
+,
+[56]
+,
+[57]
+, leads to the graphene prepared in present work containing a certain amount of amino group as evidenced by FTIR and XPS spectra above. The role of amino group in graphene towards ORR, to the best of our knowledge, has not been reported before. To clarify this point, a simple and common chemical deamination approach was designed to deaminate as-made AG, which consists of two procedures: diazotization and hydrolysis.
+As illustrated in
+Figure 5
+a, the diazo reaction occurred in the presence of excessive sodium nitrite and sulfuric acid solution at 0–5  °C, and then the hydrolysis process took place in acidic solution. To examine the effect of deamination process, XPS spectra and the corresponding elemental analysis (
+Table S1
+) were collected. As seen from
+Figure 5
+b, compared to that of pristine AG, the nitrogen content was calculated to decrease by 1.69% in deaminated NG, which means 81% of amino nitrogen atoms was released after deamination process. The FTIR spectra of AG before and after deamination are also shown in
+Figure S11
+, from which we can see the peak intensities of C–N stretching (1458 cm−1) and N–H bending (1543 cm−1) of amide
+[40]
+,
+[41]
+significantly decreased, with a new C–OH stretching
+[39]
+peak appeared at 1230 cm−1 due to the formation of hydroxyl after hydrolysis. These results could reflect that the deamination process is effective to remove most of amino group in the pristine AG, and in turn, prove the existence of amino group in as-made AG.
+Figure 5. (a) Schematic illustration of deamination process for the preparation of deaminated NG: diazotization and hydrolysis. (b) XPS spectra of AG before and after deamination. (c) LSV curve and (d) the dependence of n on the potential for pristine AG and deaminated NG.
+LSV measurements were then carried out to evaluate the contribution of amino group to ORR performance.
+Figure 5
+c shows the onset potential at deaminated NG electrode dropped from −0.04 V (pristine AG) to −0.09 V, while the oxygen reduction current density was lower than before over the entire potential range; besides, the electron transfer number at deaminated NG electrode was calculated to be 3.1–3.4 (
+Figure S12
+), which was also decreased after deamination process (
+Figure 5
+d). These results could therefore indicate that the amino group in AG, with considerable stability (
+Figure S10
+), makes great contributions to the excellent electrocatalytic performance towards ORR.
+On the other hand, we noticed that the oxygen content increased from 4.86% to 8.04% as a result of hydrolysis. The additional oxygen content (∼1.5%) resulted from SOx group confirmed by S 2p XPS spectrum (
+Figure S13
+) due to the introduction of sulfuric acid during the deamination reaction. In order to exclude the influence of SOx group on the electrochemical performance
+[58]
+, the pristine AG treated with sulfuric acid but without any other reagents was also prepared for control. As shown in
+Figure S14
+, no obvious change was found between the pristine AG and sulfate-containing AG, suggesting the negligible amount (∼0.5%) of SOx group in AG will not affect the electrocatalytic performance.
+The effects of pyridinic, pyrrolic, and graphitic N atoms towards ORR are then investigated by preparing a series of annealed NG samples under different temperatures (400, 600, 800, and 1000 °C). Morphologies and Raman spectra of the products show no significant difference after different annealing treatments for a short time (
+Figure S15
+). To further probe their chemical compositions, XPS measurements were carried out. Overall, the nitrogen content gradually decreased (
+Table S1
+) with the increase of temperature, but there is relatively little change in the oxygen content (from 4.0% to 2.9%). It should be emphasized that all the annealed NG samples contained similar graphitic characters (
+Figure S16
+), excluding the impact of high graphitization of a catalyst on enhanced electrocatalytic activity
+[5]
+. High-resolution N 1s XPS spectra (
+Figure 6
+) exhibited that, with the increase of annealing temperature, the proportion of graphitic N continuously increased (
+Figure 7
+a) while the content of pyrrolic N and amino N remarkably decreased (
+Figure 7
+b). The former could be attributed to the stability of graphitic N at high temperature and a gradual conversion from pyrrolic N, while the latter was due to their instabilities at high temperature
+[45]
+.
+Figure 6. High-resolution N 1s XPS spectra of (a) NG-400, (b) NG-600, (c) NG-800, and (d) NG-1000. The signals fit into four energy components centered around 398.4, 399.1, 399.9, and 401.2 eV, corresponding to pyridinic, amino, pyrrolic, and graphitic nitrogen states, respectively.
+Figure 7. The content of (a) pyridinic N, graphitic N, (b) pyrrolic N, and amino N in annealed NG samples. The change in (c) the onset potential, electron transfer number, and (d) oxygen reduction current density at different potentials of annealed NG electrodes.
+The electrocatalytic properties of annealed NG electrodes were characterized by LSV measurements. As extracted from
+Figure S17
+, the onset potentials of ORR were measured to be at −0.08, −0.10, −0.05, and −0.04 V for NG-400, NG-600, NG-800, and NG-1000 electrodes, respectively (
+Figure 7
+c). The electron transfer number of each annealed NG catalyst was calculated by K–L equation as can be seen in
+Figure S18
+, from which the average value of n was extracted and shown in
+Figure 7
+c. It can be clearly seen from
+Figure 7
+c that there are similar changing tendencies between the onset potential and electron transfer number, which dropped from NG-400 to NG-600 due to the significantly decreased amino group, and then improved (from NG-600 to NG-1000) with the increasing graphitic nitrogen content. The role of amino group here is consistent with the result described in above, contributive to the onset potential and electron transfer number. Obviously, an improved performance (onset potential and n) occurred from NG-600 to NG-800, while the content of graphitic N greatly increased. In contrast, when the content of pyridinic N largely decreased from NG-800 to NG-1000, the electrocatalytic performance did not decrease but was slightly improved. These observations indicate that the onset potential and electron transfer number in the electrocatalytic activity for ORR depend on the graphitic and amino nitrogen components in metal-free catalysts. On the other hand, the change in oxygen reduction current density at different potentials (−0.5, −0.8, and −1.1 V) of annealed NG electrodes (shown in
+Figure 7
+d) is consistent with that of the total content of graphitic and pyridinic nitrogen atom (
+Figure 7
+a). It can be therefore concluded that the graphitic and pyridinic nitrogen states are the key factors to enhance the current density in the electrocatalytic activity towards ORR. Note that the pyrrolic nitrogen content continuously dropped from NG-400 to NG-1000, but was unrelated to any kind of electrocatalytic performance. Thus, its contribution to ORR is negligible.
+In summary, we have developed a convenient, economical solvothermal method for the synthesis of AG using ammonia solution as reducing agent and nitrogen source. Due to the existence of amino group (2.1%) and high doping level of nitrogen atom (10.6%), the resultant AG can act as an efficient metal-free catalyst, showing enhanced electrocatalytic activity, long-term stability, and excellent tolerance to crossover effects of methanol for ORR in alkaline fuel cells. Furthermore, the effects of various nitrogen species on electrocatalysis have been explored in this work. The results indicate that the graphitic and amino N decide the onset potential and electron transfer number in ORR process, while the enhanced oxygen reduction current density is ascribed to the total content of graphitic and pyridinic N. It is worth noting that AG prepared by initial solvothermal approach exhibited the best electrocatalytic properties among all the graphene samples referred in this work, suggesting the solution-phase synthesis may have its own superiority in designing N-containing electrocatalyst for ORR.
+This work was supported in part by NSFC (
+51125001
+,
+21051002
+,
+51172005
+), the National Basic Research Program of China (
+2010CB934601
+), the Doctoral Program (
+20090001120010
+) and New Century Talent of the Education Ministry of China (
+NCET-09-0177
+), Yok Ying Tung Found (
+122043
+), and New Star Program of BCST (
+2008B02
+).
+Download: Download Word document (20MB)
+Supplementary Material
+Supplementary Material
+Chenzhen Zhang received his bachelor degree in Materials Science from University of Science and Technology Beijing (China) in 2010. He was admitted to Peking University for M.S. in 2010. His research is focused on the liquid-phase synthesis and functionalization of graphene.
+Rui Hao received his B.S. in Chemistry from Tsinghua University in 2003 and obtained his Ph.D. in Materials Science from Peking University in 2012. Now he is a postdoctoral research associate at CWRU. His research is focused on the design and synthesis of multifunctional nanostructures for energy conversion and biomedical applications.
+Hanbin Liao received his B.S. from Peking University in 2008. He is now a Ph.D. candidate at Peking University. Since 2008, his interest lies in a wide range of Pt-based electrochemical catalysts, including PtM alloys and ordered intermetallic compounds.
+Yanglong Hou received his Ph.D. in Materials Science from Harbin Institute of Technology (China) in 2000. After a short post-doctoral training at Peking University, he worked at the University of Tokyo from 2002 to 2005 as JSPS foreign special researcher and also at Brown University from 2005 to 2007 as postdoctoral researcher. He joined Peking University in 2007, and now is a Professor of Materials Science. His research interests include the design and chemical synthesis of functional nanoparticles and graphene, and their biomedical and energy related applications.
+Cookies are used by this site.
+Cookie Settings
+All content on this site: Copyright © 2024 Elsevier B.V., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the Creative Commons licensing terms apply.

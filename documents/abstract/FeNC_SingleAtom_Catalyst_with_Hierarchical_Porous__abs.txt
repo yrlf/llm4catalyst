@@ -1,0 +1,11 @@
+Abstract
+Developing hierarchical porous heteroatom-doped carbon materials as efficient and durable electrocatalysts for oxygen reduction reaction (ORR) is of great importance for realizing electrochemical energy conversion and storage devices. Herein, we report a strategy of introducing the P–O bond to tune the intrinsic activity of the single Fe atom catalyst in a porous carbon matrix for ORR. Experimental analysis associated with theoretical calculations revealed that the P–O bond dopant in traditional Fe–N4 center-enriched porous carbon regulates the electronic structure of the Fe–N4 center and lowers its energy barrier for ORR. In particular, the P–O bond in the third coordination shell of the Fe center accelerates the rate-determining step of hydrogenation of adsorbed oxygen on the Fe–N4 site. Besides, this material features additional structural benefits by providing an enviable arrangement of large internal reactive surface areas, abundant hierarchical porosity, and a fast charge transport path, eventually leading to good ORR electrochemical performance.
+This publication is licensed under the terms of your institutional subscription. Request reuse permissions.
+Copyright © 2023 American Chemical Society
+Subjects
+what are subjects
+Catalysts
+Extended X-Ray Absorption Fine Structure
+Metals
+Porosity
+Redox Reactions

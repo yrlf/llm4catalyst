@@ -1,0 +1,492 @@
+{
+    "materials": [
+        {
+            "material_name": "CN",
+            "properties": [
+                {
+                    "type": "Mass loading",
+                    "value": 2.0,
+                    "unit": "g",
+                    "conditions": "cyanamide powder dispersed in doubly distilled water",
+                    "reaction_type": "NA",
+                    "evidence": 0
+                },
+                {
+                    "type": "Mass loading",
+                    "value": 0.1,
+                    "unit": "g",
+                    "conditions": "NCNTs added to cyanamide solution",
+                    "reaction_type": "NA",
+                    "evidence": 0
+                },
+                {
+                    "type": "kinetic current density",
+                    "value": 5.99,
+                    "unit": "mA cm\u20132",
+                    "conditions": "ORR",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "kinetic current density",
+                    "value": 10.1,
+                    "unit": "mA cm\u20132",
+                    "conditions": "ORR",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "Current density",
+                    "value": -0.96,
+                    "unit": "mA cm\u20132",
+                    "conditions": "at -1.40 V",
+                    "reaction_type": "ORR",
+                    "evidence": 4
+                },
+                {
+                    "type": "Current density",
+                    "value": 1.63,
+                    "unit": "mA cm\u20132",
+                    "conditions": "ORR",
+                    "reaction_type": "ORR",
+                    "evidence": 8
+                },
+                {
+                    "type": "Current density",
+                    "value": 1.97,
+                    "unit": "mA cm\u20132",
+                    "conditions": "ORR",
+                    "reaction_type": "ORR",
+                    "evidence": 8
+                },
+                {
+                    "type": "Electron-transfer number",
+                    "value": 1.33,
+                    "unit": "none",
+                    "conditions": "none",
+                    "reaction_type": "ORR",
+                    "evidence": 8
+                },
+                {
+                    "type": "Current density",
+                    "value": 5.99,
+                    "unit": "mA cm\u20132",
+                    "conditions": "ORR",
+                    "reaction_type": "ORR",
+                    "evidence": 8
+                },
+                {
+                    "type": "Current density",
+                    "value": 10.1,
+                    "unit": "mA cm\u20132",
+                    "conditions": "ORR",
+                    "reaction_type": "ORR",
+                    "evidence": 8
+                },
+                {
+                    "type": "Surface area",
+                    "value": 26.7,
+                    "unit": "m2 g\u20131",
+                    "conditions": "N2 adsorption\u2013desorption analysis",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Surface area",
+                    "value": 11.6,
+                    "unit": "m2 g\u20131",
+                    "conditions": "N2 adsorption\u2013desorption analysis",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Electrode potential",
+                    "value": -0.51,
+                    "unit": "V",
+                    "conditions": "O2-saturated 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 4
+                },
+                {
+                    "type": "Current density",
+                    "value": -3.86,
+                    "unit": "mA cm\u20132",
+                    "conditions": "at -1.40 V",
+                    "reaction_type": "ORR",
+                    "evidence": 4
+                },
+                {
+                    "type": "N content",
+                    "value": 49.7,
+                    "unit": "%",
+                    "conditions": "atomic ratio",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                },
+                {
+                    "type": "N content",
+                    "value": 27.6,
+                    "unit": "%",
+                    "conditions": "pristine CN",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                },
+                {
+                    "type": "Electrode potential",
+                    "value": -0.51,
+                    "unit": "V",
+                    "conditions": "in O2-saturated 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 6
+                },
+                {
+                    "type": "Electron-transfer number",
+                    "value": 3.91,
+                    "unit": "none",
+                    "conditions": "at -1.20 V",
+                    "reaction_type": "ORR",
+                    "evidence": 8
+                },
+                {
+                    "type": "kinetic current density",
+                    "value": 1.63,
+                    "unit": "mA cm\u20132",
+                    "conditions": "ORR",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "kinetic current density",
+                    "value": 1.97,
+                    "unit": "mA cm\u20132",
+                    "conditions": "ORR",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "Photocatalytic Hydrogen Production",
+                    "value": 5300.0,
+                    "unit": "nm",
+                    "conditions": "Direct Polymerization of Urea, Sunlight-driven",
+                    "reaction_type": "NA",
+                    "evidence": 9
+                },
+                {
+                    "type": "Photocatalytic activity",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "Improved photocatalytic activities",
+                    "reaction_type": "NA",
+                    "evidence": 10
+                },
+                {
+                    "type": "Electrocatalytic Activity",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "for Oxygen Reduction",
+                    "reaction_type": "ORR",
+                    "evidence": 11
+                },
+                {
+                    "type": "Cathodic Catalyst",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "for Oxygen Reduction in Microbial Fuel Cells",
+                    "reaction_type": "ORR",
+                    "evidence": 11
+                },
+                {
+                    "type": "Doping",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "with Nitrogen",
+                    "reaction_type": "NA",
+                    "evidence": 11
+                },
+                {
+                    "type": "Substitutional Nitrogen Impurity",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "Chemically Active",
+                    "reaction_type": "NA",
+                    "evidence": 11
+                },
+                {
+                    "type": "Extreme Oxygen Sensitivity",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "of Electronic Properties",
+                    "reaction_type": "NA",
+                    "evidence": 11
+                },
+                {
+                    "type": "Impact",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "on the Oxygen Reduction Reaction in Fuel Cells",
+                    "reaction_type": "ORR",
+                    "evidence": 11
+                },
+                {
+                    "type": "Photocatalytic Water Splitting",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "for",
+                    "reaction_type": "NA",
+                    "evidence": 11
+                },
+                {
+                    "type": "Activity",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "for Oxygen Reduction Reaction",
+                    "reaction_type": "ORR",
+                    "evidence": 11
+                },
+                {
+                    "type": "Photocatalytic Hydrogen Production",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "Sunlight-driven",
+                    "reaction_type": "NA",
+                    "evidence": 11
+                },
+                {
+                    "type": "Oxygen Reduction",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "Highly Efficient Metal-free Growth on Plasma-etched Substrates for",
+                    "reaction_type": "ORR",
+                    "evidence": 11
+                },
+                {
+                    "type": "XPS",
+                    "values": [
+                        49.7,
+                        27.6,
+                        399.0,
+                        400.1,
+                        401.5
+                    ],
+                    "units": [
+                        "%",
+                        "eV"
+                    ],
+                    "conditions": [
+                        "binding energy for pyrrolic N",
+                        "binding energy for graphitic N",
+                        "N/C atomic ratio",
+                        "binding energy for pyridinic N"
+                    ],
+                    "evidence": 4.0
+                },
+                {
+                    "type": "XRD",
+                    "values": [
+                        13.0,
+                        27.3,
+                        13.0,
+                        27.3,
+                        27.3,
+                        26.3,
+                        43.0,
+                        52.0,
+                        26.3,
+                        43.0,
+                        52.0,
+                        26.3,
+                        43.0,
+                        52.0
+                    ],
+                    "units": [
+                        "\u00b0"
+                    ],
+                    "conditions": [
+                        "Powder XRD pattern",
+                        "characteristic crystal faces (100/101)",
+                        "characteristic crystal faces (004)",
+                        "characteristic crystal faces (002)",
+                        "NA",
+                        "overlap with NCNT peak"
+                    ],
+                    "evidence": 2.2142857142857144
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Pt/C",
+            "properties": [
+                {
+                    "type": "Electrode potential",
+                    "value": -0.19,
+                    "unit": "V",
+                    "conditions": "O2-saturated 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 4
+                },
+                {
+                    "type": "Electrode potential",
+                    "value": -0.51,
+                    "unit": "V",
+                    "conditions": "O2-saturated 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 4
+                },
+                {
+                    "type": "Electrode potential",
+                    "value": -0.19,
+                    "unit": "V",
+                    "conditions": "in O2-saturated 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 6
+                },
+                {
+                    "type": "Electrode potential",
+                    "value": -0.51,
+                    "unit": "V",
+                    "conditions": "in O2-saturated 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 6
+                },
+                {
+                    "type": "electron-transfer number",
+                    "value": 3.94,
+                    "unit": "none",
+                    "conditions": "at -0.6 V",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "Electron-transfer number",
+                    "value": 3.94,
+                    "unit": "none",
+                    "conditions": "at -0.6 V",
+                    "reaction_type": "ORR",
+                    "evidence": 8
+                }
+            ],
+            "benchmark": true
+        },
+        {
+            "material_name": "MnO2 Nanostructures",
+            "properties": [
+                {
+                    "type": "Electrocatalytic Activity",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "Highly Efficient, Ultra-stable for Water Oxidation and Oxygen Reduction Reaction in Alkaline Media",
+                    "reaction_type": "OER",
+                    "evidence": 11
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Metal-free Photocatalysts",
+            "properties": [
+                {
+                    "type": "Hydrogen Peroxide Production",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "Sunlight-Driven from Water and Molecular Oxygen",
+                    "reaction_type": "NA",
+                    "evidence": 11
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Graphitic Carbon Nitride Nanosheet-carbon Nanotube Composites",
+            "properties": [
+                {
+                    "type": "Oxygen Evolution Electrocatalysts",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "High-performance",
+                    "reaction_type": "OER",
+                    "evidence": 11
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Nitrogen-doped Graphene Quantum Dots",
+            "properties": [
+                {
+                    "type": "Oxygen-rich Functional Groups",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "with",
+                    "reaction_type": "NA",
+                    "evidence": 11
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Nitrogen-doped Graphene",
+            "properties": [
+                {
+                    "type": "Electrochemical Biosensing",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "Application in",
+                    "reaction_type": "NA",
+                    "evidence": 11
+                },
+                {
+                    "type": "Metal-free Electrocatalyst",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "for Oxygen Reduction in Fuel Cells",
+                    "reaction_type": "ORR",
+                    "evidence": 11
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Nitrogen-doped Porous Carbon",
+            "properties": [
+                {
+                    "type": "Multifunctional Effects",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "Anchored on Graphene for Lithium-sulfur Batteries",
+                    "reaction_type": "NA",
+                    "evidence": 11
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Co3O4 Nanocrystals on Graphene",
+            "properties": [
+                {
+                    "type": "Synergistic Catalyst",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "for Oxygen Reduction Reaction",
+                    "reaction_type": "ORR",
+                    "evidence": 11
+                }
+            ],
+            "benchmark": false
+        }
+    ],
+    "doi": "example_doi",
+    "factor": "Hydrogen coverage,Energy barrier,Conductivity,Surface area,Size,Defect,Dopant,Active sites,Stability,Electrode potential,Overpotential,Tafel slope,onsite potential,Current density,Mass loading,XPS,FTIR,Raman,XRD",
+    "meta": {
+        "maintext": "/Users/yangz/Documents/projects/llm4catalyst/documents/maintext/Carbon_Nitride_Anchored_on_a_NitrogenDoped_Carbon__maintext.txt",
+        "abstract": "/Users/yangz/Documents/projects/llm4catalyst/documents/abstract/Carbon_Nitride_Anchored_on_a_NitrogenDoped_Carbon__abs.txt",
+        "intro": "documents/intro/c60_intro.txt",
+        "window_size": 2,
+        "chunk_size": 1000,
+        "chunk_overlap": 100,
+        "output": "results",
+        "property": "/Users/yangz/Documents/projects/llm4catalyst/prompts/properties.txt",
+        "self_defined": true,
+        "title": "Carbon_Nitride_Anchored_on_a_NitrogenDoped_Carbon_"
+    }
+}

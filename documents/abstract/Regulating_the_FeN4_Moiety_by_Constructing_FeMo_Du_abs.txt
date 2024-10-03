@@ -1,0 +1,18 @@
+Abstract
+An Fe–N–C catalyst with an FeN4 active moiety has gained ever-increasing attention for the oxygen reduction reaction (ORR); however, the catalytic performance is sluggish in acidic solutions and the regulation is still a challenge. Herein, Fe–Mo dual-metal sites were constructed to tune the ORR activity of a mononuclear Fe site embedded in porous nitrogen-doped carbon. The cracking of O–O bonds is much more facile on the Fe–Mo atomic pair site due to the preferred bridge-cis adsorption model of oxygen molecules. The downshift of the Fe d band center when an Mo atom is introduced to the FeNx configuration optimizes the absorption–desorption behavior of ORR intermediates in the FeMoN6 active moiety, thus boosting the catalytic performance. The construction of dual-metal atom sites to regulate the catalytically active moiety paves the way for boosting the electrocatalytic performance of other similar non-precious-metal catalysts.
+This publication is licensed under the terms of your institutional subscription. Request reuse permissions.
+Copyright © 2022 American Chemical Society
+Subjects
+what are subjects
+Adsorption
+Catalysts
+Electrolytes
+Metals
+Redox Reactions
+Keywords
+what are keywords
+Oxygen Reduction Reaction
+Electrocatalyst
+Active Moiety
+Metal−N−C
+Atomic Sites

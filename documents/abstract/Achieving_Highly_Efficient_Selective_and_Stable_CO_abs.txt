@@ -1,0 +1,19 @@
+Abstract
+The challenge in the electrosynthesis of fuels from CO2 is to achieve durable and active performance with cost-effective catalysts. Here, we report that carbon nanotubes (CNTs), doped with nitrogen to form resident electron-rich defects, can act as highly efficient and, more importantly, stable catalysts for the conversion of CO2 to CO. The unprecedented overpotential (−0.18 V) and selectivity (80%) observed on nitrogen-doped CNTs (NCNTs) are attributed to their unique features to facilitate the reaction, including (i) high electrical conductivity, (ii) preferable catalytic sites (pyridinic N defects), and (iii) low free energy for CO2 activation and high barrier for hydrogen evolution. Indeed, DFT calculations show a low free energy barrier for the potential-limiting step to form key intermediate COOH as well as strong binding energy of adsorbed COOH and weak binding energy for the adsorbed CO. The highest selective site toward CO production is pyridinic N, and the NCNT-based electrodes exhibit no degradation over 10 h of continuous operation, suggesting the structural stability of the electrode.
+This publication is licensed under the terms of your institutional subscription. Request reuse permissions.
+Copyright © 2015 American Chemical Society
+Subjects
+what are subjects
+Carbon Nanotubes
+Catalysts
+Gold
+Metals
+Redox Reactions
+Keywords
+what are keywords
+Carbon Nanotubes
+Pyridinic Nitrogen
+CO2 Reduction
+Low Overpotential
+High Selectivity
+High Durability

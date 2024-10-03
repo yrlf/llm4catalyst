@@ -1,0 +1,769 @@
+{
+    "materials": [
+        {
+            "material_name": "Metal-free graphitic-phase C3N4",
+            "properties": [
+                {
+                    "type": "Band gap",
+                    "value": 2.64,
+                    "unit": "eV",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 0
+                },
+                {
+                    "type": "band gap",
+                    "value": 2.64,
+                    "unit": "eV",
+                    "conditions": "NA",
+                    "reaction_type": "ORR",
+                    "evidence": 2
+                },
+                {
+                    "type": "Electrochemical Performance",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "as anode for potassium-ion battery",
+                    "reaction_type": "NA",
+                    "evidence": 22
+                },
+                {
+                    "type": "Surface area",
+                    "value": 24.0,
+                    "unit": "m\u00b2/g",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 24
+                },
+                {
+                    "type": "Oxygen Reduction",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "Metal-Free Electrocatalysts",
+                    "reaction_type": "ORR",
+                    "evidence": 11
+                },
+                {
+                    "type": "Photocatalytic activity",
+                    "value": 0.0,
+                    "unit": "NA",
+                    "conditions": "under visible light",
+                    "reaction_type": "NA",
+                    "evidence": 13
+                },
+                {
+                    "type": "Photocatalytic activity",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "under visible light",
+                    "reaction_type": "NA",
+                    "evidence": 15
+                },
+                {
+                    "type": "Photodegradation performance",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "Directly heating melamine",
+                    "reaction_type": "NA",
+                    "evidence": 16
+                },
+                {
+                    "type": "Electrocatalytic Activity",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "for Oxygen Reduction",
+                    "reaction_type": "ORR",
+                    "evidence": 17
+                },
+                {
+                    "type": "XRD",
+                    "values": [
+                        12.8,
+                        26.9
+                    ],
+                    "units": [
+                        "\u00b0"
+                    ],
+                    "conditions": [
+                        "ICDD-PDF-4+, card no. 01-078-1747, space group R3m"
+                    ],
+                    "evidence": 2.0
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Nitrogen-Doped Ordered Mesoporous Graphitic Arrays",
+            "properties": [
+                {
+                    "type": "Catalyst loading",
+                    "value": 20.0,
+                    "unit": "\u03bcg",
+                    "conditions": "on the electrode surface",
+                    "reaction_type": "ORR",
+                    "evidence": 1
+                },
+                {
+                    "type": "Surface area",
+                    "value": 750.0,
+                    "unit": "m2/g",
+                    "conditions": "BET analysis",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "N content",
+                    "value": 4.2,
+                    "unit": "%",
+                    "conditions": "XPS analysis",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                },
+                {
+                    "type": "N content",
+                    "value": 3.1,
+                    "unit": "%",
+                    "conditions": "XPS analysis",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                },
+                {
+                    "type": "Oxygen-Rich Functional Groups",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 14
+                },
+                {
+                    "type": "Electrocatalytic activity",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "Oxygen Reduction Reaction",
+                    "reaction_type": "ORR",
+                    "evidence": 16
+                },
+                {
+                    "type": "Electrocatalytic activity",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "High",
+                    "reaction_type": "ORR",
+                    "evidence": 16
+                },
+                {
+                    "type": "Oxygen Reduction Reaction activity",
+                    "value": 13018.0,
+                    "unit": "mA/cm\u00b2",
+                    "conditions": "for Zinc\u2013Air Batteries",
+                    "reaction_type": "ORR",
+                    "evidence": 18
+                },
+                {
+                    "type": "Conductivity",
+                    "value": 1332.0,
+                    "unit": "S/cm",
+                    "conditions": "as electrode material",
+                    "reaction_type": "NA",
+                    "evidence": 18
+                },
+                {
+                    "type": "Electromagnetic Wave Absorption",
+                    "value": 8243.0,
+                    "unit": "%",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 18
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Pt/C",
+            "properties": [
+                {
+                    "type": "Catalyst loading",
+                    "value": 20.0,
+                    "unit": "wt %",
+                    "conditions": "E-TEK",
+                    "reaction_type": "ORR",
+                    "evidence": 1
+                },
+                {
+                    "type": "Mass loading",
+                    "value": 4.0,
+                    "unit": "mg/mL",
+                    "conditions": "20 wt%, E-TEK",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Current density",
+                    "value": 4.63,
+                    "unit": "mA/cm\u00b2",
+                    "conditions": "in 0.1 M KOH(aq), O2-saturated, LSV, RDE at 1600 rpm",
+                    "reaction_type": "ORR",
+                    "evidence": 4
+                },
+                {
+                    "type": "Limiting current density",
+                    "value": 4.63,
+                    "unit": "mA/cm\u00b2",
+                    "conditions": "LSV in 0.1 M KOH at 1600 rpm",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "Half-wave potential",
+                    "value": 0.85,
+                    "unit": "V vs RHE",
+                    "conditions": "LSV in 0.1 M KOH at 1600 rpm",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "Current density",
+                    "value": 4.63,
+                    "unit": "mA cm\u20132",
+                    "conditions": "in 0.1 M KOH at 0.365 V vs RHE",
+                    "reaction_type": "ORR",
+                    "evidence": 6
+                },
+                {
+                    "type": "Half-wave potential",
+                    "value": 0.85,
+                    "unit": "V vs RHE",
+                    "conditions": "in 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 6
+                },
+                {
+                    "type": "half-wave potential",
+                    "value": 0.85,
+                    "unit": "V vs RHE",
+                    "conditions": "ORR",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "current density",
+                    "value": 23.7,
+                    "unit": "mA cm\u20132",
+                    "conditions": "ORR",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 92.0,
+                    "unit": "mV dec\u20131",
+                    "conditions": "low overpotential region",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 83.0,
+                    "unit": "mV dec\u20131",
+                    "conditions": "high overpotential region",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "current density",
+                    "value": 33.0,
+                    "unit": "%",
+                    "conditions": "long-term durability at 0.715 V vs RHE",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 92.0,
+                    "unit": "mV dec\u20131",
+                    "conditions": "in low overpotential region",
+                    "reaction_type": "ORR",
+                    "evidence": 8
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 75.0,
+                    "unit": "mV dec\u20131",
+                    "conditions": "after iR correction in low overpotential region",
+                    "reaction_type": "ORR",
+                    "evidence": 8
+                },
+                {
+                    "type": "Current density",
+                    "value": 23.7,
+                    "unit": "mA cm\u20132",
+                    "conditions": "under the same testing conditions as NGA900",
+                    "reaction_type": "ORR",
+                    "evidence": 8
+                },
+                {
+                    "type": "LSV curves",
+                    "value": 1.0,
+                    "unit": "V vs RHE",
+                    "conditions": "from 1V vs RHE to 1.2V vs RHE at 1600 rpm",
+                    "reaction_type": "NA",
+                    "evidence": 10
+                },
+                {
+                    "type": "LSV curves",
+                    "value": 1.2,
+                    "unit": "V vs RHE",
+                    "conditions": "from 1V vs RHE to 1.2V vs RHE at 1600 rpm",
+                    "reaction_type": "NA",
+                    "evidence": 10
+                }
+            ],
+            "benchmark": true
+        },
+        {
+            "material_name": "NG730",
+            "properties": [
+                {
+                    "type": "Surface area",
+                    "value": 750.0,
+                    "unit": "m\u00b2/g",
+                    "conditions": "BET analysis",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Current density",
+                    "value": 0.1,
+                    "unit": "mA/cm\u00b2",
+                    "conditions": "onset potential in 0.1 M KOH, CV",
+                    "reaction_type": "ORR",
+                    "evidence": 4
+                },
+                {
+                    "type": "ORR performance",
+                    "value": 0.555,
+                    "unit": "V vs RHE",
+                    "conditions": "in 0.1 M KOH(aq), O2-saturated, CV",
+                    "reaction_type": "ORR",
+                    "evidence": 4
+                },
+                {
+                    "type": "Raman spectra",
+                    "value": 633.0,
+                    "unit": "nm",
+                    "conditions": "using a 633 nm laser as the excitation source",
+                    "reaction_type": "NA",
+                    "evidence": 10
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "NGA900",
+            "properties": [
+                {
+                    "type": "Current density",
+                    "value": 4.6,
+                    "unit": "mA/cm\u00b2",
+                    "conditions": "in 0.1 M KOH(aq), O2-saturated, LSV, RDE at 1600 rpm",
+                    "reaction_type": "ORR",
+                    "evidence": 4
+                },
+                {
+                    "type": "Onset potential",
+                    "value": 0.914,
+                    "unit": "V vs RHE",
+                    "conditions": "in 0.1 M KOH(aq), O2-saturated, LSV, RDE at 1600 rpm",
+                    "reaction_type": "ORR",
+                    "evidence": 4
+                },
+                {
+                    "type": "Layer thickness",
+                    "value": 0.39,
+                    "unit": "nm",
+                    "conditions": "AFM imaging",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                },
+                {
+                    "type": "Layer thickness",
+                    "value": 1.02,
+                    "unit": "nm",
+                    "conditions": "AFM imaging",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                },
+                {
+                    "type": "N content",
+                    "value": 3.5,
+                    "unit": "%",
+                    "conditions": "XPS analysis",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                },
+                {
+                    "type": "N content",
+                    "value": 1.9,
+                    "unit": "%",
+                    "conditions": "XPS analysis",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                },
+                {
+                    "type": "Limiting current density",
+                    "value": 4.6,
+                    "unit": "mA/cm\u00b2",
+                    "conditions": "LSV in 0.1 M KOH at 1600 rpm",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "Half-wave potential",
+                    "value": 0.828,
+                    "unit": "V vs RHE",
+                    "conditions": "LSV in 0.1 M KOH at 1600 rpm",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "Current density",
+                    "value": 4.6,
+                    "unit": "mA cm\u20132",
+                    "conditions": "in 0.1 M KOH at 0.365 V vs RHE",
+                    "reaction_type": "ORR",
+                    "evidence": 6
+                },
+                {
+                    "type": "Onset potential",
+                    "value": 0.914,
+                    "unit": "V vs RHE",
+                    "conditions": "in 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 6
+                },
+                {
+                    "type": "Half-wave potential",
+                    "value": 0.828,
+                    "unit": "V vs RHE",
+                    "conditions": "in 0.1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 6
+                },
+                {
+                    "type": "onset potential",
+                    "value": 0.914,
+                    "unit": "V vs RHE",
+                    "conditions": "ORR",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "half-wave potential",
+                    "value": 0.828,
+                    "unit": "V vs RHE",
+                    "conditions": "ORR",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "current density",
+                    "value": 29.3,
+                    "unit": "mA cm\u20132",
+                    "conditions": "ORR",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 80.0,
+                    "unit": "mV dec\u20131",
+                    "conditions": "low overpotential region",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 91.0,
+                    "unit": "mV dec\u20131",
+                    "conditions": "high overpotential region",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "current density",
+                    "value": 86.0,
+                    "unit": "%",
+                    "conditions": "long-term durability at 0.715 V vs RHE",
+                    "reaction_type": "ORR",
+                    "evidence": 7
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 80.0,
+                    "unit": "mV dec\u20131",
+                    "conditions": "in low overpotential region (>0.865 V vs RHE)",
+                    "reaction_type": "ORR",
+                    "evidence": 8
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 78.0,
+                    "unit": "mV dec\u20131",
+                    "conditions": "after iR correction in low overpotential region",
+                    "reaction_type": "ORR",
+                    "evidence": 8
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 91.0,
+                    "unit": "mV dec\u20131",
+                    "conditions": "in higher overpotential range (<0.815 V vs RHE)",
+                    "reaction_type": "ORR",
+                    "evidence": 8
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 83.0,
+                    "unit": "mV dec\u20131",
+                    "conditions": "after iR correction in higher overpotential range",
+                    "reaction_type": "ORR",
+                    "evidence": 8
+                },
+                {
+                    "type": "Current density",
+                    "value": 29.3,
+                    "unit": "mA cm\u20132",
+                    "conditions": "at 0.365 V vs RHE",
+                    "reaction_type": "ORR",
+                    "evidence": 8
+                },
+                {
+                    "type": "Electrical conductivity",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "measured by electrochemical impedance spectroscopy (EIS)",
+                    "reaction_type": "ORR",
+                    "evidence": 9
+                },
+                {
+                    "type": "N content",
+                    "value": 0.9,
+                    "unit": "%",
+                    "conditions": "XPS analysis",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "NGA800",
+            "properties": [
+                {
+                    "type": "N content",
+                    "value": 4.3,
+                    "unit": "%",
+                    "conditions": "XPS analysis",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "NGA950",
+            "properties": [
+                {
+                    "type": "N content",
+                    "value": 2.4,
+                    "unit": "%",
+                    "conditions": "XPS analysis",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                },
+                {
+                    "type": "N content",
+                    "value": 1.5,
+                    "unit": "%",
+                    "conditions": "XPS analysis",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Graphene/Graphene-Tube Nanocomposites",
+            "properties": [
+                {
+                    "type": "Oxygen Reduction",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "in Li\u2013O2 Batteries",
+                    "reaction_type": "ORR",
+                    "evidence": 12
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Nitrogen-Doped Graphene/Carbon Nanotube Nanocomposite",
+            "properties": [
+                {
+                    "type": "Electrochemical activity",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "Synergistically enhanced",
+                    "reaction_type": "NA",
+                    "evidence": 16
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Three-Dimensionally Ordered Macroporous Graphitic C3N4/Carbon Composite",
+            "properties": [
+                {
+                    "type": "Electrocatalytic activity",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "Facile Oxygen Reduction",
+                    "reaction_type": "ORR",
+                    "evidence": 16
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Three-Dimensional Flowerlike Nitrogen-Doped Carbons",
+            "properties": [
+                {
+                    "type": "Electrocatalytic activity",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "Effect of Nitrogen Species",
+                    "reaction_type": "ORR",
+                    "evidence": 16
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "g-C3N4/Graphite Heterostructures",
+            "properties": [
+                {
+                    "type": "Cycle stability",
+                    "value": 7308.0,
+                    "unit": "cycles",
+                    "conditions": "for sodium ion storage",
+                    "reaction_type": "NA",
+                    "evidence": 18
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Metal-Free CNx Catalyst",
+            "properties": [
+                {
+                    "type": "Oxygen Reduction Reaction activity",
+                    "value": 1264.0,
+                    "unit": "mA/cm\u00b2",
+                    "conditions": "NA",
+                    "reaction_type": "ORR",
+                    "evidence": 18
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Supramolecular imprinted cellulose-based N-doped biomass carbon fiber",
+            "properties": [
+                {
+                    "type": "visual detection",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "specific degradation of perfluorooctanoic acid",
+                    "reaction_type": "NA",
+                    "evidence": 19
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Co 3 O 4 /CoO microballs decorated N-doped carbon",
+            "properties": [],
+            "benchmark": false
+        },
+        {
+            "material_name": "Metal\u2010Free Heteroatom\u2010Doped Mesoporous Carbon",
+            "properties": [
+                {
+                    "type": "Oxygen Reduction Catalytic Activity",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "Derived from Polypyrrole for Zinc\u2013Air Batteries",
+                    "reaction_type": "ORR",
+                    "evidence": 21
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Graphene-Wrapped FePt Nanoparticles Anchored on Hierarchically N-Doped Porous Graphitic Carbon Nanoflakes",
+            "properties": [
+                {
+                    "type": "Oxygen Reduction Reaction",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "In Situ Confinement Pyrolysis",
+                    "reaction_type": "ORR",
+                    "evidence": 23
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "N, P-co doped porous reduced graphene oxide",
+            "properties": [
+                {
+                    "type": "Electrocatalyst",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "toward oxygen reduction reaction",
+                    "reaction_type": "ORR",
+                    "evidence": 25
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "g-C3N4 Quantum Dot Decorated g-C3N4 Sheet/Reduced Graphene Oxide Composite",
+            "properties": [
+                {
+                    "type": "Electrocatalyst activity",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "Metal-Free for Oxygen Reduction Reaction",
+                    "reaction_type": "ORR",
+                    "evidence": 26
+                }
+            ],
+            "benchmark": false
+        }
+    ],
+    "doi": "example_doi",
+    "factor": "Hydrogen coverage,Energy barrier,Conductivity,Surface area,Size,Defect,Dopant,Active sites,Stability,Electrode potential,Overpotential,Tafel slope,onsite potential,Current density,Mass loading,XPS,FTIR,Raman,XRD",
+    "meta": {
+        "maintext": "/Users/yangz/Documents/projects/llm4catalyst/documents/maintext/Direct_Transformation_from_Graphitic_C3N4_to_Nitro_maintext.txt",
+        "abstract": "/Users/yangz/Documents/projects/llm4catalyst/documents/abstract/Direct_Transformation_from_Graphitic_C3N4_to_Nitro_abs.txt",
+        "intro": "documents/intro/c60_intro.txt",
+        "window_size": 2,
+        "chunk_size": 1000,
+        "chunk_overlap": 100,
+        "output": "results",
+        "property": "/Users/yangz/Documents/projects/llm4catalyst/prompts/properties.txt",
+        "self_defined": true,
+        "title": "Direct_Transformation_from_Graphitic_C3N4_to_Nitro"
+    }
+}

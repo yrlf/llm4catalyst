@@ -1,0 +1,945 @@
+{
+    "materials": [
+        {
+            "material_name": "N-GRW",
+            "properties": [
+                {
+                    "type": "Mass ratio",
+                    "value": 4.0,
+                    "unit": "dimensionless",
+                    "conditions": "melamine to l-cysteine",
+                    "reaction_type": "NA",
+                    "evidence": 0
+                },
+                {
+                    "type": "Width",
+                    "value": 20.0,
+                    "unit": "nm",
+                    "conditions": "SEM analysis",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "Thickness",
+                    "value": 2.5,
+                    "unit": "nm",
+                    "conditions": "AFM analysis",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "Surface area",
+                    "value": 530.0,
+                    "unit": "m2 g-1",
+                    "conditions": "N2 desorption isotherm",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "Pore volume",
+                    "value": 2.9,
+                    "unit": "cm3 g-1",
+                    "conditions": "N2 desorption isotherm",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "Surface area",
+                    "value": 530.0,
+                    "unit": "m2 g\u22121",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "Pore volume",
+                    "value": 2.9,
+                    "unit": "cm3 g\u22121",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "Width",
+                    "value": 10.0,
+                    "unit": "nm",
+                    "conditions": "Typically observed",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Thickness",
+                    "value": 2.5,
+                    "unit": "nm",
+                    "conditions": "Measured by AFM",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Specific surface area",
+                    "value": 530.0,
+                    "unit": "m2 g\u22121",
+                    "conditions": "Measured from N2 desorption isotherm",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Total pore volume",
+                    "value": 2.9,
+                    "unit": "cm3 g\u22121",
+                    "conditions": "Indicative of high porosity",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "XPS peak",
+                    "value": 397.8,
+                    "unit": "eV",
+                    "conditions": "High-resolution N1s spectrum, pyridinic N",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "XPS peak",
+                    "value": 398.9,
+                    "unit": "eV",
+                    "conditions": "High-resolution N1s spectrum, pyrrolic N",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "XPS peak",
+                    "value": 400.8,
+                    "unit": "eV",
+                    "conditions": "High-resolution N1s spectrum, quaternary N",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "XPS peak",
+                    "value": 402.0,
+                    "unit": "eV",
+                    "conditions": "High-resolution N1s spectrum, oxidized N",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "N content",
+                    "value": 5.9,
+                    "unit": "%",
+                    "conditions": "XPS results",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "S content",
+                    "value": 0.1,
+                    "unit": "%",
+                    "conditions": "XPS results",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Onset potential",
+                    "value": 0.92,
+                    "unit": "V vs RHE",
+                    "conditions": "RRDE measurements in alkaline electrolytes",
+                    "reaction_type": "ORR",
+                    "evidence": 4
+                },
+                {
+                    "type": "Half-wave potential",
+                    "value": 0.84,
+                    "unit": "V vs RHE",
+                    "conditions": "RRDE measurements in alkaline electrolytes",
+                    "reaction_type": "ORR",
+                    "evidence": 4
+                },
+                {
+                    "type": "H2O2 yield",
+                    "value": 5.0,
+                    "unit": "%",
+                    "conditions": "RRDE measurements in alkaline electrolytes",
+                    "reaction_type": "ORR",
+                    "evidence": 4
+                },
+                {
+                    "type": "Electron transfer number",
+                    "value": 3.95,
+                    "unit": "per O2 molecule",
+                    "conditions": "RRDE measurements in alkaline electrolytes",
+                    "reaction_type": "ORR",
+                    "evidence": 4
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 53.0,
+                    "unit": "mV decade\u22121",
+                    "conditions": "In 1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 4
+                },
+                {
+                    "type": "Overpotential",
+                    "value": 360.0,
+                    "unit": "mV",
+                    "conditions": "RDE measurements in 1 M KOH",
+                    "reaction_type": "OER",
+                    "evidence": 4
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 47.0,
+                    "unit": "mV decade\u22121",
+                    "conditions": "In 1 M KOH",
+                    "reaction_type": "OER",
+                    "evidence": 4
+                },
+                {
+                    "type": "onset potential",
+                    "value": 0.92,
+                    "unit": "V",
+                    "conditions": "versus RHE, RRDE measurements in alkaline electrolytes",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "half-wave potential",
+                    "value": 0.84,
+                    "unit": "V",
+                    "conditions": "versus RHE, RRDE measurements in alkaline electrolytes",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "H2O2 yield",
+                    "value": 5.0,
+                    "unit": "%",
+                    "conditions": "during ORR, RRDE measurements",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "electron transfer number",
+                    "value": 3.95,
+                    "unit": "per O2 molecule",
+                    "conditions": "during ORR, RRDE measurements",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 53.0,
+                    "unit": "mV decade-1",
+                    "conditions": "at low overpotentials in 1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "ECSA loss",
+                    "value": 0.0,
+                    "unit": "%",
+                    "conditions": "after 2000 consecutive cycles",
+                    "reaction_type": "ORR",
+                    "evidence": 6
+                },
+                {
+                    "type": "half-wave potential shift",
+                    "value": 15.0,
+                    "unit": "mV",
+                    "conditions": "after accelerated degradation test",
+                    "reaction_type": "ORR",
+                    "evidence": 6
+                },
+                {
+                    "type": "overpotential",
+                    "value": 360.0,
+                    "unit": "mV",
+                    "conditions": "OER at 10 mA cm\u22122 in 1 M KOH",
+                    "reaction_type": "OER",
+                    "evidence": 6
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 47.0,
+                    "unit": "mV decade\u22121",
+                    "conditions": "in 1 M KOH",
+                    "reaction_type": "OER",
+                    "evidence": 6
+                },
+                {
+                    "type": "Faradaic efficiency",
+                    "value": 100.0,
+                    "unit": "%",
+                    "conditions": "at 5 and 25 mA cm\u22122",
+                    "reaction_type": "OER",
+                    "evidence": 7
+                },
+                {
+                    "type": "Overpotential",
+                    "value": 10.0,
+                    "unit": "%",
+                    "conditions": "24-hour continued electrolysis",
+                    "reaction_type": "OER",
+                    "evidence": 7
+                },
+                {
+                    "type": "Work function",
+                    "value": 4.42,
+                    "unit": "eV",
+                    "conditions": "UPS measurements",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "Fermi level difference",
+                    "value": 0.22,
+                    "unit": "eV",
+                    "conditions": "compared to N-HGS",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "Fermi level difference",
+                    "value": 0.28,
+                    "unit": "eV",
+                    "conditions": "compared to N-GS",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "UPS",
+                    "value": 4.42,
+                    "unit": "eV",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 8
+                },
+                {
+                    "type": "UPS",
+                    "value": 4.64,
+                    "unit": "eV",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 8
+                },
+                {
+                    "type": "UPS",
+                    "value": 4.7,
+                    "unit": "eV",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 8
+                },
+                {
+                    "type": "XANES peak",
+                    "value": 287.7,
+                    "unit": "eV",
+                    "conditions": "after ORR and OER",
+                    "reaction_type": "ORR/OER",
+                    "evidence": 8
+                },
+                {
+                    "type": "XANES peak",
+                    "value": 289.6,
+                    "unit": "eV",
+                    "conditions": "after ORR and OER",
+                    "reaction_type": "ORR/OER",
+                    "evidence": 8
+                },
+                {
+                    "type": "XANES peak",
+                    "value": 401.0,
+                    "unit": "eV",
+                    "conditions": "after ORR",
+                    "reaction_type": "ORR",
+                    "evidence": 8
+                },
+                {
+                    "type": "XANES peak",
+                    "value": 398.0,
+                    "unit": "eV",
+                    "conditions": "after OER",
+                    "reaction_type": "OER",
+                    "evidence": 8
+                },
+                {
+                    "type": "XANES peak",
+                    "value": 398.0,
+                    "unit": "eV",
+                    "conditions": "pristine",
+                    "reaction_type": "NA",
+                    "evidence": 8
+                },
+                {
+                    "type": "Turnover frequency",
+                    "value": 0.08,
+                    "unit": "s\u22121",
+                    "conditions": "for ORR",
+                    "reaction_type": "ORR",
+                    "evidence": 8
+                },
+                {
+                    "type": "Turnover frequency",
+                    "value": 0.33,
+                    "unit": "s\u22121",
+                    "conditions": "for OER",
+                    "reaction_type": "OER",
+                    "evidence": 8
+                },
+                {
+                    "type": "Overvoltage",
+                    "value": 0.82,
+                    "unit": "V",
+                    "conditions": "in 0.1 M KOH",
+                    "reaction_type": "ORR/OER",
+                    "evidence": 8
+                },
+                {
+                    "type": "Overvoltage",
+                    "value": 0.75,
+                    "unit": "V",
+                    "conditions": "in 1 M KOH",
+                    "reaction_type": "ORR/OER",
+                    "evidence": 8
+                },
+                {
+                    "type": "TOF",
+                    "value": 0.08,
+                    "unit": "s-1",
+                    "conditions": "ORR",
+                    "reaction_type": "ORR",
+                    "evidence": 9
+                },
+                {
+                    "type": "TOF",
+                    "value": 0.33,
+                    "unit": "s-1",
+                    "conditions": "OER",
+                    "reaction_type": "OER",
+                    "evidence": 9
+                },
+                {
+                    "type": "Specific capacity",
+                    "value": 873.0,
+                    "unit": "mAh g-1",
+                    "conditions": "normalized to the mass of Zn",
+                    "reaction_type": "NA",
+                    "evidence": 9
+                },
+                {
+                    "type": "Open-circuit voltage",
+                    "value": 1.46,
+                    "unit": "V",
+                    "conditions": "two-electrode zinc-air battery",
+                    "reaction_type": "NA",
+                    "evidence": 10
+                },
+                {
+                    "type": "Peak power density",
+                    "value": 65.0,
+                    "unit": "mW/cm\u00b2",
+                    "conditions": "zinc-air battery",
+                    "reaction_type": "NA",
+                    "evidence": 10
+                },
+                {
+                    "type": "Specific capacity",
+                    "value": 873.0,
+                    "unit": "mAh/g",
+                    "conditions": "zinc-air battery",
+                    "reaction_type": "NA",
+                    "evidence": 10
+                },
+                {
+                    "type": "Open-circuit voltage",
+                    "value": 1.46,
+                    "unit": "V",
+                    "conditions": "in air, two-electrode zinc-air battery configuration",
+                    "reaction_type": "NA",
+                    "evidence": 11
+                },
+                {
+                    "type": "XPS",
+                    "values": [
+                        398.0,
+                        0.8,
+                        1.15
+                    ],
+                    "units": [
+                        "eV"
+                    ],
+                    "conditions": [
+                        "after OER",
+                        "OER",
+                        "before OER"
+                    ],
+                    "evidence": 9.0
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "N-HGS",
+            "properties": [
+                {
+                    "type": "Surface area",
+                    "value": 480.0,
+                    "unit": "m2 g-1",
+                    "conditions": "N2 desorption isotherm",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "Onset potential",
+                    "value": 0.9,
+                    "unit": "V vs RHE",
+                    "conditions": "RRDE measurements in alkaline electrolytes",
+                    "reaction_type": "ORR",
+                    "evidence": 4
+                },
+                {
+                    "type": "Half-wave potential",
+                    "value": 0.81,
+                    "unit": "V vs RHE",
+                    "conditions": "RRDE measurements in alkaline electrolytes",
+                    "reaction_type": "ORR",
+                    "evidence": 4
+                },
+                {
+                    "type": "Overpotential",
+                    "value": 400.0,
+                    "unit": "mV",
+                    "conditions": "RDE measurements in 1 M KOH",
+                    "reaction_type": "OER",
+                    "evidence": 4
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 52.0,
+                    "unit": "mV decade\u22121",
+                    "conditions": "In 1 M KOH",
+                    "reaction_type": "OER",
+                    "evidence": 4
+                },
+                {
+                    "type": "onset potential",
+                    "value": 0.9,
+                    "unit": "V",
+                    "conditions": "versus RHE, RRDE measurements in alkaline electrolytes",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "half-wave potential",
+                    "value": 0.81,
+                    "unit": "V",
+                    "conditions": "versus RHE, RRDE measurements in alkaline electrolytes",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "overpotential",
+                    "value": 400.0,
+                    "unit": "mV",
+                    "conditions": "OER at 10 mA cm\u22122 in 1 M KOH",
+                    "reaction_type": "OER",
+                    "evidence": 6
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 52.0,
+                    "unit": "mV decade\u22121",
+                    "conditions": "in 1 M KOH",
+                    "reaction_type": "OER",
+                    "evidence": 6
+                },
+                {
+                    "type": "Overpotential",
+                    "value": 10.0,
+                    "unit": "%",
+                    "conditions": "24-hour continued electrolysis",
+                    "reaction_type": "OER",
+                    "evidence": 7
+                },
+                {
+                    "type": "Overvoltage",
+                    "value": 0.92,
+                    "unit": "V",
+                    "conditions": "in 0.1 M KOH",
+                    "reaction_type": "ORR/OER",
+                    "evidence": 8
+                },
+                {
+                    "type": "Overvoltage",
+                    "value": 0.82,
+                    "unit": "V",
+                    "conditions": "in 1 M KOH",
+                    "reaction_type": "ORR/OER",
+                    "evidence": 8
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "N-GS",
+            "properties": [
+                {
+                    "type": "Surface area",
+                    "value": 460.0,
+                    "unit": "m2 g-1",
+                    "conditions": "N2 desorption isotherm",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "Onset potential",
+                    "value": 0.87,
+                    "unit": "V vs RHE",
+                    "conditions": "RRDE measurements in alkaline electrolytes",
+                    "reaction_type": "ORR",
+                    "evidence": 4
+                },
+                {
+                    "type": "Half-wave potential",
+                    "value": 0.8,
+                    "unit": "V vs RHE",
+                    "conditions": "RRDE measurements in alkaline electrolytes",
+                    "reaction_type": "ORR",
+                    "evidence": 4
+                },
+                {
+                    "type": "Overpotential",
+                    "value": 390.0,
+                    "unit": "mV",
+                    "conditions": "RDE measurements in 1 M KOH",
+                    "reaction_type": "OER",
+                    "evidence": 4
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 53.0,
+                    "unit": "mV decade\u22121",
+                    "conditions": "In 1 M KOH",
+                    "reaction_type": "OER",
+                    "evidence": 4
+                },
+                {
+                    "type": "onset potential",
+                    "value": 0.87,
+                    "unit": "V",
+                    "conditions": "versus RHE, RRDE measurements in alkaline electrolytes",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "half-wave potential",
+                    "value": 0.8,
+                    "unit": "V",
+                    "conditions": "versus RHE, RRDE measurements in alkaline electrolytes",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 69.0,
+                    "unit": "mV decade-1",
+                    "conditions": "in 1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "overpotential",
+                    "value": 390.0,
+                    "unit": "mV",
+                    "conditions": "OER at 10 mA cm\u22122 in 1 M KOH",
+                    "reaction_type": "OER",
+                    "evidence": 6
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 53.0,
+                    "unit": "mV decade\u22121",
+                    "conditions": "in 1 M KOH",
+                    "reaction_type": "OER",
+                    "evidence": 6
+                },
+                {
+                    "type": "Overvoltage",
+                    "value": 0.92,
+                    "unit": "V",
+                    "conditions": "in 0.1 M KOH",
+                    "reaction_type": "ORR/OER",
+                    "evidence": 8
+                },
+                {
+                    "type": "Overvoltage",
+                    "value": 0.82,
+                    "unit": "V",
+                    "conditions": "in 1 M KOH",
+                    "reaction_type": "ORR/OER",
+                    "evidence": 8
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Pt/C",
+            "properties": [
+                {
+                    "type": "Onset potential",
+                    "value": 0.94,
+                    "unit": "V vs RHE",
+                    "conditions": "Comparison with N-GRW",
+                    "reaction_type": "ORR",
+                    "evidence": 4
+                },
+                {
+                    "type": "Half-wave potential",
+                    "value": 0.85,
+                    "unit": "V vs RHE",
+                    "conditions": "Comparison with N-GRW",
+                    "reaction_type": "ORR",
+                    "evidence": 4
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 60.0,
+                    "unit": "mV decade\u22121",
+                    "conditions": "In 1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 4
+                },
+                {
+                    "type": "Operational durability",
+                    "value": 10.0,
+                    "unit": "% decay in ORR activity",
+                    "conditions": "Over a 12-hour continuous operation at 0.7 V vs RHE",
+                    "reaction_type": "ORR",
+                    "evidence": 4
+                },
+                {
+                    "type": "ECSA loss",
+                    "value": 35.0,
+                    "unit": "%",
+                    "conditions": "After 2000 consecutive cycles",
+                    "reaction_type": "ORR",
+                    "evidence": 4
+                },
+                {
+                    "type": "onset potential",
+                    "value": 0.94,
+                    "unit": "V",
+                    "conditions": "versus RHE, RRDE measurements in alkaline electrolytes",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "half-wave potential",
+                    "value": 0.85,
+                    "unit": "V",
+                    "conditions": "versus RHE, RRDE measurements in alkaline electrolytes",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "H2O2 yield",
+                    "value": 5.0,
+                    "unit": "%",
+                    "conditions": "during ORR, RRDE measurements",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 60.0,
+                    "unit": "mV decade-1",
+                    "conditions": "in 1 M KOH",
+                    "reaction_type": "ORR",
+                    "evidence": 5
+                },
+                {
+                    "type": "ORR activity decay",
+                    "value": 10.0,
+                    "unit": "%",
+                    "conditions": "12-hour continuous operation at 0.7 V versus RHE",
+                    "reaction_type": "ORR",
+                    "evidence": 6
+                },
+                {
+                    "type": "ECSA loss",
+                    "value": 35.0,
+                    "unit": "%",
+                    "conditions": "after 2000 consecutive cycles",
+                    "reaction_type": "ORR",
+                    "evidence": 6
+                },
+                {
+                    "type": "Discharge current density",
+                    "value": 20.0,
+                    "unit": "mA cm\u22122",
+                    "conditions": "at 1.15 V",
+                    "reaction_type": "NA",
+                    "evidence": 8
+                },
+                {
+                    "type": "Charge current density",
+                    "value": 20.0,
+                    "unit": "mA cm\u22122",
+                    "conditions": "at 2.53 V",
+                    "reaction_type": "NA",
+                    "evidence": 8
+                },
+                {
+                    "type": "Open-circuit voltage",
+                    "value": 1.46,
+                    "unit": "V",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 8
+                },
+                {
+                    "type": "Open-circuit voltage",
+                    "value": 1.46,
+                    "unit": "V",
+                    "conditions": "two-electrode zinc-air battery",
+                    "reaction_type": "NA",
+                    "evidence": 10
+                },
+                {
+                    "type": "Discharge voltage",
+                    "value": 1.15,
+                    "unit": "V",
+                    "conditions": "zinc-air battery",
+                    "reaction_type": "NA",
+                    "evidence": 10
+                },
+                {
+                    "type": "Charge voltage",
+                    "value": 2.53,
+                    "unit": "V",
+                    "conditions": "zinc-air battery",
+                    "reaction_type": "NA",
+                    "evidence": 10
+                },
+                {
+                    "type": "Open-circuit voltage",
+                    "value": 1.46,
+                    "unit": "V",
+                    "conditions": "in air, two-electrode zinc-air battery configuration",
+                    "reaction_type": "NA",
+                    "evidence": 11
+                },
+                {
+                    "type": "Benchmark",
+                    "value": null,
+                    "unit": null,
+                    "conditions": null,
+                    "reaction_type": null,
+                    "evidence": 11
+                }
+            ],
+            "benchmark": true
+        },
+        {
+            "material_name": "Ir/C",
+            "properties": [
+                {
+                    "type": "overpotential",
+                    "value": 320.0,
+                    "unit": "mV",
+                    "conditions": "OER at fixed overpotential",
+                    "reaction_type": "OER",
+                    "evidence": 6
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 54.0,
+                    "unit": "mV decade\u22121",
+                    "conditions": "in 1 M KOH",
+                    "reaction_type": "OER",
+                    "evidence": 6
+                },
+                {
+                    "type": "Discharge current density",
+                    "value": 20.0,
+                    "unit": "mA cm\u22122",
+                    "conditions": "at 0.95 V",
+                    "reaction_type": "NA",
+                    "evidence": 8
+                },
+                {
+                    "type": "Charge current density",
+                    "value": 20.0,
+                    "unit": "mA cm\u22122",
+                    "conditions": "at 2.05 V",
+                    "reaction_type": "NA",
+                    "evidence": 8
+                },
+                {
+                    "type": "Open-circuit voltage",
+                    "value": 1.35,
+                    "unit": "V",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 8
+                },
+                {
+                    "type": "Open-circuit voltage",
+                    "value": 1.35,
+                    "unit": "V",
+                    "conditions": "two-electrode zinc-air battery",
+                    "reaction_type": "NA",
+                    "evidence": 10
+                },
+                {
+                    "type": "Discharge voltage",
+                    "value": 0.95,
+                    "unit": "V",
+                    "conditions": "zinc-air battery",
+                    "reaction_type": "NA",
+                    "evidence": 10
+                },
+                {
+                    "type": "Charge voltage",
+                    "value": 2.05,
+                    "unit": "V",
+                    "conditions": "zinc-air battery",
+                    "reaction_type": "NA",
+                    "evidence": 10
+                },
+                {
+                    "type": "Open-circuit voltage",
+                    "value": 1.35,
+                    "unit": "V",
+                    "conditions": "in air, two-electrode zinc-air battery configuration",
+                    "reaction_type": "NA",
+                    "evidence": 11
+                },
+                {
+                    "type": "Benchmark",
+                    "value": null,
+                    "unit": null,
+                    "conditions": null,
+                    "reaction_type": null,
+                    "evidence": 11
+                }
+            ],
+            "benchmark": true
+        }
+    ],
+    "doi": "example_doi",
+    "factor": "Hydrogen coverage,Energy barrier,Conductivity,Surface area,Size,Defect,Dopant,Active sites,Stability,Electrode potential,Overpotential,Tafel slope,onsite potential,Current density,Mass loading,XPS,FTIR,Raman,XRD",
+    "meta": {
+        "maintext": "/Users/yangz/Documents/projects/llm4catalyst/documents/maintext/Identification_of_catalytic_sites_for_oxygen_reduc_maintext.txt",
+        "abstract": "/Users/yangz/Documents/projects/llm4catalyst/documents/abstract/Identification_of_catalytic_sites_for_oxygen_reduc_abs.txt",
+        "intro": "documents/intro/c60_intro.txt",
+        "window_size": 2,
+        "chunk_size": 1000,
+        "chunk_overlap": 100,
+        "output": "results",
+        "property": "/Users/yangz/Documents/projects/llm4catalyst/prompts/properties.txt",
+        "self_defined": true,
+        "title": "Identification_of_catalytic_sites_for_oxygen_reduc"
+    }
+}

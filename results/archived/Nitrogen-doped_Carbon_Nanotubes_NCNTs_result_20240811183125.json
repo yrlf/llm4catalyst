@@ -1,0 +1,795 @@
+{
+    "materials": [
+        {
+            "material_name": "CNTs",
+            "properties": [
+                {
+                    "type": "Overpotential",
+                    "value": -0.18,
+                    "unit": "V",
+                    "conditions": "CO2 reduction to fuel",
+                    "reaction_type": "NA",
+                    "evidence": 0
+                },
+                {
+                    "type": "Selectivity",
+                    "value": 80.0,
+                    "unit": "%",
+                    "conditions": "CO2 reduction to fuel",
+                    "reaction_type": "NA",
+                    "evidence": 0
+                },
+                {
+                    "type": "Diameter",
+                    "value": 30.0,
+                    "unit": "nm",
+                    "conditions": "SEM analysis",
+                    "reaction_type": "NA",
+                    "evidence": 0
+                },
+                {
+                    "type": "Overpotential",
+                    "value": -0.18,
+                    "unit": "V",
+                    "conditions": "for CO2 reduction",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "Selectivity",
+                    "value": 80.0,
+                    "unit": "%",
+                    "conditions": "for CO2 reduction",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "Tube diameter",
+                    "value": 30.0,
+                    "unit": "nm",
+                    "conditions": "SEM analysis",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "Id/Ig ratio",
+                    "value": 0.87,
+                    "unit": "ratio",
+                    "conditions": "Raman spectroscopy, nitrogen doping",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "N atomic content",
+                    "value": 5.0,
+                    "unit": "atom %",
+                    "conditions": "XPS analysis",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "Pyridinic N content",
+                    "value": 1.5,
+                    "unit": "atom %",
+                    "conditions": "XPS analysis",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "Pyrrolic N content",
+                    "value": 1.1,
+                    "unit": "atom %",
+                    "conditions": "XPS analysis",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "Graphitic N content",
+                    "value": 2.4,
+                    "unit": "atom %",
+                    "conditions": "XPS analysis",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "overpotential",
+                    "value": -0.18,
+                    "unit": "V",
+                    "conditions": "in 0.1 M KHCO3",
+                    "reaction_type": "CO2 reduction",
+                    "evidence": 2
+                },
+                {
+                    "type": "selectivity",
+                    "value": 80.0,
+                    "unit": "%",
+                    "conditions": "for CO formation",
+                    "reaction_type": "CO2 reduction",
+                    "evidence": 2
+                },
+                {
+                    "type": "tube diameter",
+                    "value": 30.0,
+                    "unit": "nm",
+                    "conditions": "SEM analysis",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "XRD peak",
+                    "value": 26.0,
+                    "unit": "\u00b0",
+                    "conditions": "high crystallinity and graphetic nature",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "Raman G-band",
+                    "value": 1584.0,
+                    "unit": "cm-1",
+                    "conditions": "Raman spectroscopy",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "Raman D-band",
+                    "value": 1355.0,
+                    "unit": "cm-1",
+                    "conditions": "Raman spectroscopy",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "Id/Ig ratio",
+                    "value": 0.87,
+                    "unit": "ratio",
+                    "conditions": "Raman spectroscopy, nitrogen incorporation",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "XPS peak",
+                    "value": 398.5,
+                    "unit": "eV",
+                    "conditions": "N 1s, pyridinic N",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "XPS peak",
+                    "value": 400.8,
+                    "unit": "eV",
+                    "conditions": "N 1s, pyrrolic N",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "XPS peak",
+                    "value": 401.5,
+                    "unit": "eV",
+                    "conditions": "N 1s, graphitic N",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "atomic content",
+                    "value": 1.5,
+                    "unit": "atom %",
+                    "conditions": "pyridinic N",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "atomic content",
+                    "value": 1.1,
+                    "unit": "atom %",
+                    "conditions": "pyrrolic N",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "atomic content",
+                    "value": 2.4,
+                    "unit": "atom %",
+                    "conditions": "graphitic N",
+                    "reaction_type": "NA",
+                    "evidence": 2
+                },
+                {
+                    "type": "onset potential",
+                    "value": -0.82,
+                    "unit": "V",
+                    "conditions": "in Ar-saturated 0.1 M KHCO3 for HER",
+                    "reaction_type": "HER",
+                    "evidence": 2
+                },
+                {
+                    "type": "overpotential",
+                    "value": -0.41,
+                    "unit": "V",
+                    "conditions": "in Ar-saturated 0.1 M KHCO3 for HER",
+                    "reaction_type": "HER",
+                    "evidence": 2
+                },
+                {
+                    "type": "Faradaic efficiency",
+                    "value": 37.0,
+                    "unit": "%",
+                    "conditions": "for CO formation at -0.70 V",
+                    "reaction_type": "CO2 reduction",
+                    "evidence": 2
+                },
+                {
+                    "type": "overpotential",
+                    "value": -0.26,
+                    "unit": "V",
+                    "conditions": "for maximum FE of CO at -0.78 V",
+                    "reaction_type": "CO2 reduction",
+                    "evidence": 2
+                },
+                {
+                    "type": "Faradaic efficiency",
+                    "value": 80.0,
+                    "unit": "%",
+                    "conditions": "for CO formation at -0.78 V",
+                    "reaction_type": "CO2 reduction",
+                    "evidence": 2
+                },
+                {
+                    "type": "Raman peak position",
+                    "value": 1584.0,
+                    "unit": "cm-1",
+                    "conditions": "G-band",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "Raman peak position",
+                    "value": 1355.0,
+                    "unit": "cm-1",
+                    "conditions": "D-band",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "Intensity ratio",
+                    "value": 0.87,
+                    "unit": "ratio",
+                    "conditions": "Id/Ig",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "XPS peak position",
+                    "value": 398.5,
+                    "unit": "eV",
+                    "conditions": "N 1s, pyridinic N",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "XPS peak position",
+                    "value": 400.8,
+                    "unit": "eV",
+                    "conditions": "N 1s, pyrrolic N",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "XPS peak position",
+                    "value": 401.5,
+                    "unit": "eV",
+                    "conditions": "N 1s, graphitic N",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "Atomic content",
+                    "value": 5.0,
+                    "unit": "atom %",
+                    "conditions": "N/(C + N)",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "Atomic content",
+                    "value": 1.5,
+                    "unit": "atom %",
+                    "conditions": "pyridinic N",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "Atomic content",
+                    "value": 1.1,
+                    "unit": "atom %",
+                    "conditions": "pyrrolic N",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "Atomic content",
+                    "value": 2.4,
+                    "unit": "atom %",
+                    "conditions": "graphitic N",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "Overpotential",
+                    "value": -0.18,
+                    "unit": "V",
+                    "conditions": "in 0.1 M KHCO3, for CO2 reduction to CO",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Overpotential",
+                    "value": -0.26,
+                    "unit": "V",
+                    "conditions": "in 0.1 M KHCO3, for CO2 reduction to CO",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Faradaic efficiency",
+                    "value": 80.0,
+                    "unit": "%",
+                    "conditions": "at -0.78 V in 0.1 M KHCO3",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Current density",
+                    "value": -1.0,
+                    "unit": "mA/cm\u00b2",
+                    "conditions": "constant cell potential of -0.8 V for 10 h",
+                    "reaction_type": "CO2 reduction",
+                    "evidence": 5
+                },
+                {
+                    "type": "Faradaic efficiency",
+                    "value": 80.0,
+                    "unit": "%",
+                    "conditions": "constant cell potential of -0.8 V for 10 h",
+                    "reaction_type": "CO2 reduction",
+                    "evidence": 5
+                },
+                {
+                    "type": "onset potential",
+                    "value": -0.3,
+                    "unit": "V",
+                    "conditions": "versus RHE, at pyridinic N site",
+                    "reaction_type": "NA",
+                    "evidence": 6
+                },
+                {
+                    "type": "overpotential",
+                    "value": -0.2,
+                    "unit": "V",
+                    "conditions": "versus RHE, at pyridinic N site",
+                    "reaction_type": "NA",
+                    "evidence": 6
+                },
+                {
+                    "type": "Geometric surface area",
+                    "value": 3.8,
+                    "unit": "cm2",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 8
+                },
+                {
+                    "type": "Mass loading",
+                    "value": 0.5,
+                    "unit": "mg cm\u20132",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 8
+                },
+                {
+                    "type": "overpotential",
+                    "value": -1.9,
+                    "unit": "V",
+                    "conditions": "versus RHE",
+                    "reaction_type": "NA",
+                    
+                    "evidence": 6
+                },
+                {
+                    "type": "Electrocatalytic Activity",
+                    "value": 760.0,
+                    "unit": "mV",
+                    "conditions": "for Oxygen Reduction",
+                    "reaction_type": "ORR",
+                    "evidence": 9
+                },
+                {
+                    "type": "Electrocatalytic Activity",
+                    "value": 0.0,
+                    "unit": "NA",
+                    "conditions": "for Oxygen Reduction",
+                    "reaction_type": "ORR",
+                    "evidence": 10
+                },
+                {
+                    "type": "Electrocatalytic Reduction",
+                    "value": 0.0,
+                    "unit": "NA",
+                    "conditions": "of CO2 to Formate",
+                    "reaction_type": "NA",
+                    "evidence": 10
+                },
+                {
+                    "type": "Electrocatalytic activity",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "for CO2 Electroreduction",
+                    "reaction_type": "NA",
+                    "evidence": 11
+                },
+                {
+                    "type": "Stability",
+                    "value": 0.0,
+                    "unit": "NA",
+                    "conditions": "for CO2 Electroreduction",
+                    "reaction_type": "NA",
+                    "evidence": 12
+                },
+                {
+                    "type": "Electrochemical CO2 reduction",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "CO2-to-CH4 conversion",
+                    "reaction_type": "NA",
+                    "evidence": 20
+                },
+                {
+                    "type": "CO2 Reduction",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "Encapsulating CuZn Alloy",
+                    "reaction_type": "NA",
+                    "evidence": 14
+                },
+                {
+                    "type": "XPS",
+                    "values": [
+                        398.5,
+                        400.8,
+                        401.5
+                    ],
+                    "units": [
+                        "eV"
+                    ],
+                    "conditions": [
+                        "peak position for graphitic N",
+                        "peak position for pyrrolic N",
+                        "peak position for pyridinic N"
+                    ],
+                    "evidence": 1.0
+                },
+                {
+                    "type": "XRD",
+                    "values": [
+                        26.0
+                    ],
+                    "units": [
+                        "\u00b0"
+                    ],
+                    "conditions": [
+                        "peak position"
+                    ],
+                    "evidence": 1.0
+                },
+                {
+                    "type": "Raman",
+                    "values": [
+                        1584.0,
+                        1355.0
+                    ],
+                    "units": [
+                        "cm-1"
+                    ],
+                    "conditions": [
+                        "D-band peak position",
+                        "G-band peak position"
+                    ],
+                    "evidence": 1.0
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Ag nanoparticles",
+            "properties": [
+                {
+                    "type": "Overpotential",
+                    "value": -0.27,
+                    "unit": "V",
+                    "conditions": "identical testing conditions to NCNTs",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Faradaic efficiency",
+                    "value": 17.0,
+                    "unit": "%",
+                    "conditions": "at -0.27 V",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                }
+            ],
+            "benchmark": true
+        },
+        {
+            "material_name": "Au powder",
+            "properties": [
+                {
+                    "type": "Overpotential",
+                    "value": -0.27,
+                    "unit": "V",
+                    "conditions": "identical testing conditions to NCNTs",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Faradaic efficiency",
+                    "value": 12.0,
+                    "unit": "%",
+                    "conditions": "at -0.27 V",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                }
+            ],
+            "benchmark": true
+        },
+        {
+            "material_name": "carbon nanofibers",
+            "properties": [
+                {
+                    "type": "Overpotential",
+                    "value": -0.23,
+                    "unit": "V",
+                    "conditions": "mediated by ionic liquid of 1-ethyl-3-methylimidazolium tetrafluoroborate (EMIM\u2013BF4)",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Electrochemical Reduction",
+                    "value": 0.0,
+                    "unit": "NA",
+                    "conditions": "of carbon dioxide",
+                    "reaction_type": "NA",
+                    "evidence": 10
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "oxide-derived Au nanoparticles",
+            "properties": [
+                {
+                    "type": "Size",
+                    "value": 20.0,
+                    "unit": "nm",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Size",
+                    "value": 40.0,
+                    "unit": "nm",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                }
+            ],
+            "benchmark": true
+        },
+        {
+            "material_name": "ionic liquid mediated Ag powder",
+            "properties": [],
+            "benchmark": true
+        },
+        {
+            "material_name": "CuxO nanocatalysts",
+            "properties": [
+                {
+                    "type": "Overpotential",
+                    "value": 0.0,
+                    "unit": "NA",
+                    "conditions": "Aqueous CO2 reduction",
+                    "reaction_type": "NA",
+                    "evidence": 10
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Carbon Nanotube/Cobalt Phthalocyanine Modified Electrode",
+            "properties": [
+                {
+                    "type": "Electrochemical Reduction",
+                    "value": 0.0,
+                    "unit": "NA",
+                    "conditions": "in an MFC\u2013MEC System",
+                    "reaction_type": "NA",
+                    "evidence": 10
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Carbon nanotube-graphene complexes",
+            "properties": [
+                {
+                    "type": "Electrocatalytic Activity",
+                    "value": 0.0,
+                    "unit": "NA",
+                    "conditions": "for Oxygen Reduction",
+                    "reaction_type": "ORR",
+                    "evidence": 10
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Iridium Pincer Catalyst Immobilized on Carbon Nanotube Electrodes",
+            "properties": [
+                {
+                    "type": "Electrocatalytic Reduction",
+                    "value": 0.0,
+                    "unit": "NA",
+                    "conditions": "of Carbon Dioxide to Formate",
+                    "reaction_type": "NA",
+                    "evidence": 10
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Nitrogen-Doped Ordered Mesoporous Carbon Structures",
+            "properties": [
+                {
+                    "type": "Stability",
+                    "value": 0.0,
+                    "unit": "NA",
+                    "conditions": "CO2 Electroreduction",
+                    "reaction_type": "NA",
+                    "evidence": 10
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Cu\u2013Ni Alloy Nanoparticles Anchored on Nitrogen-Doped Carbon Nanotubes",
+            "properties": [
+                {
+                    "type": "Efficiency",
+                    "value": 0.0,
+                    "unit": "NA",
+                    "conditions": "CO2 Electroreduction to CO",
+                    "reaction_type": "NA",
+                    "evidence": 10
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Boron- and Nitrogen-Codoped Diamond Electrodes",
+            "properties": [
+                {
+                    "type": "Reactivity",
+                    "value": 0.0,
+                    "unit": "NA",
+                    "conditions": "Electrochemical CO2 Reduction Reaction",
+                    "reaction_type": "NA",
+                    "evidence": 10
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Vertically Aligned Multiwalled Carbon Nanotube/Cu Catalysts",
+            "properties": [
+                {
+                    "type": "CO2 Electroreduction",
+                    "value": 0.0,
+                    "unit": "NA",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 10
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Carbon Nanotube Filters",
+            "properties": [
+                {
+                    "type": "NA",
+                    "value": 0.0,
+                    "unit": "NA",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 10
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Nickel\u2013Carbon Electrocatalyst",
+            "properties": [
+                {
+                    "type": "Antipoisoning",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "Electrochemical CO2",
+                    "reaction_type": "NA",
+                    "evidence": 13
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Nickel-Embedded Nitrogen-Doped CNTs",
+            "properties": [
+                {
+                    "type": "Electrochemical CO2 Reduction",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "Engineering Interfacial Aerophilicity",
+                    "reaction_type": "NA",
+                    "evidence": 15
+                },
+                {
+                    "type": "Electrocatalytic Activity",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "for Electrochemical CO2 Reduction",
+                    "reaction_type": "NA",
+                    "evidence": 16
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Nitrogen-Doped Graphene Quantum Dots-Wrapped Single-Crystalline Gold Nanoparticles",
+            "properties": [
+                {
+                    "type": "Overpotential",
+                    "value": 0.2,
+                    "unit": "V",
+                    "conditions": "for electrochemically reducing CO2 to CO",
+                    "reaction_type": "NA",
+                    "evidence": 17
+                },
+                {
+                    "type": "Overpotential",
+                    "value": 0.1,
+                    "unit": "V",
+                    "conditions": "for electrochemically reducing CO2 to CO",
+                    "reaction_type": "NA",
+                    "evidence": 18
+                }
+            ],
+            "benchmark": false
+        }
+    ],
+    "doi": "example_doi",
+    "factor": "Hydrogen coverage,Energy barrier,Conductivity,Surface area,Size,Defect,Dopant,Active sites,Stability,Electrode potential,Overpotential,Tafel slope,onsite potential,Current density,Mass loading,XPS,FTIR,Raman,XRD",
+    "meta": {
+        "maintext": "/Users/yangz/Documents/projects/llm4catalyst/documents/maintext/Achieving_Highly_Efficient_Selective_and_Stable_CO_maintext.txt",
+        "abstract": "/Users/yangz/Documents/projects/llm4catalyst/documents/abstract/Achieving_Highly_Efficient_Selective_and_Stable_CO_abs.txt",
+        "intro": "documents/intro/c60_intro.txt",
+        "window_size": 2,
+        "chunk_size": 1000,
+        "chunk_overlap": 100,
+        "output": "results",
+        "property": "/Users/yangz/Documents/projects/llm4catalyst/prompts/properties.txt",
+        "self_defined": true,
+        "title": "Achieving_Highly_Efficient_Selective_and_Stable_CO"
+    }
+}

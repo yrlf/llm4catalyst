@@ -1,0 +1,461 @@
+{
+    "materials": [
+        {
+            "material_name": "Ce-Co3O4",
+            "properties": [
+                {
+                    "type": "Current density",
+                    "value": 10.0,
+                    "unit": "mA cm\u22122",
+                    "conditions": "in 0.5 M H2SO4 solution",
+                    "reaction_type": "OER",
+                    "evidence": 0
+                },
+                {
+                    "type": "Overpotential",
+                    "value": 348.0,
+                    "unit": "mV",
+                    "conditions": "in 0.5 M H2SO4 solution",
+                    "reaction_type": "OER",
+                    "evidence": 0
+                },
+                {
+                    "type": "Stability",
+                    "value": 25.0,
+                    "unit": "h",
+                    "conditions": "in 0.5 M H2SO4 solution",
+                    "reaction_type": "OER",
+                    "evidence": 0
+                },
+                {
+                    "type": "FT-EXAFS peak",
+                    "value": 2.09,
+                    "unit": "\u00c5",
+                    "conditions": "Figure 2f",
+                    "reaction_type": "NA",
+                    "evidence": 6
+                },
+                {
+                    "type": "Coordination number",
+                    "value": 5.7,
+                    "unit": "none",
+                    "conditions": "EXAFS fittings results",
+                    "reaction_type": "NA",
+                    "evidence": 6
+                },
+                {
+                    "type": "Lattice spacing",
+                    "value": 0.247,
+                    "unit": "nm",
+                    "conditions": "HAADF-STEM, (311) plane",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "Lattice spacing",
+                    "value": 0.286,
+                    "unit": "nm",
+                    "conditions": "HAADF-STEM, (220) plane",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "XANES",
+                    "value": 5726.0,
+                    "unit": "eV",
+                    "conditions": "Ce L3-edge, Ce15-Co3O4",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "FT-EXAFS",
+                    "value": 2.09,
+                    "unit": "\u00c5",
+                    "conditions": "Ce\u2013O in CeO6 octahedra",
+                    "reaction_type": "NA",
+                    "evidence": 3
+                },
+                {
+                    "type": "Overpotential",
+                    "value": 348.0,
+                    "unit": "mV",
+                    "conditions": "at 10 mA cm\u00b2 in 0.5 M H2SO4",
+                    "reaction_type": "OER",
+                    "evidence": 4
+                },
+                {
+                    "type": "Overpotential",
+                    "value": 370.0,
+                    "unit": "mV",
+                    "conditions": "at 20 mA cm\u00b2 in 0.5 M H2SO4",
+                    "reaction_type": "OER",
+                    "evidence": 4
+                },
+                {
+                    "type": "Overpotential",
+                    "value": 406.0,
+                    "unit": "mV",
+                    "conditions": "at 50 mA cm\u00b2 in 0.5 M H2SO4",
+                    "reaction_type": "OER",
+                    "evidence": 4
+                },
+                {
+                    "type": "Double-layer capacitance",
+                    "value": 4.59,
+                    "unit": "mF/cm\u00b2",
+                    "conditions": "measured from electrochemical surface area",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "Charge transfer resistance",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "measured from electrochemical impedance spectroscopy",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "lattice spacing",
+                    "value": 0.247,
+                    "unit": "nm",
+                    "conditions": "HAADF-STEM, (311) plane",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                },
+                {
+                    "type": "lattice spacing",
+                    "value": 0.286,
+                    "unit": "nm",
+                    "conditions": "HAADF-STEM, (220) plane",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                },
+                {
+                    "type": "XPS peak",
+                    "value": 893.0,
+                    "unit": "eV",
+                    "conditions": "High-resolution XPS spectrum of Ce 3d5/2",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                },
+                {
+                    "type": "XPS peak",
+                    "value": 878.0,
+                    "unit": "eV",
+                    "conditions": "High-resolution XPS spectrum of Ce 3d5/2",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                },
+                {
+                    "type": "XPS peak",
+                    "value": 920.0,
+                    "unit": "eV",
+                    "conditions": "High-resolution XPS spectrum of Ce 3d3/2",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                },
+                {
+                    "type": "XPS peak",
+                    "value": 914.0,
+                    "unit": "eV",
+                    "conditions": "High-resolution XPS spectrum of Ce 3d3/2",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                },
+                {
+                    "type": "XPS peak",
+                    "value": 910.0,
+                    "unit": "eV",
+                    "conditions": "High-resolution XPS spectrum of Ce 3d3/2",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                },
+                {
+                    "type": "XPS peak",
+                    "value": 895.0,
+                    "unit": "eV",
+                    "conditions": "High-resolution XPS spectrum of Ce 3d3/2",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                },
+                {
+                    "type": "XPS peak",
+                    "value": 530.29,
+                    "unit": "eV",
+                    "conditions": "High-resolution O 1s XPS spectrum, lattice oxygen",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                },
+                {
+                    "type": "XPS peak",
+                    "value": 531.69,
+                    "unit": "eV",
+                    "conditions": "High-resolution O 1s XPS spectrum, oxygen defect",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                },
+                {
+                    "type": "XPS peak",
+                    "value": 533.3,
+                    "unit": "eV",
+                    "conditions": "High-resolution O 1s XPS spectrum, adsorbed water",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                },
+                {
+                    "type": "XANES peak",
+                    "value": 5726.0,
+                    "unit": "eV",
+                    "conditions": "Ce L3-edge XANES spectroscopy",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                },
+                {
+                    "type": "EXAFS peak",
+                    "value": 2.09,
+                    "unit": "\u00c5",
+                    "conditions": "FT-EXAFS analysis, Ce\u2013O",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                },
+                {
+                    "type": "coordination number",
+                    "value": 5.7,
+                    "unit": "NA",
+                    "conditions": "EXAFS fittings results, Ce\u2013O",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                },
+                {
+                    "type": "OER overpotential",
+                    "value": 348.0,
+                    "unit": "mV",
+                    "conditions": "at 10 mA/cm\u00b2",
+                    "reaction_type": "OER",
+                    "evidence": 5
+                },
+                {
+                    "type": "OER overpotential",
+                    "value": 370.0,
+                    "unit": "mV",
+                    "conditions": "at 20 mA/cm\u00b2",
+                    "reaction_type": "OER",
+                    "evidence": 5
+                },
+                {
+                    "type": "OER overpotential",
+                    "value": 406.0,
+                    "unit": "mV",
+                    "conditions": "at 50 mA/cm\u00b2",
+                    "reaction_type": "OER",
+                    "evidence": 5
+                },
+                {
+                    "type": "double-layer capacitance",
+                    "value": 4.59,
+                    "unit": "mF/cm\u00b2",
+                    "conditions": "Electrochemical surface area estimation",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                },
+                {
+                    "type": "charge transfer resistance",
+                    "value": 0.0,
+                    "unit": "NA",
+                    "conditions": "Lowest observed, enhanced charge transfer ability",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                },
+                {
+                    "type": "operational stability",
+                    "value": 25.0,
+                    "unit": "h",
+                    "conditions": "at 10 mA/cm\u00b2",
+                    "reaction_type": "NA",
+                    "evidence": 5
+                },
+                {
+                    "type": "Current density",
+                    "value": 10.0,
+                    "unit": "mA cm\u20132",
+                    "conditions": "continuous operation for 25 h",
+                    "reaction_type": "OER",
+                    "evidence": 7
+                },
+                {
+                    "type": "Stability",
+                    "value": 25.0,
+                    "unit": "h",
+                    "conditions": "continuous operation with unchanged potential",
+                    "reaction_type": "OER",
+                    "evidence": 7
+                },
+                {
+                    "type": "Energy barrier",
+                    "value": 1.67,
+                    "unit": "eV",
+                    "conditions": "for OH* production",
+                    "reaction_type": "OER",
+                    "evidence": 7
+                },
+                {
+                    "type": "XPS",
+                    "values": [
+                        893.0,
+                        878.0,
+                        920.0,
+                        914.0,
+                        910.0,
+                        895.0,
+                        530.29,
+                        531.69,
+                        533.3
+                    ],
+                    "units": [
+                        "eV"
+                    ],
+                    "conditions": [
+                        "O 1s, oxygen defect",
+                        "Ce 3d3/2 peak",
+                        "O 1s, lattice oxygen",
+                        "O 1s, adsorbed water",
+                        "Ce 3d5/2 peak"
+                    ],
+                    "evidence": 3.0
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Co3O4",
+            "properties": [
+                {
+                    "type": "Stability",
+                    "value": 2.0,
+                    "unit": "h",
+                    "conditions": "continuous operation with increasing voltage",
+                    "reaction_type": "OER",
+                    "evidence": 7
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "RuO2",
+            "properties": [
+                {
+                    "type": "OER activity",
+                    "value": 18821.0,
+                    "unit": "DOI",
+                    "conditions": "pH-Universal",
+                    "reaction_type": "OER",
+                    "evidence": 8
+                },
+                {
+                    "type": "Oxygen Evolution Reaction",
+                    "value": 170.0,
+                    "unit": "DOI",
+                    "conditions": "acidic and alkaline electrolytes",
+                    "reaction_type": "OER",
+                    "evidence": 8
+                },
+                {
+                    "type": "Oxygen Evolution Reaction Performance",
+                    "value": null,
+                    "unit": null,
+                    "conditions": "Ni\u2013Co Codoping",
+                    "reaction_type": "OER",
+                    "evidence": 9
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "IrO2",
+            "properties": [
+                {
+                    "type": "OER performance",
+                    "value": 6083.0,
+                    "unit": "DOI",
+                    "conditions": "acid",
+                    "reaction_type": "OER",
+                    "evidence": 8
+                },
+                {
+                    "type": "OER catalytic performance",
+                    "value": 149591.0,
+                    "unit": "DOI",
+                    "conditions": "bulk-like structures",
+                    "reaction_type": "OER",
+                    "evidence": 8
+                },
+                {
+                    "type": "Oxygen Evolution Reaction",
+                    "value": 170.0,
+                    "unit": "DOI",
+                    "conditions": "acidic and alkaline electrolytes",
+                    "reaction_type": "OER",
+                    "evidence": 8
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "IrRu Nanoparticles",
+            "properties": [
+                {
+                    "type": "Oxygen Evolution Reaction",
+                    "value": 17362.0,
+                    "unit": "DOI",
+                    "conditions": "Acidic Media",
+                    "reaction_type": "OER",
+                    "evidence": 8
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Ru",
+            "properties": [
+                {
+                    "type": "Oxygen Evolution Reaction",
+                    "value": 170.0,
+                    "unit": "DOI",
+                    "conditions": "acidic and alkaline electrolytes",
+                    "reaction_type": "OER",
+                    "evidence": 8
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Ir",
+            "properties": [
+                {
+                    "type": "Oxygen Evolution Reaction",
+                    "value": 170.0,
+                    "unit": "DOI",
+                    "conditions": "acidic and alkaline electrolytes",
+                    "reaction_type": "OER",
+                    "evidence": 8
+                }
+            ],
+            "benchmark": false
+        }
+    ],
+    "doi": "example_doi",
+    "factor": "Hydrogen coverage,Energy barrier,Conductivity,Surface area,Size,Defect,Dopant,Active sites,Stability,Electrode potential,Overpotential,Tafel slope,onsite potential,Current density,Mass loading,XPS,FTIR,Raman,XRD",
+    "meta": {
+        "maintext": "/Users/yangz/Documents/projects/llm4catalyst/documents/maintext/Ce_SingleAtom_Incorporation_Enhances_the_Oxygen_Ev_maintext.txt",
+        "abstract": "/Users/yangz/Documents/projects/llm4catalyst/documents/abstract/Ce_SingleAtom_Incorporation_Enhances_the_Oxygen_Ev_abs.txt",
+        "intro": "documents/intro/c60_intro.txt",
+        "window_size": 2,
+        "chunk_size": 1000,
+        "chunk_overlap": 100,
+        "output": "results",
+        "property": "/Users/yangz/Documents/projects/llm4catalyst/prompts/properties.txt",
+        "self_defined": true,
+        "title": "Ce_SingleAtom_Incorporation_Enhances_the_Oxygen_Ev"
+    }
+}

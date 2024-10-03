@@ -1,0 +1,18 @@
+Abstract
+Replacement of noble-metal-based electrocatalysts with inexpensive alternatives that have similar high performance will benefit the development of fuel cell technology. A metal-free composite of carbon nitride (CN) with nitrogen-doped carbon nanotubes (NCNTs) and its application as an electrocatalyst for the oxygen reduction reaction are reported for the first time in this study. The fabricated material (CN/NCNTs) formed a close interface between the two components and showed a comparable electrocatalytic activity in an alkaline medium to that of a conventional platinum-loaded carbon, superior tolerance to crossover effects, and excellent stability. The electrocatalytic efficiency of the CN/NCNT composite was nearly 100% of the four-electron (4 e–) pathway. The high performance of the current electrocatalyst was derived from its features, such as a relatively large surface area, high content of pyridinic nitrogen, and superior conductivity.
+This publication is licensed under the terms of your institutional subscription. Request reuse permissions.
+Copyright © 2020 American Chemical Society
+Subjects
+what are subjects
+Composites
+Electrocatalysts
+Electrodes
+Materials
+Redox Reactions
+Keywords
+what are keywords
+Carbon Nitride
+Nitrogen-Doped Carbon Nanotubes
+Electrocatalyst
+Oxygen Reduction Reaction
+Fuel Cells

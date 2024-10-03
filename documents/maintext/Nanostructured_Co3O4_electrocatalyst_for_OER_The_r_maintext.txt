@@ -1,0 +1,298 @@
+Designing an efficient electrocatalyst for the oxygen evolution reaction (OER) in alkaline media is highly needed but very challenging task. Herein, we used organic polyelectrolytes such as (carboxymethyl cellulose) CMC and polyacrylamide polymers for the growth of Co3O4 nanostructures by aqueous chemical growth method. The morphology and composition studies were performed on scanning electron microscopy (SEM), energy dispersive X-ray (EDX), powder X-ray diffraction (XRD), X-ray photoelectron spectroscopy (XPS) and high-resolution transmission electron microscopy (HRTEM) techniques. The structural properties and the surface chemistry of the Co3O4 electrocatalysts were correlated to the OER performance, and the enhancement mechanism with respect to pristine Co3O4 was observed to be specifically related to the polyelectrolyte templating role.
+Co3O4@CMC composites displayed reduced crystallite size, producing OER overpotential as low as 290 mV at 10 mAcm−2 in 1.0 KOH and Tafel slope of 71 mVdec−1, suggesting fast transfer of intermediates and electrons during water electrolysis. On the other hand, the use of polyacrylamide and its different templating mechanism resulted in similar crystallite size, but preferential exposed faces and larger surface vacancies content, as demonstrated by HR-TEM and XPS, respectively. Consistently, this material displays cutting-edge OER performance, such as overpotential of 260 mV at 10 mAcm−2 and a low Tafel slope of 63 mVdec−1. The proposed strategy for the preparation of Co3O4 nanostructures in the presence of CMC and polyacrylamide is facile, mass production, thus it could equally contributed towards the realization of hydrogen energy. Therefore, these nanostructures of Co3O4 can be regarded as an alternative and promising materials for the different electrochemical applications including fuel cells, metal air batteries, overall water electrolysis and other energy storage devices.
+Since several decades, there is a drastic increase in the energy demands as our activities in daily life are mainly supported by the availability of energy. The international energy agency has reported an increase of 2.3% of energy demand in 2018. This rise in energy demand is doubled to that of last decade
+[1]
+. Most of the energy (approximately 70%) is coming from the fossil fuels. By the end of 2040, the energy demands will cross by 40% as described in the future- outlook of energy in 2018. The continuous use of fossil fuels is not only increasing their cost, but it also shows adverse effects on our environmental conditions due to the emission of greenhouse gases. Nature is also associated with wide range of alternative energy resources including wind, solar, ocean, water, bioenergy, geothermal, etc
+[2]
+. Water splitting is a potential energy resource for reducing the impact of non-renewable energy resources, and it can also reduce the impact of carbon contamination, as this technology produces green fuels with zero carbon emission
+[3]
+. Water splitting involves two processes namely oxygen evolution reaction (OER), and hydrogen evolution reaction (HER). The complete dissociation of water produces H2 and O2 via HER at the cathode electrode and OER at the anode electrode, respectively
+[4]
+. Electrocatalysis is a promising technology for increasing the energy resources through the consumption of water and electricity
+[5]
+. Electrocatalysis shows that two processes (HER/OER) have different kinetics as HER involves a two electrons transfer process
+[6]
+, whereas OER is four electrons transfer process
+[7]
+. Therefore, OER is complicated and kinetically slow, thus requiring efficient catalysts. For this reason, there is a need to design efficient electrocatalysts with high density of catalytic sites to lower the overpotential for the OER process [
+8
+,
+9
+]. Several catalysts including Ir/Ru based materials are extensively used for the OER, but their large-scale use creates economic burden and rare abundance is another limitation. Furthermore, transition metal oxides are found promising materials for OER applications as they are abundant and low cost. The oxides of Fe, Ni, Co, and Cu are widely studied for OER due to their rich active sites for catalysis
+[10]
+,
+[11]
+,
+[12]
+,
+[13]
+,
+[14]
+,
+[15]
+. However, these materials have high overpotential, poor stability and durability in alkaline media. To shape the successful overall water splitting for practical applications, efficient OER catalysts must be developed. For this purpose, different earth-abundant cobalt-based catalysts particularly cobalt oxide (Co3O4) materials have been developed
+[16]
+,
+[17]
+,
+[18]
+. However, the Co3O4 is easy to restack and is associated with poor conductivity, which further limits its OER activity
+[16]
+.
+Co3O4 growth can be templated by various small molecules, producing a wide set of different morphologies, and their electrochemical activities have been studied
+[19]
+,
+[20]
+,
+[21]
+,
+[22]
+. The same approach has not been experienced with polymeric sacrificial templates, providing both many functional groups and mechanical constraints resulting from the backbone chain. In this study, we investigated the role of two different polymers, namely polyacrylamide and sodium carboxymethyl cellulose as soft surface template for the hydrothermal growth of Co3O4 nanostructures.
+These polymers are both displaying nucleophilic functional groups and, in the reaction conditions, a large number of negative charges due to the presence of carboxylate groups, expected to complex the cobalt ions during the cobalt hydroxide precipitation
+[23]
+, as well as to stabilize the growing nanocrystals.
+Carboxymethyl cellulose (CMC) is a common cellulose derivative obtained by cellulose reaction with chloroacetic acid. The resulting carboxylic acid derivatives are deprotonated due to the basic environment and the obtained material is generally distributed as sodium salt. CMC is widely employed as a thickener or viscosity modifier
+[24]
+due to the possibility to tune the hydrophilic character and the resulting rheological properties by controlling the degree of substitution of pristine cellulose. The tunable hydrophilicity of CMC is also employed to stabilize multiple suspensions [
+25
+] in industrial applications. Additionally, CMC is inexpensive, chemically stable and highly suitable for mass production of composite materials. There are several examples of CMC based hydrogels integrating metal oxides
+[26]
+and few examples of metal oxides growth templated by CMC microspheres
+[27]
+but the role of the polyelectrolyte during hydrothermal synthesis process was not investigated in the existing literature. CMC is also known to spontaneously produce nanofibers that might influence the metal oxide growth process and the resulting porosity, enhancing the performance of electrochemical reactions
+[28]
+.
+Polyacrylamide (PA) is a hydrophilic polymer resulting from the homo-polymerization of acrylamide. The hydrophilicity is driven by the large number of amide functional groups, whose slightly nucleophilic character is known to stabilize electrophilic metal derivatives
+[29]
+. Polyacrylamide is also know to spontaneously decompose at elevated temperature or pH
+[30]
+due to the hydrolysis of the amide group and the resulting formation of a carboxylic acid and ammonia. The hydrolyzed polymer becomes a temperature-induced polyelectrolyte with either anionic or cationic character
+[31]
+depending on the reaction conditions. PA, in its anionic form, is widely employed as stationary phase in gel electrophoresis. In addition, thanks to the large number of negative charges, it is widely employed in wastewater treatment to flocculate insoluble particles and metal precipitation
+[32]
+. A recent study shows that polyacrylamide microspheres exhibit metallophylic properties which significantly carried precursor salt with the homogenous distribution
+[33]
+.
+In this study, we used a polyacrylamide/CMC as soft surface template for the deposition of cobalt oxide (Co3O4) nanostructures. Unlike previous reports of hydrothermal growth methods for Co3O4 nanostructures employing small molecular templates, the use of polymeric templates with multiple functional charged groups is expected to direct the metal oxide growth and efficiently stabilize the growing structure. The use of these organic polyelectrolytes (PA is acting as one in the hydrothermal conditions employed) allows for a cheap and robust preparation process of a functional materials with robust OER activity, which fosters the OER kinetics. The unique and attractive nature of polyelectrolytes as a sacrificing templates for controlling the growth kinetics, morphology and improving the functionalities of Co3O4 nanostructures have not been reported in the available literature. Also, the simultaneous OER performance evaluation of soft templated Co3O3 nanostructures with two different polyelectrolyte polymers has not been studied in the past.
+Herein, the role of these two polymers, CMC and polyacrylamide, is investigated with respect to their ability to act as soft templates for Co3O4 growth. The resulting morphology and structure are thoroughly investigated, and the material is eventually evaluated as electrocatalyst for OER. The Co3O4 nanostructures grown in the presence of CMC display a low overpotential of 290 mV at 10 mAcm−2 and a small Tafel slope of 71 mVdec−1, whereas the use of polyacrylamide resulted even lower Tafel slope and overpotential of 63 mVdec−1 and 260 mV, respectively. The improved electrochemical performance was correlated with the modified nanoscale morphology, higher amount of oxygen vacancies, electrochemical active surface area and the turnover frequency (TOF).
+Polyacrylamide, (carboxymethyl cellulose) CMC, urea, cobalt chloride hexahydrate, potassium hydroxide, 20% RuO2/C and absolute ethanol were obtained from Sigma Aldrich Karachi, Pakistan. All the solutions were prepared in the deionized water. For the synthesis of cobalt oxide nanostructures using nucleophilic CMC/polyacrylamide polymers, the following methodology was used: An equimolar solution (0.1M) of cobalt chloride hexahydrate and urea was prepared in two separate beakers with a volume of 100 mL. In each beaker, an amount of 25, and 50mg of CMC was added and they were named as Co3O4@CMC-1 (S1), and Co3O4@CMC-2 (S2). Similarly, 25, and 50 mg of polyacrylamide were added in two separate beakers along with cobalt chloride precursor and they were labeled as Co-25polyacryl and Co-50polyacryl, respectively. Then homogenous solutions were obtained by the mechanical stirring for 30 min. The growth solutions were covered with an aluminum sheet to prevent the evaporation of solvent molecules. Afterward, the growth solutions were kept in an oven for 6 h at 90 °C. Afterwards, the samples were filtered on the laboratory filter paper and the pinkish filtrate cobalt hydroxide powder was collected. This powder was finally annealed at 500 °C for 5 hs in air to transform hydroxide product into oxide phase. The pristine Co3O4 was also prepared by the same growth technique.
+The investigations about structure and morphology were done with SEM and XRD techniques. The XRD measurement was performed at CuKα radiation (λ = 1.5418 Å), 45 kV and 45 mA. The SEM was carried out at 3 Kv. The structure and composition analysis in the nanoscale were carried out with a FEI Tecnai F20 high resolution transmission electron microscope (HR-TEM) operated at 200 kV, equipped high angle annular dark field scanning transmission electron microscopy (HAADF – STEM) detector and an energy dispersive spectrometer (EDS) for the determination of the chemical composition. The-ray photoelectron spectra (XPS) were collected using a Physical Electronics PHI 5700 spectrometer with non-monochromatic Al Kα radiation (300W, 15 kV, 1486.6 eV) for the analysis of the core level signals of C 1s, O 1s, Co 2p and CoLMN and with a multi-channel detector. Binding energy (BE) values were referenced to the C 1s peak (284.8 eV) from the adventitious contamination layer. The PHI ACCESS ESCA-V6.0 F software package and Multipak v8.2b were used for acquisition and data analysis, respectively. A Shirley-type background was subtracted from the signals. Recorded spectra were always fitted using Gauss-Lorentz curves, in order to determine the binding energy of the different element core levels more accurately. The error in BE was estimated to be ca. 0.1 eV.
+The electrochemical experiments were performed with cyclic voltammetry (CV), linear sweep voltammetry (LSV), chronopotentiometry, and electrochemical impedance spectroscopy (EIS). Prior to these electrochemical modes, glassy carbon (GC) electrode wetted with alumina slurry of (0.5 µm) and polished by the silicon paper. Then GC electrode was washed with the deionized water. Different catalyst materials with a mass of 5 mg were dissolved in the deionized water and 50 µL of 5% of Nafion as a binder was also added. A uniform catalyst ink was obtained by the sonication. Then GC electrode was modified with 5µL (0.2mg) of the catalyst ink. Afterwards, the modified GC electrode was dried at room temperature. The electrochemical experiments were performed with three electrodes configuration. The reference electrode was silver-silver chloride (Ag/AgCl and it was filled with 3M KCl, counter electrode was graphite rod, and the working electrode was modified GC. The cyclic voltammetry was used at 10 mV/s to ensure the stability of working electrode, then electrochemical tests in a 1.0M aqueous solution of KOH of pH 13 were measured. The durability of two best Co3O4 samples was studied by the chronopotentiometry at a constant 15 mA/cm2 and 10 mA/cm2 (
+(1)
+,
+(2)
+,
+(3)
+,
+(4)
+,
+(5)
+,
+(6)
+).
+The turnover frequency (TOF) was estimated by using following relation:
+(1)
+Here J is corresponding current density at (η=270 mV), A is the surface area of glassy carbon electrode, F is the Farad constant and m is indicating the number of moles of cobalt metal on the working electrode.
+The experimental conditions for the EIS were 100 kHz to 0.1 Hz with a sinusoidal potential of 10 mV and OER onset potential 1.46 V vs RHE. The onset potential was estimated form the tangents in non-faradaic region i,e horizontal line and faradaic region of LSV curve. The abscissa of intersection of these points is giving the value of onset potential. All the electrochemical studies were performed at standard conditions. The potentials of Ag/AgCl were covered into reversible hydrogen electron (RHE) using Nernst equation.
+Fig. 1
+is describing the chemical structure of polyacrylamide and carboxymethyl cellulose. SEM micrographs of the samples are displayed
+Fig. 2
+. All samples are characterized by complex nanostructures. Pristine Co3O4 exhibit quasi-spherical nanoparticles aggregated into platelets-like structures. The platelets exhibit a length of few microns and diameter of 200–500 nm
+Fig. 2
+a. The Co3O4@CMC-1 exhibit more irregular character, with elongated nanowire-like structures composed by nanoparticles, as shown in
+Fig. 2
+b. The elongated character is highlighted upon increasing the CMC content (
+Fig. 2
+c), displaying highly oriented nanowires resulting from the linear self-assembly of nanoparticles. The length of these nanowires of 2 and 3 microns and an average diameter of 100–150 nm. Polyacrylamide addition results in a progressive loss of the flower-like orientation of nanowires, which is completely lost upon adding 50mg of polyacrylamide in the reaction batch
+Fig. 2
+d,e. The composite structure is still consisting a self-assembly of nanoparticles, but their shape is now elongated and regular. The change in morphology might be resulting from the templating effect of the polyacrylamide during the growth process, thanks to the slightly basic amide group. The composition of the sample was confirmed by EDS analysis, obtaining only Co and O signal, in addition of a spurious Sn-related peak coming from the analysis substrate (Fig. S1).
+Fig. 1. Schematic representation of carboxymethyl cellulose and polyacrylamide structure, and the hydrolysis mechanism of the latter.
+Fig. 2. Distinctive SEM images, 1a pure Co3O4, 1b. Co3O4@CMC- 1 (S1), 1c. Co3O4@CMC-2 (S2), d. Co-25polyacryl; eCo-50polyacryl.
+Structural analysis is performed by powder XRD on all the prepared samples, including bare Co3O4, and it is reported in
+Fig. 3
+. All samples exhibit a clear crystalline diffractogram, whose peaks can be indexed as face centered cubic Co3O4 phase, reference card no. (96-900-5896). The sharp reflection peaks pointing the excellent crystalline properties of the materials. The XRD study ensures the high degree of purity and single-phase system for the prepared Co3O4 samples, with no residual of additional phase resulting from the polymer addition. No specific variation of the observed crystalline phase is observed, as expected. Interestingly, all the Co-polyacryl samples exhibit increased 004/113 peaks ratio, suggesting a preferential growth axis. Also, in the presented work the use of polymeric materials has possibility produced a stress during the growth of cobalt hydroxide crystal and it has partially shifted the diffraction peak. Further, the combustion of hydroxide phase in the presence of air at 450 °C could produce the defects in the cobalt oxide phase which might be the reason for the shift in the diffraction peaks of Co3O4 material prepared in the presence of polyelectrolyte polymers
+[34]
+.
+Fig. 3. Powder XRD diffraction patterns, 1a pure Co3O4, 1b. Co3O4@CMC- 1 (S1), 1c. Co3O4@CMC-2 (S2), 1d. Co-25polyacryl, 1e. Co-50polyacryl.
+Fig. 4
+is displaying low and high magnification HR-TEM micrographs for Co3O4 (a,b,c), Co-25polyacryl (d,e,f) and Co3O4@CMC-2 g,h,i) samples, in order to compare the role of template during the growth process on nanoscale structure and morphology. As suggested by SEM analysis, pristine Co3O4 sample and Co3O4@CMC-2 exhibit spherical-shape nanocrystallites while Co-25polyacryl displays nanoparticles with a rounded parallelepiped geometry.
+Fig. 4. Low magnification TEM micrographs of pristine Co3O4 (a), Co-25polyacryl (d) and Co3O4@CMC (g) sample; high magnification TEM micrograph of pristine Co3O4 (b), Co-25polyacryl (e) and Co3O4@CMC (h) sample; HR-TEM with FFT of pristine Co3O4 (c), Co-25polyacryl (f) and Co3O4@CMC (i) sample.
+The high magnification micrographs of all samples confirm the crystalline character of the material, with crystal phase compatible with the one of Co3O4 with a spinel like structure (
+Fig. 4
+c,f,i). In particular, it is possible to notice that the presence of polyacrylamide affects the shape of the nanoparticles, moving from a more random, almost spherical shape of the pristine sample (
+Fig. 4
+a,b) and the CMC-templated sample (
+Fig. 4
+g,h) to a more rectangular one for the case with polyacrylamide (
+Fig. 4
+d,e). By comparing the diffraction fringes pattern on HR-TEM micrograph of a single Co3O4 crystal (
+Fig. 4
+f) with the one of a Co-25polyacryl crystal (
+Fig. 4
+e), it is possible to notice a set of lattice planes parallel to the crystal squared edge, with d-spacing equal to 0.28 nm (FFT in the inset). These planes can be indexed as the (1,-1,0) planes, and may represent one of preferentially exposed faces of the nanocrystal, given his squared shape. The edge perpendicular to the (1,-1,0) planes does not display any parallel planes on the specific zone axis, while we can observe two sets of planes with 0.24 nm d-spacing, relative to the planes orthogonal to the (1,3,-1) and (3,1,-1) directions, whose direction is equally tilted with respect to the edge direction. While no specific set of planes can be visualized on the perpendicular edge, this may be resulting from a slight tilting of the nanocrystal on the (1,-1,0) axis and the squared edge might be resulting from (1,1,1) planes, which are often observed to be perpendicular to nanocrystals squared edges, with the relative d-spacing equal to 0.46 nm. This behavior is observed in multiple nanocrystals (Fig. S2), suggesting that (1,-1,0) and (1,1,1) planes may be the nanocrystals preferential exposed faces due to a selective polyacrylamide templating effect. Due to the limited size of the nanocrystals and the inhomogeneous size ratio, we expect that this morphology-related singularity of polyacrylamide-templated Co3O4 to be hardly detected by XRD analysis.
+This specificity of polyacrylamide templated Co3O4 may result in a different electrochemical activity resulting from the different activity of the exposed crystal faces and the resulting surface chemistry. However, a deeper structural investigation is needed to assess the role of this peculiar morphology with respect to the functional properties, addressing the 3D morphology of the nanocrystals.
+The size distribution of the nanocrystals was extracted from the low magnification HR-TEM micrographs and reported in Fig. S3, to understand the average dimension of the nanoparticles and the possible variation due to the templating agents. Fig. S3a and S3b shows that the size of the crystalline domains (measured either as the diameter or the diagonal if the geometry is closer to spherical or squared, respectively) does not change moving from the pristine Co3O4 to the Co-25polyacryl, with an average value approaching 60 nm. On the opposite, lower average particle size can be noticed for Co3O4@CMC-2 sample (Fig. S3c), dropping to 44.4 nm (with a comparable standard deviation), suggesting that the cellulose-based polyelectrolyte enhances the nucleation step and limits the crystallite growth maximum size during the hydrothermal synthesis process.
+STEM-EDS analysis of the polyacrylamide-treated Co3O4 sample confirms the presence of cobalt and oxygen with the addition of a peak relative to the Cl (Fig. S4). In all the highlighted spot (orange circles) the ratio in atomic percentage between Co and O does not change (value in average Co/O = 0.62), suggesting homogeneous composition (Fig. S4a). In case of Cl, the atomic percentage is very low (around 1%) but it increases if focusing onto the areas with lower contrast (spot 1), with a value of 3% (Fig. S4b). The reason for the presence of Cl can be traced back to residuals of the counter-ion employed during preparation. In addition, the presence of chlorine may be the reason for the presence of porous or otherwise thinner areas.
+EDS profile of the sample Co3O4@CMC-2 (Fig. S5) is displaying the same behavior observed in the previous case, with a Co/O content ratio constant for all the profile reconstruction (Fig. S4b). The evaluation of the atomic percentage of the different chemical components further confirms the crystal phase analysis, with an average ratio Co/O of 0.65.
+The chemical state and surface composition of the Co-25polyacryl and Co3O4 CMC-2 based samples and the pristine Co3O4 were evaluated by X-ray photoelectron spectra (XPS) technique. Co 2p, CoLMN and O 1s core level spectra are included in
+Fig. 5
+.
+Fig. 5. (a) Co 2p, (b) Co Auger and (c) O 1s XPS spectra of Co-25polyacryl and Co3O4@CMC-2.
+Cobalt photoelectron signal (
+Fig. 5
+a) shows the characteristic peaks of Co 2p3/2 (Solid lines) and Co 2p1/2 (Dotted lines) doublet. All the three samples show the characteristic spectrum of cobalt spinel phase and the decomposition of the spectra was carried out by following the indications reported by Biesinger et al.
+[35]
+.Focusing on the Co 2p3/2 component, several contributions are present. According to the literature
+[36]
+, the peak at ca. 779.5 eV corresponds to Co3+, the peak at 780.9 eV to Co2+, and the signal at 782.5 eV to Co2+ in Co(OH)2. For the fitting, also the two shake-up satellites (surface and bulk plasmons) of cobalt ions were included
+[37]
+.The decomposition results are summed up in
+Table 1
+. It was worth noting that the binding energy of Co 2p hardly changed between the samples.
+Table 1. XPS decomposition result of the studied samples.
+Further insights about the chemical state of cobalt was obtained from the CoLMN Auger signal, being more sensitive to chemical state modifications of cobalt. The corresponding spectra in terms of kinetic energy (KE) of CoLMN electrons are depicted in
+Fig. 5
+b. Three peaks are observed at about 774.5, 770.0 and 766.2 eV corroborating the presence of three main species of cobalt. From these signals, the corresponding modified Auger parameter (α’) was determined to perform a tentative assignment of these components. It was calculated according to the following equation:
+where KE (CoLMN) is the kinetic energy of the CoLMN Auger electron, KE Co 2p is the kinetic energy of the Co 2p3/2 photoelectron and 1486.6 is the energy of the Al Kα X-ray excitation in eV. The obtained values were three sets of points, the first one located at ca. 1554.2 eV in the region of Co3+; the second one at 1550.9 eV, in the Co2+ region; and a third one at 1549.0 eV corresponding to the region of Co(OH)2 species. These data corroborate those obtained from the photoelectron signal analysis.
+The quantification of the spectra provided the following Co3+/Co2+ surface atomic ratios were 0.90, 1.07 and 0.96 for the Co3O4, Co-25polyacryl and Co3O4@CMC-2, respectively, indicating that Co-25polyacryl possessed relatively more Co3+ ions on the surface than the other samples.
+Considering O 1s signal (
+Fig. 5
+c) for each sample, the spectra decomposition provides three peaks contributions: the main one with a binding energy at ∼529.9 eV and assigned to surface lattice oxygen species (denoted as OLat) on cobalt spinel
+[38]
+, the second contribution with binding energy at ∼531.2 eV was ascribed to low coordination oxygen species (O2, O2− and O−) or surface oxygen species adsorbed over the surface oxygen vacancy (denoted as OSurf)
+[39]
+and the binding energy around at ∼533.0 eV is reported in the literature to be due to chemisorbed oxygen (represented as OChe), respectively
+[40]
+. OSurf has greater mobility than lattice oxygen and may give rise to beneficial spillover phenomena at the solid surface
+[41]
+. Quantitative analyses of the decomposed O 1s XPS spectra provided the OSurf/OLat ratios on the surface and summarized in Table X. It revealed that the Co-25polyacryl showed the highest OSurf/OLat atomic ratio, followed by Co3O4@CMC-2 and Co3O4, and therefore indicating that Co-25polyacryl has more surface oxygen vacancies that could provide enough oxygen adsorption sites or active centers for the process as found in literature
+[42]
+. Moreover, it has been reported that the higher the OSurf/OLat atomic ratio the lower the energy to activate molecules into reactive oxygen species
+[43]
+. Previous XPS studies
+[44]
+has been proven that the abundance of surface Co3+ species on the surface can be conducive to the transport of the oxygen species with a higher efficiency
+[45]
+. The above-mentioned results revealed that Co-25polyacryl with more surface Co3+ and based on the principle of electro-neutrality, the atomic ratio of OSurf/OLat is also the highest, implies that this sample with a larger amount of surface oxygen vacancies, the enhancement of Co3+ concentration can impact in oxygen desorption. We infer that the rise of preferential exposed faces in the more regular, rounded parallelepiped morphology, exhibited by Co-polyacryl samples, might be related to the higher amount of oxygen vacancies, whose increase might be resulting from the polyacrylamide hydrolysis and surface cobalt coordination process. The polyacrylamide addition is therefore affecting the metal oxide growth through a complex, multistep impact, unlike what observed with the addition of a less unpredictable polyelectrolyte such as CMC, expected to exert merely a colloidal stabilization effect on the growing nanocrystals due to the multiple carboxylate groups.
+The functionality of as prepared pristine Co3O4, Co-25polyacryl, Co-50polyacryl, Co3O4@CMC-1 and Co3O4@CMC-2 materials was investigated using a cell set up of three electrodes in 1.0M KOH. First, a slow CV at 10 mV/s was performed to limit the capacitive current and corresponding polarization curves were measured.
+Fig. 6
+a shows the LSV polarization curves for Co3O4@CMC-2, Co3O4@CMC-1, and pristine Co3O4 with an onset potential of 1.48, 1.50 and 1.63 V, versus RHE respectively. The Co3O4@CMC2 has the lowest onset potential and an excellent OER activity. The calculated overpotential for the Co3O4@CMC-2 is 290 mV at 10 mAcm−2. Co3O4@CMC-1 sample exhibits an overpotential of 300 mV which is still better than the pristine Co3O4. The extremely low overpotential value attained by Co3O4@CMC-2 strongly improves the state of the art with respect to similar Co based electrocatalysts and other materials for OER [
+[46]
+,
+[47]
+,
+[48]
+,
+[49]
+,
+[50]
+]. This improvement might be related to the reduce particle size achieved by employing CMC as soft template. The best performance for Co3O4@CMC samples is coming from the highest loading of CMC during the synthesis process, suggesting that some improvement might be achieved with even higher loading.
+Fig. 6. a. Linear sweep voltammetry curves for pristine Co3O4, Co3O4@CMC-1 (S1), Co3O4@CMC-2 (S2) at scan rate 1 mV/s in aqueous solution of 1.0M KOH, b. The Tafel plotting from LSV curves, c. Durability of Co3O4@CMC-2 (S2), through chronopotentiometry experiment at a fixed 15 mAcm−2 for 30 h, d. LSV curves before and after the durability test, e. Linear sweep voltammetry Co-25polyacryl, Co-50polyacryl, 20% RuO2/C at scan rate 1 mV/s in 1.0M KOH, f. The Tafel plots from LSV curves, g. Durability of Co-25polyacryl through chronopotentiometry experiment at a constant 10 mAcm−2 for 30 h, h. Stability of Co-25polyacryl.
+Fig. 6
+e displays LSV polarization curves for Co-25polyacryl and Co-50polyacryl samples, together with RuO2/C, used as a high-performance OER electrocatalysis reference material. The calculated overpotentials at 10 mAcm−2 are 260, 300 and 160 mV for the Co-25polyacryl, Co-50polyacryl and RuO2/C, respectively. Being a noble material RuO2 has shown excellent performance as expected, however the development for the design of efficient nonprecious material for OER is a prime need, and a Co-based catalysis with comparable performance would be ideal. By comparing the results with pristine Co3O4 and CMC-templated one, we can notice a further improvement of the onset potential for the PA-templated Co3O4 samples, at low PA content. For comparison purpose, Co3O4 thin film obtained from wet chemical method display a much larger value equal to 377 mV at 10 mAcm−2
+[51]
+. Various phases of cobalt oxide, including CoO and Co3O4 were reported in the literature to produce even higher overpotentials of 495 and 496 mV at 10 mA cm−2, respectively
+[52]
+. mesoporous Co3O4 obtained by silica hard-templating approach was also reported with relatively high OER overpotential of 592 mV
+[53]
+. The further improvement of OER overpotential achieved by employing PA as soft template confirms the viability of the proposed approach. The structural and spectroscopical analysis suggested a different templating mechanism for polyacryl-assisted growth. The improved electrochemical performance is consistent with the larger OSurf/OLat observed by XPS, but while the crystallite size is basically not affected by PA presence, the shape and the nanocrystals morphology are influenced by its addition. As a consequence, we may infer that the preferential exposed faces in the squared-shape crystallites are more active towards OER. Thus, PA addition could allow for improved active surface.
+The OER activity could be further described from Tafel value [
+54
+,
+55
+], as shown in
+Fig. 6
+b. The Tafel slope of Co3O4@CMC-2 composite was found 71 mVdec−1 and observed lower than the Co3O4@CMC-1 (76mVdec−1) and pristine Co3O4 (164 mVdec−1). An even larger drop is experienced for the Co-25polyacryl, with an ultra-low value of 63 mV dec−1, approaching the one of the reference noble metal catalyst RuO2/C, equal to 55 mVdec−1. Interestingly, upon increasing the PA content during the metal oxide growth process, the Tafel slope increases to 82 mV dec−1, suggesting a more degree of oxygen-containing reaction intermediates for the enhanced OER process. It is clear from LSV curves that an optimum level of polyacryl is essential to enhance the catalytic activity of Co3O4 and that further increase in the polymer concentration lowered the OER activity of Co3O4.
+From LSV curves, we see the pre-oxidation peaks for the Co3O4 obtained with polyacrylamide and they are assigned to the oxidation of cobalt (II) to (III)
+[51]
+. Additionally, pre-oxidation peak is present in the RuO2 sample due to the shift in oxidation from lower to higher oxidation state. It has been shown that OER mechanism is a four-electron process, which is not trivial. However, a general mechanism for OER in basic environment is discussed in several studies and stepwise processing is described below. It is believed that first Co3+ binds with OH−1 as shown in steps 1 and 2. The CoOOH is produced with a continuous reaction of OH−1 (step 3). Further, CoOOH adsorb additional OH−1 and releases O2 (step 4). It has been demonstrated that OER process transforms the Co3O4 into CoOOH as later is highly stable owing to higher oxidation state of cobalt
+[24]
+.
+(2)
+(3)
+(4)
+(5)
+(6)
+Herein, Co3O4 @CMC/PA is proposed as catalytic site for OER on the working electrode and step 3 is the rate governing step.
+The durability of Co3O4@CMC-2 was studied through chronopotentiometry experiment at constant 15 mA/cm2 as enclosed in
+Fig. 6
+c and it was seen no rise in the potential during electrolysis, confirming it's an excellent stability. The superior OER activity was excellent stability makes the Co3O4@CMC-2 applicable for the wide range of applications. To reveal the stability of the Co3O4@CMC-2 material before and after the durability test, LSV curves were measured as shown in
+Fig. 6
+d. The Co3O4@CMC-2 composite maintained the onset potential and current density without any drop and it confirms the good stability of our Co3O4@CMC-2 electrocatalyst.
+Similarly, the polarization curves of Co3O4 with polyacrylamide Co-25polyacryl after durability experiment for 30 h were measured
+Fig. 6
+g. The activity of electrocatalyst remained constant without any change in the onset potential and current density. In addition, we investigated the durability of Co-25polyacryl via chronopotentiometry at constant current density of 10 mA cm−2 (
+Fig. 6
+h). The potential was found to be constant for 30 h. Consistently, no modification of the catalyst morphology was observed upon analyzing the samples by HR-TEM after the OER experiments (Fig. S6), suggesting robust material's cyclability.
+Both TEM and SEM studies are revealing that the morphology and enhanced surface area are the main factors which boosted the OER activity of Co3O4@CMC-2 and Co-25polyacryl. This could be attributed from the well orientation of nanowires which further enhanced the charge transfer kinetics and accelerated the OER process.
+To evaluate the better understanding of catalytic performance of Co3O4@CMC-2 and Co-25polyacryl samples in comparison to other materials towards half-cell OER reaction, we have investigated the electrochemical active surface area (ECSA) from cyclic voltammetry (CV) curves through non-Faradic region in 1.0M KOH as shown in (Fig. S7a–e). Taking in consideration the linear fitting of difference of current density (Ja-Jc) and corresponding slope was considered as ECSA [
+54
+–
+56
+]. It is believed that the active surface area is useful parameter for describing the efficiency of elelctrocatalyst in OER process. The obtained ECSA values for pristine Co3O4, Co3O4@CMC- 1 (S1), Co3O4@CMC-2 (S2), Co-25polyacryl and Co-50polyacryl are 3.4, 8.5, 11.5, 15.7 and 9.8 µcm−2, respectively. These ECSA values confirms the superior performance of Co-25polyacryl over other samples due to rich active surface area which played a dominant role for driving the OER process relatively at low overpotential.
+The turnover frequencies (TOFs) of pristine Co3O4, Co-25polyacryl and Co-50polyacryl, Co3O4@CMC- 1 (S1), and Co3O4@CMC-2 (S2), respectively were estimated according to published works [
+55
+,
+57
+] and considering that all the cobalt ions were active towards OER. The measured values of TOF,s were as 0.005 + 0.002, 0.293 + 0.002, 0.097 + 0.003, 0.076 + 0.003, and 0.108 + 0.002 S−1 at η=270 mV, for pristine Co3O4, Co-25polyacryl and Co-50polyacryl, Co3O4@CMC- 1 (S1), and Co3O4@CMC-2 (S2), respectively as given in Table S1. Among these materials, the TOF of Co-25polyacryl was found comparable to that of published works [
+55
+,
+57
+,
+58
+]. The OER activity of as synthesized Co3O4 nanostructures with polyacrylamide was compared with already existing excellent OER electrocatalysts in terms of overpotential and Tafel slope is collected in Table S2. The performance of Co3O4 obtained with polyacrylamide as soft template is equal or superior to many of the reported OER catalysts, in terms of low overpotential and Tafel value.
+To get a deeper understanding of the charge transport within the oxide electrocatalyst, EIS analysis was performed. The Bode and Nyquist plots for the Co3O4@CMC samples and pristine Co3O4 are shown in
+Fig. 7
+a,b and
+6
+c, respectively, which gives information about the charge transfer kinetics. The experimental results for the impedance were simulated by Z-view software to investigate the bulk electrolyte and double layer interfaces. And fitted with equivalent circuit as inset in
+Fig. 7
+c. The simple Randles circuit was used to represent the interfaces and thecircuit fitted equivalent circuit are shown in inset in
+Fig. 7
+c.elements were Ssolution resistance Rs represents the bulk solution interface, and charge transfer resistance Rct and constant phase element corresponded to the double layer capacitanceinterface. The impedance of CPE can be written as ZCPE = 1/Q(jω)n, where j = (-1)1/2 and n represents the deviation from the ideal behavior, n being 1 for perfect capacitors [
+[59]
+,
+[60]
+,
+[61]
+]. The Rct values from the Nyquist plots for the Co3O4@CMC-1, Co3O4@CMC-2 and pristine Co3O4 were found 291.3, 131.8 and 1022 Ohms respectively. The lowest value of Rct for the Co3O4@CMC-2 sample reveals a faster charge transfer kinetics compared to Co3O4@CMC-1 and pristine Co3O4
+Fig. 6
+c. Also, the double layer capacitance was calculated from EIS results for the Co3O4, Co3O4@CMC-1, and Co3O4@CMC-2 as 0.07, 0.26 and 0.94 mF, respectively as given
+Table 2
+. A higher value of capacitance indicates the large capability for the transfer of ionic charge between the electrolyte and electrode, corresponding to larger active area. Furthermore, EIS study was also carried on the different Co3O4@PA samples and the results are reported in
+Fig. 7
+d–f.
+Fig. 7
+d,e represents the Bode plots obtained from the impedance results: they give information The fitted circuit is also reported as an as inset in
+Fig. 7
+f. The Nyquist plots are reported in
+Fig. 6
+f and the Co-25polyacryl exhibited the smallest semicircle, which confirms the faster kinetics and excellent conductivity of the material, compared to the other samples, which further accelerated the charge transport during the OER process. The corresponding Rct and capacitance double layer for Co-25polyacryl and Co-50polyacryl are 82.58 and 129.9 Ohms and 1.56 and 0.94 mF, respectively, as given in
+Table 2
+. Once again, Co-25polyacryl exhibits the smallest charge transfer resistance and the largest double layer capacitance in the faradaic regime, confirming the superior electrochemical activity of this specific material, proving how the morphology of the catalyst is responsible for dramatic variation of its functional properties. Unlike CMC, PA addition does not result in improved performance by improving the polymer content, suggesting that the templating mechanism is more complex than a simple stabilization of the growing nanoparticles.
+Fig. 7. Electrochemical impedance spectra of pure Co3O4, Co3O4@CMC- 1 (S1), Co3O4@CMC-2 (S2) in 1.0M KOH at 100 kHz to 0.1Hz with sinusoidal potential of 10 mV and OER onset potential, the Bode plots (a,b) and c. Nyquist Plots, EIS results for Co3O4 nanostructures Co-25polyacryl, Co-50polyacryl, using a in 1.0M KOH at 100 kHz to 0.1Hz with sinusoidal potential of 10 mV and OER onset potential in 1.0M KOH, the Bode plots (d,e), and f. Nyquist Plots.
+Table 2. Summary of unique features of Co3O4 grown with CMC and Polyacryl.
+In summary, we have produced Co3O4 nanostructures in the presence of polyacrylamide and CMC as nucleophilic polymers by wet chemical method. The Co3O4 nanostructures were found efficient for OER in 1.0M KOH basic conditions. The prepared materials are physically characterized by XRD, SEM, EDS and HRTEM techniques, highlighting a different role of the templating polyelectrolyte on the nanocrystals morphology. These studies confirmed the short-range nanowire morphology consisting chain of nanoparticles and cubic phase of Co3O4. The short-range nanowires of Co3O4 exhibit high surface area along with high density of catalytic centers. The XPS study has shown that the Co-25polyacryl sample is associated to large amount of Co3+ ions and the surface oxygen vacancies which dynamically enhanced the oxygen evolution reaction. Robust OER performance were shown by CMC and Polyacrylamide-templated nanostructures, achieving state-of-the art overpotential and Tafel slope with over 30h stability. The different templating mechanism of the two employed poly-electrolyte resulted in a slight enhancement of the OER performance for the Polyacrylamide-templated samples. The peculiar morphology and the improved oxygen vacancies concentration for this cobalt oxide structures were correlated to the enhanced electrochemical activity. The present study is therefore proving the role of polyelectrolytes-templated growth towards the design of efficient electrocatalysts, highlighting how complex mechanisms might be responsible for unexpected enhancement of the functional properties, as observed with the addition of polyacrylamide. We envision a growing interest in the fine control of structure and surface chemistry of metal oxide electrocatalysts through multifunctional templating agents, towards the enhancement of OER performance. Conclusively, these Co3O4 nanostructures obtained with CMC and polyacrylamide are promising electrocatalysts for diverse applications other than OER, such as fuel cells and metal-air batteries.
+Adeel Liaquat Bhattia, carried out partial material synthesis and electrochemical measurement
+Aneela Tahirab, measured the XRD of prepared materials and analyzed it
+Alessandro Gradoned,j, did the TEM measurement
+Raffaello Mazzarod,k*, did the TEM analysis
+Vittorio Morandid, Supervised the TEM measurement and edited the TEM draft
+Umair aftabc, did the electrochemical impedance analysis
+Muhammad Ishaq Abroc, partially involved in the electrochemical measurements
+Ayman Nafadyh, did the SEM analysis
+Kezhen Qig, partially supported the XPS facilities
+Antonia Infantes-Molinai, did the XPS analysis and prepared its draft
+Alberto Vomieroe,f, involved in the discussion part of results
+Zafar Hussain Ibupotob* supervised the work and prepared the first draft of manuscript.
+Finally all contributors edited and had given Ok to resubmit the manuscript
+Authors declare that the presented work is original and only considered for this journal.
+Authors acknowledge the Higher Education of Pakistan for the partial financial support of this research work. A.N thanks Researchers Supporting project (
+RSP-2021/79
+) at King Saud University, Riyadh, Saudi Arabia. Authors acknowledge the XPS support from Dr. Kezhen Qi though his financial support under the project “Liaoning Revitalization Talents Program (
+XLYC1807238
+).” China. A.I.M. acknowledges RTI2018-099668-BC22, RyC-2015-17870 and UMA18-FEDERJA-126 projects (Spain). A.G., R.M. and V.M. thanks the E.U. for partial financial support through the Graphene Flagship Core 3 project (Project ID: 881603).
+Download: Download Word document (6MB)
+Cookies are used by this site.
+Cookie Settings
+All content on this site: Copyright © 2024 Elsevier B.V., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the Creative Commons licensing terms apply.

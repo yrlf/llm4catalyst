@@ -1,0 +1,506 @@
+{
+    "materials": [
+        {
+            "material_name": "NiI-NCNT@Ni9Cu",
+            "properties": [
+                {
+                    "type": "Faradic efficiency",
+                    "value": 97.0,
+                    "unit": "%",
+                    "conditions": "in 0.5 m KHCO3 aqueous solution",
+                    "reaction_type": "CRR",
+                    "evidence": 0
+                },
+                {
+                    "type": "Current density",
+                    "value": -32.87,
+                    "unit": "mA cm\u22122",
+                    "conditions": "in 0.5 m KHCO3 aqueous solution",
+                    "reaction_type": "CRR",
+                    "evidence": 0
+                },
+                {
+                    "type": "Turnover frequency",
+                    "value": 1962.0,
+                    "unit": "h\u22121",
+                    "conditions": "in 0.5 m KHCO3 aqueous solution",
+                    "reaction_type": "CRR",
+                    "evidence": 0
+                },
+                {
+                    "type": "Overpotential",
+                    "value": 620.0,
+                    "unit": "mV",
+                    "conditions": "in 0.5 m KHCO3 aqueous solution",
+                    "reaction_type": "CRR",
+                    "evidence": 0
+                },
+                {
+                    "type": "Turnover frequency",
+                    "value": 1962.0,
+                    "unit": "h-1",
+                    "conditions": "at an overpotential of 620 mV",
+                    "reaction_type": "CRR",
+                    "evidence": 1
+                },
+                {
+                    "type": "Diameter",
+                    "value": 27.0,
+                    "unit": "nm",
+                    "conditions": "TEM measurement",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "Lattice spacing",
+                    "value": 0.338,
+                    "unit": "nm",
+                    "conditions": "HRTEM measurement",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "Lattice spacing",
+                    "value": 0.208,
+                    "unit": "nm",
+                    "conditions": "HRTEM measurement",
+                    "reaction_type": "NA",
+                    "evidence": 1
+                },
+                {
+                    "type": "Faradic efficiency",
+                    "value": 97.0,
+                    "unit": "%",
+                    "conditions": "toward CO formation in 0.5 m KHCO3 aqueous solution",
+                    "reaction_type": "CRR",
+                    "evidence": 2
+                },
+                {
+                    "type": "XANES peak position",
+                    "value": 8978.0,
+                    "unit": "eV",
+                    "conditions": "Cu K-edge XANES, indicating Cu2+ species",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "EXAFS peak position",
+                    "value": 1.35,
+                    "unit": "\u00c5",
+                    "conditions": "Ni K-edge, Ni\u2013N coordination",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "EXAFS peak position",
+                    "value": 2.14,
+                    "unit": "\u00c5",
+                    "conditions": "Ni K-edge, Ni\u2013Ni/Cu path",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "XPS peak position",
+                    "value": 854.6,
+                    "unit": "eV",
+                    "conditions": "Ni 2p3/2, suggesting low-valent state of Ni",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "XPS peak position",
+                    "value": 853.5,
+                    "unit": "eV",
+                    "conditions": "Ni 2p3/2, after acid treatment",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "XPS peak position",
+                    "value": 932.9,
+                    "unit": "eV",
+                    "conditions": "Cu 2p, metallic Cu0",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "XPS peak position",
+                    "value": 933.5,
+                    "unit": "eV",
+                    "conditions": "Cu 2p, Cu2+",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "XPS atomic concentration",
+                    "value": 0.9,
+                    "unit": "at%",
+                    "conditions": "Ni in NiI-NCNT@Ni9Cu",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "XPS atomic concentration",
+                    "value": 0.07,
+                    "unit": "at%",
+                    "conditions": "Cu in NiI-NCNT@Ni9Cu",
+                    "reaction_type": "NA",
+                    "evidence": 4
+                },
+                {
+                    "type": "XPS peak",
+                    "value": 399.0,
+                    "unit": "eV",
+                    "conditions": "N 1s spectra",
+                    "reaction_type": null,
+                    "evidence": 5
+                },
+                {
+                    "type": "XPS peak",
+                    "value": 400.5,
+                    "unit": "eV",
+                    "conditions": "N 1s spectra",
+                    "reaction_type": null,
+                    "evidence": 5
+                },
+                {
+                    "type": "XPS peak",
+                    "value": 401.3,
+                    "unit": "eV",
+                    "conditions": "N 1s spectra",
+                    "reaction_type": null,
+                    "evidence": 5
+                },
+                {
+                    "type": "XPS peak",
+                    "value": 403.0,
+                    "unit": "eV",
+                    "conditions": "N 1s spectra",
+                    "reaction_type": null,
+                    "evidence": 5
+                },
+                {
+                    "type": "XPS peak",
+                    "value": 854.6,
+                    "unit": "eV",
+                    "conditions": "Ni 2p3/2 binding energy",
+                    "reaction_type": null,
+                    "evidence": 5
+                },
+                {
+                    "type": "XPS peak",
+                    "value": 853.5,
+                    "unit": "eV",
+                    "conditions": "Ni 2p3/2 peak after acid leaching",
+                    "reaction_type": null,
+                    "evidence": 5
+                },
+                {
+                    "type": "XPS peak",
+                    "value": 932.9,
+                    "unit": "eV",
+                    "conditions": "Cu 2p spectra",
+                    "reaction_type": null,
+                    "evidence": 5
+                },
+                {
+                    "type": "XPS peak",
+                    "value": 933.5,
+                    "unit": "eV",
+                    "conditions": "Cu 2p spectra",
+                    "reaction_type": null,
+                    "evidence": 5
+                },
+                {
+                    "type": "atomic concentration",
+                    "value": 0.9,
+                    "unit": "at%",
+                    "conditions": "Ni in NiI-NCNT@Ni9Cu",
+                    "reaction_type": null,
+                    "evidence": 5
+                },
+                {
+                    "type": "atomic concentration",
+                    "value": 0.07,
+                    "unit": "at%",
+                    "conditions": "Cu in NiI-NCNT@Ni9Cu",
+                    "reaction_type": null,
+                    "evidence": 5
+                },
+                {
+                    "type": "Ni single-atom content",
+                    "value": 3.52,
+                    "unit": "wt%",
+                    "conditions": "ICP-AES",
+                    "reaction_type": "NA",
+                    "evidence": 6
+                },
+                {
+                    "type": "Current density",
+                    "value": -42.0,
+                    "unit": "mA/cm\u00b2",
+                    "conditions": "at an applied potential of -0.8 V vs. RHE, in 0.5 m aqueous KHCO3 solution, room temperature, atmospheric pressure",
+                    "reaction_type": "CO2 reduction",
+                    "evidence": 6
+                },
+                {
+                    "type": "Mass activity",
+                    "value": -84.0,
+                    "unit": "A/gcatalyst",
+                    "conditions": "at an applied potential of -0.8 V vs. RHE, in 0.5 m aqueous KHCO3 solution, room temperature, atmospheric pressure",
+                    "reaction_type": "CO2 reduction",
+                    "evidence": 6
+                },
+                {
+                    "type": "Onset overpotential",
+                    "value": 220.0,
+                    "unit": "mV",
+                    "conditions": "CO2 reduction, LSV curve",
+                    "reaction_type": "CO2 reduction",
+                    "evidence": 6
+                },
+                {
+                    "type": "Faradaic efficiency",
+                    "value": 97.0,
+                    "unit": "%",
+                    "conditions": "at around -0.73 V vs. RHE",
+                    "reaction_type": "CO2 reduction",
+                    "evidence": 6
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 98.0,
+                    "unit": "mV/decade",
+                    "conditions": "CO2 reduction",
+                    "reaction_type": "CO2 reduction",
+                    "evidence": 6
+                },
+                {
+                    "type": "Roughness factor",
+                    "value": 2401.0,
+                    "unit": "dimensionless",
+                    "conditions": "ratio of ECSA to geometric area",
+                    "reaction_type": "NA",
+                    "evidence": 6
+                },
+                {
+                    "type": "TOF",
+                    "value": 1962.0,
+                    "unit": "h\u22121",
+                    "conditions": "at an overpotential of 620 mV",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 98.0,
+                    "unit": "mV decade\u22121",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "roughness factor",
+                    "value": 2401.0,
+                    "unit": "NA",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "current density",
+                    "value": -21.5,
+                    "unit": "mA cm\u22122",
+                    "conditions": "after 20 h of continuous reaction",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "Ni single-atom content",
+                    "value": 4.06,
+                    "unit": "wt%",
+                    "conditions": "ICP-AES",
+                    "reaction_type": "NA",
+                    "evidence": 6
+                },
+                {
+                    "type": "Faradaic efficiency",
+                    "value": 75.0,
+                    "unit": "%",
+                    "conditions": "CO2 reduction",
+                    "reaction_type": "CO2 reduction",
+                    "evidence": 6
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 106.0,
+                    "unit": "mV/decade",
+                    "conditions": "CO2 reduction",
+                    "reaction_type": "CO2 reduction",
+                    "evidence": 6
+                },
+                {
+                    "type": "Roughness factor",
+                    "value": 2473.0,
+                    "unit": "dimensionless",
+                    "conditions": "ratio of ECSA to geometric area",
+                    "reaction_type": "NA",
+                    "evidence": 6
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 106.0,
+                    "unit": "mV decade\u22121",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "roughness factor",
+                    "value": 2473.0,
+                    "unit": "NA",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "XRD",
+                    "values": [
+                        26.4,
+                        54.5,
+                        44.5,
+                        44.5
+                    ],
+                    "units": [
+                        "\u00b0"
+                    ],
+                    "conditions": [
+                        "JCPDS 71-4655",
+                        "JCPDS, 75-1621",
+                        "JCPDS, 71-4655"
+                    ],
+                    "evidence": 1.5
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "NiI-NCNT@NiCu",
+            "properties": [
+                {
+                    "type": "Ni single-atom content",
+                    "value": 1.23,
+                    "unit": "wt%",
+                    "conditions": "ICP-AES",
+                    "reaction_type": "NA",
+                    "evidence": 6
+                },
+                {
+                    "type": "Faradaic efficiency",
+                    "value": 90.0,
+                    "unit": "%",
+                    "conditions": "CO2 reduction",
+                    "reaction_type": "CO2 reduction",
+                    "evidence": 6
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 175.0,
+                    "unit": "mV/decade",
+                    "conditions": "CO2 reduction",
+                    "reaction_type": "CO2 reduction",
+                    "evidence": 6
+                },
+                {
+                    "type": "Roughness factor",
+                    "value": 669.0,
+                    "unit": "dimensionless",
+                    "conditions": "ratio of ECSA to geometric area",
+                    "reaction_type": "NA",
+                    "evidence": 6
+                },
+                {
+                    "type": "Tafel slope",
+                    "value": 175.0,
+                    "unit": "mV decade\u22121",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                },
+                {
+                    "type": "roughness factor",
+                    "value": 669.0,
+                    "unit": "NA",
+                    "conditions": "NA",
+                    "reaction_type": "NA",
+                    "evidence": 7
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Ni@C",
+            "properties": [
+                {
+                    "type": "adsorption free energy",
+                    "value": 0.08,
+                    "unit": "eV",
+                    "conditions": "on hollow site",
+                    "reaction_type": "HER",
+                    "evidence": 7
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Ni9Cu@C",
+            "properties": [
+                {
+                    "type": "adsorption free energy",
+                    "value": 0.23,
+                    "unit": "eV",
+                    "conditions": "on hollow site",
+                    "reaction_type": "HER",
+                    "evidence": 7
+                },
+                {
+                    "type": "adsorption free energy",
+                    "value": 0.38,
+                    "unit": "eV",
+                    "conditions": "on hollow site",
+                    "reaction_type": "HER",
+                    "evidence": 7
+                }
+            ],
+            "benchmark": false
+        },
+        {
+            "material_name": "Ni-N4",
+            "properties": [
+                {
+                    "type": "adsorption free energy",
+                    "value": 1.92,
+                    "unit": "eV",
+                    "conditions": "NA",
+                    "reaction_type": "HER",
+                    "evidence": 7
+                }
+            ],
+            "benchmark": false
+        }
+    ],
+    "doi": "example_doi",
+    "factor": "Hydrogen coverage,Energy barrier,Conductivity,Surface area,Size,Defect,Dopant,Active sites,Stability,Electrode potential,Overpotential,Tafel slope,onsite potential,Current density,Mass loading,XPS,FTIR,Raman,XRD",
+    "meta": {
+        "maintext": "/Users/yangz/Documents/projects/llm4catalyst/documents/maintext/Atomically_Dispersed_NickelI_on_an_AlloyEncapsulat_maintext.txt",
+        "abstract": "/Users/yangz/Documents/projects/llm4catalyst/documents/abstract/Atomically_Dispersed_NickelI_on_an_AlloyEncapsulat_abs.txt",
+        "intro": "documents/intro/c60_intro.txt",
+        "window_size": 2,
+        "chunk_size": 1000,
+        "chunk_overlap": 100,
+        "output": "results",
+        "property": "/Users/yangz/Documents/projects/llm4catalyst/prompts/properties.txt",
+        "self_defined": true,
+        "title": "Atomically_Dispersed_NickelI_on_an_AlloyEncapsulat"
+    }
+}
