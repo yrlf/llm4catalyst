@@ -1,6 +1,6 @@
 from utils.functions import *
 import argparse
-
+import pandas as pd
 parser = argparse.ArgumentParser(description='Generate prompts for a given property file')
 parser.add_argument('--maintext', type=str, help='Path to the main text file', default='documents/maintext/c60_maintext.txt')
 parser.add_argument('--abstract', type=str, help='Path to the main text file',default='documents/abstract/c60_abs.txt')
@@ -11,11 +11,11 @@ parser.add_argument('--chunk_overlap', type=int, help='Overlap size for the text
 parser.add_argument('--output', type=str, help='Output file for the prompts', default='results')
 parser.add_argument('--property', type=str, help='Property to generate prompts for', default='prompts/factors.txt')
 parser.add_argument('--self_defined', type=bool, help='Whether to use self defined properties', default=True)
+parser.add_argument('--title', type=str, help='Title of the paper', required=True)
+
 
 def main():
     args = parser.parse_args()
-<<<<<<< Updated upstream
-=======
     print(args)
 
     # firstly check if this has been parsed before
@@ -37,7 +37,6 @@ def main():
         #return
 
 
->>>>>>> Stashed changes
 
     # Load the main text
     self_defined_properties = read_properties(args.property)
@@ -55,7 +54,7 @@ def main():
 
 
     # extract factors
-    factors = extract_factors(abstract, intro)
+    #factors = extract_factors(abstract, intro)
     if args.self_defined:
         factors.extend(self_defined_properties)   
     

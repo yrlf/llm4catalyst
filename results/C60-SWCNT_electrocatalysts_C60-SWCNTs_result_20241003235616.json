@@ -1,0 +1,503 @@
+{
+  "materials": [
+    {
+      "material_name": "C60-SWCNT",
+      "properties": {
+        "chemical_composition": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "doping": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "electronegativity": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "xps": {
+          "value": 2.11,
+          "unit": "NA",
+          "conditions": "atomic ratio of O to Si",
+          "reaction_type": "NA"
+        },
+        "raman": {
+          "value": 1611.0,
+          "unit": "cm-1",
+          "conditions": "G-band",
+          "reaction_type": "NA"
+        },
+        "ftir": {
+          "value": 1643.0,
+          "unit": "cm-1",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "xrd": {
+          "value": 1.14,
+          "unit": "nm",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "onset_potential": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "mass_loading": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "overpotential": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "tafel_slope": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        }
+      },
+      "benchmark": false
+    },
+    {
+      "material_name": "C60-SWCNT15",
+      "properties": {
+        "chemical_composition": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "doping": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "electronegativity": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "xps": {
+          "value": 2.11,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "raman": {
+          "value": 1643.0,
+          "unit": "cm-1",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "ftir": {
+          "value": "[]",
+          "unit": "NA",
+          "conditions": "NA"
+        },
+        "xrd": {
+          "value": 1.14,
+          "unit": "nm",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "onset_potential": {
+          "value": 0.91,
+          "unit": "V",
+          "conditions": "0.1 M KOH",
+          "reaction_type": "ORR"
+        },
+        "mass_loading": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "overpotential": {
+          "value": 1.69,
+          "unit": "V",
+          "conditions": "0.1 M KOH",
+          "reaction_type": "OER"
+        },
+        "tafel_slope": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        }
+      },
+      "benchmark": false
+    },
+    {
+      "material_name": "C60-SWCNT15",
+      "properties": {
+        "chemical_composition": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "doping": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "electronegativity": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "xps": {
+          "value": "[]",
+          "unit": "NA",
+          "conditions": "NA"
+        },
+        "raman": {
+          "value": "[]",
+          "unit": "NA",
+          "conditions": "NA"
+        },
+        "ftir": {
+          "value": "[]",
+          "unit": "NA",
+          "conditions": "NA"
+        },
+        "xrd": {
+          "value": 1.69,
+          "unit": "V",
+          "conditions": "0.1 M KOH",
+          "reaction_type": "OER"
+        },
+        "onset_potential": {
+          "value": 0.91,
+          "unit": "V",
+          "conditions": "0.1 M KOH",
+          "reaction_type": "ORR"
+        },
+        "mass_loading": {
+          "value": 1.73,
+          "unit": "mA/cm2",
+          "conditions": "0.1 M KOH",
+          "reaction_type": "ORR"
+        },
+        "overpotential": {
+          "value": 114.0,
+          "unit": "mV",
+          "conditions": "N2-saturated 0.1 M KOH",
+          "reaction_type": "HER"
+        },
+        "tafel_slope": {
+          "value": 46.7,
+          "unit": "mV/dec",
+          "conditions": "0.1 M KOH",
+          "reaction_type": "OER"
+        }
+      },
+      "benchmark": false
+    },
+    {
+      "material_name": "C60-SWCNT15",
+      "properties": {
+        "chemical_composition": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "doping": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "electronegativity": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "xps": {
+          "value": "[]",
+          "unit": "NA",
+          "conditions": "NA"
+        },
+        "raman": {
+          "value": 1643.0,
+          "unit": "cm-1",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "ftir": {
+          "value": "[]",
+          "unit": "NA",
+          "conditions": "NA"
+        },
+        "xrd": {
+          "value": "[]",
+          "unit": "NA",
+          "conditions": "NA"
+        },
+        "onset_potential": {
+          "value": 910.0,
+          "unit": "mV",
+          "conditions": "0.1 M KOH",
+          "reaction_type": "ORR"
+        },
+        "mass_loading": {
+          "value": 1.73,
+          "unit": "mA/cm2",
+          "conditions": "0.1 M KOH",
+          "reaction_type": "ORR"
+        },
+        "overpotential": {
+          "value": 380.0,
+          "unit": "mV",
+          "conditions": "0.1 M KOH",
+          "reaction_type": "HER"
+        },
+        "tafel_slope": {
+          "value": 46.7,
+          "unit": "mV/dec",
+          "conditions": "0.1 M KOH",
+          "reaction_type": "OER"
+        }
+      },
+      "benchmark": false
+    },
+    {
+      "material_name": "C60-SWCNT 15",
+      "properties": {
+        "chemical_composition": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "doping": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "electronegativity": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "xps": {
+          "value": "[]",
+          "unit": "NA",
+          "conditions": "NA"
+        },
+        "raman": {
+          "value": "[]",
+          "unit": "NA",
+          "conditions": "NA"
+        },
+        "ftir": {
+          "value": "[]",
+          "unit": "NA",
+          "conditions": "NA"
+        },
+        "xrd": {
+          "value": "[]",
+          "unit": "NA",
+          "conditions": "NA"
+        },
+        "onset_potential": {
+          "value": 1.26,
+          "unit": "V",
+          "conditions": "0.5 M H2SO4",
+          "reaction_type": "OER"
+        },
+        "mass_loading": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "overpotential": {
+          "value": 420.0,
+          "unit": "mV",
+          "conditions": "0.5 M H2SO4",
+          "reaction_type": "OER"
+        },
+        "tafel_slope": {
+          "value": 38.4,
+          "unit": "mV/dec",
+          "conditions": "0.5 M H2SO4",
+          "reaction_type": "OER"
+        }
+      },
+      "benchmark": false
+    },
+    {
+      "material_name": "C60-SWCNT",
+      "properties": {
+        "chemical_composition": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "doping": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "electronegativity": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "xps": {
+          "value": "[]",
+          "unit": "NA",
+          "conditions": "NA"
+        },
+        "raman": {
+          "value": "[]",
+          "unit": "NA",
+          "conditions": "NA"
+        },
+        "ftir": {
+          "value": "[]",
+          "unit": "NA",
+          "conditions": "NA"
+        },
+        "xrd": {
+          "value": "[]",
+          "unit": "NA",
+          "conditions": "NA"
+        },
+        "onset_potential": {
+          "value": 0.81,
+          "unit": "V",
+          "conditions": "phosphate buffer solution, pH = 7",
+          "reaction_type": "ORR"
+        },
+        "mass_loading": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "overpotential": {
+          "value": 520.0,
+          "unit": "mV",
+          "conditions": "phosphate buffer solution, pH = 7, 10 mA/cm2",
+          "reaction_type": "OER"
+        },
+        "tafel_slope": {
+          "value": 129.0,
+          "unit": "mV/dec",
+          "conditions": "phosphate buffer solution, pH = 7",
+          "reaction_type": "OER"
+        }
+      },
+      "benchmark": false
+    },
+    {
+      "material_name": "C60-SWCNT",
+      "properties": {
+        "chemical_composition": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "doping": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "electronegativity": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "xps": {
+          "value": "[]",
+          "unit": "NA",
+          "conditions": "NA"
+        },
+        "raman": {
+          "value": "[]",
+          "unit": "NA",
+          "conditions": "NA"
+        },
+        "ftir": {
+          "value": "[]",
+          "unit": "NA",
+          "conditions": "NA"
+        },
+        "xrd": {
+          "value": "[]",
+          "unit": "NA",
+          "conditions": "NA"
+        },
+        "onset_potential": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "mass_loading": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "overpotential": {
+          "value": 600.0,
+          "unit": "mV",
+          "conditions": "NA",
+          "reaction_type": "OER"
+        },
+        "tafel_slope": {
+          "value": 129.0,
+          "unit": "mV dec\u22121",
+          "conditions": "NA",
+          "reaction_type": "OER"
+        }
+      },
+      "benchmark": false
+    }
+  ],
+  "doi": "example_doi",
+  "factor": "Hydrogen coverage,Energy barrier,Conductivity,Surface area,Size,Defect,Dopant,Active sites,Stability,Electrode potential,Overpotential,Tafel slope,Onset potential,Current density,Mass loading,XRD,XPS,FTIR",
+  "meta": {
+    "maintext": "/Users/yangz/Documents/projects/llm4catalyst/documents/maintext/c60_maintext.txt",
+    "abstract": "/Users/yangz/Documents/projects/llm4catalyst/documents/abstract/c60_abs.txt",
+    "intro": "/Users/yangz/Documents/projects/llm4catalyst/documents/intro/c60_intro.txt",
+    "window_size": 2,
+    "chunk_size": 1000,
+    "chunk_overlap": 100,
+    "output": "results",
+    "property": "/Users/yangz/Documents/projects/llm4catalyst/prompts/properties.txt",
+    "self_defined": true,
+    "title": "c60"
+  }
+}

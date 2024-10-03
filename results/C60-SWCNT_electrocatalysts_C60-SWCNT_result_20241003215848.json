@@ -1,0 +1,1074 @@
+{
+  "materials": [
+    {
+      "material_name": "C60-SWCNT",
+      "properties": {
+        "chemical_composition": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "doping": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "electronegativity": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "xps": {
+          "value": null,
+          "unit": "eV",
+          "conditions": "C60 adsorption time: 0, 5, 10, 15 min",
+          "reaction_type": "NA"
+        },
+        "raman": {
+          "value": null,
+          "unit": "cm\u207b\u00b9",
+          "conditions": "C60 adsorption time: 5, 10, 15 min",
+          "reaction_type": "NA"
+        },
+        "ftir": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "xrd": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        }
+      },
+      "benchmark": false
+    },
+    {
+      "material_name": "C60-SWCNT",
+      "properties": {
+        "chemical_composition": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "adsorption time: 5, 10, 15 min",
+          "reaction_type": "adsorption"
+        },
+        "doping": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "electronegativity": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "xps": {
+          "value": null,
+          "unit": "eV",
+          "conditions": "adsorption time: 0, 5, 10, 15 min",
+          "reaction_type": "charge-transfer"
+        },
+        "raman": {
+          "value": null,
+          "unit": "cm\u207b\u00b9",
+          "conditions": "adsorption time: 5, 10, 15 min",
+          "reaction_type": "charge-transfer"
+        },
+        "ftir": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "physical adsorption"
+        },
+        "xrd": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "crystallization"
+        }
+      },
+      "benchmark": false
+    },
+    {
+      "material_name": "Pt/C",
+      "properties": {
+        "chemical_composition": {
+          "value": null,
+          "unit": "wt%",
+          "conditions": "20 wt%",
+          "reaction_type": "NA"
+        },
+        "doping": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "electronegativity": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "xps": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "raman": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "ftir": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "xrd": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        }
+      },
+      "benchmark": false
+    },
+    {
+      "material_name": "C60-SWCNT",
+      "properties": {
+        "chemical_composition": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "doping": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "electronegativity": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "xps": {
+          "value": null,
+          "unit": "eV",
+          "conditions": "adsorption time n (n = 0, 5, 10, 15 min)",
+          "reaction_type": "charge-transfer"
+        },
+        "raman": {
+          "value": null,
+          "unit": "cm\u207b\u00b9",
+          "conditions": "adsorption time n (n = 5, 10, 15 min)",
+          "reaction_type": "charge-transfer"
+        },
+        "ftir": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "xrd": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        }
+      },
+      "benchmark": false
+    },
+    {
+      "material_name": "Pt/C",
+      "properties": {
+        "chemical_composition": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "doping": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "electronegativity": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "xps": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "raman": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "ftir": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "xrd": {
+          "value": null,
+          "unit": "%",
+          "conditions": "50 h chronoamperometric test at 0.7 V with O2 in 0.1 M KOH",
+          "reaction_type": "NA"
+        }
+      },
+      "benchmark": false
+    },
+    {
+      "material_name": "RuO2",
+      "properties": {
+        "chemical_composition": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "doping": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "electronegativity": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "xps": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "raman": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "ftir": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "xrd": {
+          "value": null,
+          "unit": "%",
+          "conditions": "10 h at 1.65 V in 0.1 M KOH",
+          "reaction_type": "NA"
+        }
+      },
+      "benchmark": false
+    },
+    {
+      "material_name": "C60-SWCNT",
+      "properties": {
+        "chemical_composition": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "doping": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "electronegativity": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "xps": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "raman": {
+          "value": null,
+          "unit": "cm\u207b\u00b9",
+          "conditions": "Raman spectrum of C60 shows only one peak at \u223c1643 cm\u22121",
+          "reaction_type": "NA"
+        },
+        "ftir": {
+          "value": null,
+          "unit": "cm\u207b\u00b9",
+          "conditions": "Raman spectrum of C60 shows only one peak at \u223c1643 cm\u22121",
+          "reaction_type": "NA"
+        },
+        "xrd": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        }
+      },
+      "benchmark": false
+    },
+    {
+      "material_name": "C60-SWCNT 15",
+      "properties": {
+        "chemical_composition": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "doping": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "electronegativity": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "xps": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "raman": {
+          "value": null,
+          "unit": "cm\u207b\u00b9",
+          "conditions": "Raman spectrum of C60 shows only one peak at \u223c1643 cm\u22121",
+          "reaction_type": "NA"
+        },
+        "ftir": {
+          "value": null,
+          "unit": "cm\u207b\u00b9",
+          "conditions": "Raman spectrum of C60 shows only one peak at \u223c1643 cm\u22121",
+          "reaction_type": "NA"
+        },
+        "xrd": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        }
+      },
+      "benchmark": false
+    },
+    {
+      "material_name": "C60-SWCNT 15",
+      "properties": {
+        "chemical_composition": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "doping": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "electronegativity": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "xps": {
+          "value": null,
+          "unit": "V",
+          "conditions": "0.1 M KOH electrolyte",
+          "reaction_type": "NA"
+        },
+        "raman": {
+          "value": null,
+          "unit": "%",
+          "conditions": "10 h at 1.65 V in 0.1 M KOH electrolyte",
+          "reaction_type": "NA"
+        },
+        "ftir": {
+          "value": null,
+          "unit": "mV dec\u22121",
+          "conditions": "0.1 M KOH electrolyte",
+          "reaction_type": "NA"
+        },
+        "xrd": {
+          "value": null,
+          "unit": "V",
+          "conditions": "0.1 M KOH electrolyte",
+          "reaction_type": "NA"
+        }
+      },
+      "benchmark": true
+    },
+    {
+      "material_name": "RuO2",
+      "properties": {
+        "chemical_composition": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "doping": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "electronegativity": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "xps": {
+          "value": null,
+          "unit": "%",
+          "conditions": "0.1 M KOH electrolyte",
+          "reaction_type": "NA"
+        },
+        "raman": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "ftir": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "xrd": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        }
+      },
+      "benchmark": true
+    },
+    {
+      "material_name": "C60-SWCNT 15",
+      "properties": {
+        "chemical_composition": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "doping": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "electronegativity": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "xps": {
+          "value": null,
+          "unit": "mV",
+          "conditions": "N2-saturated 0.1 M KOH electrolyte",
+          "reaction_type": "NA"
+        },
+        "raman": {
+          "value": null,
+          "unit": "V",
+          "conditions": "N2-saturated 0.1 M KOH electrolyte",
+          "reaction_type": "NA"
+        },
+        "ftir": {
+          "value": null,
+          "unit": "mV dec\u22121",
+          "conditions": "N2-saturated 0.1 M KOH electrolyte",
+          "reaction_type": "NA"
+        },
+        "xrd": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        }
+      },
+      "benchmark": false
+    },
+    {
+      "material_name": "Pt/C",
+      "properties": {
+        "chemical_composition": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "doping": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "electronegativity": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "xps": {
+          "value": null,
+          "unit": "V",
+          "conditions": "N2-saturated 0.1 M KOH electrolyte",
+          "reaction_type": "NA"
+        },
+        "raman": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "ftir": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "xrd": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        }
+      },
+      "benchmark": true
+    },
+    {
+      "material_name": "C60-SWCNT 15",
+      "properties": {
+        "chemical_composition": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "doping": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "electronegativity": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "xps": {
+          "value": null,
+          "unit": "V",
+          "conditions": "phosphate buffer solution (pH = 7)",
+          "reaction_type": "NA"
+        },
+        "raman": {
+          "value": null,
+          "unit": "%",
+          "conditions": "20 h under 0.6 V in phosphate buffer solution",
+          "reaction_type": "NA"
+        },
+        "ftir": {
+          "value": null,
+          "unit": "mA/cm2",
+          "conditions": "phosphate buffer solution (pH = 7)",
+          "reaction_type": "NA"
+        },
+        "xrd": {
+          "value": null,
+          "unit": "mV",
+          "conditions": "phosphate buffer solution (pH = 7)",
+          "reaction_type": "NA"
+        }
+      },
+      "benchmark": false
+    },
+    {
+      "material_name": "Pt/C",
+      "properties": {
+        "chemical_composition": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "doping": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "electronegativity": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "xps": {
+          "value": null,
+          "unit": "%",
+          "conditions": "phosphate buffer solution (pH = 7)",
+          "reaction_type": "NA"
+        },
+        "raman": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "ftir": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "xrd": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        }
+      },
+      "benchmark": true
+    },
+    {
+      "material_name": "C60-SWCNT 15",
+      "properties": {
+        "chemical_composition": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "doping": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "electronegativity": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "xps": {
+          "value": null,
+          "unit": "mV",
+          "conditions": "0.5 M H2SO4",
+          "reaction_type": "NA"
+        },
+        "raman": {
+          "value": null,
+          "unit": "%",
+          "conditions": "1.5 h in 0.5 M H2SO4",
+          "reaction_type": "NA"
+        },
+        "ftir": {
+          "value": null,
+          "unit": "mV dec\u22121",
+          "conditions": "0.5 M H2SO4",
+          "reaction_type": "NA"
+        },
+        "xrd": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        }
+      },
+      "benchmark": false
+    },
+    {
+      "material_name": "RuO2",
+      "properties": {
+        "chemical_composition": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "doping": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "electronegativity": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "xps": {
+          "value": null,
+          "unit": "%",
+          "conditions": "0.5 M H2SO4",
+          "reaction_type": "NA"
+        },
+        "raman": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "ftir": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "xrd": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        }
+      },
+      "benchmark": true
+    },
+    {
+      "material_name": "C60-SWCNT",
+      "properties": {
+        "chemical_composition": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "doping": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "electronegativity": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "xps": {
+          "value": null,
+          "unit": "V",
+          "conditions": "in O2-saturated phosphate buffer solution, pH = 7",
+          "reaction_type": "ORR"
+        },
+        "raman": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "ftir": {
+          "value": null,
+          "unit": "V",
+          "conditions": "in phosphate buffer solution, pH = 7",
+          "reaction_type": "ORR"
+        },
+        "xrd": {
+          "value": null,
+          "unit": "mV",
+          "conditions": "in phosphate buffer solution, pH = 7",
+          "reaction_type": "OER"
+        }
+      },
+      "benchmark": false
+    },
+    {
+      "material_name": "Pt/C",
+      "properties": {
+        "chemical_composition": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "doping": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "electronegativity": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "xps": {
+          "value": null,
+          "unit": "%",
+          "conditions": "in phosphate buffer solution, pH = 7",
+          "reaction_type": "ORR"
+        },
+        "raman": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "ftir": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "xrd": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        }
+      },
+      "benchmark": false
+    },
+    {
+      "material_name": "RuO2",
+      "properties": {
+        "chemical_composition": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "doping": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "electronegativity": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "xps": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "raman": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "ftir": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "xrd": {
+          "value": null,
+          "unit": "mV",
+          "conditions": "in phosphate buffer solution, pH = 7",
+          "reaction_type": "OER"
+        }
+      },
+      "benchmark": false
+    },
+    {
+      "material_name": "C60-SWCNT",
+      "properties": {
+        "chemical_composition": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "doping": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "electronegativity": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "xps": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "raman": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "ftir": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "xrd": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        }
+      },
+      "benchmark": false
+    },
+    {
+      "material_name": "RuO2",
+      "properties": {
+        "chemical_composition": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "doping": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "electronegativity": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "xps": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "raman": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "ftir": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "xrd": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        }
+      },
+      "benchmark": false
+    },
+    {
+      "material_name": "Pt/C",
+      "properties": {
+        "chemical_composition": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "doping": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "electronegativity": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "xps": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "raman": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "ftir": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "xrd": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        }
+      },
+      "benchmark": false
+    }
+  ],
+  "doi": "example_doi",
+  "factor": "Hydrogen coverage,Energy barrier,Conductivity,Surface area,Size,Defect,Dopant,Active sites,Stability,Electrode potential,Overpotential,Tafel slope,Onset potential,Current density,Mass loading,XRD,XPS,FTIR",
+  "meta": {
+    "maintext": "/Users/yangz/Documents/projects/llm4catalyst/documents/maintext/c60_maintext.txt",
+    "abstract": "/Users/yangz/Documents/projects/llm4catalyst/documents/abstract/c60_abs.txt",
+    "intro": "/Users/yangz/Documents/projects/llm4catalyst/documents/intro/c60_intro.txt",
+    "window_size": 2,
+    "chunk_size": 1000,
+    "chunk_overlap": 100,
+    "output": "results",
+    "property": "/Users/yangz/Documents/projects/llm4catalyst/prompts/properties.txt",
+    "self_defined": true,
+    "title": "c60"
+  }
+}

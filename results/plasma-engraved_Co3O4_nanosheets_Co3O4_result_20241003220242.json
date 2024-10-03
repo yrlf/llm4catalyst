@@ -1,0 +1,498 @@
+{
+  "materials": [
+    {
+      "material_name": "plasma-engraved Co3O4 nanosheets",
+      "properties": {
+        "chemical_composition": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "presence of oxygen vacancies on its surface",
+          "reaction_type": "NA"
+        },
+        "doping": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "electronegativity": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "xps": {
+          "value": null,
+          "unit": "eV",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "raman": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "ftir": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "xrd": {
+          "value": null,
+          "unit": "degrees",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        }
+      },
+      "benchmark": false
+    },
+    {
+      "material_name": "plasma-engraved Co3O4 nanosheets",
+      "properties": {
+        "chemical_composition": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "doping": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "electronegativity": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "xps": {
+          "value": null,
+          "unit": "eV",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "raman": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "ftir": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "xrd": {
+          "value": null,
+          "unit": "degrees",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        }
+      },
+      "benchmark": false
+    },
+    {
+      "material_name": "pristine Co3O4 nanosheets",
+      "properties": {
+        "chemical_composition": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "doping": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "electronegativity": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "xps": {
+          "value": null,
+          "unit": "eV",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "raman": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "ftir": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "xrd": {
+          "value": null,
+          "unit": "degrees",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        }
+      },
+      "benchmark": false
+    },
+    {
+      "material_name": "plasma-engraved Co3O4 nanosheets",
+      "properties": {
+        "chemical_composition": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "doping": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "electronegativity": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "xps": {
+          "value": null,
+          "unit": "eV",
+          "conditions": "Co 2p3/2 at 780 eV, Co 2p1/2 at 796 eV, satellite peaks at 786 eV and 803 eV",
+          "reaction_type": "OER"
+        },
+        "raman": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "ftir": {
+          "value": null,
+          "unit": "eV",
+          "conditions": "O1 at 529.8 eV, O4 at 532 eV",
+          "reaction_type": "OER"
+        },
+        "xrd": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        }
+      },
+      "benchmark": false
+    },
+    {
+      "material_name": "Co3O4 nanosheets",
+      "properties": {
+        "chemical_composition": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "doping": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "electronegativity": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "xps": {
+          "value": null,
+          "unit": "eV",
+          "conditions": "pristine and plasma-engraved",
+          "reaction_type": "XPS characterization"
+        },
+        "raman": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "ftir": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "xrd": {
+          "value": null,
+          "unit": "degrees",
+          "conditions": "XRD characterization, pristine and plasma-engraved",
+          "reaction_type": "NA"
+        }
+      },
+      "benchmark": false
+    },
+    {
+      "material_name": "Co3O4",
+      "properties": {
+        "chemical_composition": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "doping": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "electronegativity": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "xps": {
+          "value": null,
+          "unit": "eV",
+          "conditions": "pristine and plasma-engraved",
+          "reaction_type": "XPS characterization"
+        },
+        "raman": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "ftir": {
+          "value": null,
+          "unit": "eV",
+          "conditions": "pristine and plasma-engraved",
+          "reaction_type": "XPS characterization"
+        },
+        "xrd": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        }
+      },
+      "benchmark": false
+    },
+    {
+      "material_name": "Co3O4 nanosheets",
+      "properties": {
+        "chemical_composition": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "doping": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "electronegativity": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "xps": {
+          "value": null,
+          "unit": "eV",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "raman": {
+          "value": null,
+          "unit": "cm\u207b\u00b9",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "ftir": {
+          "value": null,
+          "unit": "cm\u207b\u00b9",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "xrd": {
+          "value": null,
+          "unit": "degrees",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        }
+      },
+      "benchmark": false
+    },
+    {
+      "material_name": "Ar-plasma engraved Co3O4 nanosheets",
+      "properties": {
+        "chemical_composition": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "doping": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "electronegativity": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "xps": {
+          "value": null,
+          "unit": "eV",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "raman": {
+          "value": null,
+          "unit": "cm\u207b\u00b9",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "ftir": {
+          "value": null,
+          "unit": "cm\u207b\u00b9",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "xrd": {
+          "value": null,
+          "unit": "degrees",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        }
+      },
+      "benchmark": false
+    },
+    {
+      "material_name": "NiO nanosheets",
+      "properties": {
+        "chemical_composition": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "doping": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "electronegativity": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "xps": {
+          "value": null,
+          "unit": "eV",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "raman": {
+          "value": null,
+          "unit": "cm\u207b\u00b9",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "ftir": {
+          "value": null,
+          "unit": "cm\u207b\u00b9",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "xrd": {
+          "value": null,
+          "unit": "degrees",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        }
+      },
+      "benchmark": false
+    },
+    {
+      "material_name": "Ar-plasma engraved NiO nanosheets",
+      "properties": {
+        "chemical_composition": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "doping": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "electronegativity": {
+          "value": null,
+          "unit": "NA",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "xps": {
+          "value": null,
+          "unit": "eV",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "raman": {
+          "value": null,
+          "unit": "cm\u207b\u00b9",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "ftir": {
+          "value": null,
+          "unit": "cm\u207b\u00b9",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        },
+        "xrd": {
+          "value": null,
+          "unit": "degrees",
+          "conditions": "NA",
+          "reaction_type": "NA"
+        }
+      },
+      "benchmark": false
+    }
+  ],
+  "doi": "example_doi",
+  "factor": "Hydrogen coverage,Energy barrier,Conductivity,Surface area,Size,Defect,Dopant,Active sites,Stability,Electrode potential,Overpotential,Tafel slope,Onset potential,Current density,Mass loading,XRD,XPS,FTIR",
+  "meta": {
+    "maintext": "/Users/yangz/Documents/projects/llm4catalyst/documents/maintext/co3o4_maintext.txt",
+    "abstract": "/Users/yangz/Documents/projects/llm4catalyst/documents/abstract/co3o4_abs.txt",
+    "intro": "/Users/yangz/Documents/projects/llm4catalyst/documents/intro/co3o4_intro.txt",
+    "window_size": 2,
+    "chunk_size": 1000,
+    "chunk_overlap": 100,
+    "output": "results",
+    "property": "/Users/yangz/Documents/projects/llm4catalyst/prompts/properties.txt",
+    "self_defined": true,
+    "title": "co3o4"
+  }
+}
