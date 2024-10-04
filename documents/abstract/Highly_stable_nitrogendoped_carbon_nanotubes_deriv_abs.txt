@@ -1,8 +1,0 @@
-•
-Nitrogen-doped carbon nanotubes (N-CNTs) were synthesized by a direct pyrolysis of ZIF-67 and N-Cdots mixture simultaneously in a lower temperature for the first time.
-•
-N-Cdots not only serve as the inducer of the graphitic structure and the extra nitrogen supplier, but also favor the N-CNTs formation through catalytic decomposition of ZIF-67.
-•
-The defects of graphitic crystal structure and synergic effect of N-Cdots greatly outperforms the ORR electrocatalytic performance.
-•
-An efficient 4e-dominated ORR process and an outstanding cyclic stability were paramount for N-CNTs exhibiting an excellent electrocatalytic performance than N-Cdots and Co–N–C nanohybrids.

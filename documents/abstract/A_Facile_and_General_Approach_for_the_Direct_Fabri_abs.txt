@@ -1,2 +1,0 @@
-Graphical Abstract
-A simple and effective strategy involving nebulized ethanol assisted infiltration for the general synthesis of 3D structure-based vertically aligned carbon nanotube arrays (VACNTs) uniformly and deeply decorated with various transition-metal oxide (MOs) has been developed. Furthermore, it is demonstrated that the 3D structure-based VACNTs with decorated MnO2 can exhibit superior electrocatalytic oxygen reduction reaction activity, long-term stability, and an excellent resistance to crossover effects compared to the commercial Pt/C catalyst.

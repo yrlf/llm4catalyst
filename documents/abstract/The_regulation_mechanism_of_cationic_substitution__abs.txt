@@ -1,8 +1,0 @@
-•
-Series of cation-doped Co3O4 nanoarrays with same morphology are synthesized.
-•
-Experiments and DFT simulations reveal the valence regulation of Co cation.
-•
-CCO catalyst exhibits the lowest OER overpotential as lower valence state of Cu.
-•
-Controllable morphology benefits to theoretically study of the real catalysts.

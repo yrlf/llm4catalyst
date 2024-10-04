@@ -1,8 +1,0 @@
-•
-A 1D Ni@NCNTs with confined the Ni NPs inside NCNTs was successfully fabricated.
-•
-The hybrid exhibited superior electrochemical CO2ER activity and selectivity.
-•
-The confinement effect of Ni@NCNTs contributed to enhanced electrochemical performance.
-•
-DFT calculations revealed the weak binding strengths between Ni NPs and *CO intermediates enhancing the kinetics in CO2ER.

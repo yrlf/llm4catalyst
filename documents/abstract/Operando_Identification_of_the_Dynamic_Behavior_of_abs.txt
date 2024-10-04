@@ -1,0 +1,11 @@
+Abstract
+The exact role of a defect structure on transition metal compounds for electrocatalytic oxygen evolution reaction (OER), which is a very dynamic process, remains unclear. Studying the structure–activity relationship of defective electrocatalysts under operando conditions is crucial for understanding their intrinsic reaction mechanism and dynamic behavior of defect sites. Co3O4 with rich oxygen vacancy (VO) has been reported to efficiently catalyze OER. Herein, we constructed pure spinel Co3O4 and VO-rich Co3O4 as catalyst models to study the defect mechanism and investigate the dynamic behavior of defect sites during the electrocatalytic OER process by various operando characterizations. Operando electrochemical impedance spectroscopy (EIS) and cyclic voltammetry (CV) implied that the VO could facilitate the pre-oxidation of the low-valence Co (Co2+, part of which was induced by the VO to balance the charge) at a relatively lower applied potential. This observation confirmed that the VO could initialize the surface reconstruction of VO–Co3O4 prior to the occurrence of the OER process. The quasi-operando X-ray photoelectron spectroscopy (XPS) and operando X-ray absorption fine structure (XAFS) results further demonstrated the oxygen vacancies were filled with OH• first for VO–Co3O4 and facilitated pre-oxidation of low-valence Co and promoted reconstruction/deprotonation of intermediate Co–OOH•. This work provides insight into the defect mechanism in Co3O4 for OER in a dynamic way by observing the surface dynamic evolution process of defective electrocatalysts and identifying the real active sites during the electrocatalysis process. The current finding would motivate the community to focus more on the dynamic behavior of defect electrocatalysts.
+This publication is licensed under the terms of your institutional subscription. Request reuse permissions.
+Copyright © 2020 American Chemical Society
+Subjects
+what are subjects
+Defects
+Defects In Solids
+Oxygen
+Radiology
+X-Ray Photoelectron Spectroscopy

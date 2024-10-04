@@ -1,6 +1,0 @@
-•
-The mSi50/g-C3N4 is obtained by dispersing of modified Si on g-C3N4 carbon mesh that acquired through melamine treatment.
-•
-The mSi50/g-C3N4/Gr composite prevents the accumulation of Si grains which is beneficial for expediting ion transport.
-•
-The mSi50/g-C3N4/Gr provides a capacity of 621 mAh⋅g−1 at 0.2 C, with a retention rate of 93.3 % after 300 cycles.

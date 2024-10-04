@@ -1,8 +1,0 @@
-•
-Highly active N-doped graphene/carbon nanotube composite catalysts are synthesised.
-•
-Electrocatalytic ORR activity for different nitrogen-doped composites is compared.
-•
-The reasons for the difference in the ORR activity are discussed.
-•
-The stability of the N-doped nanocarbons during 1000 potential cycles is assessed.
