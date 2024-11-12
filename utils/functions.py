@@ -181,14 +181,14 @@ def merge_factors(factors: Set[str], llm) -> Dict[str, str]:
 
 class Measurement(BaseModel):
     #value: Optional[str] = Field(default=None, description="The value of the property.")
-    value: Optional[float] = Field(default=None, description="The value of the property as a dictionary.")
+    value: Optional[str] = Field(default=None, description="The value of the property as a dictionary.")
     unit: Optional[str] = Field(default="NA", description="The unit for the property value such as nm, eV, cm-1, mV, mA, mg/cm2, %, ppm, etc.")
     conditions: Optional[str] = Field(default="NA", description="Measurement conditions such as temperature, pressure, pH values etc.")
     reaction_type: Optional[str] = Field(default="NA", description="Type of reaction, must be one of the following: HER, OER, ORR, NA")
     evidence: Optional[int] = Field(default=None, exclude=True)
 
 class Spectroscopy(BaseModel):
-    value : list[float] = Field(default="[]", description="The value of the occurrence of the spectroscopy peak, must be a list of numbers. Example: [243.1, 244.1, 245.1]")
+    value : list[str] = Field(default="[]", description="The value of the occurrence of the spectroscopy peak, must be a list of numbers. Example: [243.1, 244.1, 245.1]")
     unit: Optional[str] = Field(default="NA", description="The unit for the property value such eV, cm-1, etc.")
     conditions: Optional[str] = Field(default="NA", description="Measurement conditions such as temperature, pressure, pH values etc.")
     evidence: Optional[int] = Field(default=None, exclude=True)
@@ -207,6 +207,7 @@ class MaterialProperties(BaseModel):
     mass_loading: Measurement = Field(default_factory=Measurement, description="Mass loading in mg/cm2.")
     overpotential: Measurement = Field(default_factory=Measurement, description="Overpotential in mV.")
     tafel_slope: Measurement = Field(default_factory=Measurement, description="Tafel slope in mV.")
+
 
 class Material(BaseModel):
     material_name: Optional[str] = Field(default=None, description="Name of the material.")
@@ -229,8 +230,8 @@ class Paper(Data):
     meta: Optional[dict] = Field(default=None, description="")
 def extract_properties(main_text, factors, main_topic, window_size, chunk_size, chunk_overlap):
     # 初始化 OpenAI 模型
-    #llm = ChatOpenAI(temperature=0, model="gpt-4-turbo")
-    llm = ChatOpenAI(temperature=0, model="gpt-4o")
+    llm = ChatOpenAI(temperature=0, model="gpt-4-turbo")
+    #llm = ChatOpenAI(temperature=0, model="gpt-4o")
     
     # 文本切割器
     text_splitter = TokenTextSplitter(chunk_size=chunk_size, chunk_overlap=chunk_overlap)
@@ -241,15 +242,16 @@ def extract_properties(main_text, factors, main_topic, window_size, chunk_size, 
     print(f"Length of indexed content: {len(indexed_content)}")
 
     # # 读取 JSON 中的提取示例
-    # with open('prompts/extraction_example.json', 'r') as file:
-    #     example_text = file.read()
+    with open('prompts/extraction_example.json', 'r') as file:
+        example_text = file.read()
 
     # LLM 提取的提示
     extract_prompt = ChatPromptTemplate.from_messages([
         ("system", "You are a helpful AI assistant for a material scientist specialized in electrocatalysts. Carefully read each sentence provided from the experimental section. Your task is to extract properties in the specified format. Only extract numeric values and their units; do not extract descriptive texts."),
         ("system", "1. Identify if the sentence describes a property of either the main topic {main_topic}"),
-        ("system", "2. Extract the material name and the property with numeric values and their units, including the specified conditions. If it is not a property of the main topic, please ignore it. If the property is not reported, please report it as NA."),
-        ("system", "3. Do not include an 'evidence' field in your output."),
+        ("system", "2. Extract the material name and the property with numeric values and their units, including the specified conditions. If it is not a property of the main topic, please ignore it. If the property is not reported, please report it as NA. An example is as follows: {example_text}"),
+        ("system", "3. For Raman, FTIR, XPS, and XRD, the value is a list of numbers representing the peak positions. For example, if two peaks are detected at 243.1 cm-1 and 244.1 cm-1, the value should be [243.1, 244.1]. If only one peak is detected, the value should be [243.1]. You should include all the peaks of that material detected in the text."),
+        ("system", "4. Do not include an 'evidence' field in your output."),
         ("human", "The paper is as follows: {text}. Please extract the material name and its properties.")
     ])
 
@@ -291,7 +293,7 @@ def extract_properties(main_text, factors, main_topic, window_size, chunk_size, 
         extract_response = extract_runnable.invoke({
             "text": text_for_extraction,
             "main_topic": main_topic,
-           # "example_text": example_text
+            "example_text": example_text
         })
 
         # 收集提取的材料信息
